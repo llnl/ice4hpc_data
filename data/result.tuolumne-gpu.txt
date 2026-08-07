@@ -1,0 +1,302 @@
+kripke, tuolumne, 1, --niter 10 --pmethod bj --groups 16 --legendre 0 --arch HIP, 1.383242
+kripke, tuolumne, 1, --niter 10 --pmethod bj --groups 16 --legendre 1 --arch HIP, 1.264572
+kripke, tuolumne, 1, --niter 10 --pmethod bj --groups 16 --legendre 2 --arch HIP, 1.217177
+kripke, tuolumne, 1, --niter 10 --pmethod bj --groups 16 --legendre 3 --arch HIP, 1.433017
+kripke, tuolumne, 1, --niter 10 --pmethod bj --groups 16 --legendre 4 --arch HIP, 1.276662
+kripke, tuolumne, 1, --niter 10 --pmethod bj --groups 32 --legendre 0 --arch HIP, 1.360192
+kripke, tuolumne, 1, --niter 10 --pmethod bj --groups 32 --legendre 1 --arch HIP, 1.466989
+kripke, tuolumne, 1, --niter 10 --pmethod bj --groups 32 --legendre 2 --arch HIP, 1.222567
+kripke, tuolumne, 1, --niter 10 --pmethod bj --groups 32 --legendre 3 --arch HIP, 1.220034
+kripke, tuolumne, 1, --niter 10 --pmethod bj --groups 32 --legendre 4 --arch HIP, 1.304406
+kripke, tuolumne, 1, --niter 10 --pmethod bj --groups 8 --legendre 0 --arch HIP, 1.161037
+kripke, tuolumne, 1, --niter 10 --pmethod bj --groups 8 --legendre 1 --arch HIP, 1.172922
+kripke, tuolumne, 1, --niter 10 --pmethod bj --groups 8 --legendre 2 --arch HIP, 0.951814
+kripke, tuolumne, 1, --niter 10 --pmethod bj --groups 8 --legendre 3 --arch HIP, 1.399877
+kripke, tuolumne, 1, --niter 10 --pmethod bj --groups 8 --legendre 4 --arch HIP, 2.115157
+kripke, tuolumne, 1, --niter 10 --pmethod sweep --groups 16 --legendre 0 --arch HIP, 1.032101
+kripke, tuolumne, 1, --niter 10 --pmethod sweep --groups 16 --legendre 1 --arch HIP, 1.311551
+kripke, tuolumne, 1, --niter 10 --pmethod sweep --groups 16 --legendre 2 --arch HIP, 1.239068
+kripke, tuolumne, 1, --niter 10 --pmethod sweep --groups 16 --legendre 3 --arch HIP, 1.390692
+kripke, tuolumne, 1, --niter 10 --pmethod sweep --groups 16 --legendre 4 --arch HIP, 1.260461
+kripke, tuolumne, 1, --niter 10 --pmethod sweep --groups 32 --legendre 0 --arch HIP, 1.329337
+kripke, tuolumne, 1, --niter 10 --pmethod sweep --groups 32 --legendre 1 --arch HIP, 1.413297
+kripke, tuolumne, 1, --niter 10 --pmethod sweep --groups 32 --legendre 2 --arch HIP, 1.228191
+kripke, tuolumne, 1, --niter 10 --pmethod sweep --groups 32 --legendre 3 --arch HIP, 1.499319
+kripke, tuolumne, 1, --niter 10 --pmethod sweep --groups 32 --legendre 4 --arch HIP, 1.313576
+kripke, tuolumne, 1, --niter 10 --pmethod sweep --groups 8 --legendre 0 --arch HIP, 1.066333
+kripke, tuolumne, 1, --niter 10 --pmethod sweep --groups 8 --legendre 1 --arch HIP, 1.196761
+kripke, tuolumne, 1, --niter 10 --pmethod sweep --groups 8 --legendre 2 --arch HIP, 1.330569
+kripke, tuolumne, 1, --niter 10 --pmethod sweep --groups 8 --legendre 3 --arch HIP, 1.424912
+kripke, tuolumne, 1, --niter 10 --pmethod sweep --groups 8 --legendre 4 --arch HIP, 1.051306
+kripke, tuolumne, 1, --niter 15 --pmethod bj --groups 16 --legendre 0 --arch HIP, 1.137230
+kripke, tuolumne, 1, --niter 15 --pmethod bj --groups 16 --legendre 1 --arch HIP, 1.748575
+kripke, tuolumne, 1, --niter 15 --pmethod bj --groups 16 --legendre 2 --arch HIP, 1.220880
+kripke, tuolumne, 1, --niter 15 --pmethod bj --groups 16 --legendre 3 --arch HIP, 1.151778
+kripke, tuolumne, 1, --niter 15 --pmethod bj --groups 16 --legendre 4 --arch HIP, 1.299573
+kripke, tuolumne, 1, --niter 15 --pmethod bj --groups 32 --legendre 0 --arch HIP, 1.271978
+kripke, tuolumne, 1, --niter 15 --pmethod bj --groups 32 --legendre 1 --arch HIP, 1.305622
+kripke, tuolumne, 1, --niter 15 --pmethod bj --groups 32 --legendre 2 --arch HIP, 1.342717
+kripke, tuolumne, 1, --niter 15 --pmethod bj --groups 32 --legendre 3 --arch HIP, 1.579697
+kripke, tuolumne, 1, --niter 15 --pmethod bj --groups 32 --legendre 4 --arch HIP, 2.220854
+kripke, tuolumne, 1, --niter 15 --pmethod bj --groups 8 --legendre 0 --arch HIP, 1.046708
+kripke, tuolumne, 1, --niter 15 --pmethod bj --groups 8 --legendre 1 --arch HIP, 1.366279
+kripke, tuolumne, 1, --niter 15 --pmethod bj --groups 8 --legendre 2 --arch HIP, 1.177361
+kripke, tuolumne, 1, --niter 15 --pmethod bj --groups 8 --legendre 3 --arch HIP, 1.033016
+kripke, tuolumne, 1, --niter 15 --pmethod bj --groups 8 --legendre 4 --arch HIP, 1.426366
+kripke, tuolumne, 1, --niter 15 --pmethod sweep --groups 16 --legendre 0 --arch HIP, 1.044937
+kripke, tuolumne, 1, --niter 15 --pmethod sweep --groups 16 --legendre 1 --arch HIP, 1.131332
+kripke, tuolumne, 1, --niter 15 --pmethod sweep --groups 16 --legendre 2 --arch HIP, 1.119748
+kripke, tuolumne, 1, --niter 15 --pmethod sweep --groups 16 --legendre 3 --arch HIP, 1.199763
+kripke, tuolumne, 1, --niter 15 --pmethod sweep --groups 16 --legendre 4 --arch HIP, 1.316213
+kripke, tuolumne, 1, --niter 15 --pmethod sweep --groups 32 --legendre 0 --arch HIP, 1.214841
+kripke, tuolumne, 1, --niter 15 --pmethod sweep --groups 32 --legendre 1 --arch HIP, 1.194208
+kripke, tuolumne, 1, --niter 15 --pmethod sweep --groups 32 --legendre 2 --arch HIP, 1.723263
+kripke, tuolumne, 1, --niter 15 --pmethod sweep --groups 32 --legendre 3 --arch HIP, 1.312308
+kripke, tuolumne, 1, --niter 15 --pmethod sweep --groups 32 --legendre 4 --arch HIP, 1.328253
+kripke, tuolumne, 1, --niter 15 --pmethod sweep --groups 8 --legendre 0 --arch HIP, 1.290245
+kripke, tuolumne, 1, --niter 15 --pmethod sweep --groups 8 --legendre 1 --arch HIP, 1.254984
+kripke, tuolumne, 1, --niter 15 --pmethod sweep --groups 8 --legendre 2 --arch HIP, 1.058259
+kripke, tuolumne, 1, --niter 15 --pmethod sweep --groups 8 --legendre 3 --arch HIP, 1.153012
+kripke, tuolumne, 1, --niter 15 --pmethod sweep --groups 8 --legendre 4 --arch HIP, 1.047103
+kripke, tuolumne, 1, --niter 40 --pmethod sweep --groups 16 --legendre 0 --arch HIP, 1.294371
+kripke, tuolumne, 1, --niter 40 --pmethod sweep --groups 16 --legendre 1 --arch HIP, 1.194761
+kripke, tuolumne, 1, --niter 40 --pmethod sweep --groups 16 --legendre 2 --arch HIP, 1.409601
+kripke, tuolumne, 1, --niter 40 --pmethod sweep --groups 16 --legendre 3 --arch HIP, 1.554822
+kripke, tuolumne, 1, --niter 40 --pmethod sweep --groups 16 --legendre 4 --arch HIP, 1.286586
+kripke, tuolumne, 1, --niter 40 --pmethod sweep --groups 32 --legendre 0 --arch HIP, 1.282963
+kripke, tuolumne, 1, --niter 40 --pmethod sweep --groups 32 --legendre 1 --arch HIP, 1.461507
+kripke, tuolumne, 1, --niter 40 --pmethod sweep --groups 32 --legendre 2 --arch HIP, 1.371995
+kripke, tuolumne, 1, --niter 40 --pmethod sweep --groups 32 --legendre 3 --arch HIP, 1.794708
+kripke, tuolumne, 1, --niter 40 --pmethod sweep --groups 32 --legendre 4 --arch HIP, 1.525619
+kripke, tuolumne, 1, --niter 40 --pmethod sweep --groups 8 --legendre 0 --arch HIP, 1.173981
+kripke, tuolumne, 1, --niter 40 --pmethod sweep --groups 8 --legendre 1 --arch HIP, 1.235144
+kripke, tuolumne, 1, --niter 40 --pmethod sweep --groups 8 --legendre 2 --arch HIP, 1.083699
+kripke, tuolumne, 1, --niter 40 --pmethod sweep --groups 8 --legendre 3 --arch HIP, 1.152915
+kripke, tuolumne, 1, --niter 40 --pmethod sweep --groups 8 --legendre 4 --arch HIP, 1.327618
+kripke, tuolumne, 1, --niter 5 --pmethod bj --groups 16 --legendre 0 --arch HIP, 1.111547
+kripke, tuolumne, 1, --niter 5 --pmethod bj --groups 16 --legendre 1 --arch HIP, 1.140703
+kripke, tuolumne, 1, --niter 5 --pmethod bj --groups 16 --legendre 2 --arch HIP, 1.150257
+kripke, tuolumne, 1, --niter 5 --pmethod bj --groups 16 --legendre 3 --arch HIP, 1.051366
+kripke, tuolumne, 1, --niter 5 --pmethod bj --groups 16 --legendre 4 --arch HIP, 1.067805
+kripke, tuolumne, 1, --niter 5 --pmethod bj --groups 32 --legendre 0 --arch HIP, 1.104585
+kripke, tuolumne, 1, --niter 5 --pmethod bj --groups 32 --legendre 1 --arch HIP, 1.246000
+kripke, tuolumne, 1, --niter 5 --pmethod bj --groups 32 --legendre 2 --arch HIP, 1.518836
+kripke, tuolumne, 1, --niter 5 --pmethod bj --groups 32 --legendre 3 --arch HIP, 1.097385
+kripke, tuolumne, 1, --niter 5 --pmethod bj --groups 32 --legendre 4 --arch HIP, 1.197754
+kripke, tuolumne, 1, --niter 5 --pmethod bj --groups 8 --legendre 0 --arch HIP, 1.625064
+kripke, tuolumne, 1, --niter 5 --pmethod bj --groups 8 --legendre 1 --arch HIP, 1.091689
+kripke, tuolumne, 1, --niter 5 --pmethod bj --groups 8 --legendre 2 --arch HIP, 1.194491
+kripke, tuolumne, 1, --niter 5 --pmethod bj --groups 8 --legendre 3 --arch HIP, 1.037061
+kripke, tuolumne, 1, --niter 5 --pmethod bj --groups 8 --legendre 4 --arch HIP, 1.136350
+kripke, tuolumne, 1, --niter 5 --pmethod sweep --groups 16 --legendre 0 --arch HIP, 0.982831
+kripke, tuolumne, 1, --niter 5 --pmethod sweep --groups 16 --legendre 1 --arch HIP, 1.098968
+kripke, tuolumne, 1, --niter 5 --pmethod sweep --groups 16 --legendre 2 --arch HIP, 1.429202
+kripke, tuolumne, 1, --niter 5 --pmethod sweep --groups 16 --legendre 3 --arch HIP, 1.008422
+kripke, tuolumne, 1, --niter 5 --pmethod sweep --groups 16 --legendre 4 --arch HIP, 1.086399
+kripke, tuolumne, 1, --niter 5 --pmethod sweep --groups 32 --legendre 0 --arch HIP, 1.102081
+kripke, tuolumne, 1, --niter 5 --pmethod sweep --groups 32 --legendre 1 --arch HIP, 1.106505
+kripke, tuolumne, 1, --niter 5 --pmethod sweep --groups 32 --legendre 2 --arch HIP, 1.466920
+kripke, tuolumne, 1, --niter 5 --pmethod sweep --groups 32 --legendre 3 --arch HIP, 1.054247
+kripke, tuolumne, 1, --niter 5 --pmethod sweep --groups 32 --legendre 4 --arch HIP, 1.437543
+kripke, tuolumne, 1, --niter 5 --pmethod sweep --groups 8 --legendre 0 --arch HIP, 1.112615
+kripke, tuolumne, 1, --niter 5 --pmethod sweep --groups 8 --legendre 1 --arch HIP, 0.976027
+kripke, tuolumne, 1, --niter 5 --pmethod sweep --groups 8 --legendre 2 --arch HIP, 1.045725
+kripke, tuolumne, 1, --niter 5 --pmethod sweep --groups 8 --legendre 3 --arch HIP, 1.162691
+kripke, tuolumne, 1, --niter 5 --pmethod sweep --groups 8 --legendre 4 --arch HIP, 1.080170
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 3 -d gpu, 127.673764
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 3 -pa -d gpu, 117.861659
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 3.1 -d gpu, 127.160397
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 3.1 -pa -d gpu, 130.516630
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 3.2 -d gpu, 124.932754
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 3.2 -pa -d gpu, 124.219748
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 3.3 -d gpu, 130.382605
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 3.3 -pa -d gpu, 128.960681
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 3.4 -d gpu, 136.579004
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 3.4 -pa -d gpu, 139.109422
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 3.5 -d gpu, 131.768693
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 3.5 -pa -d gpu, 144.019325
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 3.6 -d gpu, 142.340713
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 3.6 -pa -d gpu, 142.547776
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 3.7 -d gpu, 138.126106
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 3.7 -pa -d gpu, 149.304519
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 3.8 -d gpu, 146.705181
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 3.8 -pa -d gpu, 140.777624
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 3.9 -d gpu, 159.050268
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 3.9 -pa -d gpu, 149.027518
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 4 -d gpu, 154.186023
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 4 -pa -d gpu, 151.047823
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 4.1 -d gpu, 157.306368
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 4.1 -pa -d gpu, 158.636294
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 4.2 -d gpu, 157.438556
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 4.2 -pa -d gpu, 160.605104
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 4.3 -d gpu, 165.388649
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 4.3 -pa -d gpu, 172.829360
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 4.4 -d gpu, 166.727279
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 4.4 -pa -d gpu, 173.351245
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 4.5 -d gpu, 182.029614
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 4.5 -pa -d gpu, 177.081468
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 4.6 -d gpu, 176.006793
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 4.6 -pa -d gpu, 176.163409
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 4.7 -d gpu, 185.612533
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 4.7 -pa -d gpu, 182.763767
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 4.8 -d gpu, 190.575933
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 4.8 -pa -d gpu, 191.962106
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 4.9 -d gpu, 187.169382
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 4.9 -pa -d gpu, 193.575073
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 5 -d gpu, 193.800765
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 5 -pa -d gpu, 192.504761
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 5.5 -d gpu, 197.832468
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 2 -tf 5.5 -pa -d gpu, 204.296958
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 3 -d gpu, 250.886046
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 3 -pa -d gpu, 253.798031
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 3.1 -d gpu, 259.115489
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 3.1 -pa -d gpu, 253.799560
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 3.2 -d gpu, 262.513538
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 3.2 -pa -d gpu, 256.200042
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 3.3 -d gpu, 274.704165
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 3.3 -pa -d gpu, 264.170355
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 3.4 -d gpu, 257.724620
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 3.4 -pa -d gpu, 270.797132
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 3.5 -d gpu, 283.678341
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 3.5 -pa -d gpu, 285.322729
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 3.6 -d gpu, 282.858820
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 3.6 -pa -d gpu, 287.885201
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 3.7 -d gpu, 299.165251
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 3.7 -pa -d gpu, 283.214555
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 3.8 -d gpu, 293.872959
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 3.8 -pa -d gpu, 294.089689
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 3.9 -d gpu, 286.983841
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 3.9 -pa -d gpu, 297.552422
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 4 -d gpu, 310.287912
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 4 -pa -d gpu, 303.133335
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 4.1 -d gpu, 327.675363
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 4.1 -pa -d gpu, 313.514848
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 4.2 -d gpu, 341.974328
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 4.2 -pa -d gpu, 338.195926
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 4.3 -d gpu, 364.177548
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 4.3 -pa -d gpu, 361.657555
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 4.4 -d gpu, 372.760198
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 4.4 -pa -d gpu, 379.374113
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 4.5 -d gpu, 396.398587
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 4.5 -pa -d gpu, 403.021932
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 4.6 -d gpu, 404.268443
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 4.6 -pa -d gpu, 407.267130
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 4.7 -d gpu, 414.027801
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 4.7 -pa -d gpu, 420.609500
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 4.8 -d gpu, 423.048183
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 4.8 -pa -d gpu, 443.980254
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 4.9 -d gpu, 445.781438
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 4.9 -pa -d gpu, 456.006205
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 5 -d gpu, 475.042907
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 5 -pa -d gpu, 454.975408
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 5.5 -d gpu, 505.132814
+laghos, tuolumne, 1, -p 1 -dim 2 -rs 3 -tf 5.5 -pa -d gpu, 505.860563
+laghos, tuolumne, 1, -p 1 -dim 3 -rs 1 -tf 3 -d gpu, 119.000157
+laghos, tuolumne, 1, -p 1 -dim 3 -rs 1 -tf 3 -pa -d gpu, 107.529125
+laghos, tuolumne, 1, -p 1 -dim 3 -rs 1 -tf 3.5 -d gpu, 135.450046
+laghos, tuolumne, 1, -p 1 -dim 3 -rs 1 -tf 3.5 -pa -d gpu, 139.438756
+laghos, tuolumne, 1, -p 1 -dim 3 -rs 1 -tf 4 -d gpu, 175.841137
+laghos, tuolumne, 1, -p 1 -dim 3 -rs 1 -tf 4 -pa -d gpu, 168.190333
+laghos, tuolumne, 1, -p 1 -dim 3 -rs 1 -tf 4.5 -d gpu, 198.193526
+laghos, tuolumne, 1, -p 1 -dim 3 -rs 1 -tf 4.5 -pa -d gpu, 193.314963
+laghos, tuolumne, 1, -p 1 -dim 3 -rs 1 -tf 5 -d gpu, 213.672084
+laghos, tuolumne, 1, -p 1 -dim 3 -rs 1 -tf 5 -pa -d gpu, 226.126699
+laghos, tuolumne, 1, -p 1 -dim 3 -rs 1 -tf 5.5 -d gpu, 234.566577
+laghos, tuolumne, 1, -p 1 -dim 3 -rs 1 -tf 5.5 -pa -d gpu, 243.499846
+laghos, tuolumne, 1, -p 1 -dim 3 -rs 2 -tf 3 -d gpu, 297.016963
+laghos, tuolumne, 1, -p 1 -dim 3 -rs 2 -tf 3 -pa -d gpu, 311.195566
+laghos, tuolumne, 1, -p 1 -dim 3 -rs 2 -tf 3.5 -d gpu, 404.767321
+laghos, tuolumne, 1, -p 1 -dim 3 -rs 2 -tf 3.5 -pa -d gpu, 404.734800
+laghos, tuolumne, 1, -p 1 -dim 3 -rs 2 -tf 4 -d gpu, 506.785257
+laghos, tuolumne, 1, -p 1 -dim 3 -rs 2 -tf 4 -pa -d gpu, 497.839915
+laghos, tuolumne, 1, -p 1 -dim 3 -rs 2 -tf 4.5 -d gpu, 537.834320
+laghos, tuolumne, 1, -p 1 -dim 3 -rs 2 -tf 4.5 -pa -d gpu, 537.283665
+laghos, tuolumne, 1, -p 1 -dim 3 -rs 2 -tf 5 -d gpu, 614.366296
+laghos, tuolumne, 1, -p 1 -dim 3 -rs 2 -tf 5 -pa -d gpu, 599.906474
+laghos, tuolumne, 1, -p 1 -dim 3 -rs 2 -tf 5.5 -d gpu, 679.885105
+laghos, tuolumne, 1, -p 1 -dim 3 -rs 2 -tf 5.5 -pa -d gpu, 678.660306
+laghos, tuolumne, 1, -p 2 -dim 2 -rs 2 -tf 3 -d gpu, 118.454779
+laghos, tuolumne, 1, -p 2 -dim 2 -rs 2 -tf 3 -pa -d gpu, 123.581357
+laghos, tuolumne, 1, -p 2 -dim 2 -rs 2 -tf 3.5 -d gpu, 141.417235
+laghos, tuolumne, 1, -p 2 -dim 2 -rs 2 -tf 3.5 -pa -d gpu, 142.649212
+laghos, tuolumne, 1, -p 2 -dim 2 -rs 2 -tf 4 -d gpu, 155.505383
+laghos, tuolumne, 1, -p 2 -dim 2 -rs 2 -tf 4 -pa -d gpu, 151.619957
+laghos, tuolumne, 1, -p 2 -dim 2 -rs 2 -tf 4.5 -d gpu, 153.824708
+laghos, tuolumne, 1, -p 2 -dim 2 -rs 2 -tf 4.5 -pa -d gpu, 160.126715
+laghos, tuolumne, 1, -p 2 -dim 2 -rs 2 -tf 5 -d gpu, 178.543254
+laghos, tuolumne, 1, -p 2 -dim 2 -rs 2 -tf 5 -pa -d gpu, 178.341010
+laghos, tuolumne, 1, -p 2 -dim 2 -rs 2 -tf 5.5 -d gpu, 201.514119
+laghos, tuolumne, 1, -p 2 -dim 2 -rs 2 -tf 5.5 -pa -d gpu, 193.822289
+laghos, tuolumne, 1, -p 2 -dim 3 -rs 1 -tf 3 -d gpu, 94.335403
+laghos, tuolumne, 1, -p 2 -dim 3 -rs 1 -tf 3 -pa -d gpu, 96.021243
+laghos, tuolumne, 1, -p 2 -dim 3 -rs 1 -tf 3.5 -d gpu, 111.194915
+laghos, tuolumne, 1, -p 2 -dim 3 -rs 1 -tf 3.5 -pa -d gpu, 108.047932
+laghos, tuolumne, 1, -p 2 -dim 3 -rs 1 -tf 4 -d gpu, 115.123482
+laghos, tuolumne, 1, -p 2 -dim 3 -rs 1 -tf 4 -pa -d gpu, 118.637980
+laghos, tuolumne, 1, -p 2 -dim 3 -rs 1 -tf 4.5 -d gpu, 126.914624
+laghos, tuolumne, 1, -p 2 -dim 3 -rs 1 -tf 4.5 -pa -d gpu, 124.576235
+laghos, tuolumne, 1, -p 2 -dim 3 -rs 1 -tf 5 -d gpu, 146.246973
+laghos, tuolumne, 1, -p 2 -dim 3 -rs 1 -tf 5 -pa -d gpu, 144.794502
+laghos, tuolumne, 1, -p 2 -dim 3 -rs 1 -tf 5.5 -d gpu, 152.587276
+laghos, tuolumne, 1, -p 2 -dim 3 -rs 1 -tf 5.5 -pa -d gpu, 158.054003
+laghos, tuolumne, 1, -p 2 -dim 3 -rs 2 -tf 3 -d gpu, 246.748456
+laghos, tuolumne, 1, -p 2 -dim 3 -rs 2 -tf 3 -pa -d gpu, 264.553994
+laghos, tuolumne, 1, -p 3 -dim 2 -rs 1 -tf 3 -d gpu, 14.473382
+laghos, tuolumne, 1, -p 3 -dim 2 -rs 1 -tf 3 -pa -d gpu, 14.832926
+laghos, tuolumne, 1, -p 3 -dim 2 -rs 1 -tf 3.5 -d gpu, 15.315341
+laghos, tuolumne, 1, -p 3 -dim 2 -rs 1 -tf 3.5 -pa -d gpu, 14.440525
+laghos, tuolumne, 1, -p 3 -dim 2 -rs 1 -tf 4 -d gpu, 16.210584
+laghos, tuolumne, 1, -p 3 -dim 2 -rs 1 -tf 4 -pa -d gpu, 16.412208
+laghos, tuolumne, 1, -p 3 -dim 2 -rs 1 -tf 4.5 -d gpu, 17.256209
+laghos, tuolumne, 1, -p 3 -dim 2 -rs 1 -tf 4.5 -pa -d gpu, 16.527705
+laghos, tuolumne, 1, -p 3 -dim 2 -rs 1 -tf 5 -d gpu, 17.570623
+laghos, tuolumne, 1, -p 3 -dim 2 -rs 1 -tf 5 -pa -d gpu, 17.855296
+laghos, tuolumne, 1, -p 3 -dim 2 -rs 1 -tf 5.5 -d gpu, 19.263873
+laghos, tuolumne, 1, -p 3 -dim 2 -rs 1 -tf 5.5 -pa -d gpu, 19.992336
+laghos, tuolumne, 1, -p 3 -dim 2 -rs 2 -tf 3 -d gpu, 23.686331
+laghos, tuolumne, 1, -p 3 -dim 2 -rs 2 -tf 3 -pa -d gpu, 23.270096
+laghos, tuolumne, 1, -p 3 -dim 2 -rs 2 -tf 3.5 -d gpu, 25.719288
+laghos, tuolumne, 1, -p 3 -dim 2 -rs 2 -tf 3.5 -pa -d gpu, 25.446530
+laghos, tuolumne, 1, -p 3 -dim 2 -rs 2 -tf 4 -d gpu, 28.600578
+laghos, tuolumne, 1, -p 3 -dim 2 -rs 2 -tf 4 -pa -d gpu, 27.604245
+laghos, tuolumne, 1, -p 3 -dim 2 -rs 2 -tf 4.5 -d gpu, 30.324362
+laghos, tuolumne, 1, -p 3 -dim 2 -rs 2 -tf 4.5 -pa -d gpu, 29.833714
+laghos, tuolumne, 1, -p 3 -dim 2 -rs 2 -tf 5 -d gpu, 33.526879
+laghos, tuolumne, 1, -p 3 -dim 2 -rs 2 -tf 5 -pa -d gpu, 32.617942
+laghos, tuolumne, 1, -p 3 -dim 2 -rs 2 -tf 5.5 -d gpu, 34.564045
+laghos, tuolumne, 1, -p 3 -dim 2 -rs 2 -tf 5.5 -pa -d gpu, 35.512234
+laghos, tuolumne, 1, -p 3 -dim 3 -rs 1 -tf 3 -d gpu, 22.330187
+laghos, tuolumne, 1, -p 3 -dim 3 -rs 1 -tf 3 -pa -d gpu, 22.854561
+laghos, tuolumne, 1, -p 3 -dim 3 -rs 1 -tf 3.5 -d gpu, 23.421960
+laghos, tuolumne, 1, -p 3 -dim 3 -rs 1 -tf 3.5 -pa -d gpu, 23.483496
+laghos, tuolumne, 1, -p 3 -dim 3 -rs 1 -tf 4 -d gpu, 26.958301
+laghos, tuolumne, 1, -p 3 -dim 3 -rs 1 -tf 4 -pa -d gpu, 26.509778
+laghos, tuolumne, 1, -p 3 -dim 3 -rs 1 -tf 4.5 -d gpu, 28.878299
+laghos, tuolumne, 1, -p 3 -dim 3 -rs 1 -tf 4.5 -pa -d gpu, 28.778287
+laghos, tuolumne, 1, -p 3 -dim 3 -rs 1 -tf 5 -d gpu, 29.553040
+laghos, tuolumne, 1, -p 3 -dim 3 -rs 1 -tf 5 -pa -d gpu, 31.239385
+laghos, tuolumne, 1, -p 3 -dim 3 -rs 1 -tf 5.5 -d gpu, 33.154125
+laghos, tuolumne, 1, -p 3 -dim 3 -rs 1 -tf 5.5 -pa -d gpu, 32.448479
+laghos, tuolumne, 1, -p 3 -dim 3 -rs 2 -tf 3 -d gpu, 40.905815
+laghos, tuolumne, 1, -p 3 -dim 3 -rs 2 -tf 3 -pa -d gpu, 42.237928
+laghos, tuolumne, 1, -p 3 -dim 3 -rs 2 -tf 3.5 -d gpu, 46.785245
+laghos, tuolumne, 1, -p 3 -dim 3 -rs 2 -tf 3.5 -pa -d gpu, 47.183002
+laghos, tuolumne, 1, -p 3 -dim 3 -rs 2 -tf 4 -d gpu, 52.221170
+laghos, tuolumne, 1, -p 3 -dim 3 -rs 2 -tf 4 -pa -d gpu, 52.730114
+laghos, tuolumne, 1, -p 3 -dim 3 -rs 2 -tf 4.5 -d gpu, 57.827648
+laghos, tuolumne, 1, -p 3 -dim 3 -rs 2 -tf 4.5 -pa -d gpu, 58.521262
+laghos, tuolumne, 1, -p 3 -dim 3 -rs 2 -tf 5 -d gpu, 63.889315
+laghos, tuolumne, 1, -p 3 -dim 3 -rs 2 -tf 5 -pa -d gpu, 65.689245
+laghos, tuolumne, 1, -p 3 -dim 3 -rs 2 -tf 5.5 -d gpu, 69.605763
+laghos, tuolumne, 1, -p 3 -dim 3 -rs 2 -tf 5.5 -pa -d gpu, 68.095355
+XSBench, tuolumne, 1, -m event -s XL -G hash, 18.404862
+XSBench, tuolumne, 1, -m event -s XL -G nuclide, 17.668441
+XSBench, tuolumne, 1, -m event -s XL -G unionized, 97.676154
+XSBench, tuolumne, 1, -m event -s XXL -G hash, 41.396807
+XSBench, tuolumne, 1, -m event -s XXL -G nuclide, 38.992108
+XSBench, tuolumne, 1, -m event -s large -G hash, 1.655858
+XSBench, tuolumne, 1, -m event -s large -G nuclide, 1.424473
+XSBench, tuolumne, 1, -m event -s large -G unionized, 5.178387
+XSBench, tuolumne, 1, -m event -s small -G hash, 1.001875
+XSBench, tuolumne, 1, -m event -s small -G nuclide, 0.848337
+XSBench, tuolumne, 1, -m event -s small -G unionized, 1.068762

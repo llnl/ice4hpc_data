@@ -1,0 +1,3 @@
+Method Name,AdaBoost_CPU->CPU,Bagging_CPU->CPU,RF_CPU->CPU,XGBoost_CPU->CPU,AdaBoost_CPU->GPU,Bagging_CPU->GPU,RF_CPU->GPU,XGBoost_CPU->GPU
+Model with raw data,7.30,20.51,23.10,4.15,138.67,1478.71,1650.47,163.54
+Model with f_attention+AMM,2.15,13.25,16.37,2.09,1.512,4.692,7.56,1.521

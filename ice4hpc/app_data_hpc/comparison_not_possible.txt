@@ -1,0 +1,357 @@
+lassen,1,XSBench,"-m history -s XXL -G unionized", 69.573234 cannot be matched
+quartz,32,amg,"-problem 1 -P 2 2 1 -n 128 128 64", 0.047593 cannot be matched
+quartz,32,amg,"-problem 1 -P 2 2 1 -n 16 16 8", 0.045753 cannot be matched
+quartz,32,amg,"-problem 1 -P 2 2 1 -n 32 32 16", 0.043991 cannot be matched
+quartz,32,amg,"-problem 1 -P 2 2 1 -n 64 64 32", 0.044634 cannot be matched
+quartz,32,amg,"-problem 1 -P 2 2 1 -n 8 8 4", 0.045043 cannot be matched
+quartz,1,laghos,"-p 1 -dim 2 -rs 1 -tf 3", 1.765572 cannot be matched
+quartz,1,laghos,"-p 1 -dim 2 -rs 1 -tf 3.5", 2.025196 cannot be matched
+quartz,1,laghos,"-p 1 -dim 2 -rs 1 -tf 3.5 -pa", 2.019600 cannot be matched
+quartz,1,laghos,"-p 1 -dim 2 -rs 1 -tf 3 -pa", 1.771501 cannot be matched
+quartz,1,laghos,"-p 1 -dim 2 -rs 1 -tf 4", 2.276205 cannot be matched
+quartz,1,laghos,"-p 1 -dim 2 -rs 1 -tf 4.5", 2.663958 cannot be matched
+quartz,1,laghos,"-p 1 -dim 2 -rs 1 -tf 4.5 -pa", 2.466709 cannot be matched
+quartz,1,laghos,"-p 1 -dim 2 -rs 1 -tf 4 -pa", 2.260415 cannot be matched
+quartz,1,laghos,"-p 1 -dim 2 -rs 1 -tf 5", 2.644668 cannot be matched
+quartz,1,laghos,"-p 1 -dim 2 -rs 1 -tf 5.5", 2.711485 cannot be matched
+quartz,1,laghos,"-p 1 -dim 2 -rs 1 -tf 5.5 -pa", 2.703367 cannot be matched
+quartz,1,laghos,"-p 1 -dim 2 -rs 1 -tf 5 -pa", 2.629778 cannot be matched
+quartz,1,laghos,"-p 2 -dim 2 -rs 1 -tf 3", 1.327392 cannot be matched
+quartz,1,laghos,"-p 2 -dim 2 -rs 1 -tf 3.5", 1.533389 cannot be matched
+quartz,1,laghos,"-p 2 -dim 2 -rs 1 -tf 3.5 -pa", 1.533220 cannot be matched
+quartz,1,laghos,"-p 2 -dim 2 -rs 1 -tf 3 -pa", 1.301731 cannot be matched
+quartz,1,laghos,"-p 2 -dim 2 -rs 1 -tf 4", 1.665316 cannot be matched
+quartz,1,laghos,"-p 2 -dim 2 -rs 1 -tf 4.5", 1.776994 cannot be matched
+quartz,1,laghos,"-p 2 -dim 2 -rs 1 -tf 4.5 -pa", 1.783772 cannot be matched
+quartz,1,laghos,"-p 2 -dim 2 -rs 1 -tf 4 -pa", 1.747685 cannot be matched
+quartz,1,laghos,"-p 2 -dim 2 -rs 1 -tf 5", 2.005884 cannot be matched
+quartz,1,laghos,"-p 2 -dim 2 -rs 1 -tf 5.5", 2.319004 cannot be matched
+quartz,1,laghos,"-p 2 -dim 2 -rs 1 -tf 5.5 -pa", 2.199857 cannot be matched
+quartz,1,laghos,"-p 2 -dim 2 -rs 1 -tf 5 -pa", 2.006990 cannot be matched
+quartz,1,laghos,"-p 2 -dim 3 -rs 2 -tf 3.5", 818.545014 cannot be matched
+quartz,1,laghos,"-p 2 -dim 3 -rs 2 -tf 3.5 -pa", 832.490304 cannot be matched
+quartz,1,laghos,"-p 3 -dim 2 -rs 3 -tf 5.0", 13.326448 cannot be matched
+quartz,1,laghos,"-p 3 -dim 3 -rs 1 -tf 5.0", 7.524983 cannot be matched
+quartz,1,laghos,"-p 3 -dim 3 -rs 2 -tf 2.0 -pa", 54.779157 cannot be matched
+quartz,1,laghos,"-p 3 -dim 3 -rs 2 -tf 5.0", 130.491845 cannot be matched
+quartz,1,laghos,"-p 3 -dim 3 -rs 2 -tf 5.0 -pa", 133.338012 cannot be matched
+quartz,32,laghos,"-p 1 -dim 2 -rs 2 -tf 3.5", 8.146281 cannot be matched
+quartz,32,laghos,"-p 1 -dim 2 -rs 2 -tf 3.5 -pa", 8.280307 cannot be matched
+quartz,32,laghos,"-p 1 -dim 2 -rs 2 -tf 3", 7.056629 cannot be matched
+quartz,32,laghos,"-p 1 -dim 2 -rs 2 -tf 3 -pa", 7.062784 cannot be matched
+quartz,32,laghos,"-p 1 -dim 2 -rs 2 -tf 4.5", 10.679587 cannot be matched
+quartz,32,laghos,"-p 1 -dim 2 -rs 2 -tf 4.5 -pa", 10.503509 cannot be matched
+quartz,32,laghos,"-p 1 -dim 2 -rs 2 -tf 4", 8.956694 cannot be matched
+quartz,32,laghos,"-p 1 -dim 2 -rs 2 -tf 4 -pa", 9.036615 cannot be matched
+quartz,32,laghos,"-p 1 -dim 2 -rs 2 -tf 5", 11.378156 cannot be matched
+quartz,32,laghos,"-p 1 -dim 2 -rs 2 -tf 5.5", 12.729841 cannot be matched
+quartz,32,laghos,"-p 1 -dim 2 -rs 2 -tf 5.5 -pa", 12.203638 cannot be matched
+quartz,32,laghos,"-p 1 -dim 2 -rs 2 -tf 5 -pa", 11.672238 cannot be matched
+quartz,32,laghos,"-p 1 -dim 2 -rs 3 -tf 3", 18.205501 cannot be matched
+quartz,32,laghos,"-p 1 -dim 2 -rs 3 -tf 3.5", 20.994450 cannot be matched
+quartz,32,laghos,"-p 1 -dim 2 -rs 3 -tf 3.5 -pa", 20.463287 cannot be matched
+quartz,32,laghos,"-p 1 -dim 2 -rs 3 -tf 3 -pa", 18.090018 cannot be matched
+quartz,32,laghos,"-p 1 -dim 2 -rs 3 -tf 4", 23.196654 cannot be matched
+quartz,32,laghos,"-p 1 -dim 2 -rs 3 -tf 4.5", 29.647744 cannot be matched
+quartz,32,laghos,"-p 1 -dim 2 -rs 3 -tf 4.5 -pa", 29.670644 cannot be matched
+quartz,32,laghos,"-p 1 -dim 2 -rs 3 -tf 4 -pa", 23.360927 cannot be matched
+quartz,32,laghos,"-p 1 -dim 2 -rs 3 -tf 5", 33.962203 cannot be matched
+quartz,32,laghos,"-p 1 -dim 2 -rs 3 -tf 5.5", 39.187789 cannot be matched
+quartz,32,laghos,"-p 1 -dim 2 -rs 3 -tf 5.5 -pa", 39.138989 cannot be matched
+quartz,32,laghos,"-p 1 -dim 2 -rs 3 -tf 5 -pa", 34.743095 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 1 -tf 3", 13.436915 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 1 -tf 3.5", 16.801952 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 1 -tf 3.5 -pa", 16.816292 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 1 -tf 3 -pa", 13.475415 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 1 -tf 4", 20.786601 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 1 -tf 4.5", 24.480552 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 1 -tf 4.5 -pa", 24.723665 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 1 -tf 4 -pa", 20.862323 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 1 -tf 5", 27.342799 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 1 -tf 5.5", 30.352956 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 1 -tf 5.5 -pa", 29.670272 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 1 -tf 5 -pa", 27.147862 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 2 -tf 3.5", 103.136026 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 2 -tf 3.5 -pa", 105.836877 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 2 -tf 3", 76.401254 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 2 -tf 3 -pa", 77.084733 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 2 -tf 4", 128.768121 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 2 -tf 4.5", 137.639692 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 2 -tf 4.5 -pa", 138.198520 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 2 -tf 4 -pa", 127.966741 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 2 -tf 5", 149.757447 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 2 -tf 5.5", 174.803424 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 2 -tf 5.5 -pa", 176.186338 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 2 -tf 5 -pa", 150.957090 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 3 -tf 3", 1085.176691 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 3 -tf 3.5", 1245.413625 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 3 -tf 3.5 -pa", 1244.844311 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 3 -tf 3 -pa", 1079.955367 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 3 -tf 4", 1378.965191 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 3 -tf 4.5", 1479.283964 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 3 -tf 4.5 -pa", 1476.478431 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 3 -tf 4 -pa", 1379.512475 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 3 -tf 5", 1639.528917 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 3 -tf 5.5", 2285.397739 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 3 -tf 5.5 -pa", 2273.762424 cannot be matched
+quartz,32,laghos,"-p 1 -dim 3 -rs 3 -tf 5 -pa", 1635.001315 cannot be matched
+quartz,32,laghos,"-p 2 -dim 2 -rs 2 -tf 3.5", 8.163866 cannot be matched
+quartz,32,laghos,"-p 2 -dim 2 -rs 2 -tf 3.5 -pa", 8.273859 cannot be matched
+quartz,32,laghos,"-p 2 -dim 2 -rs 2 -tf 3", 7.278402 cannot be matched
+quartz,32,laghos,"-p 2 -dim 2 -rs 2 -tf 3 -pa", 7.196961 cannot be matched
+quartz,32,laghos,"-p 2 -dim 2 -rs 2 -tf 4.5", 9.524466 cannot be matched
+quartz,32,laghos,"-p 2 -dim 2 -rs 2 -tf 4.5 -pa", 9.599645 cannot be matched
+quartz,32,laghos,"-p 2 -dim 2 -rs 2 -tf 4", 8.813869 cannot be matched
+quartz,32,laghos,"-p 2 -dim 2 -rs 2 -tf 4 -pa", 8.798682 cannot be matched
+quartz,32,laghos,"-p 2 -dim 2 -rs 2 -tf 5", 10.631737 cannot be matched
+quartz,32,laghos,"-p 2 -dim 2 -rs 2 -tf 5.5", 11.614360 cannot be matched
+quartz,32,laghos,"-p 2 -dim 2 -rs 2 -tf 5.5 -pa", 11.488010 cannot be matched
+quartz,32,laghos,"-p 2 -dim 2 -rs 2 -tf 5 -pa", 10.608749 cannot be matched
+quartz,32,laghos,"-p 2 -dim 3 -rs 1 -tf 3", 11.271088 cannot be matched
+quartz,32,laghos,"-p 2 -dim 3 -rs 1 -tf 3.5", 13.164627 cannot be matched
+quartz,32,laghos,"-p 2 -dim 3 -rs 1 -tf 3.5 -pa", 13.043292 cannot be matched
+quartz,32,laghos,"-p 2 -dim 3 -rs 1 -tf 3 -pa", 11.430726 cannot be matched
+quartz,32,laghos,"-p 2 -dim 3 -rs 1 -tf 4", 14.052165 cannot be matched
+quartz,32,laghos,"-p 2 -dim 3 -rs 1 -tf 4.5", 15.238065 cannot be matched
+quartz,32,laghos,"-p 2 -dim 3 -rs 1 -tf 4.5 -pa", 15.248686 cannot be matched
+quartz,32,laghos,"-p 2 -dim 3 -rs 1 -tf 4 -pa", 14.033402 cannot be matched
+quartz,32,laghos,"-p 2 -dim 3 -rs 1 -tf 5", 16.989531 cannot be matched
+quartz,32,laghos,"-p 2 -dim 3 -rs 1 -tf 5.5", 18.782732 cannot be matched
+quartz,32,laghos,"-p 2 -dim 3 -rs 1 -tf 5.5 -pa", 19.344080 cannot be matched
+quartz,32,laghos,"-p 2 -dim 3 -rs 1 -tf 5 -pa", 17.008563 cannot be matched
+quartz,32,laghos,"-p 2 -dim 3 -rs 2 -tf 3.5", 75.484360 cannot be matched
+quartz,32,laghos,"-p 2 -dim 3 -rs 2 -tf 3.5 -pa", 75.335763 cannot be matched
+quartz,32,laghos,"-p 2 -dim 3 -rs 2 -tf 3", 65.753625 cannot be matched
+quartz,32,laghos,"-p 2 -dim 3 -rs 2 -tf 3 -pa", 65.802874 cannot be matched
+quartz,32,laghos,"-p 2 -dim 3 -rs 2 -tf 4.5", 87.203523 cannot be matched
+quartz,32,laghos,"-p 2 -dim 3 -rs 2 -tf 4.5 -pa", 87.700021 cannot be matched
+quartz,32,laghos,"-p 2 -dim 3 -rs 2 -tf 4", 79.685865 cannot be matched
+quartz,32,laghos,"-p 2 -dim 3 -rs 2 -tf 4 -pa", 81.047420 cannot be matched
+quartz,32,laghos,"-p 2 -dim 3 -rs 2 -tf 5.5", 105.772831 cannot be matched
+quartz,32,laghos,"-p 2 -dim 3 -rs 2 -tf 5.5 -pa", 106.189449 cannot be matched
+quartz,32,laghos,"-p 2 -dim 3 -rs 2 -tf 5", 98.553806 cannot be matched
+quartz,32,laghos,"-p 2 -dim 3 -rs 2 -tf 5 -pa", 98.876316 cannot be matched
+quartz,32,laghos,"-p 3 -dim 2 -rs 2 -tf 3", 0.973387 cannot be matched
+quartz,32,laghos,"-p 3 -dim 2 -rs 2 -tf 3.5", 1.095288 cannot be matched
+quartz,32,laghos,"-p 3 -dim 2 -rs 2 -tf 3.5 -pa", 1.135262 cannot be matched
+quartz,32,laghos,"-p 3 -dim 2 -rs 2 -tf 3 -pa", 0.974734 cannot be matched
+quartz,32,laghos,"-p 3 -dim 2 -rs 2 -tf 4", 1.291808 cannot be matched
+quartz,32,laghos,"-p 3 -dim 2 -rs 2 -tf 4.5", 1.412804 cannot be matched
+quartz,32,laghos,"-p 3 -dim 2 -rs 2 -tf 4.5 -pa", 2.318602 cannot be matched
+quartz,32,laghos,"-p 3 -dim 2 -rs 2 -tf 4 -pa", 1.286240 cannot be matched
+quartz,32,laghos,"-p 3 -dim 2 -rs 2 -tf 5", 1.549207 cannot be matched
+quartz,32,laghos,"-p 3 -dim 2 -rs 2 -tf 5.5", 1.692243 cannot be matched
+quartz,32,laghos,"-p 3 -dim 2 -rs 2 -tf 5.5 -pa", 1.718392 cannot be matched
+quartz,32,laghos,"-p 3 -dim 2 -rs 2 -tf 5 -pa", 1.601202 cannot be matched
+quartz,32,laghos,"-p 3 -dim 2 -rs 3 -tf 5.0", 3.850094 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 3", 1.766040 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 3.5", 2.038732 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 3.5 -pa", 2.048495 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 3 -pa", 1.755836 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 4", 2.381696 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 4.5", 2.591791 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 4.5 -pa", 2.564670 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 4 -pa", 2.314749 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 5.0", 2.880829 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 5", 2.865371 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 5.5", 3.155547 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 5.5 -pa", 3.190075 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 5 -pa", 3.174231 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 2.0 -pa", 5.528688 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 3.5", 9.495038 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 3.5 -pa", 9.467205 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 3", 8.167320 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 3 -pa", 8.177259 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 4", 10.868044 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 4.5", 12.059491 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 4.5 -pa", 12.063627 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 4 -pa", 10.749499 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 5.0", 14.061234 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 5.0 -pa", 13.879292 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 5", 13.468897 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 5.5", 14.885906 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 5.5 -pa", 14.789726 cannot be matched
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 5 -pa", 13.402501 cannot be matched
+quartz,64,laghos,"-p 3 -dim 2 -rs 3 -tf 5.0", 2.814249 cannot be matched
+quartz,64,laghos,"-p 3 -dim 3 -rs 1 -tf 5.0", 1.813695 cannot be matched
+quartz,64,laghos,"-p 3 -dim 3 -rs 2 -tf 2.0 -pa", 2.784193 cannot be matched
+quartz,64,laghos,"-p 3 -dim 3 -rs 2 -tf 5.0", 7.057190 cannot be matched
+quartz,64,laghos,"-p 3 -dim 3 -rs 2 -tf 5.0 -pa", 7.191441 cannot be matched
+quartz,32,miniFE.x,"-nx 100 -ny 100 -nz 100", 0.690266 cannot be matched
+quartz,32,miniFE.x,"-nx 100 -ny 100 -nz 50", 0.448088 cannot be matched
+quartz,32,miniFE.x,"-nx 100 -ny 50 -nz 50", 0.314951 cannot be matched
+quartz,32,miniFE.x,"-nx 100 -ny 75 -nz 50", 0.403367 cannot be matched
+quartz,32,miniFE.x,"-nx 100 -ny 75 -nz 75", 0.475963 cannot be matched
+quartz,32,miniFE.x,"-nx 125 -ny 100 -nz 100", 0.792593 cannot be matched
+quartz,32,miniFE.x,"-nx 125 -ny 100 -nz 50", 0.522958 cannot be matched
+quartz,32,miniFE.x,"-nx 125 -ny 125 -nz 125", 1.115350 cannot be matched
+quartz,32,miniFE.x,"-nx 125 -ny 125 -nz 50", 0.593846 cannot be matched
+quartz,32,miniFE.x,"-nx 125 -ny 50 -nz 50", 0.347702 cannot be matched
+quartz,32,miniFE.x,"-nx 125 -ny 75 -nz 50", 0.447962 cannot be matched
+quartz,32,miniFE.x,"-nx 125 -ny 75 -nz 75", 0.564685 cannot be matched
+quartz,32,miniFE.x,"-nx 150 -ny 100 -nz 100", 0.915701 cannot be matched
+quartz,32,miniFE.x,"-nx 150 -ny 100 -nz 50", 0.577282 cannot be matched
+quartz,32,miniFE.x,"-nx 150 -ny 125 -nz 125", 1.282578 cannot be matched
+quartz,32,miniFE.x,"-nx 150 -ny 125 -nz 50", 0.662803 cannot be matched
+quartz,32,miniFE.x,"-nx 150 -ny 150 -nz 150", 1.752233 cannot be matched
+quartz,32,miniFE.x,"-nx 150 -ny 150 -nz 50", 0.746296 cannot be matched
+quartz,32,miniFE.x,"-nx 150 -ny 50 -nz 50", 0.384259 cannot be matched
+quartz,32,miniFE.x,"-nx 150 -ny 75 -nz 50", 0.502071 cannot be matched
+quartz,32,miniFE.x,"-nx 150 -ny 75 -nz 75", 0.616378 cannot be matched
+quartz,32,miniFE.x,"-nx 175 -ny 100 -nz 100", 1.009551 cannot be matched
+quartz,32,miniFE.x,"-nx 175 -ny 100 -nz 50", 0.632715 cannot be matched
+quartz,32,miniFE.x,"-nx 175 -ny 125 -nz 125", 1.460514 cannot be matched
+quartz,32,miniFE.x,"-nx 175 -ny 125 -nz 50", 0.727979 cannot be matched
+quartz,32,miniFE.x,"-nx 175 -ny 150 -nz 150", 2.031225 cannot be matched
+quartz,32,miniFE.x,"-nx 175 -ny 150 -nz 50", 0.823749 cannot be matched
+quartz,32,miniFE.x,"-nx 175 -ny 175 -nz 175", 2.674775 cannot be matched
+quartz,32,miniFE.x,"-nx 175 -ny 175 -nz 50", 0.925865 cannot be matched
+quartz,32,miniFE.x,"-nx 175 -ny 50 -nz 50", 0.432423 cannot be matched
+quartz,32,miniFE.x,"-nx 175 -ny 75 -nz 50", 0.522539 cannot be matched
+quartz,32,miniFE.x,"-nx 175 -ny 75 -nz 75", 0.677450 cannot be matched
+quartz,32,miniFE.x,"-nx 200 -ny 100 -nz 100", 1.098882 cannot be matched
+quartz,32,miniFE.x,"-nx 200 -ny 100 -nz 50", 0.694417 cannot be matched
+quartz,32,miniFE.x,"-nx 200 -ny 125 -nz 125", 1.642451 cannot be matched
+quartz,32,miniFE.x,"-nx 200 -ny 125 -nz 50", 0.823264 cannot be matched
+quartz,32,miniFE.x,"-nx 200 -ny 150 -nz 150", 2.249256 cannot be matched
+quartz,32,miniFE.x,"-nx 200 -ny 150 -nz 50", 0.903713 cannot be matched
+quartz,32,miniFE.x,"-nx 200 -ny 175 -nz 175", 3.054894 cannot be matched
+quartz,32,miniFE.x,"-nx 200 -ny 175 -nz 50", 1.017272 cannot be matched
+quartz,32,miniFE.x,"-nx 200 -ny 200 -nz 200", 3.904474 cannot be matched
+quartz,32,miniFE.x,"-nx 200 -ny 200 -nz 50", 1.128260 cannot be matched
+quartz,32,miniFE.x,"-nx 200 -ny 50 -nz 50", 0.459217 cannot be matched
+quartz,32,miniFE.x,"-nx 200 -ny 75 -nz 50", 0.569149 cannot be matched
+quartz,32,miniFE.x,"-nx 200 -ny 75 -nz 75", 0.723425 cannot be matched
+quartz,32,miniFE.x,"-nx 75 -ny 75 -nz 50", 0.324598 cannot be matched
+quartz,32,miniFE.x,"-nx 75 -ny 75 -nz 75", 0.395421 cannot be matched
+quartz,1,TestDfft,"10 100", 1.460549 cannot be matched
+quartz,1,TestDfft,"10 140", 4.382133 cannot be matched
+quartz,1,TestDfft,"10 180", 9.554459 cannot be matched
+quartz,1,TestDfft,"10 220", 18.184673 cannot be matched
+quartz,1,TestDfft,"15 100", 2.088555 cannot be matched
+quartz,1,TestDfft,"15 140", 6.329615 cannot be matched
+quartz,1,TestDfft,"15 180", 13.832303 cannot be matched
+quartz,1,TestDfft,"15 220", 26.985592 cannot be matched
+quartz,1,TestDfft,"20 100", 2.731789 cannot be matched
+quartz,1,TestDfft,"20 140", 8.255625 cannot be matched
+quartz,1,TestDfft,"20 180", 18.859730 cannot be matched
+quartz,1,TestDfft,"20 220", 35.490843 cannot be matched
+quartz,1,XSBench,"-m event -s XXL -G unionized", 72.028538 cannot be matched
+quartz,1,XSBench,"-m history -s XXL -G unionized", 71.116908 cannot be matched
+ruby,32,amg,"-problem 1 -P 2 2 1 -n 128 128 64", 0.046693 cannot be matched
+ruby,32,amg,"-problem 1 -P 2 2 1 -n 16 16 8", 0.238658 cannot be matched
+ruby,32,amg,"-problem 1 -P 2 2 1 -n 32 32 16", 0.041591 cannot be matched
+ruby,32,amg,"-problem 1 -P 2 2 1 -n 64 64 32", 0.046594 cannot be matched
+ruby,32,amg,"-problem 1 -P 2 2 1 -n 8 8 4", 0.042130 cannot be matched
+ruby,56,laghos,"-p 1 -dim 2 -rs 2 -tf 3.5", 10.053070 cannot be matched
+ruby,56,laghos,"-p 1 -dim 2 -rs 2 -tf 3.5 -pa", 10.305382 cannot be matched
+ruby,56,laghos,"-p 1 -dim 2 -rs 2 -tf 3", 8.884578 cannot be matched
+ruby,56,laghos,"-p 1 -dim 2 -rs 2 -tf 3 -pa", 8.838080 cannot be matched
+ruby,56,laghos,"-p 1 -dim 2 -rs 2 -tf 4", 11.161939 cannot be matched
+ruby,56,laghos,"-p 1 -dim 2 -rs 2 -tf 4.5", 13.515500 cannot be matched
+ruby,56,laghos,"-p 1 -dim 2 -rs 2 -tf 4.5 -pa", 13.050004 cannot be matched
+ruby,56,laghos,"-p 1 -dim 2 -rs 2 -tf 4 -pa", 11.318299 cannot be matched
+ruby,56,laghos,"-p 1 -dim 2 -rs 2 -tf 5", 14.341039 cannot be matched
+ruby,56,laghos,"-p 1 -dim 2 -rs 2 -tf 5.5", 15.360568 cannot be matched
+ruby,56,laghos,"-p 1 -dim 2 -rs 2 -tf 5.5 -pa", 15.369307 cannot be matched
+ruby,56,laghos,"-p 1 -dim 2 -rs 2 -tf 5 -pa", 14.455015 cannot be matched
+ruby,56,laghos,"-p 1 -dim 2 -rs 3 -tf 3", 20.719855 cannot be matched
+ruby,56,laghos,"-p 1 -dim 2 -rs 3 -tf 3.5", 23.232551 cannot be matched
+ruby,56,laghos,"-p 1 -dim 2 -rs 3 -tf 3.5 -pa", 23.299559 cannot be matched
+ruby,56,laghos,"-p 1 -dim 2 -rs 3 -tf 3 -pa", 20.704159 cannot be matched
+ruby,56,laghos,"-p 1 -dim 2 -rs 3 -tf 4", 26.140752 cannot be matched
+ruby,56,laghos,"-p 1 -dim 2 -rs 3 -tf 4.5", 33.911356 cannot be matched
+ruby,56,laghos,"-p 1 -dim 2 -rs 3 -tf 4.5 -pa", 34.086201 cannot be matched
+ruby,56,laghos,"-p 1 -dim 2 -rs 3 -tf 4 -pa", 26.126660 cannot be matched
+ruby,56,laghos,"-p 1 -dim 2 -rs 3 -tf 5", 40.096393 cannot be matched
+ruby,56,laghos,"-p 1 -dim 2 -rs 3 -tf 5.5", 44.441096 cannot be matched
+ruby,56,laghos,"-p 1 -dim 2 -rs 3 -tf 5.5 -pa", 43.785552 cannot be matched
+ruby,56,laghos,"-p 1 -dim 2 -rs 3 -tf 5 -pa", 39.111346 cannot be matched
+ruby,56,laghos,"-p 1 -dim 3 -rs 1 -tf 3", 16.098348 cannot be matched
+ruby,56,laghos,"-p 1 -dim 3 -rs 1 -tf 3.5", 19.779852 cannot be matched
+ruby,56,laghos,"-p 1 -dim 3 -rs 1 -tf 3.5 -pa", 19.689856 cannot be matched
+ruby,56,laghos,"-p 1 -dim 3 -rs 1 -tf 3 -pa", 16.127467 cannot be matched
+ruby,56,laghos,"-p 1 -dim 3 -rs 1 -tf 4", 25.162909 cannot be matched
+ruby,56,laghos,"-p 1 -dim 3 -rs 1 -tf 4.5", 28.566513 cannot be matched
+ruby,56,laghos,"-p 1 -dim 3 -rs 1 -tf 4.5 -pa", 28.468835 cannot be matched
+ruby,56,laghos,"-p 1 -dim 3 -rs 1 -tf 4 -pa", 24.287122 cannot be matched
+ruby,56,laghos,"-p 1 -dim 3 -rs 1 -tf 5", 31.996590 cannot be matched
+ruby,56,laghos,"-p 1 -dim 3 -rs 1 -tf 5.5", 34.585855 cannot be matched
+ruby,56,laghos,"-p 1 -dim 3 -rs 1 -tf 5.5 -pa", 34.495118 cannot be matched
+ruby,56,laghos,"-p 1 -dim 3 -rs 1 -tf 5 -pa", 32.594647 cannot be matched
+ruby,56,laghos,"-p 1 -dim 3 -rs 2 -tf 3.5", 91.315355 cannot be matched
+ruby,56,laghos,"-p 1 -dim 3 -rs 2 -tf 3.5 -pa", 90.755136 cannot be matched
+ruby,56,laghos,"-p 1 -dim 3 -rs 2 -tf 3", 67.721384 cannot be matched
+ruby,56,laghos,"-p 1 -dim 3 -rs 2 -tf 3 -pa", 68.380743 cannot be matched
+ruby,56,laghos,"-p 1 -dim 3 -rs 2 -tf 4", 113.439533 cannot be matched
+ruby,56,laghos,"-p 1 -dim 3 -rs 2 -tf 4.5", 122.589306 cannot be matched
+ruby,56,laghos,"-p 1 -dim 3 -rs 2 -tf 4.5 -pa", 121.801541 cannot be matched
+ruby,56,laghos,"-p 1 -dim 3 -rs 2 -tf 4 -pa", 113.414670 cannot be matched
+ruby,56,laghos,"-p 1 -dim 3 -rs 2 -tf 5", 134.449429 cannot be matched
+ruby,56,laghos,"-p 1 -dim 3 -rs 2 -tf 5.5", 157.141248 cannot be matched
+ruby,56,laghos,"-p 1 -dim 3 -rs 2 -tf 5.5 -pa", 158.747316 cannot be matched
+ruby,56,laghos,"-p 1 -dim 3 -rs 2 -tf 5 -pa", 133.638750 cannot be matched
+ruby,56,laghos,"-p 2 -dim 2 -rs 2 -tf 3.5", 10.167392 cannot be matched
+ruby,56,laghos,"-p 2 -dim 2 -rs 2 -tf 3.5 -pa", 10.982097 cannot be matched
+ruby,56,laghos,"-p 2 -dim 2 -rs 2 -tf 3", 9.268832 cannot be matched
+ruby,56,laghos,"-p 2 -dim 2 -rs 2 -tf 3 -pa", 9.101718 cannot be matched
+ruby,56,laghos,"-p 2 -dim 2 -rs 2 -tf 4", 11.186978 cannot be matched
+ruby,56,laghos,"-p 2 -dim 2 -rs 2 -tf 4.5", 12.144946 cannot be matched
+ruby,56,laghos,"-p 2 -dim 2 -rs 2 -tf 4.5 -pa", 11.888226 cannot be matched
+ruby,56,laghos,"-p 2 -dim 2 -rs 2 -tf 4 -pa", 11.179370 cannot be matched
+ruby,56,laghos,"-p 2 -dim 2 -rs 2 -tf 5", 13.258710 cannot be matched
+ruby,56,laghos,"-p 2 -dim 2 -rs 2 -tf 5.5", 14.423499 cannot be matched
+ruby,56,laghos,"-p 2 -dim 2 -rs 2 -tf 5.5 -pa", 14.565337 cannot be matched
+ruby,56,laghos,"-p 2 -dim 2 -rs 2 -tf 5 -pa", 14.234012 cannot be matched
+ruby,56,laghos,"-p 2 -dim 3 -rs 1 -tf 3", 13.475414 cannot be matched
+ruby,56,laghos,"-p 2 -dim 3 -rs 1 -tf 3.5", 15.591217 cannot be matched
+ruby,56,laghos,"-p 2 -dim 3 -rs 1 -tf 3.5 -pa", 15.346228 cannot be matched
+ruby,56,laghos,"-p 2 -dim 3 -rs 1 -tf 3 -pa", 13.148844 cannot be matched
+ruby,56,laghos,"-p 2 -dim 3 -rs 1 -tf 4", 17.044489 cannot be matched
+ruby,56,laghos,"-p 2 -dim 3 -rs 1 -tf 4.5", 17.927101 cannot be matched
+ruby,56,laghos,"-p 2 -dim 3 -rs 1 -tf 4.5 -pa", 17.801052 cannot be matched
+ruby,56,laghos,"-p 2 -dim 3 -rs 1 -tf 4 -pa", 17.379216 cannot be matched
+ruby,56,laghos,"-p 2 -dim 3 -rs 1 -tf 5", 20.333631 cannot be matched
+ruby,56,laghos,"-p 2 -dim 3 -rs 1 -tf 5.5", 22.208805 cannot be matched
+ruby,56,laghos,"-p 2 -dim 3 -rs 1 -tf 5.5 -pa", 22.165145 cannot be matched
+ruby,56,laghos,"-p 2 -dim 3 -rs 1 -tf 5 -pa", 20.162840 cannot be matched
+ruby,56,laghos,"-p 2 -dim 3 -rs 2 -tf 3", 57.441738 cannot be matched
+ruby,56,laghos,"-p 2 -dim 3 -rs 2 -tf 3 -pa", 57.244962 cannot be matched
+ruby,56,laghos,"-p 3 -dim 2 -rs 2 -tf 3", 1.195828 cannot be matched
+ruby,56,laghos,"-p 3 -dim 2 -rs 2 -tf 3.5", 1.392861 cannot be matched
+ruby,56,laghos,"-p 3 -dim 2 -rs 2 -tf 3.5 -pa", 1.403125 cannot be matched
+ruby,56,laghos,"-p 3 -dim 2 -rs 2 -tf 3 -pa", 1.840595 cannot be matched
+ruby,56,laghos,"-p 3 -dim 2 -rs 2 -tf 4", 1.563729 cannot be matched
+ruby,56,laghos,"-p 3 -dim 2 -rs 2 -tf 4.5", 1.762251 cannot be matched
+ruby,56,laghos,"-p 3 -dim 2 -rs 2 -tf 4.5 -pa", 1.765133 cannot be matched
+ruby,56,laghos,"-p 3 -dim 2 -rs 2 -tf 4 -pa", 1.575588 cannot be matched
+ruby,56,laghos,"-p 3 -dim 2 -rs 2 -tf 5", 1.956844 cannot be matched
+ruby,56,laghos,"-p 3 -dim 2 -rs 2 -tf 5.5", 2.838144 cannot be matched
+ruby,56,laghos,"-p 3 -dim 2 -rs 2 -tf 5.5 -pa", 2.147265 cannot be matched
+ruby,56,laghos,"-p 3 -dim 2 -rs 2 -tf 5 -pa", 1.923252 cannot be matched
+ruby,56,laghos,"-p 3 -dim 3 -rs 1 -tf 3", 2.047276 cannot be matched
+ruby,56,laghos,"-p 3 -dim 3 -rs 1 -tf 3.5", 2.362397 cannot be matched
+ruby,56,laghos,"-p 3 -dim 3 -rs 1 -tf 3.5 -pa", 2.362545 cannot be matched
+ruby,56,laghos,"-p 3 -dim 3 -rs 1 -tf 3 -pa", 2.056259 cannot be matched
+ruby,56,laghos,"-p 3 -dim 3 -rs 1 -tf 4", 2.688085 cannot be matched
+ruby,56,laghos,"-p 3 -dim 3 -rs 1 -tf 4.5", 3.050157 cannot be matched
+ruby,56,laghos,"-p 3 -dim 3 -rs 1 -tf 4.5 -pa", 3.037850 cannot be matched
+ruby,56,laghos,"-p 3 -dim 3 -rs 1 -tf 4 -pa", 2.683234 cannot be matched
+ruby,56,laghos,"-p 3 -dim 3 -rs 1 -tf 5", 3.357630 cannot be matched
+ruby,56,laghos,"-p 3 -dim 3 -rs 1 -tf 5.5", 4.444943 cannot be matched
+ruby,56,laghos,"-p 3 -dim 3 -rs 1 -tf 5.5 -pa", 4.012418 cannot be matched
+ruby,56,laghos,"-p 3 -dim 3 -rs 1 -tf 5 -pa", 3.347889 cannot be matched
+ruby,56,laghos,"-p 3 -dim 3 -rs 2 -tf 3.5", 8.538961 cannot be matched
+ruby,56,laghos,"-p 3 -dim 3 -rs 2 -tf 3.5 -pa", 8.585027 cannot be matched
+ruby,56,laghos,"-p 3 -dim 3 -rs 2 -tf 3", 7.603418 cannot be matched
+ruby,56,laghos,"-p 3 -dim 3 -rs 2 -tf 3 -pa", 7.623797 cannot be matched
+ruby,56,laghos,"-p 3 -dim 3 -rs 2 -tf 4.5", 10.886560 cannot be matched
+ruby,56,laghos,"-p 3 -dim 3 -rs 2 -tf 4.5 -pa", 10.915685 cannot be matched
+ruby,56,laghos,"-p 3 -dim 3 -rs 2 -tf 4", 9.700221 cannot be matched
+ruby,56,laghos,"-p 3 -dim 3 -rs 2 -tf 4 -pa", 9.933451 cannot be matched
+ruby,56,laghos,"-p 3 -dim 3 -rs 2 -tf 5", 12.114337 cannot be matched
+ruby,56,laghos,"-p 3 -dim 3 -rs 2 -tf 5.5", 14.060384 cannot be matched
+ruby,56,laghos,"-p 3 -dim 3 -rs 2 -tf 5.5 -pa", 13.280772 cannot be matched
+ruby,56,laghos,"-p 3 -dim 3 -rs 2 -tf 5 -pa", 12.116596 cannot be matched
+ruby,1,XSBench,"-m event -s XXL -G unionized", 62.898683 cannot be matched
+ruby,1,XSBench,"-m history -s XXL -G unionized", 62.497089 cannot be matched

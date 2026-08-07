@@ -1,0 +1,9 @@
+
+Currently Loaded Modules:
+  1) flux_wrappers/0.1   2) StdEnv (S)   3) rocm/5.5.0   4) clang/14.0.6-magic   5) cmake/3.23.1   6) mvapich2/2.3.6
+
+  Where:
+   S:  Module is Sticky, requires --force to unload or purge
+
+ 
+

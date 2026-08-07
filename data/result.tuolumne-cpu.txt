@@ -1,0 +1,740 @@
+amg, tuolumne-cpu, 1, -problem 2 -P 1 1 1 -n 128 128 128, 114.070329
+amg, tuolumne-cpu, 1, -problem 2 -P 1 1 1 -n 16 16 16, 0.361380
+amg, tuolumne-cpu, 1, -problem 2 -P 1 1 1 -n 256 256 256, 1106.443388
+amg, tuolumne-cpu, 1, -problem 2 -P 1 1 1 -n 32 32 32, 1.334103
+amg, tuolumne-cpu, 1, -problem 2 -P 1 1 1 -n 64 64 64, 13.296765
+amg, tuolumne-cpu, 1, -problem 2 -P 1 1 1 -n 8 8 8, 0.252829
+amg, tuolumne-cpu, 32, -problem 1 -P 4 4 2 -n 128 128 64, 12.102458
+amg, tuolumne-cpu, 32, -problem 1 -P 4 4 2 -n 16 16 8, 1.094708
+amg, tuolumne-cpu, 32, -problem 1 -P 4 4 2 -n 32 32 16, 1.234857
+amg, tuolumne-cpu, 32, -problem 1 -P 4 4 2 -n 64 64 32, 2.265028
+amg, tuolumne-cpu, 32, -problem 1 -P 4 4 2 -n 8 8 4, 1.043227
+amg, tuolumne-cpu, 32, -problem 2 -P 4 4 2 -n 128 128 64, 86.092485
+amg, tuolumne-cpu, 32, -problem 2 -P 4 4 2 -n 16 16 8, 1.395314
+amg, tuolumne-cpu, 32, -problem 2 -P 4 4 2 -n 32 32 16, 2.347285
+amg, tuolumne-cpu, 32, -problem 2 -P 4 4 2 -n 64 64 32, 11.076254
+amg, tuolumne-cpu, 32, -problem 2 -P 4 4 2 -n 8 8 4, 1.240527
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod bj --groups 16 --legendre 0 --arch Sequential, 1.600628
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod bj --groups 16 --legendre 1 --arch Sequential, 1.681894
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod bj --groups 16 --legendre 2 --arch Sequential, 1.899965
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod bj --groups 16 --legendre 3 --arch Sequential, 2.196759
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod bj --groups 16 --legendre 4 --arch Sequential, 2.602600
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod bj --groups 32 --legendre 0 --arch Sequential, 2.577530
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod bj --groups 32 --legendre 1 --arch Sequential, 2.889231
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod bj --groups 32 --legendre 2 --arch Sequential, 4.049319
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod bj --groups 32 --legendre 3 --arch Sequential, 4.767293
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod bj --groups 32 --legendre 4 --arch Sequential, 5.493591
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod bj --groups 8 --legendre 0 --arch Sequential, 1.176249
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod bj --groups 8 --legendre 1 --arch Sequential, 1.095224
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod bj --groups 8 --legendre 2 --arch Sequential, 1.186407
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod bj --groups 8 --legendre 3 --arch Sequential, 1.304846
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod bj --groups 8 --legendre 4 --arch Sequential, 1.522225
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod sweep --groups 16 --legendre 0 --arch Sequential, 1.506916
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod sweep --groups 16 --legendre 1 --arch Sequential, 1.600151
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod sweep --groups 16 --legendre 2 --arch Sequential, 1.844157
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod sweep --groups 16 --legendre 3 --arch Sequential, 2.134731
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod sweep --groups 16 --legendre 4 --arch Sequential, 2.499177
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod sweep --groups 32 --legendre 0 --arch Sequential, 2.436613
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod sweep --groups 32 --legendre 1 --arch Sequential, 3.465677
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod sweep --groups 32 --legendre 2 --arch Sequential, 3.593273
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod sweep --groups 32 --legendre 3 --arch Sequential, 4.162986
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod sweep --groups 32 --legendre 4 --arch Sequential, 5.214750
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod sweep --groups 8 --legendre 0 --arch Sequential, 1.083148
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod sweep --groups 8 --legendre 1 --arch Sequential, 1.178255
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod sweep --groups 8 --legendre 2 --arch Sequential, 1.254867
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod sweep --groups 8 --legendre 3 --arch Sequential, 1.292337
+kripke, tuolumne-cpu, 1, --niter 10 --pmethod sweep --groups 8 --legendre 4 --arch Sequential, 1.457421
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod bj --groups 16 --legendre 0 --arch Sequential, 2.511244
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod bj --groups 16 --legendre 1 --arch Sequential, 2.476986
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod bj --groups 16 --legendre 2 --arch Sequential, 2.591983
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod bj --groups 16 --legendre 3 --arch Sequential, 3.212612
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod bj --groups 16 --legendre 4 --arch Sequential, 4.041093
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod bj --groups 32 --legendre 0 --arch Sequential, 4.384240
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod bj --groups 32 --legendre 1 --arch Sequential, 3.985689
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod bj --groups 32 --legendre 2 --arch Sequential, 5.252912
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod bj --groups 32 --legendre 3 --arch Sequential, 6.242141
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod bj --groups 32 --legendre 4 --arch Sequential, 7.747129
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod bj --groups 8 --legendre 0 --arch Sequential, 1.330316
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod bj --groups 8 --legendre 1 --arch Sequential, 1.376255
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod bj --groups 8 --legendre 2 --arch Sequential, 1.525650
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod bj --groups 8 --legendre 3 --arch Sequential, 1.803139
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod bj --groups 8 --legendre 4 --arch Sequential, 2.081326
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod sweep --groups 16 --legendre 0 --arch Sequential, 1.985693
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod sweep --groups 16 --legendre 1 --arch Sequential, 2.116709
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod sweep --groups 16 --legendre 2 --arch Sequential, 2.452593
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod sweep --groups 16 --legendre 3 --arch Sequential, 2.910465
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod sweep --groups 16 --legendre 4 --arch Sequential, 3.971441
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod sweep --groups 32 --legendre 0 --arch Sequential, 4.327513
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod sweep --groups 32 --legendre 1 --arch Sequential, 4.096056
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod sweep --groups 32 --legendre 2 --arch Sequential, 4.846276
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod sweep --groups 32 --legendre 3 --arch Sequential, 5.960995
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod sweep --groups 32 --legendre 4 --arch Sequential, 7.680896
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod sweep --groups 8 --legendre 0 --arch Sequential, 1.238774
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod sweep --groups 8 --legendre 1 --arch Sequential, 1.397257
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod sweep --groups 8 --legendre 2 --arch Sequential, 1.493439
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod sweep --groups 8 --legendre 3 --arch Sequential, 1.623620
+kripke, tuolumne-cpu, 1, --niter 15 --pmethod sweep --groups 8 --legendre 4 --arch Sequential, 2.036705
+kripke, tuolumne-cpu, 1, --niter 40 --pmethod sweep --groups 16 --legendre 0 --arch Sequential, 4.307213
+kripke, tuolumne-cpu, 1, --niter 40 --pmethod sweep --groups 16 --legendre 1 --arch Sequential, 4.697998
+kripke, tuolumne-cpu, 1, --niter 40 --pmethod sweep --groups 16 --legendre 2 --arch Sequential, 5.699511
+kripke, tuolumne-cpu, 1, --niter 40 --pmethod sweep --groups 16 --legendre 3 --arch Sequential, 7.338271
+kripke, tuolumne-cpu, 1, --niter 40 --pmethod sweep --groups 16 --legendre 4 --arch Sequential, 8.205573
+kripke, tuolumne-cpu, 1, --niter 40 --pmethod sweep --groups 32 --legendre 0 --arch Sequential, 10.536304
+kripke, tuolumne-cpu, 1, --niter 40 --pmethod sweep --groups 32 --legendre 1 --arch Sequential, 9.607666
+kripke, tuolumne-cpu, 1, --niter 40 --pmethod sweep --groups 32 --legendre 2 --arch Sequential, 12.426047
+kripke, tuolumne-cpu, 1, --niter 40 --pmethod sweep --groups 32 --legendre 3 --arch Sequential, 15.642124
+kripke, tuolumne-cpu, 1, --niter 40 --pmethod sweep --groups 32 --legendre 4 --arch Sequential, 19.017534
+kripke, tuolumne-cpu, 1, --niter 40 --pmethod sweep --groups 8 --legendre 0 --arch Sequential, 2.780339
+kripke, tuolumne-cpu, 1, --niter 40 --pmethod sweep --groups 8 --legendre 1 --arch Sequential, 2.629947
+kripke, tuolumne-cpu, 1, --niter 40 --pmethod sweep --groups 8 --legendre 2 --arch Sequential, 3.711817
+kripke, tuolumne-cpu, 1, --niter 40 --pmethod sweep --groups 8 --legendre 3 --arch Sequential, 3.403924
+kripke, tuolumne-cpu, 1, --niter 40 --pmethod sweep --groups 8 --legendre 4 --arch Sequential, 4.470738
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod bj --groups 16 --legendre 0 --arch Sequential, 1.209839
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod bj --groups 16 --legendre 1 --arch Sequential, 1.306039
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod bj --groups 16 --legendre 2 --arch Sequential, 1.254147
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod bj --groups 16 --legendre 3 --arch Sequential, 1.417047
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod bj --groups 16 --legendre 4 --arch Sequential, 1.748120
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod bj --groups 32 --legendre 0 --arch Sequential, 1.633483
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod bj --groups 32 --legendre 1 --arch Sequential, 1.887887
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod bj --groups 32 --legendre 2 --arch Sequential, 2.073542
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod bj --groups 32 --legendre 3 --arch Sequential, 2.518976
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod bj --groups 32 --legendre 4 --arch Sequential, 3.236722
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod bj --groups 8 --legendre 0 --arch Sequential, 1.140295
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod bj --groups 8 --legendre 1 --arch Sequential, 0.827906
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod bj --groups 8 --legendre 2 --arch Sequential, 0.936581
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod bj --groups 8 --legendre 3 --arch Sequential, 0.980607
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod bj --groups 8 --legendre 4 --arch Sequential, 1.073255
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod sweep --groups 16 --legendre 0 --arch Sequential, 1.108825
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod sweep --groups 16 --legendre 1 --arch Sequential, 1.184350
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod sweep --groups 16 --legendre 2 --arch Sequential, 1.226708
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod sweep --groups 16 --legendre 3 --arch Sequential, 1.540695
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod sweep --groups 16 --legendre 4 --arch Sequential, 1.575319
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod sweep --groups 32 --legendre 0 --arch Sequential, 1.537044
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod sweep --groups 32 --legendre 1 --arch Sequential, 2.006405
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod sweep --groups 32 --legendre 2 --arch Sequential, 2.025597
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod sweep --groups 32 --legendre 3 --arch Sequential, 2.402087
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod sweep --groups 32 --legendre 4 --arch Sequential, 2.994658
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod sweep --groups 8 --legendre 0 --arch Sequential, 0.857790
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod sweep --groups 8 --legendre 1 --arch Sequential, 0.829707
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod sweep --groups 8 --legendre 2 --arch Sequential, 0.885982
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod sweep --groups 8 --legendre 3 --arch Sequential, 0.966879
+kripke, tuolumne-cpu, 1, --niter 5 --pmethod sweep --groups 8 --legendre 4 --arch Sequential, 1.079408
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3, 14.088552
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3 -pa, 13.445152
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.1, 13.741328
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.1 -pa, 13.777264
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.2, 13.826841
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.2 -pa, 13.517234
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.3, 13.592184
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.3 -pa, 13.651591
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.4, 13.646547
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.4 -pa, 14.624674
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.5, 13.852286
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.5 -pa, 14.217204
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.6, 14.547809
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.6 -pa, 14.828750
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.7, 14.686703
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.7 -pa, 14.676633
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.8, 14.515519
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.8 -pa, 14.301711
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.9, 14.571847
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.9 -pa, 14.928718
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4, 14.989056
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4 -pa, 14.992563
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.1, 15.667223
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.1 -pa, 15.020521
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.2, 15.488173
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.2 -pa, 15.985217
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.3, 16.190832
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.3 -pa, 15.689935
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.4, 15.943900
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.4 -pa, 16.813302
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.5, 16.553870
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.5 -pa, 16.066900
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.6, 16.741710
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.6 -pa, 16.871112
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.7, 16.998599
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.7 -pa, 16.918144
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.8, 17.088439
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.8 -pa, 16.666191
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.9, 17.156428
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.9 -pa, 18.099494
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 5, 17.546397
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 5 -pa, 17.319254
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 5.5, 18.171360
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 2 -tf 5.5 -pa, 18.514861
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3, 51.977286
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3 -pa, 51.346774
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.1, 53.705018
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.1 -pa, 52.958162
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.2, 54.073721
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.2 -pa, 54.990751
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.3, 55.784450
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.3 -pa, 54.921704
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.4, 56.518279
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.4 -pa, 56.712887
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.5, 57.345800
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.5 -pa, 57.651426
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.6, 58.540831
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.6 -pa, 58.254393
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.7, 58.920355
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.7 -pa, 58.901182
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.8, 59.548235
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.8 -pa, 60.048945
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.9, 61.074029
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.9 -pa, 61.420406
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4, 62.711177
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4 -pa, 63.265273
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.1, 66.531440
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.1 -pa, 65.770569
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.2, 69.341078
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.2 -pa, 69.084302
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.3, 72.974074
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.3 -pa, 73.274533
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.4, 76.899773
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.4 -pa, 77.214733
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.5, 79.879474
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.5 -pa, 80.087393
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.6, 81.695402
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.6 -pa, 81.956351
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.7, 83.488714
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.7 -pa, 84.292718
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.8, 85.676494
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.8 -pa, 85.769702
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.9, 88.240651
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.9 -pa, 88.713280
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 5, 91.202531
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 5 -pa, 90.457143
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 5.5, 100.498564
+laghos, tuolumne-cpu, 1, -p 1 -dim 2 -rs 3 -tf 5.5 -pa, 101.249133
+laghos, tuolumne-cpu, 1, -p 1 -dim 3 -rs 1 -tf 3, 34.595811
+laghos, tuolumne-cpu, 1, -p 1 -dim 3 -rs 1 -tf 3 -pa, 35.303486
+laghos, tuolumne-cpu, 1, -p 1 -dim 3 -rs 1 -tf 3.5, 42.618004
+laghos, tuolumne-cpu, 1, -p 1 -dim 3 -rs 1 -tf 3.5 -pa, 42.453147
+laghos, tuolumne-cpu, 1, -p 1 -dim 3 -rs 1 -tf 4, 49.615992
+laghos, tuolumne-cpu, 1, -p 1 -dim 3 -rs 1 -tf 4 -pa, 49.847108
+laghos, tuolumne-cpu, 1, -p 1 -dim 3 -rs 1 -tf 4.5, 56.661145
+laghos, tuolumne-cpu, 1, -p 1 -dim 3 -rs 1 -tf 4.5 -pa, 56.814244
+laghos, tuolumne-cpu, 1, -p 1 -dim 3 -rs 1 -tf 5, 62.117439
+laghos, tuolumne-cpu, 1, -p 1 -dim 3 -rs 1 -tf 5 -pa, 62.310088
+laghos, tuolumne-cpu, 1, -p 1 -dim 3 -rs 1 -tf 5.5, 67.239208
+laghos, tuolumne-cpu, 1, -p 1 -dim 3 -rs 1 -tf 5.5 -pa, 67.266071
+laghos, tuolumne-cpu, 1, -p 1 -dim 3 -rs 2 -tf 3, 565.616854
+laghos, tuolumne-cpu, 1, -p 1 -dim 3 -rs 2 -tf 3 -pa, 564.548708
+laghos, tuolumne-cpu, 1, -p 1 -dim 3 -rs 2 -tf 3.5, 750.216514
+laghos, tuolumne-cpu, 1, -p 1 -dim 3 -rs 2 -tf 3.5 -pa, 749.147932
+laghos, tuolumne-cpu, 1, -p 1 -dim 3 -rs 2 -tf 4, 930.545854
+laghos, tuolumne-cpu, 1, -p 1 -dim 3 -rs 2 -tf 4 -pa, 931.328196
+laghos, tuolumne-cpu, 1, -p 1 -dim 3 -rs 2 -tf 4.5, 1009.178351
+laghos, tuolumne-cpu, 1, -p 1 -dim 3 -rs 2 -tf 4.5 -pa, 1006.669348
+laghos, tuolumne-cpu, 1, -p 1 -dim 3 -rs 2 -tf 5, 1112.032729
+laghos, tuolumne-cpu, 1, -p 1 -dim 3 -rs 2 -tf 5 -pa, 1097.474833
+laghos, tuolumne-cpu, 1, -p 1 -dim 3 -rs 2 -tf 5.5, 1282.711622
+laghos, tuolumne-cpu, 1, -p 1 -dim 3 -rs 2 -tf 5.5 -pa, 1275.342727
+laghos, tuolumne-cpu, 1, -p 2 -dim 2 -rs 2 -tf 3, 13.257430
+laghos, tuolumne-cpu, 1, -p 2 -dim 2 -rs 2 -tf 3 -pa, 14.220038
+laghos, tuolumne-cpu, 1, -p 2 -dim 2 -rs 2 -tf 3.5, 14.799293
+laghos, tuolumne-cpu, 1, -p 2 -dim 2 -rs 2 -tf 3.5 -pa, 14.126931
+laghos, tuolumne-cpu, 1, -p 2 -dim 2 -rs 2 -tf 4, 14.771910
+laghos, tuolumne-cpu, 1, -p 2 -dim 2 -rs 2 -tf 4 -pa, 15.582046
+laghos, tuolumne-cpu, 1, -p 2 -dim 2 -rs 2 -tf 4.5, 16.009568
+laghos, tuolumne-cpu, 1, -p 2 -dim 2 -rs 2 -tf 4.5 -pa, 15.950890
+laghos, tuolumne-cpu, 1, -p 2 -dim 2 -rs 2 -tf 5, 16.359277
+laghos, tuolumne-cpu, 1, -p 2 -dim 2 -rs 2 -tf 5 -pa, 16.615832
+laghos, tuolumne-cpu, 1, -p 2 -dim 2 -rs 2 -tf 5.5, 17.601384
+laghos, tuolumne-cpu, 1, -p 2 -dim 2 -rs 2 -tf 5.5 -pa, 18.093673
+laghos, tuolumne-cpu, 1, -p 2 -dim 3 -rs 1 -tf 3, 34.022219
+laghos, tuolumne-cpu, 1, -p 2 -dim 3 -rs 1 -tf 3 -pa, 33.703568
+laghos, tuolumne-cpu, 1, -p 2 -dim 3 -rs 1 -tf 3.5, 38.696519
+laghos, tuolumne-cpu, 1, -p 2 -dim 3 -rs 1 -tf 3.5 -pa, 38.545634
+laghos, tuolumne-cpu, 1, -p 2 -dim 3 -rs 1 -tf 4, 40.881939
+laghos, tuolumne-cpu, 1, -p 2 -dim 3 -rs 1 -tf 4 -pa, 40.832931
+laghos, tuolumne-cpu, 1, -p 2 -dim 3 -rs 1 -tf 4.5, 44.055742
+laghos, tuolumne-cpu, 1, -p 2 -dim 3 -rs 1 -tf 4.5 -pa, 43.312305
+laghos, tuolumne-cpu, 1, -p 2 -dim 3 -rs 1 -tf 5, 48.234713
+laghos, tuolumne-cpu, 1, -p 2 -dim 3 -rs 1 -tf 5 -pa, 48.715442
+laghos, tuolumne-cpu, 1, -p 2 -dim 3 -rs 1 -tf 5.5, 51.783102
+laghos, tuolumne-cpu, 1, -p 2 -dim 3 -rs 1 -tf 5.5 -pa, 51.768560
+laghos, tuolumne-cpu, 1, -p 2 -dim 3 -rs 2 -tf 3, 520.146475
+laghos, tuolumne-cpu, 1, -p 2 -dim 3 -rs 2 -tf 3 -pa, 521.101049
+laghos, tuolumne-cpu, 1, -p 3 -dim 2 -rs 1 -tf 3, 7.738838
+laghos, tuolumne-cpu, 1, -p 3 -dim 2 -rs 1 -tf 3 -pa, 7.673901
+laghos, tuolumne-cpu, 1, -p 3 -dim 2 -rs 1 -tf 3.5, 7.288041
+laghos, tuolumne-cpu, 1, -p 3 -dim 2 -rs 1 -tf 3.5 -pa, 7.160342
+laghos, tuolumne-cpu, 1, -p 3 -dim 2 -rs 1 -tf 4, 8.520870
+laghos, tuolumne-cpu, 1, -p 3 -dim 2 -rs 1 -tf 4 -pa, 7.601983
+laghos, tuolumne-cpu, 1, -p 3 -dim 2 -rs 1 -tf 4.5, 8.161494
+laghos, tuolumne-cpu, 1, -p 3 -dim 2 -rs 1 -tf 4.5 -pa, 7.481911
+laghos, tuolumne-cpu, 1, -p 3 -dim 2 -rs 1 -tf 5, 8.126220
+laghos, tuolumne-cpu, 1, -p 3 -dim 2 -rs 1 -tf 5 -pa, 8.533194
+laghos, tuolumne-cpu, 1, -p 3 -dim 2 -rs 1 -tf 5.5, 7.691259
+laghos, tuolumne-cpu, 1, -p 3 -dim 2 -rs 1 -tf 5.5 -pa, 7.963788
+laghos, tuolumne-cpu, 1, -p 3 -dim 2 -rs 2 -tf 3, 8.906286
+laghos, tuolumne-cpu, 1, -p 3 -dim 2 -rs 2 -tf 3 -pa, 8.962019
+laghos, tuolumne-cpu, 1, -p 3 -dim 2 -rs 2 -tf 3.5, 7.905459
+laghos, tuolumne-cpu, 1, -p 3 -dim 2 -rs 2 -tf 3.5 -pa, 8.789201
+laghos, tuolumne-cpu, 1, -p 3 -dim 2 -rs 2 -tf 4, 8.331111
+laghos, tuolumne-cpu, 1, -p 3 -dim 2 -rs 2 -tf 4 -pa, 8.574352
+laghos, tuolumne-cpu, 1, -p 3 -dim 2 -rs 2 -tf 4.5, 9.342703
+laghos, tuolumne-cpu, 1, -p 3 -dim 2 -rs 2 -tf 4.5 -pa, 9.149695
+laghos, tuolumne-cpu, 1, -p 3 -dim 2 -rs 2 -tf 5, 8.952404
+laghos, tuolumne-cpu, 1, -p 3 -dim 2 -rs 2 -tf 5 -pa, 8.850285
+laghos, tuolumne-cpu, 1, -p 3 -dim 2 -rs 2 -tf 5.5, 9.497447
+laghos, tuolumne-cpu, 1, -p 3 -dim 2 -rs 2 -tf 5.5 -pa, 8.858132
+laghos, tuolumne-cpu, 1, -p 3 -dim 3 -rs 1 -tf 3, 10.365798
+laghos, tuolumne-cpu, 1, -p 3 -dim 3 -rs 1 -tf 3 -pa, 10.491431
+laghos, tuolumne-cpu, 1, -p 3 -dim 3 -rs 1 -tf 3.5, 11.517656
+laghos, tuolumne-cpu, 1, -p 3 -dim 3 -rs 1 -tf 3.5 -pa, 11.926199
+laghos, tuolumne-cpu, 1, -p 3 -dim 3 -rs 1 -tf 4, 11.874279
+laghos, tuolumne-cpu, 1, -p 3 -dim 3 -rs 1 -tf 4 -pa, 12.136981
+laghos, tuolumne-cpu, 1, -p 3 -dim 3 -rs 1 -tf 4.5, 12.966274
+laghos, tuolumne-cpu, 1, -p 3 -dim 3 -rs 1 -tf 4.5 -pa, 12.909865
+laghos, tuolumne-cpu, 1, -p 3 -dim 3 -rs 1 -tf 5, 13.652524
+laghos, tuolumne-cpu, 1, -p 3 -dim 3 -rs 1 -tf 5 -pa, 13.211376
+laghos, tuolumne-cpu, 1, -p 3 -dim 3 -rs 1 -tf 5.5, 13.553777
+laghos, tuolumne-cpu, 1, -p 3 -dim 3 -rs 1 -tf 5.5 -pa, 13.877151
+laghos, tuolumne-cpu, 1, -p 3 -dim 3 -rs 2 -tf 3, 63.402340
+laghos, tuolumne-cpu, 1, -p 3 -dim 3 -rs 2 -tf 3 -pa, 62.847985
+laghos, tuolumne-cpu, 1, -p 3 -dim 3 -rs 2 -tf 3.5, 71.958031
+laghos, tuolumne-cpu, 1, -p 3 -dim 3 -rs 2 -tf 3.5 -pa, 72.995730
+laghos, tuolumne-cpu, 1, -p 3 -dim 3 -rs 2 -tf 4, 81.840949
+laghos, tuolumne-cpu, 1, -p 3 -dim 3 -rs 2 -tf 4 -pa, 81.570979
+laghos, tuolumne-cpu, 1, -p 3 -dim 3 -rs 2 -tf 4.5, 90.524171
+laghos, tuolumne-cpu, 1, -p 3 -dim 3 -rs 2 -tf 4.5 -pa, 90.049324
+laghos, tuolumne-cpu, 1, -p 3 -dim 3 -rs 2 -tf 5, 99.799449
+laghos, tuolumne-cpu, 1, -p 3 -dim 3 -rs 2 -tf 5 -pa, 99.758284
+laghos, tuolumne-cpu, 1, -p 3 -dim 3 -rs 2 -tf 5.5, 109.042184
+laghos, tuolumne-cpu, 1, -p 3 -dim 3 -rs 2 -tf 5.5 -pa, 109.496114
+miniFE, tuolumne-cpu, 1, -nx 100 -ny 100 -nz 100, 7.705486
+miniFE, tuolumne-cpu, 1, -nx 100 -ny 100 -nz 50, 3.969384
+miniFE, tuolumne-cpu, 1, -nx 100 -ny 50 -nz 50, 2.200529
+miniFE, tuolumne-cpu, 1, -nx 100 -ny 75 -nz 50, 3.236519
+miniFE, tuolumne-cpu, 1, -nx 100 -ny 75 -nz 75, 4.524379
+miniFE, tuolumne-cpu, 1, -nx 125 -ny 100 -nz 100, 9.699358
+miniFE, tuolumne-cpu, 1, -nx 125 -ny 100 -nz 50, 4.886997
+miniFE, tuolumne-cpu, 1, -nx 125 -ny 125 -nz 125, 14.350983
+miniFE, tuolumne-cpu, 1, -nx 125 -ny 125 -nz 50, 6.001714
+miniFE, tuolumne-cpu, 1, -nx 125 -ny 50 -nz 50, 2.621798
+miniFE, tuolumne-cpu, 1, -nx 125 -ny 75 -nz 50, 3.530309
+miniFE, tuolumne-cpu, 1, -nx 125 -ny 75 -nz 75, 5.252272
+miniFE, tuolumne-cpu, 1, -nx 150 -ny 100 -nz 100, 12.661691
+miniFE, tuolumne-cpu, 1, -nx 150 -ny 100 -nz 50, 5.972752
+miniFE, tuolumne-cpu, 1, -nx 150 -ny 125 -nz 125, 18.177170
+miniFE, tuolumne-cpu, 1, -nx 150 -ny 125 -nz 50, 7.031888
+miniFE, tuolumne-cpu, 1, -nx 150 -ny 150 -nz 150, 21.980372
+miniFE, tuolumne-cpu, 1, -nx 150 -ny 150 -nz 50, 8.468739
+miniFE, tuolumne-cpu, 1, -nx 150 -ny 50 -nz 50, 3.158530
+miniFE, tuolumne-cpu, 1, -nx 150 -ny 75 -nz 50, 4.443012
+miniFE, tuolumne-cpu, 1, -nx 150 -ny 75 -nz 75, 6.474381
+miniFE, tuolumne-cpu, 1, -nx 175 -ny 100 -nz 100, 11.537014
+miniFE, tuolumne-cpu, 1, -nx 175 -ny 100 -nz 50, 6.063675
+miniFE, tuolumne-cpu, 1, -nx 175 -ny 125 -nz 125, 18.752086
+miniFE, tuolumne-cpu, 1, -nx 175 -ny 125 -nz 50, 7.888870
+miniFE, tuolumne-cpu, 1, -nx 175 -ny 150 -nz 150, 25.345095
+miniFE, tuolumne-cpu, 1, -nx 175 -ny 150 -nz 50, 9.139769
+miniFE, tuolumne-cpu, 1, -nx 175 -ny 175 -nz 175, 36.513516
+miniFE, tuolumne-cpu, 1, -nx 175 -ny 175 -nz 50, 9.802701
+miniFE, tuolumne-cpu, 1, -nx 175 -ny 50 -nz 50, 3.088205
+miniFE, tuolumne-cpu, 1, -nx 175 -ny 75 -nz 50, 4.601588
+miniFE, tuolumne-cpu, 1, -nx 175 -ny 75 -nz 75, 6.739442
+miniFE, tuolumne-cpu, 1, -nx 200 -ny 100 -nz 100, 15.237363
+miniFE, tuolumne-cpu, 1, -nx 200 -ny 100 -nz 50, 7.775351
+miniFE, tuolumne-cpu, 1, -nx 200 -ny 125 -nz 125, 23.504350
+miniFE, tuolumne-cpu, 1, -nx 200 -ny 125 -nz 50, 9.794833
+miniFE, tuolumne-cpu, 1, -nx 200 -ny 150 -nz 150, 30.715324
+miniFE, tuolumne-cpu, 1, -nx 200 -ny 150 -nz 50, 10.569641
+miniFE, tuolumne-cpu, 1, -nx 200 -ny 175 -nz 175, 42.283237
+miniFE, tuolumne-cpu, 1, -nx 200 -ny 175 -nz 50, 12.203438
+miniFE, tuolumne-cpu, 1, -nx 200 -ny 200 -nz 200, 55.395663
+miniFE, tuolumne-cpu, 1, -nx 200 -ny 200 -nz 50, 14.766352
+miniFE, tuolumne-cpu, 1, -nx 200 -ny 50 -nz 50, 4.271361
+miniFE, tuolumne-cpu, 1, -nx 200 -ny 75 -nz 50, 5.804174
+miniFE, tuolumne-cpu, 1, -nx 200 -ny 75 -nz 75, 8.589733
+miniFE, tuolumne-cpu, 1, -nx 50 -ny 50 -nz 50, 0.990620
+miniFE, tuolumne-cpu, 1, -nx 75 -ny 75 -nz 75, 3.227963
+miniFE, tuolumne-cpu, 1, -nx 75 -ny 50 -nz 50, 1.508549
+miniFE, tuolumne-cpu, 1, -nx 75 -ny 75 -nz 50, 2.195498
+miniVite, tuolumne-cpu, 1, -l -p 1 -n 128, 0.240427
+miniVite, tuolumne-cpu, 1, -l -p 1 -n 256, 0.251695
+miniVite, tuolumne-cpu, 1, -l -p 1 -n 32, 0.235294
+miniVite, tuolumne-cpu, 1, -l -p 1 -n 512, 0.247535
+miniVite, tuolumne-cpu, 1, -l -p 1 -n 64, 0.240789
+miniVite, tuolumne-cpu, 1, -l -p 2 -n 128, 0.241771
+miniVite, tuolumne-cpu, 1, -l -p 2 -n 256, 0.240892
+miniVite, tuolumne-cpu, 1, -l -p 2 -n 32, 0.239773
+miniVite, tuolumne-cpu, 1, -l -p 2 -n 512, 0.244537
+miniVite, tuolumne-cpu, 1, -l -p 2 -n 64, 0.234501
+miniVite, tuolumne-cpu, 1, -l -p 3 -n 128, 0.241308
+miniVite, tuolumne-cpu, 1, -l -p 3 -n 256, 0.254643
+miniVite, tuolumne-cpu, 1, -l -p 3 -n 32, 0.254461
+miniVite, tuolumne-cpu, 1, -l -p 3 -n 512, 0.241313
+miniVite, tuolumne-cpu, 1, -l -p 3 -n 64, 0.238473
+miniVite, tuolumne-cpu, 1, -l -p 4 -n 128, 0.251001
+miniVite, tuolumne-cpu, 1, -l -p 4 -n 256, 0.238014
+miniVite, tuolumne-cpu, 1, -l -p 4 -n 32, 0.240020
+miniVite, tuolumne-cpu, 1, -l -p 4 -n 512, 0.241987
+miniVite, tuolumne-cpu, 1, -l -p 4 -n 64, 0.238742
+miniVite, tuolumne-cpu, 1, -l -p 5 -n 128, 0.235656
+miniVite, tuolumne-cpu, 1, -l -p 5 -n 256, 0.241506
+miniVite, tuolumne-cpu, 1, -l -p 5 -n 32, 0.236786
+miniVite, tuolumne-cpu, 1, -l -p 5 -n 512, 0.268194
+miniVite, tuolumne-cpu, 1, -l -p 5 -n 64, 0.254655
+miniVite, tuolumne-cpu, 1, -l -p 6 -n 128, 0.262455
+miniVite, tuolumne-cpu, 1, -l -p 6 -n 256, 0.241186
+miniVite, tuolumne-cpu, 1, -l -p 6 -n 32, 0.246379
+miniVite, tuolumne-cpu, 1, -l -p 6 -n 512, 0.260761
+miniVite, tuolumne-cpu, 1, -l -p 6 -n 64, 0.245925
+miniVite, tuolumne-cpu, 1, -l -p 7 -n 128, 0.237553
+miniVite, tuolumne-cpu, 1, -l -p 7 -n 256, 0.238940
+miniVite, tuolumne-cpu, 1, -l -p 7 -n 32, 0.239417
+miniVite, tuolumne-cpu, 1, -l -p 7 -n 512, 0.251458
+miniVite, tuolumne-cpu, 1, -l -p 7 -n 64, 0.238292
+miniVite, tuolumne-cpu, 1, -l -p 8 -n 128, 0.256974
+miniVite, tuolumne-cpu, 1, -l -p 8 -n 256, 0.243674
+miniVite, tuolumne-cpu, 1, -l -p 8 -n 32, 0.248809
+miniVite, tuolumne-cpu, 1, -l -p 8 -n 512, 0.242599
+miniVite, tuolumne-cpu, 1, -l -p 8 -n 64, 0.239339
+miniVite, tuolumne-cpu, 1, -l -p 9 -n 128, 0.258887
+miniVite, tuolumne-cpu, 1, -l -p 9 -n 256, 0.242309
+miniVite, tuolumne-cpu, 1, -l -p 9 -n 32, 0.237604
+miniVite, tuolumne-cpu, 1, -l -p 9 -n 512, 0.246836
+miniVite, tuolumne-cpu, 1, -l -p 9 -n 64, 0.238061
+miniVite, tuolumne-cpu, 1, -p 1 -n 128, 0.240958
+miniVite, tuolumne-cpu, 1, -p 1 -n 256, 0.241957
+miniVite, tuolumne-cpu, 1, -p 1 -n 32, 0.241910
+miniVite, tuolumne-cpu, 1, -p 1 -n 512, 0.241172
+miniVite, tuolumne-cpu, 1, -p 1 -n 64, 0.240362
+miniVite, tuolumne-cpu, 1, -p 2 -n 128, 0.235871
+miniVite, tuolumne-cpu, 1, -p 2 -n 256, 0.237741
+miniVite, tuolumne-cpu, 1, -p 2 -n 32, 0.243303
+miniVite, tuolumne-cpu, 1, -p 2 -n 512, 0.293730
+miniVite, tuolumne-cpu, 1, -p 2 -n 64, 0.240532
+miniVite, tuolumne-cpu, 1, -p 3 -n 128, 0.264440
+miniVite, tuolumne-cpu, 1, -p 3 -n 256, 0.238139
+miniVite, tuolumne-cpu, 1, -p 3 -n 32, 0.238242
+miniVite, tuolumne-cpu, 1, -p 3 -n 512, 0.237559
+miniVite, tuolumne-cpu, 1, -p 3 -n 64, 0.236442
+miniVite, tuolumne-cpu, 1, -p 4 -n 128, 0.254558
+miniVite, tuolumne-cpu, 1, -p 4 -n 256, 0.236166
+miniVite, tuolumne-cpu, 1, -p 4 -n 32, 0.241825
+miniVite, tuolumne-cpu, 1, -p 4 -n 512, 0.248673
+miniVite, tuolumne-cpu, 1, -p 4 -n 64, 0.241433
+miniVite, tuolumne-cpu, 1, -p 5 -n 128, 0.246968
+miniVite, tuolumne-cpu, 1, -p 5 -n 256, 0.243710
+miniVite, tuolumne-cpu, 1, -p 5 -n 32, 0.240418
+miniVite, tuolumne-cpu, 1, -p 5 -n 512, 0.263248
+miniVite, tuolumne-cpu, 1, -p 5 -n 64, 0.267475
+miniVite, tuolumne-cpu, 1, -p 6 -n 128, 0.240295
+miniVite, tuolumne-cpu, 1, -p 6 -n 256, 0.239926
+miniVite, tuolumne-cpu, 1, -p 6 -n 32, 0.237594
+miniVite, tuolumne-cpu, 1, -p 6 -n 512, 0.248291
+miniVite, tuolumne-cpu, 1, -p 6 -n 64, 0.237460
+miniVite, tuolumne-cpu, 1, -p 7 -n 128, 0.236102
+miniVite, tuolumne-cpu, 1, -p 7 -n 256, 0.247070
+miniVite, tuolumne-cpu, 1, -p 7 -n 32, 0.238278
+miniVite, tuolumne-cpu, 1, -p 7 -n 512, 0.243224
+miniVite, tuolumne-cpu, 1, -p 7 -n 64, 0.239742
+miniVite, tuolumne-cpu, 1, -p 8 -n 128, 0.243739
+miniVite, tuolumne-cpu, 1, -p 8 -n 256, 0.246960
+miniVite, tuolumne-cpu, 1, -p 8 -n 32, 0.244489
+miniVite, tuolumne-cpu, 1, -p 8 -n 512, 0.244958
+miniVite, tuolumne-cpu, 1, -p 8 -n 64, 0.245638
+miniVite, tuolumne-cpu, 1, -p 9 -n 128, 0.243628
+miniVite, tuolumne-cpu, 1, -p 9 -n 256, 0.250144
+miniVite, tuolumne-cpu, 1, -p 9 -n 32, 0.238428
+miniVite, tuolumne-cpu, 1, -p 9 -n 512, 0.299880
+miniVite, tuolumne-cpu, 1, -p 9 -n 64, 0.239864
+miniVite, tuolumne-cpu, 1, -w -l -p 1 -n 128, 0.300654
+miniVite, tuolumne-cpu, 1, -w -l -p 1 -n 256, 0.242505
+miniVite, tuolumne-cpu, 1, -w -l -p 1 -n 32, 0.235199
+miniVite, tuolumne-cpu, 1, -w -l -p 1 -n 512, 0.254450
+miniVite, tuolumne-cpu, 1, -w -l -p 1 -n 64, 0.243701
+miniVite, tuolumne-cpu, 1, -w -l -p 2 -n 128, 0.241360
+miniVite, tuolumne-cpu, 1, -w -l -p 2 -n 256, 0.254798
+miniVite, tuolumne-cpu, 1, -w -l -p 2 -n 32, 0.253968
+miniVite, tuolumne-cpu, 1, -w -l -p 2 -n 512, 0.250093
+miniVite, tuolumne-cpu, 1, -w -l -p 2 -n 64, 0.236645
+miniVite, tuolumne-cpu, 1, -w -l -p 3 -n 128, 0.236346
+miniVite, tuolumne-cpu, 1, -w -l -p 3 -n 256, 0.240824
+miniVite, tuolumne-cpu, 1, -w -l -p 3 -n 32, 0.243700
+miniVite, tuolumne-cpu, 1, -w -l -p 3 -n 512, 0.245431
+miniVite, tuolumne-cpu, 1, -w -l -p 3 -n 64, 0.239062
+miniVite, tuolumne-cpu, 1, -w -l -p 4 -n 128, 0.242448
+miniVite, tuolumne-cpu, 1, -w -l -p 4 -n 256, 0.242729
+miniVite, tuolumne-cpu, 1, -w -l -p 4 -n 32, 0.239142
+miniVite, tuolumne-cpu, 1, -w -l -p 4 -n 512, 0.245075
+miniVite, tuolumne-cpu, 1, -w -l -p 4 -n 64, 0.239229
+miniVite, tuolumne-cpu, 1, -w -l -p 5 -n 128, 0.240150
+miniVite, tuolumne-cpu, 1, -w -l -p 5 -n 256, 0.247442
+miniVite, tuolumne-cpu, 1, -w -l -p 5 -n 32, 0.243555
+miniVite, tuolumne-cpu, 1, -w -l -p 5 -n 512, 0.251061
+miniVite, tuolumne-cpu, 1, -w -l -p 5 -n 64, 0.240653
+miniVite, tuolumne-cpu, 1, -w -l -p 6 -n 128, 0.241915
+miniVite, tuolumne-cpu, 1, -w -l -p 6 -n 256, 0.247106
+miniVite, tuolumne-cpu, 1, -w -l -p 6 -n 32, 0.241740
+miniVite, tuolumne-cpu, 1, -w -l -p 6 -n 512, 0.239617
+miniVite, tuolumne-cpu, 1, -w -l -p 6 -n 64, 0.235071
+miniVite, tuolumne-cpu, 1, -w -l -p 7 -n 128, 0.240458
+miniVite, tuolumne-cpu, 1, -w -l -p 7 -n 256, 0.244415
+miniVite, tuolumne-cpu, 1, -w -l -p 7 -n 32, 0.241101
+miniVite, tuolumne-cpu, 1, -w -l -p 7 -n 512, 0.247790
+miniVite, tuolumne-cpu, 1, -w -l -p 7 -n 64, 0.238051
+miniVite, tuolumne-cpu, 1, -w -l -p 8 -n 128, 0.240315
+miniVite, tuolumne-cpu, 1, -w -l -p 8 -n 256, 0.241556
+miniVite, tuolumne-cpu, 1, -w -l -p 8 -n 32, 0.234649
+miniVite, tuolumne-cpu, 1, -w -l -p 8 -n 512, 0.243035
+miniVite, tuolumne-cpu, 1, -w -l -p 8 -n 64, 0.243740
+miniVite, tuolumne-cpu, 1, -w -l -p 9 -n 128, 0.243479
+miniVite, tuolumne-cpu, 1, -w -l -p 9 -n 256, 0.263537
+miniVite, tuolumne-cpu, 1, -w -l -p 9 -n 32, 0.238706
+miniVite, tuolumne-cpu, 1, -w -l -p 9 -n 512, 0.249661
+miniVite, tuolumne-cpu, 1, -w -l -p 9 -n 64, 0.239841
+miniVite, tuolumne-cpu, 1, -w -p 1 -n 128, 0.235321
+miniVite, tuolumne-cpu, 1, -w -p 1 -n 256, 0.235952
+miniVite, tuolumne-cpu, 1, -w -p 1 -n 32, 0.241972
+miniVite, tuolumne-cpu, 1, -w -p 1 -n 512, 0.242269
+miniVite, tuolumne-cpu, 1, -w -p 1 -n 64, 0.241489
+miniVite, tuolumne-cpu, 1, -w -p 2 -n 128, 0.242111
+miniVite, tuolumne-cpu, 1, -w -p 2 -n 256, 0.244602
+miniVite, tuolumne-cpu, 1, -w -p 2 -n 32, 0.245007
+miniVite, tuolumne-cpu, 1, -w -p 2 -n 512, 0.243101
+miniVite, tuolumne-cpu, 1, -w -p 2 -n 64, 0.244594
+miniVite, tuolumne-cpu, 1, -w -p 3 -n 128, 0.281573
+miniVite, tuolumne-cpu, 1, -w -p 3 -n 256, 0.242361
+miniVite, tuolumne-cpu, 1, -w -p 3 -n 32, 0.240207
+miniVite, tuolumne-cpu, 1, -w -p 3 -n 512, 0.249068
+miniVite, tuolumne-cpu, 1, -w -p 3 -n 64, 0.241182
+miniVite, tuolumne-cpu, 1, -w -p 4 -n 128, 0.247959
+miniVite, tuolumne-cpu, 1, -w -p 4 -n 256, 0.247372
+miniVite, tuolumne-cpu, 1, -w -p 4 -n 32, 0.244086
+miniVite, tuolumne-cpu, 1, -w -p 4 -n 512, 0.246755
+miniVite, tuolumne-cpu, 1, -w -p 4 -n 64, 0.248017
+miniVite, tuolumne-cpu, 1, -w -p 5 -n 128, 0.242097
+miniVite, tuolumne-cpu, 1, -w -p 5 -n 256, 0.243582
+miniVite, tuolumne-cpu, 1, -w -p 5 -n 32, 0.240887
+miniVite, tuolumne-cpu, 1, -w -p 5 -n 512, 0.310944
+miniVite, tuolumne-cpu, 1, -w -p 5 -n 64, 0.323184
+miniVite, tuolumne-cpu, 1, -w -p 6 -n 128, 0.241234
+miniVite, tuolumne-cpu, 1, -w -p 6 -n 256, 0.244047
+miniVite, tuolumne-cpu, 1, -w -p 6 -n 32, 0.339310
+miniVite, tuolumne-cpu, 1, -w -p 6 -n 512, 0.240457
+miniVite, tuolumne-cpu, 1, -w -p 6 -n 64, 0.241122
+miniVite, tuolumne-cpu, 1, -w -p 7 -n 128, 0.249329
+miniVite, tuolumne-cpu, 1, -w -p 7 -n 256, 0.285763
+miniVite, tuolumne-cpu, 1, -w -p 7 -n 32, 0.243850
+miniVite, tuolumne-cpu, 1, -w -p 7 -n 512, 0.246728
+miniVite, tuolumne-cpu, 1, -w -p 7 -n 64, 0.266967
+miniVite, tuolumne-cpu, 1, -w -p 8 -n 128, 0.238414
+miniVite, tuolumne-cpu, 1, -w -p 8 -n 256, 0.250239
+miniVite, tuolumne-cpu, 1, -w -p 8 -n 32, 0.239257
+miniVite, tuolumne-cpu, 1, -w -p 8 -n 512, 0.246840
+miniVite, tuolumne-cpu, 1, -w -p 8 -n 64, 0.244127
+miniVite, tuolumne-cpu, 1, -w -p 9 -n 128, 0.284802
+miniVite, tuolumne-cpu, 1, -w -p 9 -n 256, 0.240987
+miniVite, tuolumne-cpu, 1, -w -p 9 -n 32, 0.242525
+miniVite, tuolumne-cpu, 1, -w -p 9 -n 512, 0.247168
+miniVite, tuolumne-cpu, 1, -w -p 9 -n 64, 0.242827
+miniVite, tuolumne-cpu, 32, -l -p 1 -n 16384, 1.081669
+miniVite, tuolumne-cpu, 32, -l -p 1 -n 4096, 1.062227
+miniVite, tuolumne-cpu, 32, -l -p 1 -n 8192, 1.079145
+miniVite, tuolumne-cpu, 32, -l -p 2 -n 16384, 1.078627
+miniVite, tuolumne-cpu, 32, -l -p 2 -n 4096, 1.042018
+miniVite, tuolumne-cpu, 32, -l -p 2 -n 8192, 1.070722
+miniVite, tuolumne-cpu, 32, -l -p 3 -n 16384, 1.060631
+miniVite, tuolumne-cpu, 32, -l -p 3 -n 4096, 1.060829
+miniVite, tuolumne-cpu, 32, -l -p 3 -n 8192, 1.063822
+miniVite, tuolumne-cpu, 32, -l -p 4 -n 16384, 1.214834
+miniVite, tuolumne-cpu, 32, -l -p 4 -n 4096, 1.084778
+miniVite, tuolumne-cpu, 32, -l -p 4 -n 8192, 1.012941
+miniVite, tuolumne-cpu, 32, -l -p 5 -n 16384, 1.097652
+miniVite, tuolumne-cpu, 32, -l -p 5 -n 4096, 1.200702
+miniVite, tuolumne-cpu, 32, -l -p 5 -n 8192, 1.065948
+miniVite, tuolumne-cpu, 32, -l -p 6 -n 16384, 1.121136
+miniVite, tuolumne-cpu, 32, -l -p 6 -n 4096, 1.066203
+miniVite, tuolumne-cpu, 32, -l -p 6 -n 8192, 1.094891
+miniVite, tuolumne-cpu, 32, -l -p 7 -n 16384, 1.122132
+miniVite, tuolumne-cpu, 32, -l -p 7 -n 4096, 1.058495
+miniVite, tuolumne-cpu, 32, -l -p 7 -n 8192, 1.159481
+miniVite, tuolumne-cpu, 32, -l -p 8 -n 16384, 1.106681
+miniVite, tuolumne-cpu, 32, -l -p 8 -n 4096, 1.122479
+miniVite, tuolumne-cpu, 32, -l -p 8 -n 8192, 1.315615
+miniVite, tuolumne-cpu, 32, -l -p 9 -n 16384, 1.093899
+miniVite, tuolumne-cpu, 32, -l -p 9 -n 4096, 1.065780
+miniVite, tuolumne-cpu, 32, -l -p 9 -n 8192, 1.097901
+miniVite, tuolumne-cpu, 32, -p 1 -n 16384, 1.086732
+miniVite, tuolumne-cpu, 32, -p 1 -n 4096, 1.393446
+miniVite, tuolumne-cpu, 32, -p 1 -n 8192, 1.092027
+miniVite, tuolumne-cpu, 32, -p 2 -n 16384, 1.275144
+miniVite, tuolumne-cpu, 32, -p 2 -n 4096, 1.063525
+miniVite, tuolumne-cpu, 32, -p 2 -n 8192, 1.277207
+miniVite, tuolumne-cpu, 32, -p 3 -n 16384, 1.147212
+miniVite, tuolumne-cpu, 32, -p 3 -n 4096, 1.033665
+miniVite, tuolumne-cpu, 32, -p 3 -n 8192, 1.061201
+miniVite, tuolumne-cpu, 32, -p 4 -n 16384, 1.080531
+miniVite, tuolumne-cpu, 32, -p 4 -n 4096, 1.060338
+miniVite, tuolumne-cpu, 32, -p 4 -n 8192, 1.065245
+miniVite, tuolumne-cpu, 32, -p 5 -n 16384, 1.085088
+miniVite, tuolumne-cpu, 32, -p 5 -n 4096, 1.079769
+miniVite, tuolumne-cpu, 32, -p 5 -n 8192, 1.076902
+miniVite, tuolumne-cpu, 32, -p 6 -n 16384, 1.076222
+miniVite, tuolumne-cpu, 32, -p 6 -n 4096, 1.072130
+miniVite, tuolumne-cpu, 32, -p 6 -n 8192, 1.071552
+miniVite, tuolumne-cpu, 32, -p 7 -n 16384, 1.082876
+miniVite, tuolumne-cpu, 32, -p 7 -n 4096, 1.043839
+miniVite, tuolumne-cpu, 32, -p 7 -n 8192, 1.197884
+miniVite, tuolumne-cpu, 32, -p 8 -n 16384, 1.097625
+miniVite, tuolumne-cpu, 32, -p 8 -n 4096, 1.049663
+miniVite, tuolumne-cpu, 32, -p 8 -n 8192, 1.102034
+miniVite, tuolumne-cpu, 32, -p 9 -n 16384, 1.085483
+miniVite, tuolumne-cpu, 32, -p 9 -n 4096, 1.183670
+miniVite, tuolumne-cpu, 32, -p 9 -n 8192, 1.108840
+miniVite, tuolumne-cpu, 32, -w -l -p 1 -n 16384, 1.062310
+miniVite, tuolumne-cpu, 32, -w -l -p 1 -n 4096, 1.056705
+miniVite, tuolumne-cpu, 32, -w -l -p 1 -n 8192, 1.045472
+miniVite, tuolumne-cpu, 32, -w -l -p 2 -n 16384, 1.075065
+miniVite, tuolumne-cpu, 32, -w -l -p 2 -n 4096, 1.054757
+miniVite, tuolumne-cpu, 32, -w -l -p 2 -n 8192, 1.066653
+miniVite, tuolumne-cpu, 32, -w -l -p 3 -n 16384, 1.074883
+miniVite, tuolumne-cpu, 32, -w -l -p 3 -n 4096, 1.082812
+miniVite, tuolumne-cpu, 32, -w -l -p 3 -n 8192, 1.054227
+miniVite, tuolumne-cpu, 32, -w -l -p 4 -n 16384, 1.093713
+miniVite, tuolumne-cpu, 32, -w -l -p 4 -n 4096, 1.080409
+miniVite, tuolumne-cpu, 32, -w -l -p 4 -n 8192, 1.296449
+miniVite, tuolumne-cpu, 32, -w -l -p 5 -n 16384, 1.152431
+miniVite, tuolumne-cpu, 32, -w -l -p 5 -n 4096, 1.107657
+miniVite, tuolumne-cpu, 32, -w -l -p 5 -n 8192, 1.092921
+miniVite, tuolumne-cpu, 32, -w -l -p 6 -n 16384, 1.277959
+miniVite, tuolumne-cpu, 32, -w -l -p 6 -n 4096, 1.087863
+miniVite, tuolumne-cpu, 32, -w -l -p 6 -n 8192, 1.098668
+miniVite, tuolumne-cpu, 32, -w -l -p 7 -n 16384, 1.133740
+miniVite, tuolumne-cpu, 32, -w -l -p 7 -n 4096, 1.218320
+miniVite, tuolumne-cpu, 32, -w -l -p 7 -n 8192, 1.077894
+miniVite, tuolumne-cpu, 32, -w -l -p 8 -n 16384, 1.100460
+miniVite, tuolumne-cpu, 32, -w -l -p 8 -n 4096, 1.200893
+miniVite, tuolumne-cpu, 32, -w -l -p 8 -n 8192, 1.246152
+miniVite, tuolumne-cpu, 32, -w -l -p 9 -n 16384, 1.077895
+miniVite, tuolumne-cpu, 32, -w -l -p 9 -n 4096, 1.219509
+miniVite, tuolumne-cpu, 32, -w -l -p 9 -n 8192, 1.113648
+miniVite, tuolumne-cpu, 32, -w -p 1 -n 16384, 1.066804
+miniVite, tuolumne-cpu, 32, -w -p 1 -n 4096, 1.096508
+miniVite, tuolumne-cpu, 32, -w -p 1 -n 8192, 1.334509
+miniVite, tuolumne-cpu, 32, -w -p 2 -n 16384, 1.258405
+miniVite, tuolumne-cpu, 32, -w -p 2 -n 4096, 1.067330
+miniVite, tuolumne-cpu, 32, -w -p 2 -n 8192, 1.086289
+miniVite, tuolumne-cpu, 32, -w -p 3 -n 16384, 1.083677
+miniVite, tuolumne-cpu, 32, -w -p 3 -n 4096, 1.049166
+miniVite, tuolumne-cpu, 32, -w -p 3 -n 8192, 1.065745
+miniVite, tuolumne-cpu, 32, -w -p 4 -n 16384, 1.082061
+miniVite, tuolumne-cpu, 32, -w -p 4 -n 4096, 1.191041
+miniVite, tuolumne-cpu, 32, -w -p 4 -n 8192, 1.056592
+miniVite, tuolumne-cpu, 32, -w -p 5 -n 16384, 1.098639
+miniVite, tuolumne-cpu, 32, -w -p 5 -n 4096, 1.106328
+miniVite, tuolumne-cpu, 32, -w -p 5 -n 8192, 1.097443
+miniVite, tuolumne-cpu, 32, -w -p 6 -n 16384, 1.093624
+miniVite, tuolumne-cpu, 32, -w -p 6 -n 4096, 1.080665
+miniVite, tuolumne-cpu, 32, -w -p 6 -n 8192, 1.094806
+miniVite, tuolumne-cpu, 32, -w -p 7 -n 16384, 1.067694
+miniVite, tuolumne-cpu, 32, -w -p 7 -n 4096, 1.105566
+miniVite, tuolumne-cpu, 32, -w -p 7 -n 8192, 1.099330
+miniVite, tuolumne-cpu, 32, -w -p 8 -n 16384, 1.087582
+miniVite, tuolumne-cpu, 32, -w -p 8 -n 4096, 1.052642
+miniVite, tuolumne-cpu, 32, -w -p 8 -n 8192, 1.307696
+miniVite, tuolumne-cpu, 32, -w -p 9 -n 16384, 1.078552
+miniVite, tuolumne-cpu, 32, -w -p 9 -n 4096, 1.088664
+miniVite, tuolumne-cpu, 32, -w -p 9 -n 8192, 1.087789
+SWFFT, tuolumne-cpu, 1, 10 120, 1.767993
+SWFFT, tuolumne-cpu, 1, 10 128, 3.408182
+SWFFT, tuolumne-cpu, 1, 10 160, 5.132068
+SWFFT, tuolumne-cpu, 1, 10 200, 7.525694
+SWFFT, tuolumne-cpu, 1, 10 240, 17.842561
+SWFFT, tuolumne-cpu, 1, 10 256, 34.824864
+SWFFT, tuolumne-cpu, 1, 10 32, 0.271379
+SWFFT, tuolumne-cpu, 1, 10 64, 0.442211
+SWFFT, tuolumne-cpu, 1, 12 128, 4.138791
+SWFFT, tuolumne-cpu, 1, 12 256, 35.476622
+SWFFT, tuolumne-cpu, 1, 12 32, 0.271730
+SWFFT, tuolumne-cpu, 1, 12 64, 0.577915
+SWFFT, tuolumne-cpu, 1, 14 128, 3.972814
+SWFFT, tuolumne-cpu, 1, 14 256, 39.800969
+SWFFT, tuolumne-cpu, 1, 14 32, 0.278449
+SWFFT, tuolumne-cpu, 1, 14 64, 0.484008
+SWFFT, tuolumne-cpu, 1, 15 120, 2.285929
+SWFFT, tuolumne-cpu, 1, 15 160, 7.758601
+SWFFT, tuolumne-cpu, 1, 15 200, 12.158371
+SWFFT, tuolumne-cpu, 1, 15 240, 31.684306
+SWFFT, tuolumne-cpu, 1, 16 128, 4.981785
+SWFFT, tuolumne-cpu, 1, 16 256, 40.122769
+SWFFT, tuolumne-cpu, 1, 16 32, 0.286861
+SWFFT, tuolumne-cpu, 1, 16 64, 0.495053
+SWFFT, tuolumne-cpu, 1, 18 128, 6.234200
+SWFFT, tuolumne-cpu, 1, 18 256, 50.808524
+SWFFT, tuolumne-cpu, 1, 18 32, 0.277244
+SWFFT, tuolumne-cpu, 1, 18 64, 0.532770
+SWFFT, tuolumne-cpu, 1, 20 120, 3.324522
+SWFFT, tuolumne-cpu, 1, 20 128, 5.660708
+SWFFT, tuolumne-cpu, 1, 20 160, 9.933527
+SWFFT, tuolumne-cpu, 1, 20 200, 15.032060
+SWFFT, tuolumne-cpu, 1, 20 240, 33.905420
+SWFFT, tuolumne-cpu, 1, 20 256, 48.577462
+SWFFT, tuolumne-cpu, 1, 20 32, 0.335592
+SWFFT, tuolumne-cpu, 1, 20 64, 0.540338
+SWFFT, tuolumne-cpu, 32, 10 120, 1.417384
+SWFFT, tuolumne-cpu, 32, 10 128, 1.378689
+SWFFT, tuolumne-cpu, 32, 10 160, 1.619254
+SWFFT, tuolumne-cpu, 32, 10 200, 2.026482
+SWFFT, tuolumne-cpu, 32, 10 240, 2.841602
+SWFFT, tuolumne-cpu, 32, 10 256, 3.163799
+SWFFT, tuolumne-cpu, 32, 10 32, 1.116618
+SWFFT, tuolumne-cpu, 32, 10 64, 1.187430
+SWFFT, tuolumne-cpu, 32, 12 128, 1.451096
+SWFFT, tuolumne-cpu, 32, 12 256, 3.647354
+SWFFT, tuolumne-cpu, 32, 12 32, 1.111545
+SWFFT, tuolumne-cpu, 32, 12 64, 1.148797
+SWFFT, tuolumne-cpu, 32, 14 128, 1.474784
+SWFFT, tuolumne-cpu, 32, 14 256, 3.655113
+SWFFT, tuolumne-cpu, 32, 14 32, 1.104523
+SWFFT, tuolumne-cpu, 32, 14 64, 1.192363
+SWFFT, tuolumne-cpu, 32, 15 120, 1.529484
+SWFFT, tuolumne-cpu, 32, 15 160, 1.834615
+SWFFT, tuolumne-cpu, 32, 15 200, 2.414249
+SWFFT, tuolumne-cpu, 32, 15 240, 3.502803
+SWFFT, tuolumne-cpu, 32, 16 128, 1.563373
+SWFFT, tuolumne-cpu, 32, 16 256, 4.415417
+SWFFT, tuolumne-cpu, 32, 16 32, 1.130864
+SWFFT, tuolumne-cpu, 32, 16 64, 1.139019
+SWFFT, tuolumne-cpu, 32, 18 128, 1.558399
+SWFFT, tuolumne-cpu, 32, 18 256, 4.734569
+SWFFT, tuolumne-cpu, 32, 18 32, 1.155324
+SWFFT, tuolumne-cpu, 32, 18 64, 1.209388
+SWFFT, tuolumne-cpu, 32, 20 120, 1.618549
+SWFFT, tuolumne-cpu, 32, 20 128, 1.662669
+SWFFT, tuolumne-cpu, 32, 20 160, 2.056262
+SWFFT, tuolumne-cpu, 32, 20 200, 2.924642
+SWFFT, tuolumne-cpu, 32, 20 240, 4.306336
+SWFFT, tuolumne-cpu, 32, 20 256, 5.114385
+SWFFT, tuolumne-cpu, 32, 20 32, 1.132308
+SWFFT, tuolumne-cpu, 32, 20 64, 1.276517
+XSBench, tuolumne-cpu, 1, -m event -s XL -G hash -t 1, 182.512830
+XSBench, tuolumne-cpu, 1, -m event -s XL -G nuclide -t 1, 673.049991
+XSBench, tuolumne-cpu, 1, -m event -s XL -G unionized -t 1, 168.685445
+XSBench, tuolumne-cpu, 1, -m event -s XXL -G hash -t 1, 281.027435
+XSBench, tuolumne-cpu, 1, -m event -s XXL -G nuclide -t 1, 804.771554
+XSBench, tuolumne-cpu, 1, -m event -s XXL -G unionized -t 1, 301.571323
+XSBench, tuolumne-cpu, 1, -m event -s large -G hash -t 1, 73.107272
+XSBench, tuolumne-cpu, 1, -m event -s large -G nuclide -t 1, 302.740209
+XSBench, tuolumne-cpu, 1, -m event -s large -G unionized -t 1, 66.071103
+XSBench, tuolumne-cpu, 1, -m event -s small -G hash -t 1, 11.935803
+XSBench, tuolumne-cpu, 1, -m event -s small -G nuclide -t 1, 39.659645
+XSBench, tuolumne-cpu, 1, -m event -s small -G unionized -t 1, 17.773733
+XSBench, tuolumne-cpu, 1, -m history -s XL -G hash -t 1, 180.330238
+XSBench, tuolumne-cpu, 1, -m history -s XL -G nuclide -t 1, 665.489022
+XSBench, tuolumne-cpu, 1, -m history -s XL -G unionized -t 1, 166.429884
+XSBench, tuolumne-cpu, 1, -m history -s XXL -G hash -t 1, 275.389955
+XSBench, tuolumne-cpu, 1, -m history -s XXL -G nuclide -t 1, 780.304936
+XSBench, tuolumne-cpu, 1, -m history -s XXL -G unionized -t 1, 300.642235
+XSBench, tuolumne-cpu, 1, -m history -s large -G hash -t 1, 71.770215
+XSBench, tuolumne-cpu, 1, -m history -s large -G nuclide -t 1, 321.815727
+XSBench, tuolumne-cpu, 1, -m history -s large -G unionized -t 1, 68.448081
+XSBench, tuolumne-cpu, 1, -m history -s small -G hash -t 1, 11.832487
+XSBench, tuolumne-cpu, 1, -m history -s small -G nuclide -t 1, 38.769534
+XSBench, tuolumne-cpu, 1, -m history -s small -G unionized -t 1, 17.783776

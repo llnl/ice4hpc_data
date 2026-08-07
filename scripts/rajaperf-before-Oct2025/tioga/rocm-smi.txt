@@ -1,0 +1,15 @@
+
+
+======================= ROCm System Management Interface =======================
+================================= Concise Info =================================
+GPU  Temp (DieEdge)  AvgPwr  SCLK    MCLK     Fan  Perf  PwrCap  VRAM%  GPU%  
+0    31.0c           90.0W   800Mhz  1600Mhz  0%   auto  560.0W    0%   0%    
+1    32.0c           N/A     800Mhz  1600Mhz  0%   auto  0.0W      0%   0%    
+2    31.0c           93.0W   800Mhz  1600Mhz  0%   auto  560.0W    0%   0%    
+3    29.0c           N/A     800Mhz  1600Mhz  0%   auto  0.0W      0%   0%    
+4    28.0c           89.0W   800Mhz  1600Mhz  0%   auto  560.0W    0%   0%    
+5    32.0c           N/A     800Mhz  1600Mhz  0%   auto  0.0W      0%   0%    
+6    25.0c           92.0W   800Mhz  1600Mhz  0%   auto  560.0W    0%   0%    
+7    30.0c           N/A     800Mhz  1600Mhz  0%   auto  0.0W      0%   0%    
+================================================================================
+============================= End of ROCm SMI Log ==============================

@@ -1,0 +1,845 @@
+amg, dane, 1, -problem 2 -P 1 1 1 -n 128 128 128, 115.982663
+amg, dane, 1, -problem 2 -P 1 1 1 -n 16 16 16, 0.487918
+amg, dane, 1, -problem 2 -P 1 1 1 -n 256 256 256, 1076.737288
+amg, dane, 1, -problem 2 -P 1 1 1 -n 32 32 32, 1.514509
+amg, dane, 1, -problem 2 -P 1 1 1 -n 64 64 64, 14.280967
+amg, dane, 1, -problem 2 -P 1 1 1 -n 8 8 8, 0.362637
+amg, dane, 32, -problem 1 -P 4 4 2 -n 128 128 64, 27.734938
+amg, dane, 32, -problem 1 -P 4 4 2 -n 16 16 8, 0.854181
+amg, dane, 32, -problem 1 -P 4 4 2 -n 32 32 16, 1.127961
+amg, dane, 32, -problem 1 -P 4 4 2 -n 64 64 32, 3.836010
+amg, dane, 32, -problem 1 -P 4 4 2 -n 8 8 4, 0.861283
+amg, dane, 32, -problem 2 -P 4 4 2 -n 128 128 64, 268.535715
+amg, dane, 32, -problem 2 -P 4 4 2 -n 16 16 8, 1.089276
+amg, dane, 32, -problem 2 -P 4 4 2 -n 32 32 16, 4.013629
+amg, dane, 32, -problem 2 -P 4 4 2 -n 64 64 32, 30.656962
+amg, dane, 32, -problem 2 -P 4 4 2 -n 8 8 4, 0.956589
+kripke, dane, 1, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 0, 1.260311
+kripke, dane, 1, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 1, 1.335085
+kripke, dane, 1, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 2, 1.630400
+kripke, dane, 1, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 3, 2.023535
+kripke, dane, 1, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 4, 2.541852
+kripke, dane, 1, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 0, 2.052906
+kripke, dane, 1, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 1, 2.659922
+kripke, dane, 1, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 2, 3.338574
+kripke, dane, 1, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 3, 4.362959
+kripke, dane, 1, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 4, 5.281298
+kripke, dane, 1, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 0, 0.739804
+kripke, dane, 1, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 1, 0.795050
+kripke, dane, 1, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 2, 0.898894
+kripke, dane, 1, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 3, 1.043232
+kripke, dane, 1, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 4, 1.258700
+kripke, dane, 1, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 0, 1.088361
+kripke, dane, 1, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 1, 1.294984
+kripke, dane, 1, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 2, 1.530056
+kripke, dane, 1, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 3, 1.978745
+kripke, dane, 1, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 4, 2.440746
+kripke, dane, 1, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 0, 2.066185
+kripke, dane, 1, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 1, 2.558350
+kripke, dane, 1, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 2, 3.096610
+kripke, dane, 1, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 3, 4.091945
+kripke, dane, 1, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 4, 5.479997
+kripke, dane, 1, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 0, 0.697298
+kripke, dane, 1, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 1, 0.751292
+kripke, dane, 1, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 2, 0.855400
+kripke, dane, 1, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 3, 1.015066
+kripke, dane, 1, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 4, 1.143396
+kripke, dane, 1, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 0, 1.609729
+kripke, dane, 1, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 1, 1.760831
+kripke, dane, 1, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 2, 2.109263
+kripke, dane, 1, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 3, 2.849020
+kripke, dane, 1, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 4, 3.716034
+kripke, dane, 1, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 0, 3.090998
+kripke, dane, 1, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 1, 3.608094
+kripke, dane, 1, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 2, 4.680981
+kripke, dane, 1, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 3, 6.213552
+kripke, dane, 1, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 4, 8.128221
+kripke, dane, 1, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 0, 0.929200
+kripke, dane, 1, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 1, 1.015189
+kripke, dane, 1, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 2, 1.163791
+kripke, dane, 1, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 3, 1.382272
+kripke, dane, 1, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 4, 1.705048
+kripke, dane, 1, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 0, 1.492457
+kripke, dane, 1, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 1, 1.710898
+kripke, dane, 1, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 2, 1.993406
+kripke, dane, 1, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 3, 2.645821
+kripke, dane, 1, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 4, 3.445513
+kripke, dane, 1, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 0, 2.505316
+kripke, dane, 1, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 1, 3.304193
+kripke, dane, 1, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 2, 4.459642
+kripke, dane, 1, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 3, 5.942826
+kripke, dane, 1, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 4, 7.760553
+kripke, dane, 1, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 0, 0.867724
+kripke, dane, 1, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 1, 0.953160
+kripke, dane, 1, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 2, 1.104401
+kripke, dane, 1, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 3, 1.303683
+kripke, dane, 1, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 4, 1.634201
+kripke, dane, 1, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 0, 3.216429
+kripke, dane, 1, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 1, 4.114720
+kripke, dane, 1, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 2, 4.695086
+kripke, dane, 1, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 3, 6.539131
+kripke, dane, 1, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 4, 8.234230
+kripke, dane, 1, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 0, 6.968471
+kripke, dane, 1, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 1, 8.047578
+kripke, dane, 1, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 2, 11.073688
+kripke, dane, 1, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 3, 14.318373
+kripke, dane, 1, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 4, 20.233866
+kripke, dane, 1, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 0, 1.706774
+kripke, dane, 1, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 1, 1.811444
+kripke, dane, 1, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 2, 2.295000
+kripke, dane, 1, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 3, 2.858657
+kripke, dane, 1, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 4, 3.727771
+kripke, dane, 1, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 0, 0.800097
+kripke, dane, 1, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 1, 0.885537
+kripke, dane, 1, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 2, 0.990844
+kripke, dane, 1, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 3, 1.223098
+kripke, dane, 1, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 4, 1.491319
+kripke, dane, 1, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 0, 1.388654
+kripke, dane, 1, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 1, 1.514118
+kripke, dane, 1, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 2, 1.871688
+kripke, dane, 1, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 3, 2.527977
+kripke, dane, 1, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 4, 3.058666
+kripke, dane, 1, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 0, 0.551465
+kripke, dane, 1, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 1, 0.576184
+kripke, dane, 1, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 2, 0.631787
+kripke, dane, 1, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 3, 0.687005
+kripke, dane, 1, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 4, 0.810884
+kripke, dane, 1, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 0, 0.745313
+kripke, dane, 1, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 1, 0.905139
+kripke, dane, 1, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 2, 0.981257
+kripke, dane, 1, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 3, 1.173878
+kripke, dane, 1, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 4, 1.455302
+kripke, dane, 1, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 0, 1.174523
+kripke, dane, 1, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 1, 1.540926
+kripke, dane, 1, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 2, 1.909356
+kripke, dane, 1, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 3, 2.407234
+kripke, dane, 1, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 4, 3.065754
+kripke, dane, 1, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 0, 0.541688
+kripke, dane, 1, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 1, 0.556837
+kripke, dane, 1, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 2, 0.610206
+kripke, dane, 1, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 3, 0.684322
+kripke, dane, 1, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 4, 0.802676
+kripke, dane, 32, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 0 --procs 4,4,2, 1.072368
+kripke, dane, 32, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 1 --procs 4,4,2, 1.124764
+kripke, dane, 32, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 2 --procs 4,4,2, 1.226026
+kripke, dane, 32, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 3 --procs 4,4,2, 1.338097
+kripke, dane, 32, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 4 --procs 4,4,2, 1.472454
+kripke, dane, 32, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 0 --procs 4,4,2, 1.110774
+kripke, dane, 32, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 1 --procs 4,4,2, 1.186973
+kripke, dane, 32, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 2 --procs 4,4,2, 1.264920
+kripke, dane, 32, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 3 --procs 4,4,2, 1.387324
+kripke, dane, 32, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 4 --procs 4,4,2, 1.599459
+kripke, dane, 32, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 0 --procs 4,4,2, 0.995499
+kripke, dane, 32, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 1 --procs 4,4,2, 1.012621
+kripke, dane, 32, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 2 --procs 4,4,2, 1.091121
+kripke, dane, 32, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 3 --procs 4,4,2, 1.178719
+kripke, dane, 32, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 4 --procs 4,4,2, 1.249309
+kripke, dane, 32, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 0 --procs 4,4,2, 0.878848
+kripke, dane, 32, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 1 --procs 4,4,2, 0.874193
+kripke, dane, 32, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 2 --procs 4,4,2, 0.923396
+kripke, dane, 32, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 3 --procs 4,4,2, 0.899478
+kripke, dane, 32, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 4 --procs 4,4,2, 0.894097
+kripke, dane, 32, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 0 --procs 4,4,2, 0.884898
+kripke, dane, 32, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 1 --procs 4,4,2, 0.937350
+kripke, dane, 32, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 2 --procs 4,4,2, 0.965517
+kripke, dane, 32, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 3 --procs 4,4,2, 1.480537
+kripke, dane, 32, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 4 --procs 4,4,2, 1.394164
+kripke, dane, 32, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 0 --procs 4,4,2, 1.400355
+kripke, dane, 32, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 1 --procs 4,4,2, 0.849986
+kripke, dane, 32, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 2 --procs 4,4,2, 0.840187
+kripke, dane, 32, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 3 --procs 4,4,2, 0.844240
+kripke, dane, 32, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 4 --procs 4,4,2, 0.842530
+kripke, dane, 32, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 0 --procs 4,4,2, 1.221496
+kripke, dane, 32, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 1 --procs 4,4,2, 1.323362
+kripke, dane, 32, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 2 --procs 4,4,2, 1.418154
+kripke, dane, 32, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 3 --procs 4,4,2, 1.674400
+kripke, dane, 32, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 4 --procs 4,4,2, 1.925084
+kripke, dane, 32, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 0 --procs 4,4,2, 1.257474
+kripke, dane, 32, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 1 --procs 4,4,2, 1.395152
+kripke, dane, 32, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 2 --procs 4,4,2, 1.507890
+kripke, dane, 32, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 3 --procs 4,4,2, 1.721058
+kripke, dane, 32, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 4 --procs 4,4,2, 2.138310
+kripke, dane, 32, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 0 --procs 4,4,2, 1.076975
+kripke, dane, 32, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 1 --procs 4,4,2, 1.145803
+kripke, dane, 32, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 2 --procs 4,4,2, 1.244984
+kripke, dane, 32, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 3 --procs 4,4,2, 1.401366
+kripke, dane, 32, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 4 --procs 4,4,2, 1.564259
+kripke, dane, 32, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 0 --procs 4,4,2, 0.871670
+kripke, dane, 32, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 1 --procs 4,4,2, 0.867403
+kripke, dane, 32, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 2 --procs 4,4,2, 0.906483
+kripke, dane, 32, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 3 --procs 4,4,2, 0.907146
+kripke, dane, 32, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 4 --procs 4,4,2, 1.114230
+kripke, dane, 32, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 0 --procs 4,4,2, 1.278259
+kripke, dane, 32, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 1 --procs 4,4,2, 0.962917
+kripke, dane, 32, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 2 --procs 4,4,2, 1.013079
+kripke, dane, 32, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 3 --procs 4,4,2, 1.056145
+kripke, dane, 32, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 4 --procs 4,4,2, 1.114543
+kripke, dane, 32, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 0 --procs 4,4,2, 0.845952
+kripke, dane, 32, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 1 --procs 4,4,2, 0.870924
+kripke, dane, 32, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 2 --procs 4,4,2, 0.866262
+kripke, dane, 32, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 3 --procs 4,4,2, 0.861740
+kripke, dane, 32, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 4 --procs 4,4,2, 0.848731
+kripke, dane, 32, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 0 --procs 4,4,2, 0.977384
+kripke, dane, 32, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 1 --procs 4,4,2, 0.991056
+kripke, dane, 32, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 2 --procs 4,4,2, 1.036054
+kripke, dane, 32, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 3 --procs 4,4,2, 1.064697
+kripke, dane, 32, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 4 --procs 4,4,2, 1.107640
+kripke, dane, 32, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 0 --procs 4,4,2, 1.219838
+kripke, dane, 32, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 1 --procs 4,4,2, 1.259022
+kripke, dane, 32, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 2 --procs 4,4,2, 1.314797
+kripke, dane, 32, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 3 --procs 4,4,2, 1.407080
+kripke, dane, 32, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 4 --procs 4,4,2, 1.555106
+kripke, dane, 32, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 0 --procs 4,4,2, 0.848130
+kripke, dane, 32, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 1 --procs 4,4,2, 0.848569
+kripke, dane, 32, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 2 --procs 4,4,2, 0.879977
+kripke, dane, 32, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 3 --procs 4,4,2, 0.887593
+kripke, dane, 32, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 4 --procs 4,4,2, 0.981307
+kripke, dane, 32, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 0 --procs 4,4,2, 0.933342
+kripke, dane, 32, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 1 --procs 4,4,2, 1.010786
+kripke, dane, 32, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 2 --procs 4,4,2, 1.237313
+kripke, dane, 32, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 3 --procs 4,4,2, 0.987682
+kripke, dane, 32, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 4 --procs 4,4,2, 1.017835
+kripke, dane, 32, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 0 --procs 4,4,2, 0.956487
+kripke, dane, 32, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 1 --procs 4,4,2, 0.953911
+kripke, dane, 32, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 2 --procs 4,4,2, 0.986870
+kripke, dane, 32, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 3 --procs 4,4,2, 1.053161
+kripke, dane, 32, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 4 --procs 4,4,2, 1.078675
+kripke, dane, 32, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 0 --procs 4,4,2, 0.908321
+kripke, dane, 32, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 1 --procs 4,4,2, 0.875396
+kripke, dane, 32, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 2 --procs 4,4,2, 0.932711
+kripke, dane, 32, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 3 --procs 4,4,2, 0.938426
+kripke, dane, 32, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 4 --procs 4,4,2, 0.969231
+kripke, dane, 32, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 0 --procs 4,4,2, 0.849985
+kripke, dane, 32, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 1 --procs 4,4,2, 0.853424
+kripke, dane, 32, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 2 --procs 4,4,2, 0.874165
+kripke, dane, 32, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 3 --procs 4,4,2, 0.878258
+kripke, dane, 32, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 4 --procs 4,4,2, 0.863740
+kripke, dane, 32, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 0 --procs 4,4,2, 0.879699
+kripke, dane, 32, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 1 --procs 4,4,2, 0.908708
+kripke, dane, 32, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 2 --procs 4,4,2, 0.871096
+kripke, dane, 32, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 3 --procs 4,4,2, 0.917963
+kripke, dane, 32, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 4 --procs 4,4,2, 0.942910
+kripke, dane, 32, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 0 --procs 4,4,2, 0.842691
+kripke, dane, 32, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 1 --procs 4,4,2, 0.851116
+kripke, dane, 32, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 2 --procs 4,4,2, 0.866275
+kripke, dane, 32, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 3 --procs 4,4,2, 0.837469
+kripke, dane, 32, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 4 --procs 4,4,2, 0.851959
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 3, 5.319954
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 3 -pa, 5.344280
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 3.1, 5.458028
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 3.1 -pa, 5.608443
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 3.2, 5.608670
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 3.2 -pa, 5.594313
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 3.3, 5.792126
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 3.3 -pa, 5.819030
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 3.4, 5.878857
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 3.4 -pa, 5.943589
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 3.5, 6.010115
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 3.5 -pa, 6.030663
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 3.6, 6.173225
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 3.6 -pa, 6.161426
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 3.7, 6.294858
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 3.7 -pa, 6.287995
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 3.8, 6.472081
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 3.8 -pa, 6.543805
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 3.9, 6.704475
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 3.9 -pa, 6.687085
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 4, 6.845249
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 4 -pa, 6.809655
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 4.1, 6.863071
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 4.1 -pa, 6.935314
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 4.2, 7.067585
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 4.2 -pa, 7.076411
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 4.3, 7.383970
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 4.3 -pa, 7.306791
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 4.4, 7.524546
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 4.4 -pa, 7.505990
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 4.5, 7.779133
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 4.5 -pa, 7.756647
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 4.6, 7.916303
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 4.6 -pa, 7.957290
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 4.7, 8.086282
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 4.7 -pa, 8.082200
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 4.8, 8.243660
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 4.8 -pa, 8.221727
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 4.9, 8.381133
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 4.9 -pa, 8.399122
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 5, 8.473474
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 5 -pa, 8.516761
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 5.5, 9.095452
+laghos, dane, 1, -p 1 -dim 2 -rs 2 -tf 5.5 -pa, 9.048006
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 3, 32.387105
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 3 -pa, 32.609583
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 3.1, 33.393353
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 3.1 -pa, 33.532931
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 3.2, 34.261418
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 3.2 -pa, 34.305417
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 3.3, 35.061094
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 3.3 -pa, 35.027580
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 3.4, 35.738504
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 3.4 -pa, 35.913369
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 3.5, 36.418064
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 3.5 -pa, 36.447620
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 3.6, 37.100614
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 3.6 -pa, 37.150686
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 3.7, 37.666984
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 3.7 -pa, 37.726417
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 3.8, 38.390464
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 3.8 -pa, 38.471938
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 3.9, 39.216861
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 3.9 -pa, 39.131696
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 4, 40.597124
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 4 -pa, 40.530920
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 4.1, 42.685985
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 4.1 -pa, 42.673544
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 4.2, 45.275646
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 4.2 -pa, 45.179257
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 4.3, 48.229375
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 4.3 -pa, 48.078567
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 4.4, 50.751173
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 4.4 -pa, 50.780902
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 4.5, 52.856693
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 4.5 -pa, 53.060167
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 4.6, 54.511218
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 4.6 -pa, 54.423294
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 4.7, 55.577689
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 4.7 -pa, 55.673516
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 4.8, 57.195391
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 4.8 -pa, 57.225650
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 4.9, 59.092404
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 4.9 -pa, 59.231760
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 5, 61.053546
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 5 -pa, 61.213636
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 5.5, 68.565232
+laghos, dane, 1, -p 1 -dim 2 -rs 3 -tf 5.5 -pa, 68.733150
+laghos, dane, 1, -p 1 -dim 3 -rs 1 -tf 3, 22.476393
+laghos, dane, 1, -p 1 -dim 3 -rs 1 -tf 3 -pa, 22.492249
+laghos, dane, 1, -p 1 -dim 3 -rs 1 -tf 3.5, 28.077752
+laghos, dane, 1, -p 1 -dim 3 -rs 1 -tf 3.5 -pa, 27.985358
+laghos, dane, 1, -p 1 -dim 3 -rs 1 -tf 4, 34.407260
+laghos, dane, 1, -p 1 -dim 3 -rs 1 -tf 4 -pa, 34.568353
+laghos, dane, 1, -p 1 -dim 3 -rs 1 -tf 4.5, 39.727702
+laghos, dane, 1, -p 1 -dim 3 -rs 1 -tf 4.5 -pa, 39.798079
+laghos, dane, 1, -p 1 -dim 3 -rs 1 -tf 5, 44.255807
+laghos, dane, 1, -p 1 -dim 3 -rs 1 -tf 5 -pa, 44.238038
+laghos, dane, 1, -p 1 -dim 3 -rs 1 -tf 5.5, 48.225925
+laghos, dane, 1, -p 1 -dim 3 -rs 1 -tf 5.5 -pa, 48.147796
+laghos, dane, 1, -p 1 -dim 3 -rs 2 -tf 3, 420.532492
+laghos, dane, 1, -p 1 -dim 3 -rs 2 -tf 3 -pa, 421.358605
+laghos, dane, 1, -p 1 -dim 3 -rs 2 -tf 3.5, 558.954135
+laghos, dane, 1, -p 1 -dim 3 -rs 2 -tf 3.5 -pa, 558.321043
+laghos, dane, 1, -p 1 -dim 3 -rs 2 -tf 4, 692.275877
+laghos, dane, 1, -p 1 -dim 3 -rs 2 -tf 4 -pa, 692.896247
+laghos, dane, 1, -p 1 -dim 3 -rs 2 -tf 4.5, 748.657793
+laghos, dane, 1, -p 1 -dim 3 -rs 2 -tf 4.5 -pa, 747.879811
+laghos, dane, 1, -p 1 -dim 3 -rs 2 -tf 5, 818.340153
+laghos, dane, 1, -p 1 -dim 3 -rs 2 -tf 5 -pa, 819.944753
+laghos, dane, 1, -p 1 -dim 3 -rs 2 -tf 5.5, 955.125651
+laghos, dane, 1, -p 1 -dim 3 -rs 2 -tf 5.5 -pa, 955.657284
+laghos, dane, 1, -p 2 -dim 2 -rs 2 -tf 3, 5.451504
+laghos, dane, 1, -p 2 -dim 2 -rs 2 -tf 3 -pa, 5.431204
+laghos, dane, 1, -p 2 -dim 2 -rs 2 -tf 3.5, 6.223510
+laghos, dane, 1, -p 2 -dim 2 -rs 2 -tf 3.5 -pa, 6.223112
+laghos, dane, 1, -p 2 -dim 2 -rs 2 -tf 4, 6.590448
+laghos, dane, 1, -p 2 -dim 2 -rs 2 -tf 4 -pa, 6.568930
+laghos, dane, 1, -p 2 -dim 2 -rs 2 -tf 4.5, 7.195737
+laghos, dane, 1, -p 2 -dim 2 -rs 2 -tf 4.5 -pa, 7.168981
+laghos, dane, 1, -p 2 -dim 2 -rs 2 -tf 5, 8.019994
+laghos, dane, 1, -p 2 -dim 2 -rs 2 -tf 5 -pa, 8.014295
+laghos, dane, 1, -p 2 -dim 2 -rs 2 -tf 5.5, 8.686092
+laghos, dane, 1, -p 2 -dim 2 -rs 2 -tf 5.5 -pa, 8.671617
+laghos, dane, 1, -p 2 -dim 3 -rs 1 -tf 3, 21.137034
+laghos, dane, 1, -p 2 -dim 3 -rs 1 -tf 3 -pa, 21.180618
+laghos, dane, 1, -p 2 -dim 3 -rs 1 -tf 3.5, 24.665384
+laghos, dane, 1, -p 2 -dim 3 -rs 1 -tf 3.5 -pa, 24.584350
+laghos, dane, 1, -p 2 -dim 3 -rs 1 -tf 4, 26.427066
+laghos, dane, 1, -p 2 -dim 3 -rs 1 -tf 4 -pa, 26.448118
+laghos, dane, 1, -p 2 -dim 3 -rs 1 -tf 4.5, 28.671688
+laghos, dane, 1, -p 2 -dim 3 -rs 1 -tf 4.5 -pa, 28.627883
+laghos, dane, 1, -p 2 -dim 3 -rs 1 -tf 5, 31.941214
+laghos, dane, 1, -p 2 -dim 3 -rs 1 -tf 5 -pa, 32.164786
+laghos, dane, 1, -p 2 -dim 3 -rs 1 -tf 5.5, 35.095696
+laghos, dane, 1, -p 2 -dim 3 -rs 1 -tf 5.5 -pa, 34.939073
+laghos, dane, 1, -p 2 -dim 3 -rs 2 -tf 3, 385.177825
+laghos, dane, 1, -p 2 -dim 3 -rs 2 -tf 3 -pa, 385.575124
+laghos, dane, 1, -p 3 -dim 2 -rs 1 -tf 3, 0.478227
+laghos, dane, 1, -p 3 -dim 2 -rs 1 -tf 3 -pa, 0.472444
+laghos, dane, 1, -p 3 -dim 2 -rs 1 -tf 3.5, 0.493115
+laghos, dane, 1, -p 3 -dim 2 -rs 1 -tf 3.5 -pa, 0.506108
+laghos, dane, 1, -p 3 -dim 2 -rs 1 -tf 4, 0.515319
+laghos, dane, 1, -p 3 -dim 2 -rs 1 -tf 4 -pa, 0.513544
+laghos, dane, 1, -p 3 -dim 2 -rs 1 -tf 4.5, 0.538359
+laghos, dane, 1, -p 3 -dim 2 -rs 1 -tf 4.5 -pa, 0.552979
+laghos, dane, 1, -p 3 -dim 2 -rs 1 -tf 5, 0.558404
+laghos, dane, 1, -p 3 -dim 2 -rs 1 -tf 5 -pa, 0.562934
+laghos, dane, 1, -p 3 -dim 2 -rs 1 -tf 5.5, 0.579512
+laghos, dane, 1, -p 3 -dim 2 -rs 1 -tf 5.5 -pa, 0.576830
+laghos, dane, 1, -p 3 -dim 2 -rs 2 -tf 3, 0.973222
+laghos, dane, 1, -p 3 -dim 2 -rs 2 -tf 3 -pa, 0.973663
+laghos, dane, 1, -p 3 -dim 2 -rs 2 -tf 3.5, 1.077431
+laghos, dane, 1, -p 3 -dim 2 -rs 2 -tf 3.5 -pa, 1.075878
+laghos, dane, 1, -p 3 -dim 2 -rs 2 -tf 4, 1.179562
+laghos, dane, 1, -p 3 -dim 2 -rs 2 -tf 4 -pa, 1.182036
+laghos, dane, 1, -p 3 -dim 2 -rs 2 -tf 4.5, 1.280368
+laghos, dane, 1, -p 3 -dim 2 -rs 2 -tf 4.5 -pa, 1.285840
+laghos, dane, 1, -p 3 -dim 2 -rs 2 -tf 5, 1.387097
+laghos, dane, 1, -p 3 -dim 2 -rs 2 -tf 5 -pa, 1.389965
+laghos, dane, 1, -p 3 -dim 2 -rs 2 -tf 5.5, 1.491231
+laghos, dane, 1, -p 3 -dim 2 -rs 2 -tf 5.5 -pa, 1.498722
+laghos, dane, 1, -p 3 -dim 3 -rs 1 -tf 3, 2.969173
+laghos, dane, 1, -p 3 -dim 3 -rs 1 -tf 3 -pa, 2.924397
+laghos, dane, 1, -p 3 -dim 3 -rs 1 -tf 3.5, 3.336590
+laghos, dane, 1, -p 3 -dim 3 -rs 1 -tf 3.5 -pa, 3.316294
+laghos, dane, 1, -p 3 -dim 3 -rs 1 -tf 4, 3.776274
+laghos, dane, 1, -p 3 -dim 3 -rs 1 -tf 4 -pa, 3.754827
+laghos, dane, 1, -p 3 -dim 3 -rs 1 -tf 4.5, 4.221191
+laghos, dane, 1, -p 3 -dim 3 -rs 1 -tf 4.5 -pa, 4.232822
+laghos, dane, 1, -p 3 -dim 3 -rs 1 -tf 5, 4.641487
+laghos, dane, 1, -p 3 -dim 3 -rs 1 -tf 5 -pa, 4.640308
+laghos, dane, 1, -p 3 -dim 3 -rs 1 -tf 5.5, 5.057137
+laghos, dane, 1, -p 3 -dim 3 -rs 1 -tf 5.5 -pa, 5.073372
+laghos, dane, 1, -p 3 -dim 3 -rs 2 -tf 3, 41.307352
+laghos, dane, 1, -p 3 -dim 3 -rs 2 -tf 3 -pa, 41.250173
+laghos, dane, 1, -p 3 -dim 3 -rs 2 -tf 3.5, 48.006736
+laghos, dane, 1, -p 3 -dim 3 -rs 2 -tf 3.5 -pa, 48.056467
+laghos, dane, 1, -p 3 -dim 3 -rs 2 -tf 4, 54.656797
+laghos, dane, 1, -p 3 -dim 3 -rs 2 -tf 4 -pa, 54.547426
+laghos, dane, 1, -p 3 -dim 3 -rs 2 -tf 4.5, 61.473833
+laghos, dane, 1, -p 3 -dim 3 -rs 2 -tf 4.5 -pa, 61.171321
+laghos, dane, 1, -p 3 -dim 3 -rs 2 -tf 5, 68.171493
+laghos, dane, 1, -p 3 -dim 3 -rs 2 -tf 5 -pa, 67.904184
+laghos, dane, 1, -p 3 -dim 3 -rs 2 -tf 5.5, 74.955713
+laghos, dane, 1, -p 3 -dim 3 -rs 2 -tf 5.5 -pa, 74.932466
+miniFE, dane, 1, -nx 100 -ny 100 -nz 100, 7.028938
+miniFE, dane, 1, -nx 100 -ny 100 -nz 50, 3.844375
+miniFE, dane, 1, -nx 100 -ny 50 -nz 50, 2.283911
+miniFE, dane, 1, -nx 100 -ny 75 -nz 50, 2.963613
+miniFE, dane, 1, -nx 100 -ny 75 -nz 75, 4.007374
+miniFE, dane, 1, -nx 125 -ny 100 -nz 100, 8.828228
+miniFE, dane, 1, -nx 125 -ny 100 -nz 50, 4.876687
+miniFE, dane, 1, -nx 125 -ny 125 -nz 125, 13.429288
+miniFE, dane, 1, -nx 125 -ny 125 -nz 50, 5.682649
+miniFE, dane, 1, -nx 125 -ny 50 -nz 50, 2.406311
+miniFE, dane, 1, -nx 125 -ny 75 -nz 50, 3.428734
+miniFE, dane, 1, -nx 125 -ny 75 -nz 75, 5.366370
+miniFE, dane, 1, -nx 150 -ny 100 -nz 100, 10.339279
+miniFE, dane, 1, -nx 150 -ny 100 -nz 50, 5.389655
+miniFE, dane, 1, -nx 150 -ny 125 -nz 125, 16.071732
+miniFE, dane, 1, -nx 150 -ny 125 -nz 50, 6.537657
+miniFE, dane, 1, -nx 150 -ny 150 -nz 150, 22.994310
+miniFE, dane, 1, -nx 150 -ny 150 -nz 50, 7.949441
+miniFE, dane, 1, -nx 150 -ny 50 -nz 50, 3.153753
+miniFE, dane, 1, -nx 150 -ny 75 -nz 50, 4.194607
+miniFE, dane, 1, -nx 150 -ny 75 -nz 75, 5.935454
+miniFE, dane, 1, -nx 175 -ny 100 -nz 100, 12.046859
+miniFE, dane, 1, -nx 175 -ny 100 -nz 50, 6.173477
+miniFE, dane, 1, -nx 175 -ny 125 -nz 125, 18.762541
+miniFE, dane, 1, -nx 175 -ny 125 -nz 50, 7.688143
+miniFE, dane, 1, -nx 175 -ny 150 -nz 150, 26.768526
+miniFE, dane, 1, -nx 175 -ny 150 -nz 50, 9.193278
+miniFE, dane, 1, -nx 175 -ny 175 -nz 175, 36.455133
+miniFE, dane, 1, -nx 175 -ny 175 -nz 50, 10.630228
+miniFE, dane, 1, -nx 175 -ny 50 -nz 50, 3.248915
+miniFE, dane, 1, -nx 175 -ny 75 -nz 50, 4.862378
+miniFE, dane, 1, -nx 175 -ny 75 -nz 75, 7.034162
+miniFE, dane, 1, -nx 200 -ny 100 -nz 100, 13.663356
+miniFE, dane, 1, -nx 200 -ny 100 -nz 50, 7.252135
+miniFE, dane, 1, -nx 200 -ny 125 -nz 125, 21.273598
+miniFE, dane, 1, -nx 200 -ny 125 -nz 50, 8.749052
+miniFE, dane, 1, -nx 200 -ny 150 -nz 150, 30.640371
+miniFE, dane, 1, -nx 200 -ny 150 -nz 50, 10.399128
+miniFE, dane, 1, -nx 200 -ny 175 -nz 175, 41.627781
+miniFE, dane, 1, -nx 200 -ny 175 -nz 50, 12.185601
+miniFE, dane, 1, -nx 200 -ny 200 -nz 200, 54.378548
+miniFE, dane, 1, -nx 200 -ny 200 -nz 50, 13.827438
+miniFE, dane, 1, -nx 200 -ny 50 -nz 50, 3.846574
+miniFE, dane, 1, -nx 200 -ny 75 -nz 50, 5.312195
+miniFE, dane, 1, -nx 200 -ny 75 -nz 75, 7.808496
+miniFE, dane, 1, -nx 50 -ny 50 -nz 50, 1.152684
+miniFE, dane, 1, -nx 75 -ny 75 -nz 75, 3.088226
+miniFE, dane, 1, -nx 75 -ny 50 -nz 50, 1.782643
+miniFE, dane, 1, -nx 75 -ny 75 -nz 50, 2.420702
+miniFE, dane, 32, -nx 50 -ny 50 -nz 50, 0.837737
+miniFE, dane, 32, -nx 75 -ny 50 -nz 50, 0.892357
+miniVite, dane, 1, -l -p 1 -n 128, 0.339390
+miniVite, dane, 1, -l -p 1 -n 256, 0.337893
+miniVite, dane, 1, -l -p 1 -n 32, 0.340204
+miniVite, dane, 1, -l -p 1 -n 512, 0.350824
+miniVite, dane, 1, -l -p 1 -n 64, 0.340526
+miniVite, dane, 1, -l -p 2 -n 128, 0.338701
+miniVite, dane, 1, -l -p 2 -n 256, 0.337105
+miniVite, dane, 1, -l -p 2 -n 32, 0.336577
+miniVite, dane, 1, -l -p 2 -n 512, 0.338187
+miniVite, dane, 1, -l -p 2 -n 64, 0.337639
+miniVite, dane, 1, -l -p 3 -n 128, 0.340012
+miniVite, dane, 1, -l -p 3 -n 256, 0.338132
+miniVite, dane, 1, -l -p 3 -n 32, 0.337133
+miniVite, dane, 1, -l -p 3 -n 512, 0.351619
+miniVite, dane, 1, -l -p 3 -n 64, 0.340566
+miniVite, dane, 1, -l -p 4 -n 128, 0.339399
+miniVite, dane, 1, -l -p 4 -n 256, 0.338044
+miniVite, dane, 1, -l -p 4 -n 32, 0.337553
+miniVite, dane, 1, -l -p 4 -n 512, 0.343013
+miniVite, dane, 1, -l -p 4 -n 64, 0.336689
+miniVite, dane, 1, -l -p 5 -n 128, 0.339682
+miniVite, dane, 1, -l -p 5 -n 256, 0.339229
+miniVite, dane, 1, -l -p 5 -n 32, 0.340865
+miniVite, dane, 1, -l -p 5 -n 512, 0.343877
+miniVite, dane, 1, -l -p 5 -n 64, 0.349850
+miniVite, dane, 1, -l -p 6 -n 128, 0.338499
+miniVite, dane, 1, -l -p 6 -n 256, 0.337279
+miniVite, dane, 1, -l -p 6 -n 32, 0.337685
+miniVite, dane, 1, -l -p 6 -n 512, 0.338405
+miniVite, dane, 1, -l -p 6 -n 64, 0.339516
+miniVite, dane, 1, -l -p 7 -n 128, 0.336033
+miniVite, dane, 1, -l -p 7 -n 256, 0.336212
+miniVite, dane, 1, -l -p 7 -n 32, 0.333960
+miniVite, dane, 1, -l -p 7 -n 512, 0.337443
+miniVite, dane, 1, -l -p 7 -n 64, 0.334277
+miniVite, dane, 1, -l -p 8 -n 128, 0.339990
+miniVite, dane, 1, -l -p 8 -n 256, 0.338436
+miniVite, dane, 1, -l -p 8 -n 32, 0.339221
+miniVite, dane, 1, -l -p 8 -n 512, 0.351101
+miniVite, dane, 1, -l -p 8 -n 64, 0.336959
+miniVite, dane, 1, -l -p 9 -n 128, 0.335727
+miniVite, dane, 1, -l -p 9 -n 256, 0.339091
+miniVite, dane, 1, -l -p 9 -n 32, 0.337391
+miniVite, dane, 1, -l -p 9 -n 512, 0.335221
+miniVite, dane, 1, -l -p 9 -n 64, 0.335829
+miniVite, dane, 1, -p 1 -n 128, 0.334823
+miniVite, dane, 1, -p 1 -n 256, 0.337415
+miniVite, dane, 1, -p 1 -n 32, 0.339193
+miniVite, dane, 1, -p 1 -n 512, 0.352369
+miniVite, dane, 1, -p 1 -n 64, 0.349620
+miniVite, dane, 1, -p 2 -n 128, 0.338362
+miniVite, dane, 1, -p 2 -n 256, 0.335222
+miniVite, dane, 1, -p 2 -n 32, 0.333507
+miniVite, dane, 1, -p 2 -n 512, 0.338948
+miniVite, dane, 1, -p 2 -n 64, 0.335614
+miniVite, dane, 1, -p 3 -n 128, 0.333947
+miniVite, dane, 1, -p 3 -n 256, 0.346240
+miniVite, dane, 1, -p 3 -n 32, 0.339197
+miniVite, dane, 1, -p 3 -n 512, 0.338420
+miniVite, dane, 1, -p 3 -n 64, 0.349743
+miniVite, dane, 1, -p 4 -n 128, 0.337563
+miniVite, dane, 1, -p 4 -n 256, 0.341507
+miniVite, dane, 1, -p 4 -n 32, 0.337585
+miniVite, dane, 1, -p 4 -n 512, 0.338477
+miniVite, dane, 1, -p 4 -n 64, 0.337065
+miniVite, dane, 1, -p 5 -n 128, 0.336752
+miniVite, dane, 1, -p 5 -n 256, 0.337147
+miniVite, dane, 1, -p 5 -n 32, 0.337420
+miniVite, dane, 1, -p 5 -n 512, 0.338104
+miniVite, dane, 1, -p 5 -n 64, 0.336700
+miniVite, dane, 1, -p 6 -n 128, 0.338219
+miniVite, dane, 1, -p 6 -n 256, 0.336288
+miniVite, dane, 1, -p 6 -n 32, 0.348328
+miniVite, dane, 1, -p 6 -n 512, 0.348094
+miniVite, dane, 1, -p 6 -n 64, 0.351408
+miniVite, dane, 1, -p 7 -n 128, 0.342201
+miniVite, dane, 1, -p 7 -n 256, 0.344404
+miniVite, dane, 1, -p 7 -n 32, 0.348332
+miniVite, dane, 1, -p 7 -n 512, 0.337099
+miniVite, dane, 1, -p 7 -n 64, 0.338469
+miniVite, dane, 1, -p 8 -n 128, 0.334556
+miniVite, dane, 1, -p 8 -n 256, 0.377968
+miniVite, dane, 1, -p 8 -n 32, 0.334376
+miniVite, dane, 1, -p 8 -n 512, 0.350103
+miniVite, dane, 1, -p 8 -n 64, 0.348084
+miniVite, dane, 1, -p 9 -n 128, 0.347646
+miniVite, dane, 1, -p 9 -n 256, 0.338802
+miniVite, dane, 1, -p 9 -n 32, 0.337353
+miniVite, dane, 1, -p 9 -n 512, 0.340794
+miniVite, dane, 1, -p 9 -n 64, 0.335637
+miniVite, dane, 1, -w -l -p 1 -n 128, 0.335589
+miniVite, dane, 1, -w -l -p 1 -n 256, 0.336470
+miniVite, dane, 1, -w -l -p 1 -n 32, 0.336505
+miniVite, dane, 1, -w -l -p 1 -n 512, 0.337160
+miniVite, dane, 1, -w -l -p 1 -n 64, 0.336348
+miniVite, dane, 1, -w -l -p 2 -n 128, 0.339017
+miniVite, dane, 1, -w -l -p 2 -n 256, 0.334449
+miniVite, dane, 1, -w -l -p 2 -n 32, 0.338041
+miniVite, dane, 1, -w -l -p 2 -n 512, 0.336395
+miniVite, dane, 1, -w -l -p 2 -n 64, 0.337153
+miniVite, dane, 1, -w -l -p 3 -n 128, 0.337773
+miniVite, dane, 1, -w -l -p 3 -n 256, 0.335692
+miniVite, dane, 1, -w -l -p 3 -n 32, 0.348053
+miniVite, dane, 1, -w -l -p 3 -n 512, 0.336764
+miniVite, dane, 1, -w -l -p 3 -n 64, 0.335147
+miniVite, dane, 1, -w -l -p 4 -n 128, 0.336169
+miniVite, dane, 1, -w -l -p 4 -n 256, 0.339345
+miniVite, dane, 1, -w -l -p 4 -n 32, 0.338267
+miniVite, dane, 1, -w -l -p 4 -n 512, 0.340325
+miniVite, dane, 1, -w -l -p 4 -n 64, 0.334654
+miniVite, dane, 1, -w -l -p 5 -n 128, 0.336206
+miniVite, dane, 1, -w -l -p 5 -n 256, 0.334742
+miniVite, dane, 1, -w -l -p 5 -n 32, 0.337750
+miniVite, dane, 1, -w -l -p 5 -n 512, 0.338710
+miniVite, dane, 1, -w -l -p 5 -n 64, 0.333145
+miniVite, dane, 1, -w -l -p 6 -n 128, 0.337279
+miniVite, dane, 1, -w -l -p 6 -n 256, 0.353586
+miniVite, dane, 1, -w -l -p 6 -n 32, 0.346785
+miniVite, dane, 1, -w -l -p 6 -n 512, 0.336273
+miniVite, dane, 1, -w -l -p 6 -n 64, 0.336218
+miniVite, dane, 1, -w -l -p 7 -n 128, 0.336729
+miniVite, dane, 1, -w -l -p 7 -n 256, 0.337751
+miniVite, dane, 1, -w -l -p 7 -n 32, 0.350829
+miniVite, dane, 1, -w -l -p 7 -n 512, 0.338884
+miniVite, dane, 1, -w -l -p 7 -n 64, 0.337937
+miniVite, dane, 1, -w -l -p 8 -n 128, 0.336391
+miniVite, dane, 1, -w -l -p 8 -n 256, 0.335941
+miniVite, dane, 1, -w -l -p 8 -n 32, 0.334737
+miniVite, dane, 1, -w -l -p 8 -n 512, 0.353360
+miniVite, dane, 1, -w -l -p 8 -n 64, 0.336625
+miniVite, dane, 1, -w -l -p 9 -n 128, 0.337295
+miniVite, dane, 1, -w -l -p 9 -n 256, 0.337313
+miniVite, dane, 1, -w -l -p 9 -n 32, 0.337438
+miniVite, dane, 1, -w -l -p 9 -n 512, 0.337828
+miniVite, dane, 1, -w -l -p 9 -n 64, 0.339880
+miniVite, dane, 1, -w -p 1 -n 128, 0.335768
+miniVite, dane, 1, -w -p 1 -n 256, 0.339196
+miniVite, dane, 1, -w -p 1 -n 32, 0.337901
+miniVite, dane, 1, -w -p 1 -n 512, 0.340969
+miniVite, dane, 1, -w -p 1 -n 64, 0.336418
+miniVite, dane, 1, -w -p 2 -n 128, 0.340328
+miniVite, dane, 1, -w -p 2 -n 256, 0.338614
+miniVite, dane, 1, -w -p 2 -n 32, 0.338869
+miniVite, dane, 1, -w -p 2 -n 512, 0.337491
+miniVite, dane, 1, -w -p 2 -n 64, 0.399899
+miniVite, dane, 1, -w -p 3 -n 128, 0.399062
+miniVite, dane, 1, -w -p 3 -n 256, 0.337929
+miniVite, dane, 1, -w -p 3 -n 32, 0.339281
+miniVite, dane, 1, -w -p 3 -n 512, 0.348884
+miniVite, dane, 1, -w -p 3 -n 64, 0.335232
+miniVite, dane, 1, -w -p 4 -n 128, 0.358785
+miniVite, dane, 1, -w -p 4 -n 256, 0.356795
+miniVite, dane, 1, -w -p 4 -n 32, 0.348922
+miniVite, dane, 1, -w -p 4 -n 512, 0.354567
+miniVite, dane, 1, -w -p 4 -n 64, 0.339136
+miniVite, dane, 1, -w -p 5 -n 128, 0.340739
+miniVite, dane, 1, -w -p 5 -n 256, 0.337610
+miniVite, dane, 1, -w -p 5 -n 32, 0.340276
+miniVite, dane, 1, -w -p 5 -n 512, 0.339516
+miniVite, dane, 1, -w -p 5 -n 64, 0.339625
+miniVite, dane, 1, -w -p 6 -n 128, 0.334384
+miniVite, dane, 1, -w -p 6 -n 256, 0.338371
+miniVite, dane, 1, -w -p 6 -n 32, 0.339624
+miniVite, dane, 1, -w -p 6 -n 512, 0.350882
+miniVite, dane, 1, -w -p 6 -n 64, 0.335876
+miniVite, dane, 1, -w -p 7 -n 128, 0.342691
+miniVite, dane, 1, -w -p 7 -n 256, 0.336749
+miniVite, dane, 1, -w -p 7 -n 32, 0.335450
+miniVite, dane, 1, -w -p 7 -n 512, 0.337152
+miniVite, dane, 1, -w -p 7 -n 64, 0.338558
+miniVite, dane, 1, -w -p 8 -n 128, 0.337952
+miniVite, dane, 1, -w -p 8 -n 256, 0.338369
+miniVite, dane, 1, -w -p 8 -n 32, 0.336094
+miniVite, dane, 1, -w -p 8 -n 512, 0.346534
+miniVite, dane, 1, -w -p 8 -n 64, 0.338914
+miniVite, dane, 1, -w -p 9 -n 128, 0.335254
+miniVite, dane, 1, -w -p 9 -n 256, 0.336839
+miniVite, dane, 1, -w -p 9 -n 32, 0.341009
+miniVite, dane, 1, -w -p 9 -n 512, 0.337994
+miniVite, dane, 1, -w -p 9 -n 64, 0.336318
+miniVite, dane, 32, -l -p 1 -n 16384, 0.828404
+miniVite, dane, 32, -l -p 1 -n 4096, 0.768584
+miniVite, dane, 32, -l -p 1 -n 8192, 0.804596
+miniVite, dane, 32, -l -p 2 -n 16384, 0.860826
+miniVite, dane, 32, -l -p 2 -n 4096, 0.818864
+miniVite, dane, 32, -l -p 2 -n 8192, 0.794725
+miniVite, dane, 32, -l -p 3 -n 16384, 0.875322
+miniVite, dane, 32, -l -p 3 -n 4096, 0.884528
+miniVite, dane, 32, -l -p 3 -n 8192, 0.852211
+miniVite, dane, 32, -l -p 4 -n 16384, 0.875569
+miniVite, dane, 32, -l -p 4 -n 4096, 0.859057
+miniVite, dane, 32, -l -p 4 -n 8192, 0.856253
+miniVite, dane, 32, -l -p 5 -n 16384, 0.872281
+miniVite, dane, 32, -l -p 5 -n 4096, 0.788135
+miniVite, dane, 32, -l -p 5 -n 8192, 0.819731
+miniVite, dane, 32, -l -p 6 -n 16384, 0.869289
+miniVite, dane, 32, -l -p 6 -n 4096, 0.863141
+miniVite, dane, 32, -l -p 6 -n 8192, 0.800977
+miniVite, dane, 32, -l -p 7 -n 16384, 0.809918
+miniVite, dane, 32, -l -p 7 -n 4096, 0.873986
+miniVite, dane, 32, -l -p 7 -n 8192, 0.765439
+miniVite, dane, 32, -l -p 8 -n 16384, 0.767301
+miniVite, dane, 32, -l -p 8 -n 4096, 0.781668
+miniVite, dane, 32, -l -p 8 -n 8192, 0.836098
+miniVite, dane, 32, -l -p 9 -n 16384, 0.874979
+miniVite, dane, 32, -l -p 9 -n 4096, 0.822236
+miniVite, dane, 32, -l -p 9 -n 8192, 0.874716
+miniVite, dane, 32, -p 1 -n 16384, 0.827853
+miniVite, dane, 32, -p 1 -n 4096, 0.817186
+miniVite, dane, 32, -p 1 -n 8192, 0.817148
+miniVite, dane, 32, -p 2 -n 16384, 0.840253
+miniVite, dane, 32, -p 2 -n 4096, 0.853126
+miniVite, dane, 32, -p 2 -n 8192, 0.814323
+miniVite, dane, 32, -p 3 -n 16384, 0.844634
+miniVite, dane, 32, -p 3 -n 4096, 0.861829
+miniVite, dane, 32, -p 3 -n 8192, 0.776280
+miniVite, dane, 32, -p 4 -n 16384, 0.859896
+miniVite, dane, 32, -p 4 -n 4096, 0.847992
+miniVite, dane, 32, -p 4 -n 8192, 0.838678
+miniVite, dane, 32, -p 5 -n 16384, 0.820117
+miniVite, dane, 32, -p 5 -n 4096, 0.874283
+miniVite, dane, 32, -p 5 -n 8192, 0.815977
+miniVite, dane, 32, -p 6 -n 16384, 0.834681
+miniVite, dane, 32, -p 6 -n 4096, 0.811222
+miniVite, dane, 32, -p 6 -n 8192, 0.825629
+miniVite, dane, 32, -p 7 -n 16384, 0.822736
+miniVite, dane, 32, -p 7 -n 4096, 0.813221
+miniVite, dane, 32, -p 7 -n 8192, 0.807265
+miniVite, dane, 32, -p 8 -n 16384, 0.821737
+miniVite, dane, 32, -p 8 -n 4096, 0.814947
+miniVite, dane, 32, -p 8 -n 8192, 0.827960
+miniVite, dane, 32, -p 9 -n 16384, 0.817326
+miniVite, dane, 32, -p 9 -n 4096, 0.786724
+miniVite, dane, 32, -p 9 -n 8192, 0.816631
+miniVite, dane, 32, -w -l -p 1 -n 16384, 0.812566
+miniVite, dane, 32, -w -l -p 1 -n 4096, 0.802174
+miniVite, dane, 32, -w -l -p 1 -n 8192, 0.821458
+miniVite, dane, 32, -w -l -p 2 -n 16384, 0.805698
+miniVite, dane, 32, -w -l -p 2 -n 4096, 0.826352
+miniVite, dane, 32, -w -l -p 2 -n 8192, 0.817218
+miniVite, dane, 32, -w -l -p 3 -n 16384, 0.775807
+miniVite, dane, 32, -w -l -p 3 -n 4096, 0.836720
+miniVite, dane, 32, -w -l -p 3 -n 8192, 0.798866
+miniVite, dane, 32, -w -l -p 4 -n 16384, 0.846788
+miniVite, dane, 32, -w -l -p 4 -n 4096, 0.813322
+miniVite, dane, 32, -w -l -p 4 -n 8192, 0.851974
+miniVite, dane, 32, -w -l -p 5 -n 16384, 0.846193
+miniVite, dane, 32, -w -l -p 5 -n 4096, 0.827169
+miniVite, dane, 32, -w -l -p 5 -n 8192, 0.835297
+miniVite, dane, 32, -w -l -p 6 -n 16384, 0.835820
+miniVite, dane, 32, -w -l -p 6 -n 4096, 0.955467
+miniVite, dane, 32, -w -l -p 6 -n 8192, 0.934986
+miniVite, dane, 32, -w -l -p 7 -n 16384, 0.942184
+miniVite, dane, 32, -w -l -p 7 -n 4096, 0.924761
+miniVite, dane, 32, -w -l -p 7 -n 8192, 0.837246
+miniVite, dane, 32, -w -l -p 8 -n 16384, 0.848334
+miniVite, dane, 32, -w -l -p 8 -n 4096, 0.823905
+miniVite, dane, 32, -w -l -p 8 -n 8192, 0.796931
+miniVite, dane, 32, -w -l -p 9 -n 16384, 0.825916
+miniVite, dane, 32, -w -l -p 9 -n 4096, 0.809390
+miniVite, dane, 32, -w -l -p 9 -n 8192, 0.873262
+miniVite, dane, 32, -w -p 1 -n 16384, 0.892329
+miniVite, dane, 32, -w -p 1 -n 4096, 0.838135
+miniVite, dane, 32, -w -p 1 -n 8192, 0.833833
+miniVite, dane, 32, -w -p 2 -n 16384, 0.829266
+miniVite, dane, 32, -w -p 2 -n 4096, 0.829833
+miniVite, dane, 32, -w -p 2 -n 8192, 0.838895
+miniVite, dane, 32, -w -p 3 -n 16384, 0.838997
+miniVite, dane, 32, -w -p 3 -n 4096, 0.811559
+miniVite, dane, 32, -w -p 3 -n 8192, 0.938243
+miniVite, dane, 32, -w -p 4 -n 16384, 0.851990
+miniVite, dane, 32, -w -p 4 -n 4096, 0.847194
+miniVite, dane, 32, -w -p 4 -n 8192, 0.822038
+miniVite, dane, 32, -w -p 5 -n 16384, 0.909106
+miniVite, dane, 32, -w -p 5 -n 4096, 0.836521
+miniVite, dane, 32, -w -p 5 -n 8192, 0.795691
+miniVite, dane, 32, -w -p 6 -n 16384, 0.803858
+miniVite, dane, 32, -w -p 6 -n 4096, 0.832085
+miniVite, dane, 32, -w -p 6 -n 8192, 0.802520
+miniVite, dane, 32, -w -p 7 -n 16384, 0.835373
+miniVite, dane, 32, -w -p 7 -n 4096, 0.923470
+miniVite, dane, 32, -w -p 7 -n 8192, 0.888115
+miniVite, dane, 32, -w -p 8 -n 16384, 0.841311
+miniVite, dane, 32, -w -p 8 -n 4096, 0.832699
+miniVite, dane, 32, -w -p 8 -n 8192, 0.851097
+miniVite, dane, 32, -w -p 9 -n 16384, 0.844062
+miniVite, dane, 32, -w -p 9 -n 4096, 0.848305
+miniVite, dane, 32, -w -p 9 -n 8192, 0.828589
+SWFFT, dane, 1, 10 120, 2.389862
+SWFFT, dane, 1, 10 128, 3.497737
+SWFFT, dane, 1, 10 160, 5.904178
+SWFFT, dane, 1, 10 200, 10.341384
+SWFFT, dane, 1, 10 240, 18.992690
+SWFFT, dane, 1, 10 256, 28.099789
+SWFFT, dane, 1, 10 32, 0.368376
+SWFFT, dane, 1, 10 64, 0.566688
+SWFFT, dane, 1, 12 128, 4.235073
+SWFFT, dane, 1, 12 256, 33.685023
+SWFFT, dane, 1, 12 32, 0.374271
+SWFFT, dane, 1, 12 64, 0.600415
+SWFFT, dane, 1, 14 128, 4.659898
+SWFFT, dane, 1, 14 256, 39.104815
+SWFFT, dane, 1, 14 32, 0.374785
+SWFFT, dane, 1, 14 64, 0.616329
+SWFFT, dane, 1, 15 120, 3.347947
+SWFFT, dane, 1, 15 160, 8.815276
+SWFFT, dane, 1, 15 200, 15.160050
+SWFFT, dane, 1, 15 240, 28.150037
+SWFFT, dane, 1, 16 128, 5.271431
+SWFFT, dane, 1, 16 256, 44.709025
+SWFFT, dane, 1, 16 32, 0.381160
+SWFFT, dane, 1, 16 64, 0.658628
+SWFFT, dane, 1, 18 128, 5.593099
+SWFFT, dane, 1, 18 256, 51.016668
+SWFFT, dane, 1, 18 32, 0.388667
+SWFFT, dane, 1, 18 64, 0.689880
+SWFFT, dane, 1, 20 120, 4.104153
+SWFFT, dane, 1, 20 128, 6.342450
+SWFFT, dane, 1, 20 160, 11.064139
+SWFFT, dane, 1, 20 200, 20.128818
+SWFFT, dane, 1, 20 240, 37.547512
+SWFFT, dane, 1, 20 256, 55.891335
+SWFFT, dane, 1, 20 32, 0.386285
+SWFFT, dane, 1, 20 64, 0.720222
+SWFFT, dane, 32, 10 120, 1.046226
+SWFFT, dane, 32, 10 128, 0.987477
+SWFFT, dane, 32, 10 160, 1.420965
+SWFFT, dane, 32, 10 200, 2.078286
+SWFFT, dane, 32, 10 240, 3.371794
+SWFFT, dane, 32, 10 256, 4.013275
+SWFFT, dane, 32, 10 32, 0.855861
+SWFFT, dane, 32, 10 64, 0.859934
+SWFFT, dane, 32, 12 128, 0.971590
+SWFFT, dane, 32, 12 256, 4.754239
+SWFFT, dane, 32, 12 32, 0.840570
+SWFFT, dane, 32, 12 64, 0.819902
+SWFFT, dane, 32, 14 128, 0.967739
+SWFFT, dane, 32, 14 256, 5.232899
+SWFFT, dane, 32, 14 32, 0.848171
+SWFFT, dane, 32, 14 64, 0.855899
+SWFFT, dane, 32, 15 120, 1.078666
+SWFFT, dane, 32, 15 160, 1.614364
+SWFFT, dane, 32, 15 200, 2.609455
+SWFFT, dane, 32, 15 240, 4.635013
+SWFFT, dane, 32, 16 128, 1.009307
+SWFFT, dane, 32, 16 256, 5.966152
+SWFFT, dane, 32, 16 32, 0.829085
+SWFFT, dane, 32, 16 64, 0.870124
+SWFFT, dane, 32, 18 128, 1.025403
+SWFFT, dane, 32, 18 256, 6.489592
+SWFFT, dane, 32, 18 32, 0.801519
+SWFFT, dane, 32, 18 64, 0.859390
+SWFFT, dane, 32, 20 120, 1.085636
+SWFFT, dane, 32, 20 128, 1.025648
+SWFFT, dane, 32, 20 160, 1.848688
+SWFFT, dane, 32, 20 200, 3.214381
+SWFFT, dane, 32, 20 240, 5.693064
+SWFFT, dane, 32, 20 256, 7.052999
+SWFFT, dane, 32, 20 32, 0.829571
+SWFFT, dane, 32, 20 64, 0.843538
+XSBench, dane, 1, -t 1 -m event -s XL -G hash, 109.195839
+XSBench, dane, 1, -t 1 -m event -s XL -G nuclide, 345.729247
+XSBench, dane, 1, -t 1 -m event -s XL -G unionized, 119.528604
+XSBench, dane, 1, -t 1 -m event -s XXL -G hash, 153.887705
+XSBench, dane, 1, -t 1 -m event -s XXL -G nuclide, 416.603752
+XSBench, dane, 1, -t 1 -m event -s large -G hash, 39.010022
+XSBench, dane, 1, -t 1 -m event -s large -G nuclide, 169.151249
+XSBench, dane, 1, -t 1 -m event -s large -G unionized, 37.197903
+XSBench, dane, 1, -t 1 -m event -s small -G hash, 9.479986
+XSBench, dane, 1, -t 1 -m event -s small -G nuclide, 38.090135
+XSBench, dane, 1, -t 1 -m event -s small -G unionized, 11.752316
+XSBench, dane, 1, -t 1 -m history -s XL -G hash, 108.236562
+XSBench, dane, 1, -t 1 -m history -s XL -G nuclide, 344.804958
+XSBench, dane, 1, -t 1 -m history -s XL -G unionized, 118.927538
+XSBench, dane, 1, -t 1 -m history -s XXL -G hash, 152.781522
+XSBench, dane, 1, -t 1 -m history -s XXL -G nuclide, 415.225361
+XSBench, dane, 1, -t 1 -m history -s large -G hash, 38.155002
+XSBench, dane, 1, -t 1 -m history -s large -G nuclide, 168.239304
+XSBench, dane, 1, -t 1 -m history -s large -G unionized, 36.140348
+XSBench, dane, 1, -t 1 -m history -s small -G hash, 8.637214
+XSBench, dane, 1, -t 1 -m history -s small -G nuclide, 36.921270
+XSBench, dane, 1, -t 1 -m history -s small -G unionized, 10.884911

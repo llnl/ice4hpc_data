@@ -1,0 +1,847 @@
+amg, mammoth, 1, -problem 2 -P 1 1 1 -n 128 128 128, 131.179011
+amg, mammoth, 1, -problem 2 -P 1 1 1 -n 16 16 16, 0.635889
+amg, mammoth, 1, -problem 2 -P 1 1 1 -n 256 256 256, 1119.765348
+amg, mammoth, 1, -problem 2 -P 1 1 1 -n 32 32 32, 2.012283
+amg, mammoth, 1, -problem 2 -P 1 1 1 -n 64 64 64, 16.341209
+amg, mammoth, 1, -problem 2 -P 1 1 1 -n 8 8 8, 0.484530
+amg, mammoth, 32, -problem 1 -P 4 4 2 -n 128 128 64, 26.077128
+amg, mammoth, 32, -problem 1 -P 4 4 2 -n 16 16 8, 0.969530
+amg, mammoth, 32, -problem 1 -P 4 4 2 -n 32 32 16, 1.282792
+amg, mammoth, 32, -problem 1 -P 4 4 2 -n 64 64 32, 3.769599
+amg, mammoth, 32, -problem 1 -P 4 4 2 -n 8 8 4, 0.952103
+amg, mammoth, 32, -problem 2 -P 4 4 2 -n 128 128 64, 239.248691
+amg, mammoth, 32, -problem 2 -P 4 4 2 -n 16 16 8, 1.324026
+amg, mammoth, 32, -problem 2 -P 4 4 2 -n 32 32 16, 4.255909
+amg, mammoth, 32, -problem 2 -P 4 4 2 -n 64 64 32, 27.668196
+amg, mammoth, 32, -problem 2 -P 4 4 2 -n 8 8 4, 1.133086
+kripke, mammoth, 1, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 0, 1.724890
+kripke, mammoth, 1, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 1, 1.933960
+kripke, mammoth, 1, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 2, 2.282215
+kripke, mammoth, 1, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 3, 2.750688
+kripke, mammoth, 1, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 4, 3.438368
+kripke, mammoth, 1, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 0, 3.083342
+kripke, mammoth, 1, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 1, 3.674811
+kripke, mammoth, 1, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 2, 4.685184
+kripke, mammoth, 1, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 3, 6.050044
+kripke, mammoth, 1, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 4, 7.921623
+kripke, mammoth, 1, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 0, 1.081621
+kripke, mammoth, 1, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 1, 1.161469
+kripke, mammoth, 1, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 2, 1.312600
+kripke, mammoth, 1, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 3, 1.479889
+kripke, mammoth, 1, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 4, 1.706817
+kripke, mammoth, 1, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 0, 1.602942
+kripke, mammoth, 1, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 1, 1.809117
+kripke, mammoth, 1, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 2, 2.161563
+kripke, mammoth, 1, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 3, 2.626346
+kripke, mammoth, 1, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 4, 3.242890
+kripke, mammoth, 1, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 0, 2.818819
+kripke, mammoth, 1, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 1, 3.409239
+kripke, mammoth, 1, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 2, 4.398826
+kripke, mammoth, 1, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 3, 5.811958
+kripke, mammoth, 1, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 4, 7.624713
+kripke, mammoth, 1, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 0, 1.021474
+kripke, mammoth, 1, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 1, 1.103888
+kripke, mammoth, 1, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 2, 1.230085
+kripke, mammoth, 1, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 3, 1.416914
+kripke, mammoth, 1, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 4, 1.647000
+kripke, mammoth, 1, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 0, 2.332522
+kripke, mammoth, 1, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 1, 2.656222
+kripke, mammoth, 1, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 2, 3.149353
+kripke, mammoth, 1, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 3, 3.856029
+kripke, mammoth, 1, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 4, 4.780037
+kripke, mammoth, 1, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 0, 4.324943
+kripke, mammoth, 1, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 1, 5.259020
+kripke, mammoth, 1, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 2, 6.994449
+kripke, mammoth, 1, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 3, 8.822190
+kripke, mammoth, 1, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 4, 11.526128
+kripke, mammoth, 1, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 0, 1.375753
+kripke, mammoth, 1, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 1, 1.579877
+kripke, mammoth, 1, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 2, 1.695538
+kripke, mammoth, 1, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 3, 1.965025
+kripke, mammoth, 1, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 4, 2.347351
+kripke, mammoth, 1, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 0, 2.134169
+kripke, mammoth, 1, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 1, 2.470138
+kripke, mammoth, 1, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 2, 2.968570
+kripke, mammoth, 1, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 3, 3.663380
+kripke, mammoth, 1, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 4, 4.597167
+kripke, mammoth, 1, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 0, 3.921165
+kripke, mammoth, 1, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 1, 4.803846
+kripke, mammoth, 1, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 2, 6.294957
+kripke, mammoth, 1, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 3, 8.442400
+kripke, mammoth, 1, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 4, 11.322616
+kripke, mammoth, 1, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 0, 1.279332
+kripke, mammoth, 1, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 1, 1.400176
+kripke, mammoth, 1, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 2, 1.593715
+kripke, mammoth, 1, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 3, 1.873037
+kripke, mammoth, 1, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 4, 2.241643
+kripke, mammoth, 1, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 0, 4.807829
+kripke, mammoth, 1, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 1, 5.660126
+kripke, mammoth, 1, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 2, 7.019341
+kripke, mammoth, 1, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 3, 8.918516
+kripke, mammoth, 1, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 4, 11.348246
+kripke, mammoth, 1, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 0, 9.445635
+kripke, mammoth, 1, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 1, 11.861539
+kripke, mammoth, 1, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 2, 15.799404
+kripke, mammoth, 1, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 3, 21.518237
+kripke, mammoth, 1, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 4, 28.813877
+kripke, mammoth, 1, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 0, 2.574942
+kripke, mammoth, 1, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 1, 3.002963
+kripke, mammoth, 1, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 2, 3.414553
+kripke, mammoth, 1, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 3, 4.252562
+kripke, mammoth, 1, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 4, 5.187446
+kripke, mammoth, 1, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 0, 1.320922
+kripke, mammoth, 1, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 1, 1.238494
+kripke, mammoth, 1, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 2, 1.400546
+kripke, mammoth, 1, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 3, 1.907587
+kripke, mammoth, 1, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 4, 1.960501
+kripke, mammoth, 1, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 0, 1.839168
+kripke, mammoth, 1, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 1, 2.133990
+kripke, mammoth, 1, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 2, 2.675078
+kripke, mammoth, 1, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 3, 3.334532
+kripke, mammoth, 1, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 4, 4.490330
+kripke, mammoth, 1, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 0, 0.789353
+kripke, mammoth, 1, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 1, 0.832153
+kripke, mammoth, 1, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 2, 0.895479
+kripke, mammoth, 1, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 3, 0.996317
+kripke, mammoth, 1, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 4, 1.118775
+kripke, mammoth, 1, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 0, 1.062339
+kripke, mammoth, 1, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 1, 1.169743
+kripke, mammoth, 1, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 2, 1.357963
+kripke, mammoth, 1, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 3, 1.611728
+kripke, mammoth, 1, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 4, 1.891538
+kripke, mammoth, 1, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 0, 1.690295
+kripke, mammoth, 1, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 1, 1.995256
+kripke, mammoth, 1, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 2, 2.515266
+kripke, mammoth, 1, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 3, 3.221126
+kripke, mammoth, 1, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 4, 4.097033
+kripke, mammoth, 1, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 0, 0.760955
+kripke, mammoth, 1, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 1, 0.799302
+kripke, mammoth, 1, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 2, 0.871618
+kripke, mammoth, 1, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 3, 0.956303
+kripke, mammoth, 1, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 4, 1.099325
+kripke, mammoth, 32, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 0 --procs 4,4,2, 1.093711
+kripke, mammoth, 32, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 1 --procs 4,4,2, 1.029873
+kripke, mammoth, 32, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 2 --procs 4,4,2, 1.028220
+kripke, mammoth, 32, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 3 --procs 4,4,2, 1.034265
+kripke, mammoth, 32, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 4 --procs 4,4,2, 1.072116
+kripke, mammoth, 32, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 0 --procs 4,4,2, 1.066475
+kripke, mammoth, 32, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 1 --procs 4,4,2, 1.079566
+kripke, mammoth, 32, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 2 --procs 4,4,2, 1.108485
+kripke, mammoth, 32, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 3 --procs 4,4,2, 1.155204
+kripke, mammoth, 32, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 4 --procs 4,4,2, 1.209445
+kripke, mammoth, 32, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 0 --procs 4,4,2, 0.957916
+kripke, mammoth, 32, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 1 --procs 4,4,2, 1.027347
+kripke, mammoth, 32, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 2 --procs 4,4,2, 0.971624
+kripke, mammoth, 32, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 3 --procs 4,4,2, 1.040516
+kripke, mammoth, 32, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 4 --procs 4,4,2, 1.052820
+kripke, mammoth, 32, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 0 --procs 4,4,2, 1.073476
+kripke, mammoth, 32, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 1 --procs 4,4,2, 1.065362
+kripke, mammoth, 32, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 2 --procs 4,4,2, 1.096989
+kripke, mammoth, 32, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 3 --procs 4,4,2, 1.102909
+kripke, mammoth, 32, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 4 --procs 4,4,2, 1.143999
+kripke, mammoth, 32, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 0 --procs 4,4,2, 1.099876
+kripke, mammoth, 32, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 1 --procs 4,4,2, 1.131513
+kripke, mammoth, 32, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 2 --procs 4,4,2, 1.138134
+kripke, mammoth, 32, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 3 --procs 4,4,2, 1.141662
+kripke, mammoth, 32, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 4 --procs 4,4,2, 1.230561
+kripke, mammoth, 32, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 0 --procs 4,4,2, 1.000691
+kripke, mammoth, 32, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 1 --procs 4,4,2, 0.967380
+kripke, mammoth, 32, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 2 --procs 4,4,2, 1.018921
+kripke, mammoth, 32, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 3 --procs 4,4,2, 1.067446
+kripke, mammoth, 32, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 4 --procs 4,4,2, 1.039197
+kripke, mammoth, 32, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 0 --procs 4,4,2, 1.110925
+kripke, mammoth, 32, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 1 --procs 4,4,2, 1.120453
+kripke, mammoth, 32, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 2 --procs 4,4,2, 1.127135
+kripke, mammoth, 32, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 3 --procs 4,4,2, 1.131043
+kripke, mammoth, 32, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 4 --procs 4,4,2, 1.156547
+kripke, mammoth, 32, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 0 --procs 4,4,2, 1.146959
+kripke, mammoth, 32, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 1 --procs 4,4,2, 1.167859
+kripke, mammoth, 32, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 2 --procs 4,4,2, 1.209588
+kripke, mammoth, 32, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 3 --procs 4,4,2, 1.269201
+kripke, mammoth, 32, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 4 --procs 4,4,2, 1.347938
+kripke, mammoth, 32, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 0 --procs 4,4,2, 1.074136
+kripke, mammoth, 32, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 1 --procs 4,4,2, 1.071580
+kripke, mammoth, 32, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 2 --procs 4,4,2, 1.075176
+kripke, mammoth, 32, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 3 --procs 4,4,2, 1.091001
+kripke, mammoth, 32, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 4 --procs 4,4,2, 1.013511
+kripke, mammoth, 32, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 0 --procs 4,4,2, 1.014377
+kripke, mammoth, 32, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 1 --procs 4,4,2, 1.014880
+kripke, mammoth, 32, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 2 --procs 4,4,2, 1.027855
+kripke, mammoth, 32, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 3 --procs 4,4,2, 1.050863
+kripke, mammoth, 32, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 4 --procs 4,4,2, 1.111379
+kripke, mammoth, 32, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 0 --procs 4,4,2, 1.111965
+kripke, mammoth, 32, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 1 --procs 4,4,2, 1.111927
+kripke, mammoth, 32, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 2 --procs 4,4,2, 1.160550
+kripke, mammoth, 32, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 3 --procs 4,4,2, 1.227178
+kripke, mammoth, 32, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 4 --procs 4,4,2, 1.301002
+kripke, mammoth, 32, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 0 --procs 4,4,2, 0.969740
+kripke, mammoth, 32, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 1 --procs 4,4,2, 0.961926
+kripke, mammoth, 32, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 2 --procs 4,4,2, 0.969401
+kripke, mammoth, 32, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 3 --procs 4,4,2, 0.990078
+kripke, mammoth, 32, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 4 --procs 4,4,2, 1.079014
+kripke, mammoth, 32, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 0 --procs 4,4,2, 1.100461
+kripke, mammoth, 32, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 1 --procs 4,4,2, 1.125065
+kripke, mammoth, 32, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 2 --procs 4,4,2, 1.229230
+kripke, mammoth, 32, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 3 --procs 4,4,2, 1.241398
+kripke, mammoth, 32, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 4 --procs 4,4,2, 1.390800
+kripke, mammoth, 32, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 0 --procs 4,4,2, 1.319082
+kripke, mammoth, 32, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 1 --procs 4,4,2, 1.512190
+kripke, mammoth, 32, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 2 --procs 4,4,2, 1.514570
+kripke, mammoth, 32, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 3 --procs 4,4,2, 1.675404
+kripke, mammoth, 32, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 4 --procs 4,4,2, 1.906422
+kripke, mammoth, 32, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 0 --procs 4,4,2, 1.020947
+kripke, mammoth, 32, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 1 --procs 4,4,2, 1.025741
+kripke, mammoth, 32, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 2 --procs 4,4,2, 1.041154
+kripke, mammoth, 32, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 3 --procs 4,4,2, 1.118206
+kripke, mammoth, 32, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 4 --procs 4,4,2, 1.099233
+kripke, mammoth, 32, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 0 --procs 4,4,2, 0.963182
+kripke, mammoth, 32, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 1 --procs 4,4,2, 1.060270
+kripke, mammoth, 32, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 2 --procs 4,4,2, 0.986129
+kripke, mammoth, 32, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 3 --procs 4,4,2, 0.994193
+kripke, mammoth, 32, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 4 --procs 4,4,2, 0.998200
+kripke, mammoth, 32, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 0 --procs 4,4,2, 1.004254
+kripke, mammoth, 32, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 1 --procs 4,4,2, 1.027202
+kripke, mammoth, 32, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 2 --procs 4,4,2, 1.121228
+kripke, mammoth, 32, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 3 --procs 4,4,2, 1.049282
+kripke, mammoth, 32, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 4 --procs 4,4,2, 1.078068
+kripke, mammoth, 32, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 0 --procs 4,4,2, 0.948667
+kripke, mammoth, 32, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 1 --procs 4,4,2, 0.958897
+kripke, mammoth, 32, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 2 --procs 4,4,2, 0.961161
+kripke, mammoth, 32, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 3 --procs 4,4,2, 0.954541
+kripke, mammoth, 32, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 4 --procs 4,4,2, 1.054869
+kripke, mammoth, 32, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 0 --procs 4,4,2, 0.957215
+kripke, mammoth, 32, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 1 --procs 4,4,2, 0.958147
+kripke, mammoth, 32, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 2 --procs 4,4,2, 0.971027
+kripke, mammoth, 32, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 3 --procs 4,4,2, 0.972657
+kripke, mammoth, 32, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 4 --procs 4,4,2, 0.998133
+kripke, mammoth, 32, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 0 --procs 4,4,2, 0.999610
+kripke, mammoth, 32, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 1 --procs 4,4,2, 0.992688
+kripke, mammoth, 32, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 2 --procs 4,4,2, 1.017991
+kripke, mammoth, 32, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 3 --procs 4,4,2, 1.082124
+kripke, mammoth, 32, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 4 --procs 4,4,2, 1.073313
+kripke, mammoth, 32, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 0 --procs 4,4,2, 0.932914
+kripke, mammoth, 32, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 1 --procs 4,4,2, 0.949488
+kripke, mammoth, 32, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 2 --procs 4,4,2, 0.948961
+kripke, mammoth, 32, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 3 --procs 4,4,2, 0.943371
+kripke, mammoth, 32, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 4 --procs 4,4,2, 0.952573
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 3, 9.483806
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 3 -pa, 9.438997
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 3.1, 9.831279
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 3.1 -pa, 9.670739
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 3.2, 9.950085
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 3.2 -pa, 10.109292
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 3.3, 10.210013
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 3.3 -pa, 10.229586
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 3.4, 10.592040
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 3.4 -pa, 10.446859
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 3.5, 10.859374
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 3.5 -pa, 10.698265
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 3.6, 10.967564
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 3.6 -pa, 11.105725
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 3.7, 11.203998
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 3.7 -pa, 11.407312
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 3.8, 11.485560
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 3.8 -pa, 11.460071
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 3.9, 11.861235
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 3.9 -pa, 11.702630
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 4, 11.902495
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 4 -pa, 12.010874
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 4.1, 12.242625
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 4.1 -pa, 12.224807
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 4.2, 12.656239
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 4.2 -pa, 12.764231
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 4.3, 13.006785
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 4.3 -pa, 13.182171
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 4.4, 13.464637
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 4.4 -pa, 13.624127
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 4.5, 13.835218
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 4.5 -pa, 13.845145
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 4.6, 14.373306
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 4.6 -pa, 14.146448
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 4.7, 14.509381
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 4.7 -pa, 14.688137
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 4.8, 14.708209
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 4.8 -pa, 14.732868
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 4.9, 14.945046
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 4.9 -pa, 15.102069
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 5, 15.144028
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 5 -pa, 15.361647
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 5.5, 16.167851
+laghos, mammoth, 1, -p 1 -dim 2 -rs 2 -tf 5.5 -pa, 16.251248
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 3, 59.797817
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 3 -pa, 60.318746
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 3.1, 61.846491
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 3.1 -pa, 61.359144
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 3.2, 63.548483
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 3.2 -pa, 63.303026
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 3.3, 64.394789
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 3.3 -pa, 65.185883
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 3.4, 65.426584
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 3.4 -pa, 65.712523
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 3.5, 68.098912
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 3.5 -pa, 67.201491
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 3.6, 68.073532
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 3.6 -pa, 68.755803
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 3.7, 70.709024
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 3.7 -pa, 69.558374
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 3.8, 72.002072
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 3.8 -pa, 71.173722
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 3.9, 71.820431
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 3.9 -pa, 72.551084
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 4, 75.199795
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 4 -pa, 74.639947
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 4.1, 79.498516
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 4.1 -pa, 79.282595
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 4.2, 83.500909
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 4.2 -pa, 84.138513
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 4.3, 88.340754
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 4.3 -pa, 88.546868
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 4.4, 94.470696
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 4.4 -pa, 94.149036
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 4.5, 97.838318
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 4.5 -pa, 99.931379
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 4.6, 101.149272
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 4.6 -pa, 100.755037
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 4.7, 103.643559
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 4.7 -pa, 102.048808
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 4.8, 106.056902
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 4.8 -pa, 106.531837
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 4.9, 110.683089
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 4.9 -pa, 109.174837
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 5, 114.408197
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 5 -pa, 112.716424
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 5.5, 125.992708
+laghos, mammoth, 1, -p 1 -dim 2 -rs 3 -tf 5.5 -pa, 128.850188
+laghos, mammoth, 1, -p 1 -dim 3 -rs 1 -tf 3, 34.011767
+laghos, mammoth, 1, -p 1 -dim 3 -rs 1 -tf 3 -pa, 33.920236
+laghos, mammoth, 1, -p 1 -dim 3 -rs 1 -tf 3.5, 42.376534
+laghos, mammoth, 1, -p 1 -dim 3 -rs 1 -tf 3.5 -pa, 42.437089
+laghos, mammoth, 1, -p 1 -dim 3 -rs 1 -tf 4, 51.948378
+laghos, mammoth, 1, -p 1 -dim 3 -rs 1 -tf 4 -pa, 52.328027
+laghos, mammoth, 1, -p 1 -dim 3 -rs 1 -tf 4.5, 60.099088
+laghos, mammoth, 1, -p 1 -dim 3 -rs 1 -tf 4.5 -pa, 60.071968
+laghos, mammoth, 1, -p 1 -dim 3 -rs 1 -tf 5, 68.199463
+laghos, mammoth, 1, -p 1 -dim 3 -rs 1 -tf 5 -pa, 67.150261
+laghos, mammoth, 1, -p 1 -dim 3 -rs 1 -tf 5.5, 72.912181
+laghos, mammoth, 1, -p 1 -dim 3 -rs 1 -tf 5.5 -pa, 73.572049
+laghos, mammoth, 1, -p 1 -dim 3 -rs 2 -tf 3, 655.432565
+laghos, mammoth, 1, -p 1 -dim 3 -rs 2 -tf 3 -pa, 656.022502
+laghos, mammoth, 1, -p 1 -dim 3 -rs 2 -tf 3.5, 882.587863
+laghos, mammoth, 1, -p 1 -dim 3 -rs 2 -tf 3.5 -pa, 869.437661
+laghos, mammoth, 1, -p 1 -dim 3 -rs 2 -tf 4, 1083.176569
+laghos, mammoth, 1, -p 1 -dim 3 -rs 2 -tf 4 -pa, 1093.584444
+laghos, mammoth, 1, -p 1 -dim 3 -rs 2 -tf 4.5, 1167.751107
+laghos, mammoth, 1, -p 1 -dim 3 -rs 2 -tf 4.5 -pa, 1170.045629
+laghos, mammoth, 1, -p 1 -dim 3 -rs 2 -tf 5, 1295.521193
+laghos, mammoth, 1, -p 1 -dim 3 -rs 2 -tf 5 -pa, 1276.077370
+laghos, mammoth, 1, -p 1 -dim 3 -rs 2 -tf 5.5, 1492.992771
+laghos, mammoth, 1, -p 1 -dim 3 -rs 2 -tf 5.5 -pa, 1509.524179
+laghos, mammoth, 1, -p 2 -dim 2 -rs 2 -tf 3, 9.658482
+laghos, mammoth, 1, -p 2 -dim 2 -rs 2 -tf 3 -pa, 9.627690
+laghos, mammoth, 1, -p 2 -dim 2 -rs 2 -tf 3.5, 10.982760
+laghos, mammoth, 1, -p 2 -dim 2 -rs 2 -tf 3.5 -pa, 10.985128
+laghos, mammoth, 1, -p 2 -dim 2 -rs 2 -tf 4, 11.688540
+laghos, mammoth, 1, -p 2 -dim 2 -rs 2 -tf 4 -pa, 11.654398
+laghos, mammoth, 1, -p 2 -dim 2 -rs 2 -tf 4.5, 12.719973
+laghos, mammoth, 1, -p 2 -dim 2 -rs 2 -tf 4.5 -pa, 12.885223
+laghos, mammoth, 1, -p 2 -dim 2 -rs 2 -tf 5, 14.332343
+laghos, mammoth, 1, -p 2 -dim 2 -rs 2 -tf 5 -pa, 14.224378
+laghos, mammoth, 1, -p 2 -dim 2 -rs 2 -tf 5.5, 15.407600
+laghos, mammoth, 1, -p 2 -dim 2 -rs 2 -tf 5.5 -pa, 15.337906
+laghos, mammoth, 1, -p 2 -dim 3 -rs 1 -tf 3, 31.732823
+laghos, mammoth, 1, -p 2 -dim 3 -rs 1 -tf 3 -pa, 31.619324
+laghos, mammoth, 1, -p 2 -dim 3 -rs 1 -tf 3.5, 36.753679
+laghos, mammoth, 1, -p 2 -dim 3 -rs 1 -tf 3.5 -pa, 36.980279
+laghos, mammoth, 1, -p 2 -dim 3 -rs 1 -tf 4, 39.979046
+laghos, mammoth, 1, -p 2 -dim 3 -rs 1 -tf 4 -pa, 39.507928
+laghos, mammoth, 1, -p 2 -dim 3 -rs 1 -tf 4.5, 42.903065
+laghos, mammoth, 1, -p 2 -dim 3 -rs 1 -tf 4.5 -pa, 43.069562
+laghos, mammoth, 1, -p 2 -dim 3 -rs 1 -tf 5, 47.924020
+laghos, mammoth, 1, -p 2 -dim 3 -rs 1 -tf 5 -pa, 47.895461
+laghos, mammoth, 1, -p 2 -dim 3 -rs 1 -tf 5.5, 52.485491
+laghos, mammoth, 1, -p 2 -dim 3 -rs 1 -tf 5.5 -pa, 52.366732
+laghos, mammoth, 1, -p 2 -dim 3 -rs 2 -tf 3, 594.389607
+laghos, mammoth, 1, -p 2 -dim 3 -rs 2 -tf 3 -pa, 592.230750
+laghos, mammoth, 1, -p 3 -dim 2 -rs 1 -tf 3, 0.704245
+laghos, mammoth, 1, -p 3 -dim 2 -rs 1 -tf 3 -pa, 0.705478
+laghos, mammoth, 1, -p 3 -dim 2 -rs 1 -tf 3.5, 0.749811
+laghos, mammoth, 1, -p 3 -dim 2 -rs 1 -tf 3.5 -pa, 0.742759
+laghos, mammoth, 1, -p 3 -dim 2 -rs 1 -tf 4, 0.790590
+laghos, mammoth, 1, -p 3 -dim 2 -rs 1 -tf 4 -pa, 0.789652
+laghos, mammoth, 1, -p 3 -dim 2 -rs 1 -tf 4.5, 0.825287
+laghos, mammoth, 1, -p 3 -dim 2 -rs 1 -tf 4.5 -pa, 0.836975
+laghos, mammoth, 1, -p 3 -dim 2 -rs 1 -tf 5, 0.874150
+laghos, mammoth, 1, -p 3 -dim 2 -rs 1 -tf 5 -pa, 0.860972
+laghos, mammoth, 1, -p 3 -dim 2 -rs 1 -tf 5.5, 0.921893
+laghos, mammoth, 1, -p 3 -dim 2 -rs 1 -tf 5.5 -pa, 0.895884
+laghos, mammoth, 1, -p 3 -dim 2 -rs 2 -tf 3, 1.646705
+laghos, mammoth, 1, -p 3 -dim 2 -rs 2 -tf 3 -pa, 1.637135
+laghos, mammoth, 1, -p 3 -dim 2 -rs 2 -tf 3.5, 1.802899
+laghos, mammoth, 1, -p 3 -dim 2 -rs 2 -tf 3.5 -pa, 1.794514
+laghos, mammoth, 1, -p 3 -dim 2 -rs 2 -tf 4, 1.982711
+laghos, mammoth, 1, -p 3 -dim 2 -rs 2 -tf 4 -pa, 2.002952
+laghos, mammoth, 1, -p 3 -dim 2 -rs 2 -tf 4.5, 2.171650
+laghos, mammoth, 1, -p 3 -dim 2 -rs 2 -tf 4.5 -pa, 2.177631
+laghos, mammoth, 1, -p 3 -dim 2 -rs 2 -tf 5, 2.359491
+laghos, mammoth, 1, -p 3 -dim 2 -rs 2 -tf 5 -pa, 2.361260
+laghos, mammoth, 1, -p 3 -dim 2 -rs 2 -tf 5.5, 2.547254
+laghos, mammoth, 1, -p 3 -dim 2 -rs 2 -tf 5.5 -pa, 2.547609
+laghos, mammoth, 1, -p 3 -dim 3 -rs 1 -tf 3, 4.445210
+laghos, mammoth, 1, -p 3 -dim 3 -rs 1 -tf 3 -pa, 4.441972
+laghos, mammoth, 1, -p 3 -dim 3 -rs 1 -tf 3.5, 5.103233
+laghos, mammoth, 1, -p 3 -dim 3 -rs 1 -tf 3.5 -pa, 5.098156
+laghos, mammoth, 1, -p 3 -dim 3 -rs 1 -tf 4, 5.763724
+laghos, mammoth, 1, -p 3 -dim 3 -rs 1 -tf 4 -pa, 5.735855
+laghos, mammoth, 1, -p 3 -dim 3 -rs 1 -tf 4.5, 6.435457
+laghos, mammoth, 1, -p 3 -dim 3 -rs 1 -tf 4.5 -pa, 6.341130
+laghos, mammoth, 1, -p 3 -dim 3 -rs 1 -tf 5, 7.062510
+laghos, mammoth, 1, -p 3 -dim 3 -rs 1 -tf 5 -pa, 6.989142
+laghos, mammoth, 1, -p 3 -dim 3 -rs 1 -tf 5.5, 7.639877
+laghos, mammoth, 1, -p 3 -dim 3 -rs 1 -tf 5.5 -pa, 7.642628
+laghos, mammoth, 1, -p 3 -dim 3 -rs 2 -tf 3, 66.600509
+laghos, mammoth, 1, -p 3 -dim 3 -rs 2 -tf 3 -pa, 66.283476
+laghos, mammoth, 1, -p 3 -dim 3 -rs 2 -tf 3.5, 77.009504
+laghos, mammoth, 1, -p 3 -dim 3 -rs 2 -tf 3.5 -pa, 77.510147
+laghos, mammoth, 1, -p 3 -dim 3 -rs 2 -tf 4, 87.571322
+laghos, mammoth, 1, -p 3 -dim 3 -rs 2 -tf 4 -pa, 87.348900
+laghos, mammoth, 1, -p 3 -dim 3 -rs 2 -tf 4.5, 99.173040
+laghos, mammoth, 1, -p 3 -dim 3 -rs 2 -tf 4.5 -pa, 98.070142
+laghos, mammoth, 1, -p 3 -dim 3 -rs 2 -tf 5, 109.085994
+laghos, mammoth, 1, -p 3 -dim 3 -rs 2 -tf 5 -pa, 109.556488
+laghos, mammoth, 1, -p 3 -dim 3 -rs 2 -tf 5.5, 120.346413
+laghos, mammoth, 1, -p 3 -dim 3 -rs 2 -tf 5.5 -pa, 120.536057
+miniFE, mammoth, 1, -nx 100 -ny 100 -nz 100, 8.891429
+miniFE, mammoth, 1, -nx 100 -ny 100 -nz 50, 4.636058
+miniFE, mammoth, 1, -nx 100 -ny 50 -nz 50, 2.558619
+miniFE, mammoth, 1, -nx 100 -ny 75 -nz 50, 3.592580
+miniFE, mammoth, 1, -nx 100 -ny 75 -nz 75, 5.147497
+miniFE, mammoth, 1, -nx 125 -ny 100 -nz 100, 11.039771
+miniFE, mammoth, 1, -nx 125 -ny 100 -nz 50, 5.712936
+miniFE, mammoth, 1, -nx 125 -ny 125 -nz 125, 17.095447
+miniFE, mammoth, 1, -nx 125 -ny 125 -nz 50, 7.026533
+miniFE, mammoth, 1, -nx 125 -ny 50 -nz 50, 3.070996
+miniFE, mammoth, 1, -nx 125 -ny 75 -nz 50, 4.367453
+miniFE, mammoth, 1, -nx 125 -ny 75 -nz 75, 6.340218
+miniFE, mammoth, 1, -nx 150 -ny 100 -nz 100, 13.050267
+miniFE, mammoth, 1, -nx 150 -ny 100 -nz 50, 6.822224
+miniFE, mammoth, 1, -nx 150 -ny 125 -nz 125, 20.384054
+miniFE, mammoth, 1, -nx 150 -ny 125 -nz 50, 8.381144
+miniFE, mammoth, 1, -nx 150 -ny 150 -nz 150, 29.243063
+miniFE, mammoth, 1, -nx 150 -ny 150 -nz 50, 9.990611
+miniFE, mammoth, 1, -nx 150 -ny 50 -nz 50, 3.592078
+miniFE, mammoth, 1, -nx 150 -ny 75 -nz 50, 5.231646
+miniFE, mammoth, 1, -nx 150 -ny 75 -nz 75, 7.562838
+miniFE, mammoth, 1, -nx 175 -ny 100 -nz 100, 15.195433
+miniFE, mammoth, 1, -nx 175 -ny 100 -nz 50, 7.912507
+miniFE, mammoth, 1, -nx 175 -ny 125 -nz 125, 23.637798
+miniFE, mammoth, 1, -nx 175 -ny 125 -nz 50, 9.679197
+miniFE, mammoth, 1, -nx 175 -ny 150 -nz 150, 34.333688
+miniFE, mammoth, 1, -nx 175 -ny 150 -nz 50, 11.567046
+miniFE, mammoth, 1, -nx 175 -ny 175 -nz 175, 46.877119
+miniFE, mammoth, 1, -nx 175 -ny 175 -nz 50, 13.516517
+miniFE, mammoth, 1, -nx 175 -ny 50 -nz 50, 4.096213
+miniFE, mammoth, 1, -nx 175 -ny 75 -nz 50, 5.942677
+miniFE, mammoth, 1, -nx 175 -ny 75 -nz 75, 8.807993
+miniFE, mammoth, 1, -nx 200 -ny 100 -nz 100, 17.234888
+miniFE, mammoth, 1, -nx 200 -ny 100 -nz 50, 8.912545
+miniFE, mammoth, 1, -nx 200 -ny 125 -nz 125, 27.252123
+miniFE, mammoth, 1, -nx 200 -ny 125 -nz 50, 11.050591
+miniFE, mammoth, 1, -nx 200 -ny 150 -nz 150, 39.248091
+miniFE, mammoth, 1, -nx 200 -ny 150 -nz 50, 13.167383
+miniFE, mammoth, 1, -nx 200 -ny 175 -nz 175, 53.325857
+miniFE, mammoth, 1, -nx 200 -ny 175 -nz 50, 15.227598
+miniFE, mammoth, 1, -nx 200 -ny 200 -nz 200, 69.608185
+miniFE, mammoth, 1, -nx 200 -ny 200 -nz 50, 17.518982
+miniFE, mammoth, 1, -nx 200 -ny 50 -nz 50, 4.660908
+miniFE, mammoth, 1, -nx 200 -ny 75 -nz 50, 6.836290
+miniFE, mammoth, 1, -nx 200 -ny 75 -nz 75, 10.034423
+miniFE, mammoth, 1, -nx 50 -ny 50 -nz 50, 1.413840
+miniFE, mammoth, 1, -nx 75 -ny 75 -nz 75, 4.016221
+miniFE, mammoth, 1, -nx 75 -ny 50 -nz 50, 2.042745
+miniFE, mammoth, 1, -nx 75 -ny 75 -nz 50, 2.800258
+miniFE, mammoth, 32, -nx 50 -ny 50 -nz 50, 0.989342
+miniFE, mammoth, 32, -nx 75 -ny 50 -nz 50, 1.073480
+miniVite, mammoth, 1, -l -p 1 -n 128, 0.460790
+miniVite, mammoth, 1, -l -p 1 -n 256, 0.478162
+miniVite, mammoth, 1, -l -p 1 -n 32, 0.466873
+miniVite, mammoth, 1, -l -p 1 -n 512, 0.468356
+miniVite, mammoth, 1, -l -p 1 -n 64, 0.462820
+miniVite, mammoth, 1, -l -p 2 -n 128, 0.463889
+miniVite, mammoth, 1, -l -p 2 -n 256, 0.465702
+miniVite, mammoth, 1, -l -p 2 -n 32, 0.463487
+miniVite, mammoth, 1, -l -p 2 -n 512, 0.471579
+miniVite, mammoth, 1, -l -p 2 -n 64, 0.464513
+miniVite, mammoth, 1, -l -p 3 -n 128, 0.473182
+miniVite, mammoth, 1, -l -p 3 -n 256, 0.466199
+miniVite, mammoth, 1, -l -p 3 -n 32, 0.463048
+miniVite, mammoth, 1, -l -p 3 -n 512, 0.465601
+miniVite, mammoth, 1, -l -p 3 -n 64, 0.462288
+miniVite, mammoth, 1, -l -p 4 -n 128, 0.463958
+miniVite, mammoth, 1, -l -p 4 -n 256, 0.465132
+miniVite, mammoth, 1, -l -p 4 -n 32, 0.462122
+miniVite, mammoth, 1, -l -p 4 -n 512, 0.466058
+miniVite, mammoth, 1, -l -p 4 -n 64, 0.463193
+miniVite, mammoth, 1, -l -p 5 -n 128, 0.466734
+miniVite, mammoth, 1, -l -p 5 -n 256, 0.464379
+miniVite, mammoth, 1, -l -p 5 -n 32, 0.462651
+miniVite, mammoth, 1, -l -p 5 -n 512, 0.466378
+miniVite, mammoth, 1, -l -p 5 -n 64, 0.462925
+miniVite, mammoth, 1, -l -p 6 -n 128, 0.465573
+miniVite, mammoth, 1, -l -p 6 -n 256, 0.467107
+miniVite, mammoth, 1, -l -p 6 -n 32, 0.463933
+miniVite, mammoth, 1, -l -p 6 -n 512, 0.468493
+miniVite, mammoth, 1, -l -p 6 -n 64, 0.466984
+miniVite, mammoth, 1, -l -p 7 -n 128, 0.478709
+miniVite, mammoth, 1, -l -p 7 -n 256, 0.465039
+miniVite, mammoth, 1, -l -p 7 -n 32, 0.469168
+miniVite, mammoth, 1, -l -p 7 -n 512, 0.469900
+miniVite, mammoth, 1, -l -p 7 -n 64, 0.463062
+miniVite, mammoth, 1, -l -p 8 -n 128, 0.462553
+miniVite, mammoth, 1, -l -p 8 -n 256, 0.470478
+miniVite, mammoth, 1, -l -p 8 -n 32, 0.467459
+miniVite, mammoth, 1, -l -p 8 -n 512, 0.466937
+miniVite, mammoth, 1, -l -p 8 -n 64, 0.463596
+miniVite, mammoth, 1, -l -p 9 -n 128, 0.462372
+miniVite, mammoth, 1, -l -p 9 -n 256, 0.465743
+miniVite, mammoth, 1, -l -p 9 -n 32, 0.464202
+miniVite, mammoth, 1, -l -p 9 -n 512, 0.470071
+miniVite, mammoth, 1, -l -p 9 -n 64, 0.464507
+miniVite, mammoth, 1, -p 1 -n 128, 0.469080
+miniVite, mammoth, 1, -p 1 -n 256, 0.467489
+miniVite, mammoth, 1, -p 1 -n 32, 0.464542
+miniVite, mammoth, 1, -p 1 -n 512, 0.464331
+miniVite, mammoth, 1, -p 1 -n 64, 0.464041
+miniVite, mammoth, 1, -p 2 -n 128, 0.464986
+miniVite, mammoth, 1, -p 2 -n 256, 0.468183
+miniVite, mammoth, 1, -p 2 -n 32, 0.463496
+miniVite, mammoth, 1, -p 2 -n 512, 0.469440
+miniVite, mammoth, 1, -p 2 -n 64, 0.465608
+miniVite, mammoth, 1, -p 3 -n 128, 0.465305
+miniVite, mammoth, 1, -p 3 -n 256, 0.462936
+miniVite, mammoth, 1, -p 3 -n 32, 0.465174
+miniVite, mammoth, 1, -p 3 -n 512, 0.465896
+miniVite, mammoth, 1, -p 3 -n 64, 0.459712
+miniVite, mammoth, 1, -p 4 -n 128, 0.467773
+miniVite, mammoth, 1, -p 4 -n 256, 0.465331
+miniVite, mammoth, 1, -p 4 -n 32, 0.464365
+miniVite, mammoth, 1, -p 4 -n 512, 0.469492
+miniVite, mammoth, 1, -p 4 -n 64, 0.478233
+miniVite, mammoth, 1, -p 5 -n 128, 0.464151
+miniVite, mammoth, 1, -p 5 -n 256, 0.463718
+miniVite, mammoth, 1, -p 5 -n 32, 0.464697
+miniVite, mammoth, 1, -p 5 -n 512, 0.466636
+miniVite, mammoth, 1, -p 5 -n 64, 0.462538
+miniVite, mammoth, 1, -p 6 -n 128, 0.464383
+miniVite, mammoth, 1, -p 6 -n 256, 0.475539
+miniVite, mammoth, 1, -p 6 -n 32, 0.464690
+miniVite, mammoth, 1, -p 6 -n 512, 0.468957
+miniVite, mammoth, 1, -p 6 -n 64, 0.465080
+miniVite, mammoth, 1, -p 7 -n 128, 0.463472
+miniVite, mammoth, 1, -p 7 -n 256, 0.464680
+miniVite, mammoth, 1, -p 7 -n 32, 0.464250
+miniVite, mammoth, 1, -p 7 -n 512, 0.467806
+miniVite, mammoth, 1, -p 7 -n 64, 0.462682
+miniVite, mammoth, 1, -p 8 -n 128, 0.463790
+miniVite, mammoth, 1, -p 8 -n 256, 0.466499
+miniVite, mammoth, 1, -p 8 -n 32, 0.466610
+miniVite, mammoth, 1, -p 8 -n 512, 0.467741
+miniVite, mammoth, 1, -p 8 -n 64, 0.461178
+miniVite, mammoth, 1, -p 9 -n 128, 0.465582
+miniVite, mammoth, 1, -p 9 -n 256, 0.495502
+miniVite, mammoth, 1, -p 9 -n 32, 0.473180
+miniVite, mammoth, 1, -p 9 -n 512, 0.466524
+miniVite, mammoth, 1, -p 9 -n 64, 0.466310
+miniVite, mammoth, 1, -w -l -p 1 -n 128, 0.465895
+miniVite, mammoth, 1, -w -l -p 1 -n 256, 0.469614
+miniVite, mammoth, 1, -w -l -p 1 -n 32, 0.465267
+miniVite, mammoth, 1, -w -l -p 1 -n 512, 0.466476
+miniVite, mammoth, 1, -w -l -p 1 -n 64, 0.464200
+miniVite, mammoth, 1, -w -l -p 2 -n 128, 0.477115
+miniVite, mammoth, 1, -w -l -p 2 -n 256, 0.577274
+miniVite, mammoth, 1, -w -l -p 2 -n 32, 0.551554
+miniVite, mammoth, 1, -w -l -p 2 -n 512, 0.554613
+miniVite, mammoth, 1, -w -l -p 2 -n 64, 0.464359
+miniVite, mammoth, 1, -w -l -p 3 -n 128, 0.467658
+miniVite, mammoth, 1, -w -l -p 3 -n 256, 0.477206
+miniVite, mammoth, 1, -w -l -p 3 -n 32, 0.464627
+miniVite, mammoth, 1, -w -l -p 3 -n 512, 0.468103
+miniVite, mammoth, 1, -w -l -p 3 -n 64, 0.462691
+miniVite, mammoth, 1, -w -l -p 4 -n 128, 0.476376
+miniVite, mammoth, 1, -w -l -p 4 -n 256, 0.466365
+miniVite, mammoth, 1, -w -l -p 4 -n 32, 0.466745
+miniVite, mammoth, 1, -w -l -p 4 -n 512, 0.467511
+miniVite, mammoth, 1, -w -l -p 4 -n 64, 0.466086
+miniVite, mammoth, 1, -w -l -p 5 -n 128, 0.464422
+miniVite, mammoth, 1, -w -l -p 5 -n 256, 0.464413
+miniVite, mammoth, 1, -w -l -p 5 -n 32, 0.462278
+miniVite, mammoth, 1, -w -l -p 5 -n 512, 0.467152
+miniVite, mammoth, 1, -w -l -p 5 -n 64, 0.476270
+miniVite, mammoth, 1, -w -l -p 6 -n 128, 0.466202
+miniVite, mammoth, 1, -w -l -p 6 -n 256, 0.466064
+miniVite, mammoth, 1, -w -l -p 6 -n 32, 0.463910
+miniVite, mammoth, 1, -w -l -p 6 -n 512, 0.466413
+miniVite, mammoth, 1, -w -l -p 6 -n 64, 0.467346
+miniVite, mammoth, 1, -w -l -p 7 -n 128, 0.463441
+miniVite, mammoth, 1, -w -l -p 7 -n 256, 0.467822
+miniVite, mammoth, 1, -w -l -p 7 -n 32, 0.471672
+miniVite, mammoth, 1, -w -l -p 7 -n 512, 0.467569
+miniVite, mammoth, 1, -w -l -p 7 -n 64, 0.462121
+miniVite, mammoth, 1, -w -l -p 8 -n 128, 0.466052
+miniVite, mammoth, 1, -w -l -p 8 -n 256, 0.468853
+miniVite, mammoth, 1, -w -l -p 8 -n 32, 0.464232
+miniVite, mammoth, 1, -w -l -p 8 -n 512, 0.464573
+miniVite, mammoth, 1, -w -l -p 8 -n 64, 0.468240
+miniVite, mammoth, 1, -w -l -p 9 -n 128, 0.465481
+miniVite, mammoth, 1, -w -l -p 9 -n 256, 0.476040
+miniVite, mammoth, 1, -w -l -p 9 -n 32, 0.464596
+miniVite, mammoth, 1, -w -l -p 9 -n 512, 0.466261
+miniVite, mammoth, 1, -w -l -p 9 -n 64, 0.466602
+miniVite, mammoth, 1, -w -p 1 -n 128, 0.464743
+miniVite, mammoth, 1, -w -p 1 -n 256, 0.466345
+miniVite, mammoth, 1, -w -p 1 -n 32, 0.464731
+miniVite, mammoth, 1, -w -p 1 -n 512, 0.468558
+miniVite, mammoth, 1, -w -p 1 -n 64, 0.468456
+miniVite, mammoth, 1, -w -p 2 -n 128, 0.462568
+miniVite, mammoth, 1, -w -p 2 -n 256, 0.468019
+miniVite, mammoth, 1, -w -p 2 -n 32, 0.463199
+miniVite, mammoth, 1, -w -p 2 -n 512, 0.471682
+miniVite, mammoth, 1, -w -p 2 -n 64, 0.463850
+miniVite, mammoth, 1, -w -p 3 -n 128, 0.464427
+miniVite, mammoth, 1, -w -p 3 -n 256, 0.464806
+miniVite, mammoth, 1, -w -p 3 -n 32, 0.549907
+miniVite, mammoth, 1, -w -p 3 -n 512, 0.466054
+miniVite, mammoth, 1, -w -p 3 -n 64, 0.465076
+miniVite, mammoth, 1, -w -p 4 -n 128, 0.466234
+miniVite, mammoth, 1, -w -p 4 -n 256, 0.465910
+miniVite, mammoth, 1, -w -p 4 -n 32, 0.462029
+miniVite, mammoth, 1, -w -p 4 -n 512, 0.464896
+miniVite, mammoth, 1, -w -p 4 -n 64, 0.462799
+miniVite, mammoth, 1, -w -p 5 -n 128, 0.464505
+miniVite, mammoth, 1, -w -p 5 -n 256, 0.510598
+miniVite, mammoth, 1, -w -p 5 -n 32, 0.460887
+miniVite, mammoth, 1, -w -p 5 -n 512, 0.467525
+miniVite, mammoth, 1, -w -p 5 -n 64, 0.462914
+miniVite, mammoth, 1, -w -p 6 -n 128, 0.464069
+miniVite, mammoth, 1, -w -p 6 -n 256, 0.465615
+miniVite, mammoth, 1, -w -p 6 -n 32, 0.462610
+miniVite, mammoth, 1, -w -p 6 -n 512, 0.471296
+miniVite, mammoth, 1, -w -p 6 -n 64, 0.467408
+miniVite, mammoth, 1, -w -p 7 -n 128, 0.466657
+miniVite, mammoth, 1, -w -p 7 -n 256, 0.463832
+miniVite, mammoth, 1, -w -p 7 -n 32, 0.466616
+miniVite, mammoth, 1, -w -p 7 -n 512, 0.469753
+miniVite, mammoth, 1, -w -p 7 -n 64, 0.467084
+miniVite, mammoth, 1, -w -p 8 -n 128, 0.465037
+miniVite, mammoth, 1, -w -p 8 -n 256, 0.465038
+miniVite, mammoth, 1, -w -p 8 -n 32, 0.464038
+miniVite, mammoth, 1, -w -p 8 -n 512, 0.473166
+miniVite, mammoth, 1, -w -p 8 -n 64, 0.465763
+miniVite, mammoth, 1, -w -p 9 -n 128, 0.467518
+miniVite, mammoth, 1, -w -p 9 -n 256, 0.464833
+miniVite, mammoth, 1, -w -p 9 -n 32, 0.472331
+miniVite, mammoth, 1, -w -p 9 -n 512, 0.468960
+miniVite, mammoth, 1, -w -p 9 -n 64, 0.464189
+miniVite, mammoth, 32, -l -p 1 -n 16384, 0.990655
+miniVite, mammoth, 32, -l -p 1 -n 4096, 0.934221
+miniVite, mammoth, 32, -l -p 1 -n 8192, 0.959658
+miniVite, mammoth, 32, -l -p 2 -n 16384, 0.997162
+miniVite, mammoth, 32, -l -p 2 -n 4096, 0.951721
+miniVite, mammoth, 32, -l -p 2 -n 8192, 0.961700
+miniVite, mammoth, 32, -l -p 3 -n 16384, 0.982714
+miniVite, mammoth, 32, -l -p 3 -n 4096, 0.947942
+miniVite, mammoth, 32, -l -p 3 -n 8192, 0.951351
+miniVite, mammoth, 32, -l -p 4 -n 16384, 1.074479
+miniVite, mammoth, 32, -l -p 4 -n 4096, 0.945006
+miniVite, mammoth, 32, -l -p 4 -n 8192, 0.986512
+miniVite, mammoth, 32, -l -p 5 -n 16384, 0.968742
+miniVite, mammoth, 32, -l -p 5 -n 4096, 0.948017
+miniVite, mammoth, 32, -l -p 5 -n 8192, 1.078721
+miniVite, mammoth, 32, -l -p 6 -n 16384, 0.949553
+miniVite, mammoth, 32, -l -p 6 -n 4096, 0.959887
+miniVite, mammoth, 32, -l -p 6 -n 8192, 0.963965
+miniVite, mammoth, 32, -l -p 7 -n 16384, 1.035988
+miniVite, mammoth, 32, -l -p 7 -n 4096, 0.950560
+miniVite, mammoth, 32, -l -p 7 -n 8192, 0.957622
+miniVite, mammoth, 32, -l -p 8 -n 16384, 0.976204
+miniVite, mammoth, 32, -l -p 8 -n 4096, 0.948035
+miniVite, mammoth, 32, -l -p 8 -n 8192, 0.960261
+miniVite, mammoth, 32, -l -p 9 -n 16384, 1.001351
+miniVite, mammoth, 32, -l -p 9 -n 4096, 1.016151
+miniVite, mammoth, 32, -l -p 9 -n 8192, 0.955737
+miniVite, mammoth, 32, -p 1 -n 16384, 1.070074
+miniVite, mammoth, 32, -p 1 -n 4096, 0.944339
+miniVite, mammoth, 32, -p 1 -n 8192, 0.934403
+miniVite, mammoth, 32, -p 2 -n 16384, 0.975303
+miniVite, mammoth, 32, -p 2 -n 4096, 0.935032
+miniVite, mammoth, 32, -p 2 -n 8192, 1.085737
+miniVite, mammoth, 32, -p 3 -n 16384, 0.952130
+miniVite, mammoth, 32, -p 3 -n 4096, 0.934730
+miniVite, mammoth, 32, -p 3 -n 8192, 0.951236
+miniVite, mammoth, 32, -p 4 -n 16384, 0.963465
+miniVite, mammoth, 32, -p 4 -n 4096, 0.942101
+miniVite, mammoth, 32, -p 4 -n 8192, 0.964524
+miniVite, mammoth, 32, -p 5 -n 16384, 0.966385
+miniVite, mammoth, 32, -p 5 -n 4096, 0.954247
+miniVite, mammoth, 32, -p 5 -n 8192, 0.955997
+miniVite, mammoth, 32, -p 6 -n 16384, 0.979337
+miniVite, mammoth, 32, -p 6 -n 4096, 0.944895
+miniVite, mammoth, 32, -p 6 -n 8192, 0.962091
+miniVite, mammoth, 32, -p 7 -n 16384, 0.957870
+miniVite, mammoth, 32, -p 7 -n 4096, 0.959295
+miniVite, mammoth, 32, -p 7 -n 8192, 0.953983
+miniVite, mammoth, 32, -p 8 -n 16384, 0.949629
+miniVite, mammoth, 32, -p 8 -n 4096, 0.944102
+miniVite, mammoth, 32, -p 8 -n 8192, 0.962885
+miniVite, mammoth, 32, -p 9 -n 16384, 0.963083
+miniVite, mammoth, 32, -p 9 -n 4096, 0.954063
+miniVite, mammoth, 32, -p 9 -n 8192, 0.953595
+miniVite, mammoth, 32, -w -l -p 1 -n 16384, 0.949347
+miniVite, mammoth, 32, -w -l -p 1 -n 4096, 0.946514
+miniVite, mammoth, 32, -w -l -p 1 -n 8192, 1.109075
+miniVite, mammoth, 32, -w -l -p 2 -n 16384, 0.956853
+miniVite, mammoth, 32, -w -l -p 2 -n 4096, 0.946130
+miniVite, mammoth, 32, -w -l -p 2 -n 8192, 0.947938
+miniVite, mammoth, 32, -w -l -p 3 -n 16384, 0.973813
+miniVite, mammoth, 32, -w -l -p 3 -n 4096, 0.940201
+miniVite, mammoth, 32, -w -l -p 3 -n 8192, 0.939401
+miniVite, mammoth, 32, -w -l -p 4 -n 16384, 0.950226
+miniVite, mammoth, 32, -w -l -p 4 -n 4096, 0.950305
+miniVite, mammoth, 32, -w -l -p 4 -n 8192, 1.010933
+miniVite, mammoth, 32, -w -l -p 5 -n 16384, 0.961965
+miniVite, mammoth, 32, -w -l -p 5 -n 4096, 0.994468
+miniVite, mammoth, 32, -w -l -p 5 -n 8192, 0.949270
+miniVite, mammoth, 32, -w -l -p 6 -n 16384, 0.972323
+miniVite, mammoth, 32, -w -l -p 6 -n 4096, 0.935902
+miniVite, mammoth, 32, -w -l -p 6 -n 8192, 0.960819
+miniVite, mammoth, 32, -w -l -p 7 -n 16384, 0.946129
+miniVite, mammoth, 32, -w -l -p 7 -n 4096, 0.947202
+miniVite, mammoth, 32, -w -l -p 7 -n 8192, 1.074164
+miniVite, mammoth, 32, -w -l -p 8 -n 16384, 0.986782
+miniVite, mammoth, 32, -w -l -p 8 -n 4096, 0.944254
+miniVite, mammoth, 32, -w -l -p 8 -n 8192, 1.054808
+miniVite, mammoth, 32, -w -l -p 9 -n 16384, 0.949598
+miniVite, mammoth, 32, -w -l -p 9 -n 4096, 0.940924
+miniVite, mammoth, 32, -w -l -p 9 -n 8192, 0.995459
+miniVite, mammoth, 32, -w -p 1 -n 16384, 1.024986
+miniVite, mammoth, 32, -w -p 1 -n 4096, 0.944938
+miniVite, mammoth, 32, -w -p 1 -n 8192, 0.940778
+miniVite, mammoth, 32, -w -p 2 -n 16384, 0.971093
+miniVite, mammoth, 32, -w -p 2 -n 4096, 0.956902
+miniVite, mammoth, 32, -w -p 2 -n 8192, 0.945372
+miniVite, mammoth, 32, -w -p 3 -n 16384, 0.963533
+miniVite, mammoth, 32, -w -p 3 -n 4096, 1.040932
+miniVite, mammoth, 32, -w -p 3 -n 8192, 0.997475
+miniVite, mammoth, 32, -w -p 4 -n 16384, 0.951680
+miniVite, mammoth, 32, -w -p 4 -n 4096, 0.941446
+miniVite, mammoth, 32, -w -p 4 -n 8192, 0.949101
+miniVite, mammoth, 32, -w -p 5 -n 16384, 0.958684
+miniVite, mammoth, 32, -w -p 5 -n 4096, 0.969196
+miniVite, mammoth, 32, -w -p 5 -n 8192, 0.965540
+miniVite, mammoth, 32, -w -p 6 -n 16384, 1.062023
+miniVite, mammoth, 32, -w -p 6 -n 4096, 0.948143
+miniVite, mammoth, 32, -w -p 6 -n 8192, 0.945333
+miniVite, mammoth, 32, -w -p 7 -n 16384, 0.940458
+miniVite, mammoth, 32, -w -p 7 -n 4096, 0.945104
+miniVite, mammoth, 32, -w -p 7 -n 8192, 0.949677
+miniVite, mammoth, 32, -w -p 8 -n 16384, 0.948131
+miniVite, mammoth, 32, -w -p 8 -n 4096, 0.938727
+miniVite, mammoth, 32, -w -p 8 -n 8192, 1.023919
+miniVite, mammoth, 32, -w -p 9 -n 16384, 0.943263
+miniVite, mammoth, 32, -w -p 9 -n 4096, 0.957341
+miniVite, mammoth, 32, -w -p 9 -n 8192, 0.947943
+SWFFT, mammoth, 1, 10 120, 2.128789
+SWFFT, mammoth, 1, 10 128, 7.688860
+SWFFT, mammoth, 1, 10 160, 4.869901
+SWFFT, mammoth, 1, 10 200, 8.046511
+SWFFT, mammoth, 1, 10 240, 16.023258
+SWFFT, mammoth, 1, 10 256, 79.898206
+SWFFT, mammoth, 1, 10 32, 0.691918
+SWFFT, mammoth, 1, 10 64, 1.108852
+SWFFT, mammoth, 1, 12 128, 9.604006
+SWFFT, mammoth, 1, 12 256, 91.639512
+SWFFT, mammoth, 1, 12 32, 0.715845
+SWFFT, mammoth, 1, 12 64, 0.996591
+SWFFT, mammoth, 1, 14 128, 4.671767
+SWFFT, mammoth, 1, 14 256, 99.098453
+SWFFT, mammoth, 1, 14 32, 0.563881
+SWFFT, mammoth, 1, 14 64, 1.089750
+SWFFT, mammoth, 1, 15 120, 2.839614
+SWFFT, mammoth, 1, 15 160, 6.779244
+SWFFT, mammoth, 1, 15 200, 11.537390
+SWFFT, mammoth, 1, 15 240, 22.330428
+SWFFT, mammoth, 1, 16 128, 12.566172
+SWFFT, mammoth, 1, 16 256, 127.097326
+SWFFT, mammoth, 1, 16 32, 0.693153
+SWFFT, mammoth, 1, 16 64, 1.444285
+SWFFT, mammoth, 1, 18 128, 13.860152
+SWFFT, mammoth, 1, 18 256, 128.440382
+SWFFT, mammoth, 1, 18 32, 0.712526
+SWFFT, mammoth, 1, 18 64, 1.545926
+SWFFT, mammoth, 1, 20 120, 3.551297
+SWFFT, mammoth, 1, 20 128, 6.219248
+SWFFT, mammoth, 1, 20 160, 9.124366
+SWFFT, mammoth, 1, 20 200, 15.252909
+SWFFT, mammoth, 1, 20 240, 29.679976
+SWFFT, mammoth, 1, 20 256, 140.660470
+SWFFT, mammoth, 1, 20 32, 0.712660
+SWFFT, mammoth, 1, 20 64, 1.672933
+SWFFT, mammoth, 32, 10 120, 1.259114
+SWFFT, mammoth, 32, 10 128, 1.180703
+SWFFT, mammoth, 32, 10 160, 1.465005
+SWFFT, mammoth, 32, 10 200, 2.080845
+SWFFT, mammoth, 32, 10 240, 3.094981
+SWFFT, mammoth, 32, 10 256, 3.553499
+SWFFT, mammoth, 32, 10 32, 0.958477
+SWFFT, mammoth, 32, 10 64, 1.032380
+SWFFT, mammoth, 32, 12 128, 1.213420
+SWFFT, mammoth, 32, 12 256, 3.969937
+SWFFT, mammoth, 32, 12 32, 0.975101
+SWFFT, mammoth, 32, 12 64, 0.998041
+SWFFT, mammoth, 32, 14 128, 1.238302
+SWFFT, mammoth, 32, 14 256, 4.447976
+SWFFT, mammoth, 32, 14 32, 0.954713
+SWFFT, mammoth, 32, 14 64, 1.006589
+SWFFT, mammoth, 32, 15 120, 1.353999
+SWFFT, mammoth, 32, 15 160, 1.665282
+SWFFT, mammoth, 32, 15 200, 2.585118
+SWFFT, mammoth, 32, 15 240, 4.054947
+SWFFT, mammoth, 32, 16 128, 1.285950
+SWFFT, mammoth, 32, 16 256, 4.919975
+SWFFT, mammoth, 32, 16 32, 0.981604
+SWFFT, mammoth, 32, 16 64, 1.034008
+SWFFT, mammoth, 32, 18 128, 1.329098
+SWFFT, mammoth, 32, 18 256, 5.430187
+SWFFT, mammoth, 32, 18 32, 0.965029
+SWFFT, mammoth, 32, 18 64, 1.018013
+SWFFT, mammoth, 32, 20 120, 1.346536
+SWFFT, mammoth, 32, 20 128, 1.351599
+SWFFT, mammoth, 32, 20 160, 1.934152
+SWFFT, mammoth, 32, 20 200, 3.070982
+SWFFT, mammoth, 32, 20 240, 4.987412
+SWFFT, mammoth, 32, 20 256, 5.999084
+SWFFT, mammoth, 32, 20 32, 0.981264
+SWFFT, mammoth, 32, 20 64, 1.045948
+XSBench, mammoth, 1, -t 1 -m event -s XL -G hash, 191.033632
+XSBench, mammoth, 1, -t 1 -m event -s XL -G nuclide, 635.031998
+XSBench, mammoth, 1, -t 1 -m event -s XL -G unionized, 204.383024
+XSBench, mammoth, 1, -t 1 -m event -s XXL -G hash, 256.513576
+XSBench, mammoth, 1, -t 1 -m event -s XXL -G nuclide, 775.357216
+XSBench, mammoth, 1, -t 1 -m event -s XXL -G unionized, 350.786497
+XSBench, mammoth, 1, -t 1 -m event -s large -G hash, 66.866113
+XSBench, mammoth, 1, -t 1 -m event -s large -G nuclide, 278.182925
+XSBench, mammoth, 1, -t 1 -m event -s large -G unionized, 57.537686
+XSBench, mammoth, 1, -t 1 -m event -s small -G hash, 17.488278
+XSBench, mammoth, 1, -t 1 -m event -s small -G nuclide, 59.121860
+XSBench, mammoth, 1, -t 1 -m event -s small -G unionized, 19.046338
+XSBench, mammoth, 1, -t 1 -m history -s XL -G hash, 190.375915
+XSBench, mammoth, 1, -t 1 -m history -s XL -G nuclide, 638.550084
+XSBench, mammoth, 1, -t 1 -m history -s XL -G unionized, 203.713549
+XSBench, mammoth, 1, -t 1 -m history -s XXL -G hash, 255.860210
+XSBench, mammoth, 1, -t 1 -m history -s XXL -G nuclide, 772.920053
+XSBench, mammoth, 1, -t 1 -m history -s XXL -G unionized, 353.362679
+XSBench, mammoth, 1, -t 1 -m history -s large -G hash, 66.713023
+XSBench, mammoth, 1, -t 1 -m history -s large -G nuclide, 284.541590
+XSBench, mammoth, 1, -t 1 -m history -s large -G unionized, 56.663984
+XSBench, mammoth, 1, -t 1 -m history -s small -G hash, 16.589378
+XSBench, mammoth, 1, -t 1 -m history -s small -G nuclide, 58.135085
+XSBench, mammoth, 1, -t 1 -m history -s small -G unionized, 18.062104

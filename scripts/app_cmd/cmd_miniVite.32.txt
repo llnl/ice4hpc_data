@@ -1,0 +1,108 @@
+miniVite -l -p 1 -n 16384
+miniVite -l -p 1 -n 4096
+miniVite -l -p 1 -n 8192
+miniVite -l -p 2 -n 16384
+miniVite -l -p 2 -n 4096
+miniVite -l -p 2 -n 8192
+miniVite -l -p 3 -n 16384
+miniVite -l -p 3 -n 4096
+miniVite -l -p 3 -n 8192
+miniVite -l -p 4 -n 16384
+miniVite -l -p 4 -n 4096
+miniVite -l -p 4 -n 8192
+miniVite -l -p 5 -n 16384
+miniVite -l -p 5 -n 4096
+miniVite -l -p 5 -n 8192
+miniVite -l -p 6 -n 16384
+miniVite -l -p 6 -n 4096
+miniVite -l -p 6 -n 8192
+miniVite -l -p 7 -n 16384
+miniVite -l -p 7 -n 4096
+miniVite -l -p 7 -n 8192
+miniVite -l -p 8 -n 16384
+miniVite -l -p 8 -n 4096
+miniVite -l -p 8 -n 8192
+miniVite -l -p 9 -n 16384
+miniVite -l -p 9 -n 4096
+miniVite -l -p 9 -n 8192
+miniVite -p 1 -n 16384
+miniVite -p 1 -n 4096
+miniVite -p 1 -n 8192
+miniVite -p 2 -n 16384
+miniVite -p 2 -n 4096
+miniVite -p 2 -n 8192
+miniVite -p 3 -n 16384
+miniVite -p 3 -n 4096
+miniVite -p 3 -n 8192
+miniVite -p 4 -n 16384
+miniVite -p 4 -n 4096
+miniVite -p 4 -n 8192
+miniVite -p 5 -n 16384
+miniVite -p 5 -n 4096
+miniVite -p 5 -n 8192
+miniVite -p 6 -n 16384
+miniVite -p 6 -n 4096
+miniVite -p 6 -n 8192
+miniVite -p 7 -n 16384
+miniVite -p 7 -n 4096
+miniVite -p 7 -n 8192
+miniVite -p 8 -n 16384
+miniVite -p 8 -n 4096
+miniVite -p 8 -n 8192
+miniVite -p 9 -n 16384
+miniVite -p 9 -n 4096
+miniVite -p 9 -n 8192
+miniVite -w -l -p 1 -n 16384
+miniVite -w -l -p 1 -n 4096
+miniVite -w -l -p 1 -n 8192
+miniVite -w -l -p 2 -n 16384
+miniVite -w -l -p 2 -n 4096
+miniVite -w -l -p 2 -n 8192
+miniVite -w -l -p 3 -n 16384
+miniVite -w -l -p 3 -n 4096
+miniVite -w -l -p 3 -n 8192
+miniVite -w -l -p 4 -n 16384
+miniVite -w -l -p 4 -n 4096
+miniVite -w -l -p 4 -n 8192
+miniVite -w -l -p 5 -n 16384
+miniVite -w -l -p 5 -n 4096
+miniVite -w -l -p 5 -n 8192
+miniVite -w -l -p 6 -n 16384
+miniVite -w -l -p 6 -n 4096
+miniVite -w -l -p 6 -n 8192
+miniVite -w -l -p 7 -n 16384
+miniVite -w -l -p 7 -n 4096
+miniVite -w -l -p 7 -n 8192
+miniVite -w -l -p 8 -n 16384
+miniVite -w -l -p 8 -n 4096
+miniVite -w -l -p 8 -n 8192
+miniVite -w -l -p 9 -n 16384
+miniVite -w -l -p 9 -n 4096
+miniVite -w -l -p 9 -n 8192
+miniVite -w -p 1 -n 16384
+miniVite -w -p 1 -n 4096
+miniVite -w -p 1 -n 8192
+miniVite -w -p 2 -n 16384
+miniVite -w -p 2 -n 4096
+miniVite -w -p 2 -n 8192
+miniVite -w -p 3 -n 16384
+miniVite -w -p 3 -n 4096
+miniVite -w -p 3 -n 8192
+miniVite -w -p 4 -n 16384
+miniVite -w -p 4 -n 4096
+miniVite -w -p 4 -n 8192
+miniVite -w -p 5 -n 16384
+miniVite -w -p 5 -n 4096
+miniVite -w -p 5 -n 8192
+miniVite -w -p 6 -n 16384
+miniVite -w -p 6 -n 4096
+miniVite -w -p 6 -n 8192
+miniVite -w -p 7 -n 16384
+miniVite -w -p 7 -n 4096
+miniVite -w -p 7 -n 8192
+miniVite -w -p 8 -n 16384
+miniVite -w -p 8 -n 4096
+miniVite -w -p 8 -n 8192
+miniVite -w -p 9 -n 16384
+miniVite -w -p 9 -n 4096
+miniVite -w -p 9 -n 8192

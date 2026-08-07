@@ -1,0 +1,852 @@
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 3
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 3 -pa
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 3.1
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 3.1 -pa
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 3.2
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 3.2 -pa
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 3.3
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 3.3 -pa
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 3.4
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 3.4 -pa
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 3.5
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 3.5 -pa
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 3.6
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 3.6 -pa
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 3.7
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 3.7 -pa
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 3.8
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 3.8 -pa
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 3.9
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 3.9 -pa
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 4
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 4 -pa
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 4.1
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 4.1 -pa
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 4.2
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 4.2 -pa
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 4.3
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 4.3 -pa
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 4.4
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 4.4 -pa
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 4.5
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 4.5 -pa
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 4.6
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 4.6 -pa
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 4.7
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 4.7 -pa
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 4.8
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 4.8 -pa
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 4.9
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 4.9 -pa
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 5
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 5 -pa
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 5.5
+laghos, 1, -p 1 -dim 2 -rs 2 -tf 5.5 -pa
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 3
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 3 -pa
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 3.1
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 3.1 -pa
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 3.2
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 3.2 -pa
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 3.3
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 3.3 -pa
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 3.4
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 3.4 -pa
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 3.5
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 3.5 -pa
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 3.6
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 3.6 -pa
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 3.7
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 3.7 -pa
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 3.8
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 3.8 -pa
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 3.9
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 3.9 -pa
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 4
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 4 -pa
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 4.1
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 4.1 -pa
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 4.2
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 4.2 -pa
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 4.3
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 4.3 -pa
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 4.4
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 4.4 -pa
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 4.5
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 4.5 -pa
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 4.6
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 4.6 -pa
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 4.7
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 4.7 -pa
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 4.8
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 4.8 -pa
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 4.9
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 4.9 -pa
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 5
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 5 -pa
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 5.5
+laghos, 1, -p 1 -dim 2 -rs 3 -tf 5.5 -pa
+laghos, 1, -p 1 -dim 3 -rs 1 -tf 3
+laghos, 1, -p 1 -dim 3 -rs 1 -tf 3 -pa
+laghos, 1, -p 1 -dim 3 -rs 1 -tf 3.5
+laghos, 1, -p 1 -dim 3 -rs 1 -tf 3.5 -pa
+laghos, 1, -p 1 -dim 3 -rs 1 -tf 4
+laghos, 1, -p 1 -dim 3 -rs 1 -tf 4 -pa
+laghos, 1, -p 1 -dim 3 -rs 1 -tf 4.5
+laghos, 1, -p 1 -dim 3 -rs 1 -tf 4.5 -pa
+laghos, 1, -p 1 -dim 3 -rs 1 -tf 5
+laghos, 1, -p 1 -dim 3 -rs 1 -tf 5 -pa
+laghos, 1, -p 1 -dim 3 -rs 1 -tf 5.5
+laghos, 1, -p 1 -dim 3 -rs 1 -tf 5.5 -pa
+laghos, 1, -p 1 -dim 3 -rs 2 -tf 3
+laghos, 1, -p 1 -dim 3 -rs 2 -tf 3 -pa
+laghos, 1, -p 1 -dim 3 -rs 2 -tf 3.5
+laghos, 1, -p 1 -dim 3 -rs 2 -tf 3.5 -pa
+laghos, 1, -p 1 -dim 3 -rs 2 -tf 4
+laghos, 1, -p 1 -dim 3 -rs 2 -tf 4 -pa
+laghos, 1, -p 1 -dim 3 -rs 2 -tf 4.5
+laghos, 1, -p 1 -dim 3 -rs 2 -tf 4.5 -pa
+laghos, 1, -p 1 -dim 3 -rs 2 -tf 5
+laghos, 1, -p 1 -dim 3 -rs 2 -tf 5 -pa
+laghos, 1, -p 1 -dim 3 -rs 2 -tf 5.5
+laghos, 1, -p 1 -dim 3 -rs 2 -tf 5.5 -pa
+laghos, 1, -p 2 -dim 2 -rs 2 -tf 3
+laghos, 1, -p 2 -dim 2 -rs 2 -tf 3 -pa
+laghos, 1, -p 2 -dim 2 -rs 2 -tf 3.5
+laghos, 1, -p 2 -dim 2 -rs 2 -tf 3.5 -pa
+laghos, 1, -p 2 -dim 2 -rs 2 -tf 4
+laghos, 1, -p 2 -dim 2 -rs 2 -tf 4 -pa
+laghos, 1, -p 2 -dim 2 -rs 2 -tf 4.5
+laghos, 1, -p 2 -dim 2 -rs 2 -tf 4.5 -pa
+laghos, 1, -p 2 -dim 2 -rs 2 -tf 5
+laghos, 1, -p 2 -dim 2 -rs 2 -tf 5 -pa
+laghos, 1, -p 2 -dim 2 -rs 2 -tf 5.5
+laghos, 1, -p 2 -dim 2 -rs 2 -tf 5.5 -pa
+laghos, 1, -p 2 -dim 3 -rs 1 -tf 3
+laghos, 1, -p 2 -dim 3 -rs 1 -tf 3 -pa
+laghos, 1, -p 2 -dim 3 -rs 1 -tf 3.5
+laghos, 1, -p 2 -dim 3 -rs 1 -tf 3.5 -pa
+laghos, 1, -p 2 -dim 3 -rs 1 -tf 4
+laghos, 1, -p 2 -dim 3 -rs 1 -tf 4 -pa
+laghos, 1, -p 2 -dim 3 -rs 1 -tf 4.5
+laghos, 1, -p 2 -dim 3 -rs 1 -tf 4.5 -pa
+laghos, 1, -p 2 -dim 3 -rs 1 -tf 5
+laghos, 1, -p 2 -dim 3 -rs 1 -tf 5 -pa
+laghos, 1, -p 2 -dim 3 -rs 1 -tf 5.5
+laghos, 1, -p 2 -dim 3 -rs 1 -tf 5.5 -pa
+laghos, 1, -p 2 -dim 3 -rs 2 -tf 3
+laghos, 1, -p 2 -dim 3 -rs 2 -tf 3 -pa
+laghos, 1, -p 3 -dim 2 -rs 1 -tf 3
+laghos, 1, -p 3 -dim 2 -rs 1 -tf 3 -pa
+laghos, 1, -p 3 -dim 2 -rs 1 -tf 3.5
+laghos, 1, -p 3 -dim 2 -rs 1 -tf 3.5 -pa
+laghos, 1, -p 3 -dim 2 -rs 1 -tf 4
+laghos, 1, -p 3 -dim 2 -rs 1 -tf 4 -pa
+laghos, 1, -p 3 -dim 2 -rs 1 -tf 4.5
+laghos, 1, -p 3 -dim 2 -rs 1 -tf 4.5 -pa
+laghos, 1, -p 3 -dim 2 -rs 1 -tf 5
+laghos, 1, -p 3 -dim 2 -rs 1 -tf 5 -pa
+laghos, 1, -p 3 -dim 2 -rs 1 -tf 5.5
+laghos, 1, -p 3 -dim 2 -rs 1 -tf 5.5 -pa
+laghos, 1, -p 3 -dim 2 -rs 2 -tf 3
+laghos, 1, -p 3 -dim 2 -rs 2 -tf 3 -pa
+laghos, 1, -p 3 -dim 2 -rs 2 -tf 3.5
+laghos, 1, -p 3 -dim 2 -rs 2 -tf 3.5 -pa
+laghos, 1, -p 3 -dim 2 -rs 2 -tf 4
+laghos, 1, -p 3 -dim 2 -rs 2 -tf 4 -pa
+laghos, 1, -p 3 -dim 2 -rs 2 -tf 4.5
+laghos, 1, -p 3 -dim 2 -rs 2 -tf 4.5 -pa
+laghos, 1, -p 3 -dim 2 -rs 2 -tf 5
+laghos, 1, -p 3 -dim 2 -rs 2 -tf 5 -pa
+laghos, 1, -p 3 -dim 2 -rs 2 -tf 5.5
+laghos, 1, -p 3 -dim 2 -rs 2 -tf 5.5 -pa
+laghos, 1, -p 3 -dim 3 -rs 1 -tf 3
+laghos, 1, -p 3 -dim 3 -rs 1 -tf 3 -pa
+laghos, 1, -p 3 -dim 3 -rs 1 -tf 3.5
+laghos, 1, -p 3 -dim 3 -rs 1 -tf 3.5 -pa
+laghos, 1, -p 3 -dim 3 -rs 1 -tf 4
+laghos, 1, -p 3 -dim 3 -rs 1 -tf 4 -pa
+laghos, 1, -p 3 -dim 3 -rs 1 -tf 4.5
+laghos, 1, -p 3 -dim 3 -rs 1 -tf 4.5 -pa
+laghos, 1, -p 3 -dim 3 -rs 1 -tf 5
+laghos, 1, -p 3 -dim 3 -rs 1 -tf 5 -pa
+laghos, 1, -p 3 -dim 3 -rs 1 -tf 5.5
+laghos, 1, -p 3 -dim 3 -rs 1 -tf 5.5 -pa
+laghos, 1, -p 3 -dim 3 -rs 2 -tf 3
+laghos, 1, -p 3 -dim 3 -rs 2 -tf 3 -pa
+laghos, 1, -p 3 -dim 3 -rs 2 -tf 3.5
+laghos, 1, -p 3 -dim 3 -rs 2 -tf 3.5 -pa
+laghos, 1, -p 3 -dim 3 -rs 2 -tf 4
+laghos, 1, -p 3 -dim 3 -rs 2 -tf 4 -pa
+laghos, 1, -p 3 -dim 3 -rs 2 -tf 4.5
+laghos, 1, -p 3 -dim 3 -rs 2 -tf 4.5 -pa
+laghos, 1, -p 3 -dim 3 -rs 2 -tf 5
+laghos, 1, -p 3 -dim 3 -rs 2 -tf 5 -pa
+laghos, 1, -p 3 -dim 3 -rs 2 -tf 5.5
+laghos, 1, -p 3 -dim 3 -rs 2 -tf 5.5 -pa
+kripke.exe, 1, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 0
+kripke.exe, 32, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 0 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 1
+kripke.exe, 32, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 1 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 2
+kripke.exe, 32, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 2 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 3
+kripke.exe, 32, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 3 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 4
+kripke.exe, 32, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 4 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 0
+kripke.exe, 32, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 0 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 1
+kripke.exe, 32, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 1 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 2
+kripke.exe, 32, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 2 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 3
+kripke.exe, 32, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 3 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 4
+kripke.exe, 32, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 4 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 0
+kripke.exe, 32, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 0 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 1
+kripke.exe, 32, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 1 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 2
+kripke.exe, 32, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 2 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 3
+kripke.exe, 32, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 3 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 4
+kripke.exe, 32, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 4 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 0
+kripke.exe, 32, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 0 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 1
+kripke.exe, 32, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 1 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 2
+kripke.exe, 32, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 2 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 3
+kripke.exe, 32, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 3 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 4
+kripke.exe, 32, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 4 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 0
+kripke.exe, 32, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 0 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 1
+kripke.exe, 32, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 1 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 2
+kripke.exe, 32, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 2 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 3
+kripke.exe, 32, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 3 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 4
+kripke.exe, 32, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 4 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 0
+kripke.exe, 32, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 0 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 1
+kripke.exe, 32, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 1 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 2
+kripke.exe, 32, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 2 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 3
+kripke.exe, 32, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 3 --procs 4,4,2
+kripke.exe, 1, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 4
+kripke.exe, 32, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 4 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 0
+kripke.exe, 32, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 0 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 1
+kripke.exe, 32, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 1 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 2
+kripke.exe, 32, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 2 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 3
+kripke.exe, 32, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 3 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 4
+kripke.exe, 32, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 4 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 0
+kripke.exe, 32, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 0 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 1
+kripke.exe, 32, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 1 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 2
+kripke.exe, 32, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 2 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 3
+kripke.exe, 32, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 3 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 4
+kripke.exe, 32, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 4 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 0
+kripke.exe, 32, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 0 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 1
+kripke.exe, 32, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 1 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 2
+kripke.exe, 32, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 2 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 3
+kripke.exe, 32, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 3 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 4
+kripke.exe, 32, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 4 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 0
+kripke.exe, 32, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 0 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 1
+kripke.exe, 32, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 1 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 2
+kripke.exe, 32, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 2 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 3
+kripke.exe, 32, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 3 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 4
+kripke.exe, 32, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 4 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 0
+kripke.exe, 32, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 0 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 1
+kripke.exe, 32, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 1 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 2
+kripke.exe, 32, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 2 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 3
+kripke.exe, 32, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 3 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 4
+kripke.exe, 32, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 4 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 0
+kripke.exe, 32, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 0 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 1
+kripke.exe, 32, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 1 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 2
+kripke.exe, 32, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 2 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 3
+kripke.exe, 32, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 3 --procs 4,4,2
+kripke.exe, 1, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 4
+kripke.exe, 32, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 4 --procs 4,4,2
+kripke.exe, 1, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 0
+kripke.exe, 32, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 0 --procs 4,4,2
+kripke.exe, 1, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 1
+kripke.exe, 32, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 1 --procs 4,4,2
+kripke.exe, 1, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 2
+kripke.exe, 32, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 2 --procs 4,4,2
+kripke.exe, 1, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 3
+kripke.exe, 32, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 3 --procs 4,4,2
+kripke.exe, 1, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 4
+kripke.exe, 32, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 4 --procs 4,4,2
+kripke.exe, 1, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 0
+kripke.exe, 32, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 0 --procs 4,4,2
+kripke.exe, 1, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 1
+kripke.exe, 32, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 1 --procs 4,4,2
+kripke.exe, 1, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 2
+kripke.exe, 32, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 2 --procs 4,4,2
+kripke.exe, 1, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 3
+kripke.exe, 32, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 3 --procs 4,4,2
+kripke.exe, 1, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 4
+kripke.exe, 32, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 4 --procs 4,4,2
+kripke.exe, 1, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 0
+kripke.exe, 32, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 0 --procs 4,4,2
+kripke.exe, 1, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 1
+kripke.exe, 32, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 1 --procs 4,4,2
+kripke.exe, 1, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 2
+kripke.exe, 32, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 2 --procs 4,4,2
+kripke.exe, 1, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 3
+kripke.exe, 32, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 3 --procs 4,4,2
+kripke.exe, 1, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 4
+kripke.exe, 32, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 4 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 0
+kripke.exe, 32, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 0 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 1
+kripke.exe, 32, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 1 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 2
+kripke.exe, 32, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 2 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 3
+kripke.exe, 32, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 3 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 4
+kripke.exe, 32, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 4 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 0
+kripke.exe, 32, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 0 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 1
+kripke.exe, 32, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 1 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 2
+kripke.exe, 32, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 2 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 3
+kripke.exe, 32, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 3 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 4
+kripke.exe, 32, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 4 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 0
+kripke.exe, 32, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 0 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 1
+kripke.exe, 32, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 1 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 2
+kripke.exe, 32, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 2 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 3
+kripke.exe, 32, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 3 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 4
+kripke.exe, 32, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 4 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 0
+kripke.exe, 32, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 0 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 1
+kripke.exe, 32, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 1 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 2
+kripke.exe, 32, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 2 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 3
+kripke.exe, 32, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 3 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 4
+kripke.exe, 32, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 4 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 0
+kripke.exe, 32, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 0 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 1
+kripke.exe, 32, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 1 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 2
+kripke.exe, 32, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 2 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 3
+kripke.exe, 32, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 3 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 4
+kripke.exe, 32, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 4 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 0
+kripke.exe, 32, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 0 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 1
+kripke.exe, 32, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 1 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 2
+kripke.exe, 32, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 2 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 3
+kripke.exe, 32, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 3 --procs 4,4,2
+kripke.exe, 1, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 4
+kripke.exe, 32, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 4 --procs 4,4,2
+miniVite, 1, -l -p 1 -n 128
+miniVite, 32, -l -p 1 -n 16384
+miniVite, 1, -l -p 1 -n 256
+miniVite, 1, -l -p 1 -n 32
+miniVite, 32, -l -p 1 -n 4096
+miniVite, 1, -l -p 1 -n 512
+miniVite, 1, -l -p 1 -n 64
+miniVite, 32, -l -p 1 -n 8192
+miniVite, 1, -l -p 2 -n 128
+miniVite, 32, -l -p 2 -n 16384
+miniVite, 1, -l -p 2 -n 256
+miniVite, 1, -l -p 2 -n 32
+miniVite, 32, -l -p 2 -n 4096
+miniVite, 1, -l -p 2 -n 512
+miniVite, 1, -l -p 2 -n 64
+miniVite, 32, -l -p 2 -n 8192
+miniVite, 1, -l -p 3 -n 128
+miniVite, 32, -l -p 3 -n 16384
+miniVite, 1, -l -p 3 -n 256
+miniVite, 1, -l -p 3 -n 32
+miniVite, 32, -l -p 3 -n 4096
+miniVite, 1, -l -p 3 -n 512
+miniVite, 1, -l -p 3 -n 64
+miniVite, 32, -l -p 3 -n 8192
+miniVite, 1, -l -p 4 -n 128
+miniVite, 32, -l -p 4 -n 16384
+miniVite, 1, -l -p 4 -n 256
+miniVite, 1, -l -p 4 -n 32
+miniVite, 32, -l -p 4 -n 4096
+miniVite, 1, -l -p 4 -n 512
+miniVite, 1, -l -p 4 -n 64
+miniVite, 32, -l -p 4 -n 8192
+miniVite, 1, -l -p 5 -n 128
+miniVite, 32, -l -p 5 -n 16384
+miniVite, 1, -l -p 5 -n 256
+miniVite, 1, -l -p 5 -n 32
+miniVite, 32, -l -p 5 -n 4096
+miniVite, 1, -l -p 5 -n 512
+miniVite, 1, -l -p 5 -n 64
+miniVite, 32, -l -p 5 -n 8192
+miniVite, 1, -l -p 6 -n 128
+miniVite, 32, -l -p 6 -n 16384
+miniVite, 1, -l -p 6 -n 256
+miniVite, 1, -l -p 6 -n 32
+miniVite, 32, -l -p 6 -n 4096
+miniVite, 1, -l -p 6 -n 512
+miniVite, 1, -l -p 6 -n 64
+miniVite, 32, -l -p 6 -n 8192
+miniVite, 1, -l -p 7 -n 128
+miniVite, 32, -l -p 7 -n 16384
+miniVite, 1, -l -p 7 -n 256
+miniVite, 1, -l -p 7 -n 32
+miniVite, 32, -l -p 7 -n 4096
+miniVite, 1, -l -p 7 -n 512
+miniVite, 1, -l -p 7 -n 64
+miniVite, 32, -l -p 7 -n 8192
+miniVite, 1, -l -p 8 -n 128
+miniVite, 32, -l -p 8 -n 16384
+miniVite, 1, -l -p 8 -n 256
+miniVite, 1, -l -p 8 -n 32
+miniVite, 32, -l -p 8 -n 4096
+miniVite, 1, -l -p 8 -n 512
+miniVite, 1, -l -p 8 -n 64
+miniVite, 32, -l -p 8 -n 8192
+miniVite, 1, -l -p 9 -n 128
+miniVite, 32, -l -p 9 -n 16384
+miniVite, 1, -l -p 9 -n 256
+miniVite, 1, -l -p 9 -n 32
+miniVite, 32, -l -p 9 -n 4096
+miniVite, 1, -l -p 9 -n 512
+miniVite, 1, -l -p 9 -n 64
+miniVite, 32, -l -p 9 -n 8192
+miniVite, 1, -p 1 -n 128
+miniVite, 32, -p 1 -n 16384
+miniVite, 1, -p 1 -n 256
+miniVite, 1, -p 1 -n 32
+miniVite, 32, -p 1 -n 4096
+miniVite, 1, -p 1 -n 512
+miniVite, 1, -p 1 -n 64
+miniVite, 32, -p 1 -n 8192
+miniVite, 1, -p 2 -n 128
+miniVite, 32, -p 2 -n 16384
+miniVite, 1, -p 2 -n 256
+miniVite, 1, -p 2 -n 32
+miniVite, 32, -p 2 -n 4096
+miniVite, 1, -p 2 -n 512
+miniVite, 1, -p 2 -n 64
+miniVite, 32, -p 2 -n 8192
+miniVite, 1, -p 3 -n 128
+miniVite, 32, -p 3 -n 16384
+miniVite, 1, -p 3 -n 256
+miniVite, 1, -p 3 -n 32
+miniVite, 32, -p 3 -n 4096
+miniVite, 1, -p 3 -n 512
+miniVite, 1, -p 3 -n 64
+miniVite, 32, -p 3 -n 8192
+miniVite, 1, -p 4 -n 128
+miniVite, 32, -p 4 -n 16384
+miniVite, 1, -p 4 -n 256
+miniVite, 1, -p 4 -n 32
+miniVite, 32, -p 4 -n 4096
+miniVite, 1, -p 4 -n 512
+miniVite, 1, -p 4 -n 64
+miniVite, 32, -p 4 -n 8192
+miniVite, 1, -p 5 -n 128
+miniVite, 32, -p 5 -n 16384
+miniVite, 1, -p 5 -n 256
+miniVite, 1, -p 5 -n 32
+miniVite, 32, -p 5 -n 4096
+miniVite, 1, -p 5 -n 512
+miniVite, 1, -p 5 -n 64
+miniVite, 32, -p 5 -n 8192
+miniVite, 1, -p 6 -n 128
+miniVite, 32, -p 6 -n 16384
+miniVite, 1, -p 6 -n 256
+miniVite, 1, -p 6 -n 32
+miniVite, 32, -p 6 -n 4096
+miniVite, 1, -p 6 -n 512
+miniVite, 1, -p 6 -n 64
+miniVite, 32, -p 6 -n 8192
+miniVite, 1, -p 7 -n 128
+miniVite, 32, -p 7 -n 16384
+miniVite, 1, -p 7 -n 256
+miniVite, 1, -p 7 -n 32
+miniVite, 32, -p 7 -n 4096
+miniVite, 1, -p 7 -n 512
+miniVite, 1, -p 7 -n 64
+miniVite, 32, -p 7 -n 8192
+miniVite, 1, -p 8 -n 128
+miniVite, 32, -p 8 -n 16384
+miniVite, 1, -p 8 -n 256
+miniVite, 1, -p 8 -n 32
+miniVite, 32, -p 8 -n 4096
+miniVite, 1, -p 8 -n 512
+miniVite, 1, -p 8 -n 64
+miniVite, 32, -p 8 -n 8192
+miniVite, 1, -p 9 -n 128
+miniVite, 32, -p 9 -n 16384
+miniVite, 1, -p 9 -n 256
+miniVite, 1, -p 9 -n 32
+miniVite, 32, -p 9 -n 4096
+miniVite, 1, -p 9 -n 512
+miniVite, 1, -p 9 -n 64
+miniVite, 32, -p 9 -n 8192
+miniVite, 1, -w -l -p 1 -n 128
+miniVite, 32, -w -l -p 1 -n 16384
+miniVite, 1, -w -l -p 1 -n 256
+miniVite, 1, -w -l -p 1 -n 32
+miniVite, 32, -w -l -p 1 -n 4096
+miniVite, 1, -w -l -p 1 -n 512
+miniVite, 1, -w -l -p 1 -n 64
+miniVite, 32, -w -l -p 1 -n 8192
+miniVite, 1, -w -l -p 2 -n 128
+miniVite, 32, -w -l -p 2 -n 16384
+miniVite, 1, -w -l -p 2 -n 256
+miniVite, 1, -w -l -p 2 -n 32
+miniVite, 32, -w -l -p 2 -n 4096
+miniVite, 1, -w -l -p 2 -n 512
+miniVite, 1, -w -l -p 2 -n 64
+miniVite, 32, -w -l -p 2 -n 8192
+miniVite, 1, -w -l -p 3 -n 128
+miniVite, 32, -w -l -p 3 -n 16384
+miniVite, 1, -w -l -p 3 -n 256
+miniVite, 1, -w -l -p 3 -n 32
+miniVite, 32, -w -l -p 3 -n 4096
+miniVite, 1, -w -l -p 3 -n 512
+miniVite, 1, -w -l -p 3 -n 64
+miniVite, 32, -w -l -p 3 -n 8192
+miniVite, 1, -w -l -p 4 -n 128
+miniVite, 32, -w -l -p 4 -n 16384
+miniVite, 1, -w -l -p 4 -n 256
+miniVite, 1, -w -l -p 4 -n 32
+miniVite, 32, -w -l -p 4 -n 4096
+miniVite, 1, -w -l -p 4 -n 512
+miniVite, 1, -w -l -p 4 -n 64
+miniVite, 32, -w -l -p 4 -n 8192
+miniVite, 1, -w -l -p 5 -n 128
+miniVite, 32, -w -l -p 5 -n 16384
+miniVite, 1, -w -l -p 5 -n 256
+miniVite, 1, -w -l -p 5 -n 32
+miniVite, 32, -w -l -p 5 -n 4096
+miniVite, 1, -w -l -p 5 -n 512
+miniVite, 1, -w -l -p 5 -n 64
+miniVite, 32, -w -l -p 5 -n 8192
+miniVite, 1, -w -l -p 6 -n 128
+miniVite, 32, -w -l -p 6 -n 16384
+miniVite, 1, -w -l -p 6 -n 256
+miniVite, 1, -w -l -p 6 -n 32
+miniVite, 32, -w -l -p 6 -n 4096
+miniVite, 1, -w -l -p 6 -n 512
+miniVite, 1, -w -l -p 6 -n 64
+miniVite, 32, -w -l -p 6 -n 8192
+miniVite, 1, -w -l -p 7 -n 128
+miniVite, 32, -w -l -p 7 -n 16384
+miniVite, 1, -w -l -p 7 -n 256
+miniVite, 1, -w -l -p 7 -n 32
+miniVite, 32, -w -l -p 7 -n 4096
+miniVite, 1, -w -l -p 7 -n 512
+miniVite, 1, -w -l -p 7 -n 64
+miniVite, 32, -w -l -p 7 -n 8192
+miniVite, 1, -w -l -p 8 -n 128
+miniVite, 32, -w -l -p 8 -n 16384
+miniVite, 1, -w -l -p 8 -n 256
+miniVite, 1, -w -l -p 8 -n 32
+miniVite, 32, -w -l -p 8 -n 4096
+miniVite, 1, -w -l -p 8 -n 512
+miniVite, 1, -w -l -p 8 -n 64
+miniVite, 32, -w -l -p 8 -n 8192
+miniVite, 1, -w -l -p 9 -n 128
+miniVite, 32, -w -l -p 9 -n 16384
+miniVite, 1, -w -l -p 9 -n 256
+miniVite, 1, -w -l -p 9 -n 32
+miniVite, 32, -w -l -p 9 -n 4096
+miniVite, 1, -w -l -p 9 -n 512
+miniVite, 1, -w -l -p 9 -n 64
+miniVite, 32, -w -l -p 9 -n 8192
+miniVite, 1, -w -p 1 -n 128
+miniVite, 32, -w -p 1 -n 16384
+miniVite, 1, -w -p 1 -n 256
+miniVite, 1, -w -p 1 -n 32
+miniVite, 32, -w -p 1 -n 4096
+miniVite, 1, -w -p 1 -n 512
+miniVite, 1, -w -p 1 -n 64
+miniVite, 32, -w -p 1 -n 8192
+miniVite, 1, -w -p 2 -n 128
+miniVite, 32, -w -p 2 -n 16384
+miniVite, 1, -w -p 2 -n 256
+miniVite, 1, -w -p 2 -n 32
+miniVite, 32, -w -p 2 -n 4096
+miniVite, 1, -w -p 2 -n 512
+miniVite, 1, -w -p 2 -n 64
+miniVite, 32, -w -p 2 -n 8192
+miniVite, 1, -w -p 3 -n 128
+miniVite, 32, -w -p 3 -n 16384
+miniVite, 1, -w -p 3 -n 256
+miniVite, 1, -w -p 3 -n 32
+miniVite, 32, -w -p 3 -n 4096
+miniVite, 1, -w -p 3 -n 512
+miniVite, 1, -w -p 3 -n 64
+miniVite, 32, -w -p 3 -n 8192
+miniVite, 1, -w -p 4 -n 128
+miniVite, 32, -w -p 4 -n 16384
+miniVite, 1, -w -p 4 -n 256
+miniVite, 1, -w -p 4 -n 32
+miniVite, 32, -w -p 4 -n 4096
+miniVite, 1, -w -p 4 -n 512
+miniVite, 1, -w -p 4 -n 64
+miniVite, 32, -w -p 4 -n 8192
+miniVite, 1, -w -p 5 -n 128
+miniVite, 32, -w -p 5 -n 16384
+miniVite, 1, -w -p 5 -n 256
+miniVite, 1, -w -p 5 -n 32
+miniVite, 32, -w -p 5 -n 4096
+miniVite, 1, -w -p 5 -n 512
+miniVite, 1, -w -p 5 -n 64
+miniVite, 32, -w -p 5 -n 8192
+miniVite, 1, -w -p 6 -n 128
+miniVite, 32, -w -p 6 -n 16384
+miniVite, 1, -w -p 6 -n 256
+miniVite, 1, -w -p 6 -n 32
+miniVite, 32, -w -p 6 -n 4096
+miniVite, 1, -w -p 6 -n 512
+miniVite, 1, -w -p 6 -n 64
+miniVite, 32, -w -p 6 -n 8192
+miniVite, 1, -w -p 7 -n 128
+miniVite, 32, -w -p 7 -n 16384
+miniVite, 1, -w -p 7 -n 256
+miniVite, 1, -w -p 7 -n 32
+miniVite, 32, -w -p 7 -n 4096
+miniVite, 1, -w -p 7 -n 512
+miniVite, 1, -w -p 7 -n 64
+miniVite, 32, -w -p 7 -n 8192
+miniVite, 1, -w -p 8 -n 128
+miniVite, 32, -w -p 8 -n 16384
+miniVite, 1, -w -p 8 -n 256
+miniVite, 1, -w -p 8 -n 32
+miniVite, 32, -w -p 8 -n 4096
+miniVite, 1, -w -p 8 -n 512
+miniVite, 1, -w -p 8 -n 64
+miniVite, 32, -w -p 8 -n 8192
+miniVite, 1, -w -p 9 -n 128
+miniVite, 32, -w -p 9 -n 16384
+miniVite, 1, -w -p 9 -n 256
+miniVite, 1, -w -p 9 -n 32
+miniVite, 32, -w -p 9 -n 4096
+miniVite, 1, -w -p 9 -n 512
+miniVite, 1, -w -p 9 -n 64
+miniVite, 32, -w -p 9 -n 8192
+TestDfft, 1, 10 120
+TestDfft, 32, 10 120
+TestDfft, 1, 10 128
+TestDfft, 32, 10 128
+TestDfft, 1, 10 160
+TestDfft, 32, 10 160
+TestDfft, 1, 10 200
+TestDfft, 32, 10 200
+TestDfft, 1, 10 240
+TestDfft, 32, 10 240
+TestDfft, 1, 10 256
+TestDfft, 32, 10 256
+TestDfft, 1, 10 32
+TestDfft, 32, 10 32
+TestDfft, 1, 10 64
+TestDfft, 32, 10 64
+TestDfft, 1, 12 128
+TestDfft, 32, 12 128
+TestDfft, 1, 12 256
+TestDfft, 32, 12 256
+TestDfft, 1, 12 32
+TestDfft, 32, 12 32
+TestDfft, 1, 12 64
+TestDfft, 32, 12 64
+TestDfft, 1, 14 128
+TestDfft, 32, 14 128
+TestDfft, 1, 14 256
+TestDfft, 32, 14 256
+TestDfft, 1, 14 32
+TestDfft, 32, 14 32
+TestDfft, 1, 14 64
+TestDfft, 32, 14 64
+TestDfft, 1, 15 120
+TestDfft, 32, 15 120
+TestDfft, 1, 15 160
+TestDfft, 32, 15 160
+TestDfft, 1, 15 200
+TestDfft, 32, 15 200
+TestDfft, 1, 15 240
+TestDfft, 32, 15 240
+TestDfft, 1, 16 128
+TestDfft, 32, 16 128
+TestDfft, 1, 16 256
+TestDfft, 32, 16 256
+TestDfft, 1, 16 32
+TestDfft, 32, 16 32
+TestDfft, 1, 16 64
+TestDfft, 32, 16 64
+TestDfft, 1, 18 128
+TestDfft, 32, 18 128
+TestDfft, 1, 18 256
+TestDfft, 32, 18 256
+TestDfft, 1, 18 32
+TestDfft, 32, 18 32
+TestDfft, 1, 18 64
+TestDfft, 32, 18 64
+TestDfft, 1, 20 120
+TestDfft, 32, 20 120
+TestDfft, 1, 20 128
+TestDfft, 32, 20 128
+TestDfft, 1, 20 160
+TestDfft, 32, 20 160
+TestDfft, 1, 20 200
+TestDfft, 32, 20 200
+TestDfft, 1, 20 240
+TestDfft, 32, 20 240
+TestDfft, 1, 20 256
+TestDfft, 32, 20 256
+TestDfft, 1, 20 32
+TestDfft, 32, 20 32
+TestDfft, 1, 20 64
+TestDfft, 32, 20 64
+amg, 32, -problem 1 -P 2 2 1 -n 128 128 64
+amg, 32, -problem 1 -P 2 2 1 -n 16 16 8
+amg, 32, -problem 1 -P 2 2 1 -n 32 32 16
+amg, 32, -problem 1 -P 2 2 1 -n 64 64 32
+amg, 32, -problem 1 -P 2 2 1 -n 8 8 4
+amg, 32, -problem 1 -P 4 4 2 -n 128 128 64
+amg, 32, -problem 1 -P 4 4 2 -n 16 16 8
+amg, 32, -problem 1 -P 4 4 2 -n 32 32 16
+amg, 32, -problem 1 -P 4 4 2 -n 64 64 32
+amg, 32, -problem 1 -P 4 4 2 -n 8 8 4
+amg, 1, -problem 2 -P 1 1 1 -n 128 128 128
+amg, 1, -problem 2 -P 1 1 1 -n 16 16 16
+amg, 1, -problem 2 -P 1 1 1 -n 256 256 256
+amg, 1, -problem 2 -P 1 1 1 -n 32 32 32
+amg, 1, -problem 2 -P 1 1 1 -n 64 64 64
+amg, 1, -problem 2 -P 1 1 1 -n 8 8 8
+amg, 32, -problem 2 -P 4 4 2 -n 128 128 64
+amg, 32, -problem 2 -P 4 4 2 -n 16 16 8
+amg, 32, -problem 2 -P 4 4 2 -n 32 32 16
+amg, 32, -problem 2 -P 4 4 2 -n 64 64 32
+amg, 32, -problem 2 -P 4 4 2 -n 8 8 4
+XSBench, 1, -t 1 -m event -s XL -G hash
+XSBench, 1, -t 1 -m event -s XL -G nuclide
+XSBench, 1, -t 1 -m event -s XL -G unionized
+XSBench, 1, -t 1 -m event -s XXL -G hash
+XSBench, 1, -t 1 -m event -s XXL -G nuclide
+XSBench, 1, -t 1 -m event -s XXL -G unionized
+XSBench, 1, -t 1 -m event -s large -G hash
+XSBench, 1, -t 1 -m event -s large -G nuclide
+XSBench, 1, -t 1 -m event -s large -G unionized
+XSBench, 1, -t 1 -m event -s small -G hash
+XSBench, 1, -t 1 -m event -s small -G nuclide
+XSBench, 1, -t 1 -m event -s small -G unionized
+XSBench, 1, -t 1 -m history -s XL -G hash
+XSBench, 1, -t 1 -m history -s XL -G nuclide
+XSBench, 1, -t 1 -m history -s XL -G unionized
+XSBench, 1, -t 1 -m history -s XXL -G hash
+XSBench, 1, -t 1 -m history -s XXL -G nuclide
+XSBench, 1, -t 1 -m history -s XXL -G unionized
+XSBench, 1, -t 1 -m history -s large -G hash
+XSBench, 1, -t 1 -m history -s large -G nuclide
+XSBench, 1, -t 1 -m history -s large -G unionized
+XSBench, 1, -t 1 -m history -s small -G hash
+XSBench, 1, -t 1 -m history -s small -G nuclide
+XSBench, 1, -t 1 -m history -s small -G unionized
+miniFE.x, 1, -nx 100 -ny 100 -nz 100
+miniFE.x, 1, -nx 100 -ny 100 -nz 50
+miniFE.x, 1, -nx 100 -ny 50 -nz 50
+miniFE.x, 1, -nx 100 -ny 75 -nz 50
+miniFE.x, 1, -nx 100 -ny 75 -nz 75
+miniFE.x, 1, -nx 125 -ny 100 -nz 100
+miniFE.x, 1, -nx 125 -ny 100 -nz 50
+miniFE.x, 1, -nx 125 -ny 125 -nz 125
+miniFE.x, 1, -nx 125 -ny 125 -nz 50
+miniFE.x, 1, -nx 125 -ny 50 -nz 50
+miniFE.x, 1, -nx 125 -ny 75 -nz 50
+miniFE.x, 1, -nx 125 -ny 75 -nz 75
+miniFE.x, 1, -nx 150 -ny 100 -nz 100
+miniFE.x, 1, -nx 150 -ny 100 -nz 50
+miniFE.x, 1, -nx 150 -ny 125 -nz 125
+miniFE.x, 1, -nx 150 -ny 125 -nz 50
+miniFE.x, 1, -nx 150 -ny 150 -nz 150
+miniFE.x, 1, -nx 150 -ny 150 -nz 50
+miniFE.x, 1, -nx 150 -ny 50 -nz 50
+miniFE.x, 1, -nx 150 -ny 75 -nz 50
+miniFE.x, 1, -nx 150 -ny 75 -nz 75
+miniFE.x, 1, -nx 175 -ny 100 -nz 100
+miniFE.x, 1, -nx 175 -ny 100 -nz 50
+miniFE.x, 1, -nx 175 -ny 125 -nz 125
+miniFE.x, 1, -nx 175 -ny 125 -nz 50
+miniFE.x, 1, -nx 175 -ny 150 -nz 150
+miniFE.x, 1, -nx 175 -ny 150 -nz 50
+miniFE.x, 1, -nx 175 -ny 175 -nz 175
+miniFE.x, 1, -nx 175 -ny 175 -nz 50
+miniFE.x, 1, -nx 175 -ny 50 -nz 50
+miniFE.x, 1, -nx 175 -ny 75 -nz 50
+miniFE.x, 1, -nx 175 -ny 75 -nz 75
+miniFE.x, 1, -nx 200 -ny 100 -nz 100
+miniFE.x, 1, -nx 200 -ny 100 -nz 50
+miniFE.x, 1, -nx 200 -ny 125 -nz 125
+miniFE.x, 1, -nx 200 -ny 125 -nz 50
+miniFE.x, 1, -nx 200 -ny 150 -nz 150
+miniFE.x, 1, -nx 200 -ny 150 -nz 50
+miniFE.x, 1, -nx 200 -ny 175 -nz 175
+miniFE.x, 1, -nx 200 -ny 175 -nz 50
+miniFE.x, 1, -nx 200 -ny 200 -nz 200
+miniFE.x, 1, -nx 200 -ny 200 -nz 50
+miniFE.x, 1, -nx 200 -ny 50 -nz 50
+miniFE.x, 1, -nx 200 -ny 75 -nz 50
+miniFE.x, 1, -nx 200 -ny 75 -nz 75
+miniFE.x, 1, -nx 50 -ny 50 -nz 50
+miniFE.x, 32, -nx 50 -ny 50 -nz 50
+miniFE.x, 1, -nx 75  -ny 75 -nz 75
+miniFE.x, 1, -nx 75 -ny 50 -nz 50
+miniFE.x, 32, -nx 75 -ny 50 -nz 50
+miniFE.x, 1, -nx 75 -ny 75 -nz 50

@@ -1,0 +1,36 @@
+#!/bin/bash
+#BSUB -J oo             # Job name
+#BSUB -o oo.o%j         # Name of stdout output file
+#BSUB -e oo.e%j         # Name of stderr error file
+#BSUB -n 5              # Total # of mpi tasks
+
+
+date
+source ../../dev/bin/activate
+#mpiexec -n 5 python3 driver.py "ice4hpc" "nn" "/ice4hpc/yaml/one_out_laghos.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "index_maker" "/ice4hpc/yaml/one_out_td.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "one_out_FS" "/ice4hpc/yaml/one_out_tdl.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "nn" "/ice4hpc/yaml/one_out_kripke.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "index_maker" "/ice4hpc/yaml/one_out_kripke.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "one_out" "/ice4hpc/yaml/one_out_method1.yaml"
+srun -n 5 python3 driver.py "ice4hpc" "one_out" "/ice4hpc/yaml/one_out_source1.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "one_out" "/ice4hpc/yaml/one_out3_kripkem.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "one_out_FS" "/ice4hpc/yaml/one_out3_kripkem.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "one_out" "/ice4hpc/yaml/one_out3_kripkes.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "one_out_FS" "/ice4hpc/yaml/one_out3_kripkes.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "one_out" "/ice4hpc/yaml/one_out3_td.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "one_out_FS" "/ice4hpc/yaml/one_out3_kripket.yaml"
+
+
+#mpiexec -n 5 python3 driver.py "ice4hpc" "nn" "/ice4hpc/yaml/one_out_amg.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "index_maker" "/ice4hpc/yaml/one_out_amg.yaml"
+
+#mpiexec -n 5 python3 driver.py "ice4hpc" "one_out_FS" "/ice4hpc/yaml/one_out_amg.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "one_out_FS" "/ice4hpc/yaml/one_out_amg.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "one_out_FS" "/ice4hpc/yaml/one_out_mv.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "one_out" "/ice4hpc/yaml/one_out_kripke.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "one_out_FS" "/ice4hpc/yaml/one_out_sw.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "one_out_FS" "/ice4hpc/yaml/one_out_td.yaml"
+#mpiexec -n 1 python3 driver3.py "ice4hpc" "one_out" "/ice4hpc/yaml/CASE2_td.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "one_out_FS" "/ice4hpc/yaml/one_out_kripke.yaml"
+date

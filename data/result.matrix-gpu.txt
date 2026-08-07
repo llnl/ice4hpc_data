@@ -1,0 +1,350 @@
+kripke, matrix, 1, --niter 10 --pmethod bj --groups 16 --legendre 0 --arch CUDA, 3.557351
+kripke, matrix, 1, --niter 10 --pmethod bj --groups 16 --legendre 1 --arch CUDA, 3.596874
+kripke, matrix, 1, --niter 10 --pmethod bj --groups 16 --legendre 2 --arch CUDA, 3.603464
+kripke, matrix, 1, --niter 10 --pmethod bj --groups 16 --legendre 3 --arch CUDA, 3.602882
+kripke, matrix, 1, --niter 10 --pmethod bj --groups 16 --legendre 4 --arch CUDA, 3.651992
+kripke, matrix, 1, --niter 10 --pmethod bj --groups 32 --legendre 0 --arch CUDA, 3.805749
+kripke, matrix, 1, --niter 10 --pmethod bj --groups 32 --legendre 1 --arch CUDA, 3.863589
+kripke, matrix, 1, --niter 10 --pmethod bj --groups 32 --legendre 2 --arch CUDA, 3.897983
+kripke, matrix, 1, --niter 10 --pmethod bj --groups 32 --legendre 3 --arch CUDA, 3.881459
+kripke, matrix, 1, --niter 10 --pmethod bj --groups 32 --legendre 4 --arch CUDA, 4.021270
+kripke, matrix, 1, --niter 10 --pmethod bj --groups 8 --legendre 0 --arch CUDA, 3.423185
+kripke, matrix, 1, --niter 10 --pmethod bj --groups 8 --legendre 1 --arch CUDA, 3.371809
+kripke, matrix, 1, --niter 10 --pmethod bj --groups 8 --legendre 2 --arch CUDA, 3.462476
+kripke, matrix, 1, --niter 10 --pmethod bj --groups 8 --legendre 3 --arch CUDA, 3.428782
+kripke, matrix, 1, --niter 10 --pmethod bj --groups 8 --legendre 4 --arch CUDA, 3.472078
+kripke, matrix, 1, --niter 10 --pmethod sweep --groups 16 --legendre 0 --arch CUDA, 3.468695
+kripke, matrix, 1, --niter 10 --pmethod sweep --groups 16 --legendre 1 --arch CUDA, 3.438652
+kripke, matrix, 1, --niter 10 --pmethod sweep --groups 16 --legendre 2 --arch CUDA, 3.444654
+kripke, matrix, 1, --niter 10 --pmethod sweep --groups 16 --legendre 3 --arch CUDA, 3.541950
+kripke, matrix, 1, --niter 10 --pmethod sweep --groups 16 --legendre 4 --arch CUDA, 3.529715
+kripke, matrix, 1, --niter 10 --pmethod sweep --groups 32 --legendre 0 --arch CUDA, 3.730995
+kripke, matrix, 1, --niter 10 --pmethod sweep --groups 32 --legendre 1 --arch CUDA, 3.691258
+kripke, matrix, 1, --niter 10 --pmethod sweep --groups 32 --legendre 2 --arch CUDA, 3.777575
+kripke, matrix, 1, --niter 10 --pmethod sweep --groups 32 --legendre 3 --arch CUDA, 3.816603
+kripke, matrix, 1, --niter 10 --pmethod sweep --groups 32 --legendre 4 --arch CUDA, 3.866534
+kripke, matrix, 1, --niter 10 --pmethod sweep --groups 8 --legendre 0 --arch CUDA, 3.399528
+kripke, matrix, 1, --niter 10 --pmethod sweep --groups 8 --legendre 1 --arch CUDA, 3.491398
+kripke, matrix, 1, --niter 10 --pmethod sweep --groups 8 --legendre 2 --arch CUDA, 3.388271
+kripke, matrix, 1, --niter 10 --pmethod sweep --groups 8 --legendre 3 --arch CUDA, 3.373736
+kripke, matrix, 1, --niter 10 --pmethod sweep --groups 8 --legendre 4 --arch CUDA, 3.387986
+kripke, matrix, 1, --niter 15 --pmethod bj --groups 16 --legendre 0 --arch CUDA, 3.664171
+kripke, matrix, 1, --niter 15 --pmethod bj --groups 16 --legendre 1 --arch CUDA, 3.685583
+kripke, matrix, 1, --niter 15 --pmethod bj --groups 16 --legendre 2 --arch CUDA, 3.737506
+kripke, matrix, 1, --niter 15 --pmethod bj --groups 16 --legendre 3 --arch CUDA, 3.712814
+kripke, matrix, 1, --niter 15 --pmethod bj --groups 16 --legendre 4 --arch CUDA, 3.753505
+kripke, matrix, 1, --niter 15 --pmethod bj --groups 32 --legendre 0 --arch CUDA, 4.059361
+kripke, matrix, 1, --niter 15 --pmethod bj --groups 32 --legendre 1 --arch CUDA, 4.072718
+kripke, matrix, 1, --niter 15 --pmethod bj --groups 32 --legendre 2 --arch CUDA, 4.129899
+kripke, matrix, 1, --niter 15 --pmethod bj --groups 32 --legendre 3 --arch CUDA, 4.221122
+kripke, matrix, 1, --niter 15 --pmethod bj --groups 32 --legendre 4 --arch CUDA, 4.243018
+kripke, matrix, 1, --niter 15 --pmethod bj --groups 8 --legendre 0 --arch CUDA, 3.497954
+kripke, matrix, 1, --niter 15 --pmethod bj --groups 8 --legendre 1 --arch CUDA, 3.505301
+kripke, matrix, 1, --niter 15 --pmethod bj --groups 8 --legendre 2 --arch CUDA, 3.500573
+kripke, matrix, 1, --niter 15 --pmethod bj --groups 8 --legendre 3 --arch CUDA, 3.507787
+kripke, matrix, 1, --niter 15 --pmethod bj --groups 8 --legendre 4 --arch CUDA, 3.551334
+kripke, matrix, 1, --niter 15 --pmethod sweep --groups 16 --legendre 0 --arch CUDA, 3.611305
+kripke, matrix, 1, --niter 15 --pmethod sweep --groups 16 --legendre 1 --arch CUDA, 3.605290
+kripke, matrix, 1, --niter 15 --pmethod sweep --groups 16 --legendre 2 --arch CUDA, 3.603819
+kripke, matrix, 1, --niter 15 --pmethod sweep --groups 16 --legendre 3 --arch CUDA, 3.644279
+kripke, matrix, 1, --niter 15 --pmethod sweep --groups 16 --legendre 4 --arch CUDA, 3.713674
+kripke, matrix, 1, --niter 15 --pmethod sweep --groups 32 --legendre 0 --arch CUDA, 3.896871
+kripke, matrix, 1, --niter 15 --pmethod sweep --groups 32 --legendre 1 --arch CUDA, 3.820078
+kripke, matrix, 1, --niter 15 --pmethod sweep --groups 32 --legendre 2 --arch CUDA, 3.922303
+kripke, matrix, 1, --niter 15 --pmethod sweep --groups 32 --legendre 3 --arch CUDA, 3.899560
+kripke, matrix, 1, --niter 15 --pmethod sweep --groups 32 --legendre 4 --arch CUDA, 4.094385
+kripke, matrix, 1, --niter 15 --pmethod sweep --groups 8 --legendre 0 --arch CUDA, 3.396997
+kripke, matrix, 1, --niter 15 --pmethod sweep --groups 8 --legendre 1 --arch CUDA, 3.458271
+kripke, matrix, 1, --niter 15 --pmethod sweep --groups 8 --legendre 2 --arch CUDA, 3.424603
+kripke, matrix, 1, --niter 15 --pmethod sweep --groups 8 --legendre 3 --arch CUDA, 3.503523
+kripke, matrix, 1, --niter 15 --pmethod sweep --groups 8 --legendre 4 --arch CUDA, 3.492529
+kripke, matrix, 1, --niter 40 --pmethod sweep --groups 16 --legendre 0 --arch CUDA, 4.078864
+kripke, matrix, 1, --niter 40 --pmethod sweep --groups 16 --legendre 1 --arch CUDA, 4.115575
+kripke, matrix, 1, --niter 40 --pmethod sweep --groups 16 --legendre 2 --arch CUDA, 4.002063
+kripke, matrix, 1, --niter 40 --pmethod sweep --groups 16 --legendre 3 --arch CUDA, 4.240467
+kripke, matrix, 1, --niter 40 --pmethod sweep --groups 16 --legendre 4 --arch CUDA, 4.348439
+kripke, matrix, 1, --niter 40 --pmethod sweep --groups 32 --legendre 0 --arch CUDA, 4.787893
+kripke, matrix, 1, --niter 40 --pmethod sweep --groups 32 --legendre 1 --arch CUDA, 4.846267
+kripke, matrix, 1, --niter 40 --pmethod sweep --groups 32 --legendre 2 --arch CUDA, 4.925151
+kripke, matrix, 1, --niter 40 --pmethod sweep --groups 32 --legendre 3 --arch CUDA, 5.145576
+kripke, matrix, 1, --niter 40 --pmethod sweep --groups 32 --legendre 4 --arch CUDA, 5.301639
+kripke, matrix, 1, --niter 40 --pmethod sweep --groups 8 --legendre 0 --arch CUDA, 3.730119
+kripke, matrix, 1, --niter 40 --pmethod sweep --groups 8 --legendre 1 --arch CUDA, 3.719807
+kripke, matrix, 1, --niter 40 --pmethod sweep --groups 8 --legendre 2 --arch CUDA, 3.752772
+kripke, matrix, 1, --niter 40 --pmethod sweep --groups 8 --legendre 3 --arch CUDA, 3.941985
+kripke, matrix, 1, --niter 40 --pmethod sweep --groups 8 --legendre 4 --arch CUDA, 3.855328
+kripke, matrix, 1, --niter 5 --pmethod bj --groups 16 --legendre 0 --arch CUDA, 3.416131
+kripke, matrix, 1, --niter 5 --pmethod bj --groups 16 --legendre 1 --arch CUDA, 3.454235
+kripke, matrix, 1, --niter 5 --pmethod bj --groups 16 --legendre 2 --arch CUDA, 3.440821
+kripke, matrix, 1, --niter 5 --pmethod bj --groups 16 --legendre 3 --arch CUDA, 3.488916
+kripke, matrix, 1, --niter 5 --pmethod bj --groups 16 --legendre 4 --arch CUDA, 3.482495
+kripke, matrix, 1, --niter 5 --pmethod bj --groups 32 --legendre 0 --arch CUDA, 3.534390
+kripke, matrix, 1, --niter 5 --pmethod bj --groups 32 --legendre 1 --arch CUDA, 3.571145
+kripke, matrix, 1, --niter 5 --pmethod bj --groups 32 --legendre 2 --arch CUDA, 3.622769
+kripke, matrix, 1, --niter 5 --pmethod bj --groups 32 --legendre 3 --arch CUDA, 3.603103
+kripke, matrix, 1, --niter 5 --pmethod bj --groups 32 --legendre 4 --arch CUDA, 3.619527
+kripke, matrix, 1, --niter 5 --pmethod bj --groups 8 --legendre 0 --arch CUDA, 3.381627
+kripke, matrix, 1, --niter 5 --pmethod bj --groups 8 --legendre 1 --arch CUDA, 3.337664
+kripke, matrix, 1, --niter 5 --pmethod bj --groups 8 --legendre 2 --arch CUDA, 3.234958
+kripke, matrix, 1, --niter 5 --pmethod bj --groups 8 --legendre 3 --arch CUDA, 3.363299
+kripke, matrix, 1, --niter 5 --pmethod bj --groups 8 --legendre 4 --arch CUDA, 3.490891
+kripke, matrix, 1, --niter 5 --pmethod sweep --groups 16 --legendre 0 --arch CUDA, 3.391752
+kripke, matrix, 1, --niter 5 --pmethod sweep --groups 16 --legendre 1 --arch CUDA, 3.404667
+kripke, matrix, 1, --niter 5 --pmethod sweep --groups 16 --legendre 2 --arch CUDA, 3.374902
+kripke, matrix, 1, --niter 5 --pmethod sweep --groups 16 --legendre 3 --arch CUDA, 3.402627
+kripke, matrix, 1, --niter 5 --pmethod sweep --groups 16 --legendre 4 --arch CUDA, 3.440894
+kripke, matrix, 1, --niter 5 --pmethod sweep --groups 32 --legendre 0 --arch CUDA, 3.484255
+kripke, matrix, 1, --niter 5 --pmethod sweep --groups 32 --legendre 1 --arch CUDA, 3.529026
+kripke, matrix, 1, --niter 5 --pmethod sweep --groups 32 --legendre 2 --arch CUDA, 3.474440
+kripke, matrix, 1, --niter 5 --pmethod sweep --groups 32 --legendre 3 --arch CUDA, 3.530563
+kripke, matrix, 1, --niter 5 --pmethod sweep --groups 32 --legendre 4 --arch CUDA, 3.613368
+kripke, matrix, 1, --niter 5 --pmethod sweep --groups 8 --legendre 0 --arch CUDA, 3.344924
+kripke, matrix, 1, --niter 5 --pmethod sweep --groups 8 --legendre 1 --arch CUDA, 3.308765
+kripke, matrix, 1, --niter 5 --pmethod sweep --groups 8 --legendre 2 --arch CUDA, 3.353672
+kripke, matrix, 1, --niter 5 --pmethod sweep --groups 8 --legendre 3 --arch CUDA, 3.293884
+kripke, matrix, 1, --niter 5 --pmethod sweep --groups 8 --legendre 4 --arch CUDA, 3.327175
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 3 -d gpu, 34.264808
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 3 -pa -d gpu, 34.263820
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 3.1 -d gpu, 35.206267
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 3.1 -pa -d gpu, 34.375984
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 3.2 -d gpu, 36.087957
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 3.2 -pa -d gpu, 35.989495
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 3.3 -d gpu, 36.856986
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 3.3 -pa -d gpu, 36.842115
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 3.4 -d gpu, 37.843058
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 3.4 -pa -d gpu, 36.769326
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 3.5 -d gpu, 38.389855
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 3.5 -pa -d gpu, 38.648393
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 3.6 -d gpu, 39.465128
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 3.6 -pa -d gpu, 39.612376
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 3.7 -d gpu, 40.311807
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 3.7 -pa -d gpu, 40.481805
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 3.8 -d gpu, 41.186313
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 3.8 -pa -d gpu, 41.385908
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 3.9 -d gpu, 41.021895
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 3.9 -pa -d gpu, 41.013981
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 4 -d gpu, 42.815814
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 4 -pa -d gpu, 41.580718
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 4.1 -d gpu, 42.712523
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 4.1 -pa -d gpu, 43.763542
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 4.2 -d gpu, 45.301882
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 4.2 -pa -d gpu, 45.016561
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 4.3 -d gpu, 46.668445
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 4.3 -pa -d gpu, 46.498379
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 4.4 -d gpu, 48.201852
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 4.4 -pa -d gpu, 47.617509
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 4.5 -d gpu, 49.405554
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 4.5 -pa -d gpu, 47.863953
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 4.6 -d gpu, 50.281781
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 4.6 -pa -d gpu, 50.621616
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 4.7 -d gpu, 51.376563
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 4.7 -pa -d gpu, 50.053249
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 4.8 -d gpu, 52.538721
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 4.8 -pa -d gpu, 50.978715
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 4.9 -d gpu, 52.952298
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 4.9 -pa -d gpu, 52.848298
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 5 -d gpu, 52.638022
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 5 -pa -d gpu, 54.061858
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 5.5 -d gpu, 57.210077
+laghos, matrix, 1, -p 1 -dim 2 -rs 2 -tf 5.5 -pa -d gpu, 57.520701
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 3 -d gpu, 78.243653
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 3 -pa -d gpu, 78.700418
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 3.1 -d gpu, 80.525524
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 3.1 -pa -d gpu, 79.217654
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 3.2 -d gpu, 80.760328
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 3.2 -pa -d gpu, 82.097026
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 3.3 -d gpu, 83.882516
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 3.3 -pa -d gpu, 83.516934
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 3.4 -d gpu, 85.953261
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 3.4 -pa -d gpu, 83.047416
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 3.5 -d gpu, 85.646918
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 3.5 -pa -d gpu, 87.518836
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 3.6 -d gpu, 86.426077
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 3.6 -pa -d gpu, 86.594290
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 3.7 -d gpu, 90.290923
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 3.7 -pa -d gpu, 87.858290
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 3.8 -d gpu, 90.987015
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 3.8 -pa -d gpu, 92.354234
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 3.9 -d gpu, 93.975447
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 3.9 -pa -d gpu, 90.746651
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 4 -d gpu, 95.508019
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 4 -pa -d gpu, 94.568928
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 4.1 -d gpu, 100.115146
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 4.1 -pa -d gpu, 99.052470
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 4.2 -d gpu, 104.966808
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 4.2 -pa -d gpu, 105.933953
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 4.3 -d gpu, 111.934139
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 4.3 -pa -d gpu, 115.558934
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 4.4 -d gpu, 118.013011
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 4.4 -pa -d gpu, 121.196185
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 4.5 -d gpu, 126.748498
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 4.5 -pa -d gpu, 126.598518
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 4.6 -d gpu, 130.540494
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 4.6 -pa -d gpu, 126.091821
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 4.7 -d gpu, 131.886226
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 4.7 -pa -d gpu, 129.272471
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 4.8 -d gpu, 137.100526
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 4.8 -pa -d gpu, 136.573404
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 4.9 -d gpu, 141.252884
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 4.9 -pa -d gpu, 136.648087
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 5 -d gpu, 141.831734
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 5 -pa -d gpu, 145.532323
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 5.5 -d gpu, 162.310818
+laghos, matrix, 1, -p 1 -dim 2 -rs 3 -tf 5.5 -pa -d gpu, 159.505321
+laghos, matrix, 1, -p 1 -dim 3 -rs 1 -tf 3 -d gpu, 34.080005
+laghos, matrix, 1, -p 1 -dim 3 -rs 1 -tf 3 -pa -d gpu, 33.925302
+laghos, matrix, 1, -p 1 -dim 3 -rs 1 -tf 3.5 -d gpu, 41.447478
+laghos, matrix, 1, -p 1 -dim 3 -rs 1 -tf 3.5 -pa -d gpu, 41.809976
+laghos, matrix, 1, -p 1 -dim 3 -rs 1 -tf 4 -d gpu, 50.822214
+laghos, matrix, 1, -p 1 -dim 3 -rs 1 -tf 4 -pa -d gpu, 49.637248
+laghos, matrix, 1, -p 1 -dim 3 -rs 1 -tf 4.5 -d gpu, 59.080590
+laghos, matrix, 1, -p 1 -dim 3 -rs 1 -tf 4.5 -pa -d gpu, 58.790235
+laghos, matrix, 1, -p 1 -dim 3 -rs 1 -tf 5 -d gpu, 65.195858
+laghos, matrix, 1, -p 1 -dim 3 -rs 1 -tf 5 -pa -d gpu, 65.503557
+laghos, matrix, 1, -p 1 -dim 3 -rs 1 -tf 5.5 -d gpu, 70.723414
+laghos, matrix, 1, -p 1 -dim 3 -rs 1 -tf 5.5 -pa -d gpu, 70.530572
+laghos, matrix, 1, -p 1 -dim 3 -rs 2 -tf 3 -d gpu, 100.962866
+laghos, matrix, 1, -p 1 -dim 3 -rs 2 -tf 3 -pa -d gpu, 100.363239
+laghos, matrix, 1, -p 1 -dim 3 -rs 2 -tf 3.5 -d gpu, 134.642865
+laghos, matrix, 1, -p 1 -dim 3 -rs 2 -tf 3.5 -pa -d gpu, 133.885351
+laghos, matrix, 1, -p 1 -dim 3 -rs 2 -tf 4 -d gpu, 166.400750
+laghos, matrix, 1, -p 1 -dim 3 -rs 2 -tf 4 -pa -d gpu, 166.968363
+laghos, matrix, 1, -p 1 -dim 3 -rs 2 -tf 4.5 -d gpu, 179.757372
+laghos, matrix, 1, -p 1 -dim 3 -rs 2 -tf 4.5 -pa -d gpu, 175.727442
+laghos, matrix, 1, -p 1 -dim 3 -rs 2 -tf 5 -d gpu, 192.214536
+laghos, matrix, 1, -p 1 -dim 3 -rs 2 -tf 5 -pa -d gpu, 197.059551
+laghos, matrix, 1, -p 1 -dim 3 -rs 2 -tf 5.5 -d gpu, 230.018019
+laghos, matrix, 1, -p 1 -dim 3 -rs 2 -tf 5.5 -pa -d gpu, 228.104879
+laghos, matrix, 1, -p 2 -dim 2 -rs 2 -tf 3 -d gpu, 33.869992
+laghos, matrix, 1, -p 2 -dim 2 -rs 2 -tf 3 -pa -d gpu, 35.000569
+laghos, matrix, 1, -p 2 -dim 2 -rs 2 -tf 3.5 -d gpu, 38.426429
+laghos, matrix, 1, -p 2 -dim 2 -rs 2 -tf 3.5 -pa -d gpu, 39.486555
+laghos, matrix, 1, -p 2 -dim 2 -rs 2 -tf 4 -d gpu, 40.685565
+laghos, matrix, 1, -p 2 -dim 2 -rs 2 -tf 4 -pa -d gpu, 41.848303
+laghos, matrix, 1, -p 2 -dim 2 -rs 2 -tf 4.5 -d gpu, 43.824577
+laghos, matrix, 1, -p 2 -dim 2 -rs 2 -tf 4.5 -pa -d gpu, 45.547102
+laghos, matrix, 1, -p 2 -dim 2 -rs 2 -tf 5 -d gpu, 50.830967
+laghos, matrix, 1, -p 2 -dim 2 -rs 2 -tf 5 -pa -d gpu, 50.339957
+laghos, matrix, 1, -p 2 -dim 2 -rs 2 -tf 5.5 -d gpu, 52.961394
+laghos, matrix, 1, -p 2 -dim 2 -rs 2 -tf 5.5 -pa -d gpu, 54.597175
+laghos, matrix, 1, -p 2 -dim 3 -rs 1 -tf 3 -d gpu, 28.077643
+laghos, matrix, 1, -p 2 -dim 3 -rs 1 -tf 3 -pa -d gpu, 28.032456
+laghos, matrix, 1, -p 2 -dim 3 -rs 1 -tf 3.5 -d gpu, 31.482231
+laghos, matrix, 1, -p 2 -dim 3 -rs 1 -tf 3.5 -pa -d gpu, 32.159800
+laghos, matrix, 1, -p 2 -dim 3 -rs 1 -tf 4 -d gpu, 34.549571
+laghos, matrix, 1, -p 2 -dim 3 -rs 1 -tf 4 -pa -d gpu, 33.681317
+laghos, matrix, 1, -p 2 -dim 3 -rs 1 -tf 4.5 -d gpu, 37.208289
+laghos, matrix, 1, -p 2 -dim 3 -rs 1 -tf 4.5 -pa -d gpu, 36.543662
+laghos, matrix, 1, -p 2 -dim 3 -rs 1 -tf 5 -d gpu, 40.223357
+laghos, matrix, 1, -p 2 -dim 3 -rs 1 -tf 5 -pa -d gpu, 41.286159
+laghos, matrix, 1, -p 2 -dim 3 -rs 1 -tf 5.5 -d gpu, 43.552058
+laghos, matrix, 1, -p 2 -dim 3 -rs 1 -tf 5.5 -pa -d gpu, 44.852582
+laghos, matrix, 1, -p 2 -dim 3 -rs 2 -tf 3 -d gpu, 83.580970
+laghos, matrix, 1, -p 2 -dim 3 -rs 2 -tf 3 -pa -d gpu, 82.710647
+laghos, matrix, 1, -p 3 -dim 2 -rs 1 -tf 3 -d gpu, 4.873584
+laghos, matrix, 1, -p 3 -dim 2 -rs 1 -tf 3 -pa -d gpu, 4.962910
+laghos, matrix, 1, -p 3 -dim 2 -rs 1 -tf 3.5 -d gpu, 5.214025
+laghos, matrix, 1, -p 3 -dim 2 -rs 1 -tf 3.5 -pa -d gpu, 5.170647
+laghos, matrix, 1, -p 3 -dim 2 -rs 1 -tf 4 -d gpu, 5.464375
+laghos, matrix, 1, -p 3 -dim 2 -rs 1 -tf 4 -pa -d gpu, 5.474340
+laghos, matrix, 1, -p 3 -dim 2 -rs 1 -tf 4.5 -d gpu, 5.685748
+laghos, matrix, 1, -p 3 -dim 2 -rs 1 -tf 4.5 -pa -d gpu, 5.723981
+laghos, matrix, 1, -p 3 -dim 2 -rs 1 -tf 5 -d gpu, 5.979274
+laghos, matrix, 1, -p 3 -dim 2 -rs 1 -tf 5 -pa -d gpu, 6.026132
+laghos, matrix, 1, -p 3 -dim 2 -rs 1 -tf 5.5 -d gpu, 6.318387
+laghos, matrix, 1, -p 3 -dim 2 -rs 1 -tf 5.5 -pa -d gpu, 6.270793
+laghos, matrix, 1, -p 3 -dim 2 -rs 2 -tf 3 -d gpu, 7.205796
+laghos, matrix, 1, -p 3 -dim 2 -rs 2 -tf 3 -pa -d gpu, 7.297000
+laghos, matrix, 1, -p 3 -dim 2 -rs 2 -tf 3.5 -d gpu, 8.061352
+laghos, matrix, 1, -p 3 -dim 2 -rs 2 -tf 3.5 -pa -d gpu, 7.990424
+laghos, matrix, 1, -p 3 -dim 2 -rs 2 -tf 4 -d gpu, 8.513908
+laghos, matrix, 1, -p 3 -dim 2 -rs 2 -tf 4 -pa -d gpu, 8.728064
+laghos, matrix, 1, -p 3 -dim 2 -rs 2 -tf 4.5 -d gpu, 9.369613
+laghos, matrix, 1, -p 3 -dim 2 -rs 2 -tf 4.5 -pa -d gpu, 9.337880
+laghos, matrix, 1, -p 3 -dim 2 -rs 2 -tf 5 -d gpu, 10.061453
+laghos, matrix, 1, -p 3 -dim 2 -rs 2 -tf 5 -pa -d gpu, 9.857648
+laghos, matrix, 1, -p 3 -dim 2 -rs 2 -tf 5.5 -d gpu, 10.709789
+laghos, matrix, 1, -p 3 -dim 2 -rs 2 -tf 5.5 -pa -d gpu, 10.526114
+laghos, matrix, 1, -p 3 -dim 3 -rs 1 -tf 3 -d gpu, 7.190569
+laghos, matrix, 1, -p 3 -dim 3 -rs 1 -tf 3 -pa -d gpu, 6.997383
+laghos, matrix, 1, -p 3 -dim 3 -rs 1 -tf 3.5 -d gpu, 7.781612
+laghos, matrix, 1, -p 3 -dim 3 -rs 1 -tf 3.5 -pa -d gpu, 7.761281
+laghos, matrix, 1, -p 3 -dim 3 -rs 1 -tf 4 -d gpu, 8.393979
+laghos, matrix, 1, -p 3 -dim 3 -rs 1 -tf 4 -pa -d gpu, 8.329555
+laghos, matrix, 1, -p 3 -dim 3 -rs 1 -tf 4.5 -d gpu, 9.110135
+laghos, matrix, 1, -p 3 -dim 3 -rs 1 -tf 4.5 -pa -d gpu, 8.950972
+laghos, matrix, 1, -p 3 -dim 3 -rs 1 -tf 5 -d gpu, 9.785609
+laghos, matrix, 1, -p 3 -dim 3 -rs 1 -tf 5 -pa -d gpu, 9.648565
+laghos, matrix, 1, -p 3 -dim 3 -rs 1 -tf 5.5 -d gpu, 10.400035
+laghos, matrix, 1, -p 3 -dim 3 -rs 1 -tf 5.5 -pa -d gpu, 10.486640
+laghos, matrix, 1, -p 3 -dim 3 -rs 2 -tf 3 -d gpu, 13.976310
+laghos, matrix, 1, -p 3 -dim 3 -rs 2 -tf 3 -pa -d gpu, 14.053940
+laghos, matrix, 1, -p 3 -dim 3 -rs 2 -tf 3.5 -d gpu, 15.558619
+laghos, matrix, 1, -p 3 -dim 3 -rs 2 -tf 3.5 -pa -d gpu, 15.483913
+laghos, matrix, 1, -p 3 -dim 3 -rs 2 -tf 4 -d gpu, 17.548010
+laghos, matrix, 1, -p 3 -dim 3 -rs 2 -tf 4 -pa -d gpu, 17.675994
+laghos, matrix, 1, -p 3 -dim 3 -rs 2 -tf 4.5 -d gpu, 18.895451
+laghos, matrix, 1, -p 3 -dim 3 -rs 2 -tf 4.5 -pa -d gpu, 18.997915
+laghos, matrix, 1, -p 3 -dim 3 -rs 2 -tf 5 -d gpu, 21.079848
+laghos, matrix, 1, -p 3 -dim 3 -rs 2 -tf 5 -pa -d gpu, 21.215564
+laghos, matrix, 1, -p 3 -dim 3 -rs 2 -tf 5.5 -d gpu, 22.870108
+laghos, matrix, 1, -p 3 -dim 3 -rs 2 -tf 5.5 -pa -d gpu, 22.918997
+miniFE, matrix, 1, -nx 100 -ny 100 -nz 100, 3.365470
+miniFE, matrix, 1, -nx 100 -ny 100 -nz 50, 3.203852
+miniFE, matrix, 1, -nx 100 -ny 50 -nz 50, 3.291689
+miniFE, matrix, 1, -nx 100 -ny 75 -nz 50, 3.233587
+miniFE, matrix, 1, -nx 100 -ny 75 -nz 75, 3.358897
+miniFE, matrix, 1, -nx 125 -ny 100 -nz 100, 3.355408
+miniFE, matrix, 1, -nx 125 -ny 100 -nz 50, 3.221074
+miniFE, matrix, 1, -nx 125 -ny 125 -nz 125, 3.491851
+miniFE, matrix, 1, -nx 125 -ny 125 -nz 50, 3.354023
+miniFE, matrix, 1, -nx 125 -ny 50 -nz 50, 3.188963
+miniFE, matrix, 1, -nx 125 -ny 75 -nz 50, 3.302832
+miniFE, matrix, 1, -nx 125 -ny 75 -nz 75, 3.226829
+miniFE, matrix, 1, -nx 150 -ny 100 -nz 100, 3.394997
+miniFE, matrix, 1, -nx 150 -ny 100 -nz 50, 3.283413
+miniFE, matrix, 1, -nx 150 -ny 125 -nz 125, 3.488195
+miniFE, matrix, 1, -nx 150 -ny 125 -nz 50, 3.241679
+miniFE, matrix, 1, -nx 150 -ny 150 -nz 150, 3.617250
+miniFE, matrix, 1, -nx 150 -ny 150 -nz 50, 3.340179
+miniFE, matrix, 1, -nx 150 -ny 50 -nz 50, 3.305975
+miniFE, matrix, 1, -nx 150 -ny 75 -nz 50, 3.272792
+miniFE, matrix, 1, -nx 150 -ny 75 -nz 75, 3.382481
+miniFE, matrix, 1, -nx 175 -ny 100 -nz 100, 3.364923
+miniFE, matrix, 1, -nx 175 -ny 100 -nz 50, 3.340112
+miniFE, matrix, 1, -nx 175 -ny 125 -nz 125, 3.526139
+miniFE, matrix, 1, -nx 175 -ny 125 -nz 50, 3.313180
+miniFE, matrix, 1, -nx 175 -ny 150 -nz 150, 3.709113
+miniFE, matrix, 1, -nx 175 -ny 150 -nz 50, 3.428537
+miniFE, matrix, 1, -nx 175 -ny 175 -nz 175, 3.851667
+miniFE, matrix, 1, -nx 175 -ny 175 -nz 50, 3.321349
+miniFE, matrix, 1, -nx 175 -ny 50 -nz 50, 3.274013
+miniFE, matrix, 1, -nx 175 -ny 75 -nz 50, 3.255957
+miniFE, matrix, 1, -nx 175 -ny 75 -nz 75, 3.279585
+miniFE, matrix, 1, -nx 200 -ny 100 -nz 100, 3.447969
+miniFE, matrix, 1, -nx 200 -ny 100 -nz 50, 3.289755
+miniFE, matrix, 1, -nx 200 -ny 125 -nz 125, 3.499083
+miniFE, matrix, 1, -nx 200 -ny 125 -nz 50, 3.378882
+miniFE, matrix, 1, -nx 200 -ny 150 -nz 150, 3.728829
+miniFE, matrix, 1, -nx 200 -ny 150 -nz 50, 3.325414
+miniFE, matrix, 1, -nx 200 -ny 175 -nz 175, 3.955988
+miniFE, matrix, 1, -nx 200 -ny 175 -nz 50, 3.462046
+miniFE, matrix, 1, -nx 200 -ny 200 -nz 200, 4.103463
+miniFE, matrix, 1, -nx 200 -ny 200 -nz 50, 3.389159
+miniFE, matrix, 1, -nx 200 -ny 50 -nz 50, 3.319212
+miniFE, matrix, 1, -nx 200 -ny 75 -nz 50, 3.377614
+miniFE, matrix, 1, -nx 200 -ny 75 -nz 75, 3.383058
+miniFE, matrix, 1, -nx 50 -ny 50 -nz 50, 3.151661
+miniFE, matrix, 1, -nx 75 -ny 75 -nz 75, 3.339581
+miniFE, matrix, 1, -nx 75 -ny 50 -nz 50, 3.198001
+miniFE, matrix, 1, -nx 75 -ny 75 -nz 50, 3.305506
+XSBench, matrix, 1, -m event -s XL -G hash, 22.491435
+XSBench, matrix, 1, -m event -s XL -G nuclide, 25.011390
+XSBench, matrix, 1, -m event -s XXL -G hash, 44.150319
+XSBench, matrix, 1, -m event -s XXL -G nuclide, 46.600013
+XSBench, matrix, 1, -m event -s large -G hash, 5.529989
+XSBench, matrix, 1, -m event -s large -G nuclide, 8.168863
+XSBench, matrix, 1, -m event -s large -G unionized, 7.552959
+XSBench, matrix, 1, -m event -s small -G hash, 3.284415
+XSBench, matrix, 1, -m event -s small -G nuclide, 3.570112
+XSBench, matrix, 1, -m event -s small -G unionized, 3.327931

@@ -1,0 +1,180 @@
+miniVite -l -p 1 -n 128
+miniVite -l -p 1 -n 256
+miniVite -l -p 1 -n 32
+miniVite -l -p 1 -n 512
+miniVite -l -p 1 -n 64
+miniVite -l -p 2 -n 128
+miniVite -l -p 2 -n 256
+miniVite -l -p 2 -n 32
+miniVite -l -p 2 -n 512
+miniVite -l -p 2 -n 64
+miniVite -l -p 3 -n 128
+miniVite -l -p 3 -n 256
+miniVite -l -p 3 -n 32
+miniVite -l -p 3 -n 512
+miniVite -l -p 3 -n 64
+miniVite -l -p 4 -n 128
+miniVite -l -p 4 -n 256
+miniVite -l -p 4 -n 32
+miniVite -l -p 4 -n 512
+miniVite -l -p 4 -n 64
+miniVite -l -p 5 -n 128
+miniVite -l -p 5 -n 256
+miniVite -l -p 5 -n 32
+miniVite -l -p 5 -n 512
+miniVite -l -p 5 -n 64
+miniVite -l -p 6 -n 128
+miniVite -l -p 6 -n 256
+miniVite -l -p 6 -n 32
+miniVite -l -p 6 -n 512
+miniVite -l -p 6 -n 64
+miniVite -l -p 7 -n 128
+miniVite -l -p 7 -n 256
+miniVite -l -p 7 -n 32
+miniVite -l -p 7 -n 512
+miniVite -l -p 7 -n 64
+miniVite -l -p 8 -n 128
+miniVite -l -p 8 -n 256
+miniVite -l -p 8 -n 32
+miniVite -l -p 8 -n 512
+miniVite -l -p 8 -n 64
+miniVite -l -p 9 -n 128
+miniVite -l -p 9 -n 256
+miniVite -l -p 9 -n 32
+miniVite -l -p 9 -n 512
+miniVite -l -p 9 -n 64
+miniVite -p 1 -n 128
+miniVite -p 1 -n 256
+miniVite -p 1 -n 32
+miniVite -p 1 -n 512
+miniVite -p 1 -n 64
+miniVite -p 2 -n 128
+miniVite -p 2 -n 256
+miniVite -p 2 -n 32
+miniVite -p 2 -n 512
+miniVite -p 2 -n 64
+miniVite -p 3 -n 128
+miniVite -p 3 -n 256
+miniVite -p 3 -n 32
+miniVite -p 3 -n 512
+miniVite -p 3 -n 64
+miniVite -p 4 -n 128
+miniVite -p 4 -n 256
+miniVite -p 4 -n 32
+miniVite -p 4 -n 512
+miniVite -p 4 -n 64
+miniVite -p 5 -n 128
+miniVite -p 5 -n 256
+miniVite -p 5 -n 32
+miniVite -p 5 -n 512
+miniVite -p 5 -n 64
+miniVite -p 6 -n 128
+miniVite -p 6 -n 256
+miniVite -p 6 -n 32
+miniVite -p 6 -n 512
+miniVite -p 6 -n 64
+miniVite -p 7 -n 128
+miniVite -p 7 -n 256
+miniVite -p 7 -n 32
+miniVite -p 7 -n 512
+miniVite -p 7 -n 64
+miniVite -p 8 -n 128
+miniVite -p 8 -n 256
+miniVite -p 8 -n 32
+miniVite -p 8 -n 512
+miniVite -p 8 -n 64
+miniVite -p 9 -n 128
+miniVite -p 9 -n 256
+miniVite -p 9 -n 32
+miniVite -p 9 -n 512
+miniVite -p 9 -n 64
+miniVite -w -l -p 1 -n 128
+miniVite -w -l -p 1 -n 256
+miniVite -w -l -p 1 -n 32
+miniVite -w -l -p 1 -n 512
+miniVite -w -l -p 1 -n 64
+miniVite -w -l -p 2 -n 128
+miniVite -w -l -p 2 -n 256
+miniVite -w -l -p 2 -n 32
+miniVite -w -l -p 2 -n 512
+miniVite -w -l -p 2 -n 64
+miniVite -w -l -p 3 -n 128
+miniVite -w -l -p 3 -n 256
+miniVite -w -l -p 3 -n 32
+miniVite -w -l -p 3 -n 512
+miniVite -w -l -p 3 -n 64
+miniVite -w -l -p 4 -n 128
+miniVite -w -l -p 4 -n 256
+miniVite -w -l -p 4 -n 32
+miniVite -w -l -p 4 -n 512
+miniVite -w -l -p 4 -n 64
+miniVite -w -l -p 5 -n 128
+miniVite -w -l -p 5 -n 256
+miniVite -w -l -p 5 -n 32
+miniVite -w -l -p 5 -n 512
+miniVite -w -l -p 5 -n 64
+miniVite -w -l -p 6 -n 128
+miniVite -w -l -p 6 -n 256
+miniVite -w -l -p 6 -n 32
+miniVite -w -l -p 6 -n 512
+miniVite -w -l -p 6 -n 64
+miniVite -w -l -p 7 -n 128
+miniVite -w -l -p 7 -n 256
+miniVite -w -l -p 7 -n 32
+miniVite -w -l -p 7 -n 512
+miniVite -w -l -p 7 -n 64
+miniVite -w -l -p 8 -n 128
+miniVite -w -l -p 8 -n 256
+miniVite -w -l -p 8 -n 32
+miniVite -w -l -p 8 -n 512
+miniVite -w -l -p 8 -n 64
+miniVite -w -l -p 9 -n 128
+miniVite -w -l -p 9 -n 256
+miniVite -w -l -p 9 -n 32
+miniVite -w -l -p 9 -n 512
+miniVite -w -l -p 9 -n 64
+miniVite -w -p 1 -n 128
+miniVite -w -p 1 -n 256
+miniVite -w -p 1 -n 32
+miniVite -w -p 1 -n 512
+miniVite -w -p 1 -n 64
+miniVite -w -p 2 -n 128
+miniVite -w -p 2 -n 256
+miniVite -w -p 2 -n 32
+miniVite -w -p 2 -n 512
+miniVite -w -p 2 -n 64
+miniVite -w -p 3 -n 128
+miniVite -w -p 3 -n 256
+miniVite -w -p 3 -n 32
+miniVite -w -p 3 -n 512
+miniVite -w -p 3 -n 64
+miniVite -w -p 4 -n 128
+miniVite -w -p 4 -n 256
+miniVite -w -p 4 -n 32
+miniVite -w -p 4 -n 512
+miniVite -w -p 4 -n 64
+miniVite -w -p 5 -n 128
+miniVite -w -p 5 -n 256
+miniVite -w -p 5 -n 32
+miniVite -w -p 5 -n 512
+miniVite -w -p 5 -n 64
+miniVite -w -p 6 -n 128
+miniVite -w -p 6 -n 256
+miniVite -w -p 6 -n 32
+miniVite -w -p 6 -n 512
+miniVite -w -p 6 -n 64
+miniVite -w -p 7 -n 128
+miniVite -w -p 7 -n 256
+miniVite -w -p 7 -n 32
+miniVite -w -p 7 -n 512
+miniVite -w -p 7 -n 64
+miniVite -w -p 8 -n 128
+miniVite -w -p 8 -n 256
+miniVite -w -p 8 -n 32
+miniVite -w -p 8 -n 512
+miniVite -w -p 8 -n 64
+miniVite -w -p 9 -n 128
+miniVite -w -p 9 -n 256
+miniVite -w -p 9 -n 32
+miniVite -w -p 9 -n 512
+miniVite -w -p 9 -n 64

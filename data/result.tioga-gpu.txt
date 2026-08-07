@@ -1,0 +1,301 @@
+kripke, tioga, 1, --niter 10 --pmethod bj --groups 16 --legendre 0 --arch HIP, 1.778680
+kripke, tioga, 1, --niter 10 --pmethod bj --groups 16 --legendre 1 --arch HIP, 1.801172
+kripke, tioga, 1, --niter 10 --pmethod bj --groups 16 --legendre 2 --arch HIP, 1.899337
+kripke, tioga, 1, --niter 10 --pmethod bj --groups 16 --legendre 3 --arch HIP, 2.029471
+kripke, tioga, 1, --niter 10 --pmethod bj --groups 16 --legendre 4 --arch HIP, 2.186820
+kripke, tioga, 1, --niter 10 --pmethod bj --groups 32 --legendre 0 --arch HIP, 2.989716
+kripke, tioga, 1, --niter 10 --pmethod bj --groups 32 --legendre 1 --arch HIP, 2.936248
+kripke, tioga, 1, --niter 10 --pmethod bj --groups 32 --legendre 2 --arch HIP, 3.192002
+kripke, tioga, 1, --niter 10 --pmethod bj --groups 32 --legendre 3 --arch HIP, 3.574099
+kripke, tioga, 1, --niter 10 --pmethod bj --groups 32 --legendre 4 --arch HIP, 4.052383
+kripke, tioga, 1, --niter 10 --pmethod bj --groups 8 --legendre 0 --arch HIP, 1.332090
+kripke, tioga, 1, --niter 10 --pmethod bj --groups 8 --legendre 1 --arch HIP, 1.349229
+kripke, tioga, 1, --niter 10 --pmethod bj --groups 8 --legendre 2 --arch HIP, 1.408556
+kripke, tioga, 1, --niter 10 --pmethod bj --groups 8 --legendre 3 --arch HIP, 1.654334
+kripke, tioga, 1, --niter 10 --pmethod bj --groups 8 --legendre 4 --arch HIP, 1.512297
+kripke, tioga, 1, --niter 10 --pmethod sweep --groups 16 --legendre 0 --arch HIP, 1.711100
+kripke, tioga, 1, --niter 10 --pmethod sweep --groups 16 --legendre 1 --arch HIP, 1.959390
+kripke, tioga, 1, --niter 10 --pmethod sweep --groups 16 --legendre 2 --arch HIP, 1.841144
+kripke, tioga, 1, --niter 10 --pmethod sweep --groups 16 --legendre 3 --arch HIP, 1.985134
+kripke, tioga, 1, --niter 10 --pmethod sweep --groups 16 --legendre 4 --arch HIP, 2.127872
+kripke, tioga, 1, --niter 10 --pmethod sweep --groups 32 --legendre 0 --arch HIP, 2.651173
+kripke, tioga, 1, --niter 10 --pmethod sweep --groups 32 --legendre 1 --arch HIP, 2.784662
+kripke, tioga, 1, --niter 10 --pmethod sweep --groups 32 --legendre 2 --arch HIP, 3.076092
+kripke, tioga, 1, --niter 10 --pmethod sweep --groups 32 --legendre 3 --arch HIP, 3.426406
+kripke, tioga, 1, --niter 10 --pmethod sweep --groups 32 --legendre 4 --arch HIP, 3.927412
+kripke, tioga, 1, --niter 10 --pmethod sweep --groups 8 --legendre 0 --arch HIP, 1.302936
+kripke, tioga, 1, --niter 10 --pmethod sweep --groups 8 --legendre 1 --arch HIP, 1.334820
+kripke, tioga, 1, --niter 10 --pmethod sweep --groups 8 --legendre 2 --arch HIP, 1.382757
+kripke, tioga, 1, --niter 10 --pmethod sweep --groups 8 --legendre 3 --arch HIP, 1.420788
+kripke, tioga, 1, --niter 10 --pmethod sweep --groups 8 --legendre 4 --arch HIP, 1.485866
+kripke, tioga, 1, --niter 15 --pmethod bj --groups 16 --legendre 0 --arch HIP, 2.418793
+kripke, tioga, 1, --niter 15 --pmethod bj --groups 16 --legendre 1 --arch HIP, 2.262481
+kripke, tioga, 1, --niter 15 --pmethod bj --groups 16 --legendre 2 --arch HIP, 2.425641
+kripke, tioga, 1, --niter 15 --pmethod bj --groups 16 --legendre 3 --arch HIP, 2.591736
+kripke, tioga, 1, --niter 15 --pmethod bj --groups 16 --legendre 4 --arch HIP, 2.816454
+kripke, tioga, 1, --niter 15 --pmethod bj --groups 32 --legendre 0 --arch HIP, 3.689730
+kripke, tioga, 1, --niter 15 --pmethod bj --groups 32 --legendre 1 --arch HIP, 4.114536
+kripke, tioga, 1, --niter 15 --pmethod bj --groups 32 --legendre 2 --arch HIP, 4.345342
+kripke, tioga, 1, --niter 15 --pmethod bj --groups 32 --legendre 3 --arch HIP, 4.898606
+kripke, tioga, 1, --niter 15 --pmethod bj --groups 32 --legendre 4 --arch HIP, 5.782523
+kripke, tioga, 1, --niter 15 --pmethod bj --groups 8 --legendre 0 --arch HIP, 1.568864
+kripke, tioga, 1, --niter 15 --pmethod bj --groups 8 --legendre 1 --arch HIP, 1.801669
+kripke, tioga, 1, --niter 15 --pmethod bj --groups 8 --legendre 2 --arch HIP, 1.673797
+kripke, tioga, 1, --niter 15 --pmethod bj --groups 8 --legendre 3 --arch HIP, 1.740492
+kripke, tioga, 1, --niter 15 --pmethod bj --groups 8 --legendre 4 --arch HIP, 1.845908
+kripke, tioga, 1, --niter 15 --pmethod sweep --groups 16 --legendre 0 --arch HIP, 2.115910
+kripke, tioga, 1, --niter 15 --pmethod sweep --groups 16 --legendre 1 --arch HIP, 2.160490
+kripke, tioga, 1, --niter 15 --pmethod sweep --groups 16 --legendre 2 --arch HIP, 2.320278
+kripke, tioga, 1, --niter 15 --pmethod sweep --groups 16 --legendre 3 --arch HIP, 2.506724
+kripke, tioga, 1, --niter 15 --pmethod sweep --groups 16 --legendre 4 --arch HIP, 2.728639
+kripke, tioga, 1, --niter 15 --pmethod sweep --groups 32 --legendre 0 --arch HIP, 3.476164
+kripke, tioga, 1, --niter 15 --pmethod sweep --groups 32 --legendre 1 --arch HIP, 3.705206
+kripke, tioga, 1, --niter 15 --pmethod sweep --groups 32 --legendre 2 --arch HIP, 4.122558
+kripke, tioga, 1, --niter 15 --pmethod sweep --groups 32 --legendre 3 --arch HIP, 4.689318
+kripke, tioga, 1, --niter 15 --pmethod sweep --groups 32 --legendre 4 --arch HIP, 5.360657
+kripke, tioga, 1, --niter 15 --pmethod sweep --groups 8 --legendre 0 --arch HIP, 1.512689
+kripke, tioga, 1, --niter 15 --pmethod sweep --groups 8 --legendre 1 --arch HIP, 1.562351
+kripke, tioga, 1, --niter 15 --pmethod sweep --groups 8 --legendre 2 --arch HIP, 1.666541
+kripke, tioga, 1, --niter 15 --pmethod sweep --groups 8 --legendre 3 --arch HIP, 1.716718
+kripke, tioga, 1, --niter 15 --pmethod sweep --groups 8 --legendre 4 --arch HIP, 2.004515
+kripke, tioga, 1, --niter 40 --pmethod sweep --groups 16 --legendre 0 --arch HIP, 4.229156
+kripke, tioga, 1, --niter 40 --pmethod sweep --groups 16 --legendre 1 --arch HIP, 4.297698
+kripke, tioga, 1, --niter 40 --pmethod sweep --groups 16 --legendre 2 --arch HIP, 4.692994
+kripke, tioga, 1, --niter 40 --pmethod sweep --groups 16 --legendre 3 --arch HIP, 5.177164
+kripke, tioga, 1, --niter 40 --pmethod sweep --groups 16 --legendre 4 --arch HIP, 5.787518
+kripke, tioga, 1, --niter 40 --pmethod sweep --groups 32 --legendre 0 --arch HIP, 7.905681
+kripke, tioga, 1, --niter 40 --pmethod sweep --groups 32 --legendre 1 --arch HIP, 8.327143
+kripke, tioga, 1, --niter 40 --pmethod sweep --groups 32 --legendre 2 --arch HIP, 9.416215
+kripke, tioga, 1, --niter 40 --pmethod sweep --groups 32 --legendre 3 --arch HIP, 11.146260
+kripke, tioga, 1, --niter 40 --pmethod sweep --groups 32 --legendre 4 --arch HIP, 12.889364
+kripke, tioga, 1, --niter 40 --pmethod sweep --groups 8 --legendre 0 --arch HIP, 2.599502
+kripke, tioga, 1, --niter 40 --pmethod sweep --groups 8 --legendre 1 --arch HIP, 2.673992
+kripke, tioga, 1, --niter 40 --pmethod sweep --groups 8 --legendre 2 --arch HIP, 2.897031
+kripke, tioga, 1, --niter 40 --pmethod sweep --groups 8 --legendre 3 --arch HIP, 3.269001
+kripke, tioga, 1, --niter 40 --pmethod sweep --groups 8 --legendre 4 --arch HIP, 3.320101
+kripke, tioga, 1, --niter 5 --pmethod bj --groups 16 --legendre 0 --arch HIP, 1.333787
+kripke, tioga, 1, --niter 5 --pmethod bj --groups 16 --legendre 1 --arch HIP, 1.371158
+kripke, tioga, 1, --niter 5 --pmethod bj --groups 16 --legendre 2 --arch HIP, 1.395242
+kripke, tioga, 1, --niter 5 --pmethod bj --groups 16 --legendre 3 --arch HIP, 1.465457
+kripke, tioga, 1, --niter 5 --pmethod bj --groups 16 --legendre 4 --arch HIP, 1.558045
+kripke, tioga, 1, --niter 5 --pmethod bj --groups 32 --legendre 0 --arch HIP, 1.855931
+kripke, tioga, 1, --niter 5 --pmethod bj --groups 32 --legendre 1 --arch HIP, 1.957547
+kripke, tioga, 1, --niter 5 --pmethod bj --groups 32 --legendre 2 --arch HIP, 2.058705
+kripke, tioga, 1, --niter 5 --pmethod bj --groups 32 --legendre 3 --arch HIP, 2.253834
+kripke, tioga, 1, --niter 5 --pmethod bj --groups 32 --legendre 4 --arch HIP, 2.496811
+kripke, tioga, 1, --niter 5 --pmethod bj --groups 8 --legendre 0 --arch HIP, 1.099980
+kripke, tioga, 1, --niter 5 --pmethod bj --groups 8 --legendre 1 --arch HIP, 1.113494
+kripke, tioga, 1, --niter 5 --pmethod bj --groups 8 --legendre 2 --arch HIP, 1.148157
+kripke, tioga, 1, --niter 5 --pmethod bj --groups 8 --legendre 3 --arch HIP, 1.176902
+kripke, tioga, 1, --niter 5 --pmethod bj --groups 8 --legendre 4 --arch HIP, 1.195835
+kripke, tioga, 1, --niter 5 --pmethod sweep --groups 16 --legendre 0 --arch HIP, 1.308864
+kripke, tioga, 1, --niter 5 --pmethod sweep --groups 16 --legendre 1 --arch HIP, 1.535991
+kripke, tioga, 1, --niter 5 --pmethod sweep --groups 16 --legendre 2 --arch HIP, 1.375665
+kripke, tioga, 1, --niter 5 --pmethod sweep --groups 16 --legendre 3 --arch HIP, 1.435313
+kripke, tioga, 1, --niter 5 --pmethod sweep --groups 16 --legendre 4 --arch HIP, 1.511141
+kripke, tioga, 1, --niter 5 --pmethod sweep --groups 32 --legendre 0 --arch HIP, 1.790161
+kripke, tioga, 1, --niter 5 --pmethod sweep --groups 32 --legendre 1 --arch HIP, 1.869041
+kripke, tioga, 1, --niter 5 --pmethod sweep --groups 32 --legendre 2 --arch HIP, 2.207199
+kripke, tioga, 1, --niter 5 --pmethod sweep --groups 32 --legendre 3 --arch HIP, 2.205823
+kripke, tioga, 1, --niter 5 --pmethod sweep --groups 32 --legendre 4 --arch HIP, 2.435614
+kripke, tioga, 1, --niter 5 --pmethod sweep --groups 8 --legendre 0 --arch HIP, 1.303046
+kripke, tioga, 1, --niter 5 --pmethod sweep --groups 8 --legendre 1 --arch HIP, 1.095920
+kripke, tioga, 1, --niter 5 --pmethod sweep --groups 8 --legendre 2 --arch HIP, 1.136217
+kripke, tioga, 1, --niter 5 --pmethod sweep --groups 8 --legendre 3 --arch HIP, 1.157744
+kripke, tioga, 1, --niter 5 --pmethod sweep --groups 8 --legendre 4 --arch HIP, 1.181666
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 3 -d gpu, 64.205569
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 3 -pa -d gpu, 64.203411
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 3.1 -d gpu, 66.415381
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 3.1 -pa -d gpu, 66.049759
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 3.2 -d gpu, 67.299393
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 3.2 -pa -d gpu, 67.276172
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 3.3 -d gpu, 68.543544
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 3.3 -pa -d gpu, 69.166552
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 3.4 -d gpu, 70.677221
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 3.4 -pa -d gpu, 71.014426
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 3.5 -d gpu, 72.002205
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 3.5 -pa -d gpu, 72.181293
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 3.6 -d gpu, 73.610019
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 3.6 -pa -d gpu, 73.481334
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 3.7 -d gpu, 75.426539
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 3.7 -pa -d gpu, 75.624739
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 3.8 -d gpu, 75.855885
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 3.8 -pa -d gpu, 77.449811
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 3.9 -d gpu, 78.255930
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 3.9 -pa -d gpu, 78.411082
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 4 -d gpu, 80.194098
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 4 -pa -d gpu, 79.614410
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 4.1 -d gpu, 81.272365
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 4.1 -pa -d gpu, 80.994102
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 4.2 -d gpu, 84.189586
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 4.2 -pa -d gpu, 82.587503
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 4.3 -d gpu, 86.351262
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 4.3 -pa -d gpu, 86.516543
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 4.4 -d gpu, 89.074716
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 4.4 -pa -d gpu, 88.426252
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 4.5 -d gpu, 90.881173
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 4.5 -pa -d gpu, 91.878256
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 4.6 -d gpu, 93.632861
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 4.6 -pa -d gpu, 93.005935
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 4.7 -d gpu, 94.845717
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 4.7 -pa -d gpu, 94.940478
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 4.8 -d gpu, 96.881363
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 4.8 -pa -d gpu, 96.515725
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 4.9 -d gpu, 98.227248
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 4.9 -pa -d gpu, 98.352596
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 5 -d gpu, 97.756155
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 5 -pa -d gpu, 98.742641
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 5.5 -d gpu, 105.331233
+laghos, tioga, 1, -p 1 -dim 2 -rs 2 -tf 5.5 -pa -d gpu, 106.323406
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 3 -d gpu, 131.862510
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 3 -pa -d gpu, 130.786055
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 3.1 -d gpu, 136.265271
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 3.1 -pa -d gpu, 135.103116
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 3.2 -d gpu, 137.697491
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 3.2 -pa -d gpu, 138.895639
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 3.3 -d gpu, 141.148094
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 3.3 -pa -d gpu, 142.860922
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 3.4 -d gpu, 143.595858
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 3.4 -pa -d gpu, 143.692107
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 3.5 -d gpu, 146.327639
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 3.5 -pa -d gpu, 146.980148
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 3.6 -d gpu, 148.641184
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 3.6 -pa -d gpu, 150.267074
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 3.7 -d gpu, 151.577292
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 3.7 -pa -d gpu, 150.783507
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 3.8 -d gpu, 154.913873
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 3.8 -pa -d gpu, 156.185924
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 3.9 -d gpu, 157.437303
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 3.9 -pa -d gpu, 156.524044
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 4 -d gpu, 164.843905
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 4 -pa -d gpu, 162.647290
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 4.1 -d gpu, 171.350930
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 4.1 -pa -d gpu, 173.272316
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 4.2 -d gpu, 181.953322
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 4.2 -pa -d gpu, 181.410458
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 4.3 -d gpu, 189.856924
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 4.3 -pa -d gpu, 190.543019
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 4.4 -d gpu, 201.032136
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 4.4 -pa -d gpu, 200.411688
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 4.5 -d gpu, 206.274359
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 4.5 -pa -d gpu, 212.561643
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 4.6 -d gpu, 214.212295
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 4.6 -pa -d gpu, 213.923601
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 4.7 -d gpu, 217.814041
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 4.7 -pa -d gpu, 219.880434
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 4.8 -d gpu, 223.471290
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 4.8 -pa -d gpu, 223.224314
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 4.9 -d gpu, 234.242458
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 4.9 -pa -d gpu, 232.240813
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 5 -d gpu, 239.895798
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 5 -pa -d gpu, 240.820998
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 5.5 -d gpu, 264.574812
+laghos, tioga, 1, -p 1 -dim 2 -rs 3 -tf 5.5 -pa -d gpu, 267.303433
+laghos, tioga, 1, -p 1 -dim 3 -rs 1 -tf 3 -d gpu, 64.694516
+laghos, tioga, 1, -p 1 -dim 3 -rs 1 -tf 3 -pa -d gpu, 64.994310
+laghos, tioga, 1, -p 1 -dim 3 -rs 1 -tf 3.5 -d gpu, 79.047639
+laghos, tioga, 1, -p 1 -dim 3 -rs 1 -tf 3.5 -pa -d gpu, 79.523173
+laghos, tioga, 1, -p 1 -dim 3 -rs 1 -tf 4 -d gpu, 94.868731
+laghos, tioga, 1, -p 1 -dim 3 -rs 1 -tf 4 -pa -d gpu, 94.455080
+laghos, tioga, 1, -p 1 -dim 3 -rs 1 -tf 4.5 -d gpu, 110.167432
+laghos, tioga, 1, -p 1 -dim 3 -rs 1 -tf 4.5 -pa -d gpu, 109.731558
+laghos, tioga, 1, -p 1 -dim 3 -rs 1 -tf 5 -d gpu, 121.469215
+laghos, tioga, 1, -p 1 -dim 3 -rs 1 -tf 5 -pa -d gpu, 121.609774
+laghos, tioga, 1, -p 1 -dim 3 -rs 1 -tf 5.5 -d gpu, 131.786572
+laghos, tioga, 1, -p 1 -dim 3 -rs 1 -tf 5.5 -pa -d gpu, 130.949092
+laghos, tioga, 1, -p 1 -dim 3 -rs 2 -tf 3 -d gpu, 172.714541
+laghos, tioga, 1, -p 1 -dim 3 -rs 2 -tf 3 -pa -d gpu, 170.838899
+laghos, tioga, 1, -p 1 -dim 3 -rs 2 -tf 3.5 -d gpu, 225.463536
+laghos, tioga, 1, -p 1 -dim 3 -rs 2 -tf 3.5 -pa -d gpu, 224.612560
+laghos, tioga, 1, -p 1 -dim 3 -rs 2 -tf 4 -d gpu, 281.145405
+laghos, tioga, 1, -p 1 -dim 3 -rs 2 -tf 4 -pa -d gpu, 284.945871
+laghos, tioga, 1, -p 1 -dim 3 -rs 2 -tf 4.5 -d gpu, 305.809838
+laghos, tioga, 1, -p 1 -dim 3 -rs 2 -tf 4.5 -pa -d gpu, 300.699549
+laghos, tioga, 1, -p 1 -dim 3 -rs 2 -tf 5 -d gpu, 327.967550
+laghos, tioga, 1, -p 1 -dim 3 -rs 2 -tf 5 -pa -d gpu, 328.452196
+laghos, tioga, 1, -p 1 -dim 3 -rs 2 -tf 5.5 -d gpu, 383.613823
+laghos, tioga, 1, -p 1 -dim 3 -rs 2 -tf 5.5 -pa -d gpu, 385.373707
+laghos, tioga, 1, -p 2 -dim 2 -rs 2 -tf 3 -d gpu, 65.172372
+laghos, tioga, 1, -p 2 -dim 2 -rs 2 -tf 3 -pa -d gpu, 65.192801
+laghos, tioga, 1, -p 2 -dim 2 -rs 2 -tf 3.5 -d gpu, 73.772208
+laghos, tioga, 1, -p 2 -dim 2 -rs 2 -tf 3.5 -pa -d gpu, 73.458448
+laghos, tioga, 1, -p 2 -dim 2 -rs 2 -tf 4 -d gpu, 77.309213
+laghos, tioga, 1, -p 2 -dim 2 -rs 2 -tf 4 -pa -d gpu, 77.369895
+laghos, tioga, 1, -p 2 -dim 2 -rs 2 -tf 4.5 -d gpu, 84.119206
+laghos, tioga, 1, -p 2 -dim 2 -rs 2 -tf 4.5 -pa -d gpu, 84.267954
+laghos, tioga, 1, -p 2 -dim 2 -rs 2 -tf 5 -d gpu, 93.572263
+laghos, tioga, 1, -p 2 -dim 2 -rs 2 -tf 5 -pa -d gpu, 92.778934
+laghos, tioga, 1, -p 2 -dim 2 -rs 2 -tf 5.5 -d gpu, 99.761626
+laghos, tioga, 1, -p 2 -dim 2 -rs 2 -tf 5.5 -pa -d gpu, 100.806839
+laghos, tioga, 1, -p 2 -dim 3 -rs 1 -tf 3 -d gpu, 53.895900
+laghos, tioga, 1, -p 2 -dim 3 -rs 1 -tf 3 -pa -d gpu, 53.954238
+laghos, tioga, 1, -p 2 -dim 3 -rs 1 -tf 3.5 -d gpu, 61.091844
+laghos, tioga, 1, -p 2 -dim 3 -rs 1 -tf 3.5 -pa -d gpu, 61.715783
+laghos, tioga, 1, -p 2 -dim 3 -rs 1 -tf 4 -d gpu, 65.125202
+laghos, tioga, 1, -p 2 -dim 3 -rs 1 -tf 4 -pa -d gpu, 65.780053
+laghos, tioga, 1, -p 2 -dim 3 -rs 1 -tf 4.5 -d gpu, 70.218635
+laghos, tioga, 1, -p 2 -dim 3 -rs 1 -tf 4.5 -pa -d gpu, 70.054371
+laghos, tioga, 1, -p 2 -dim 3 -rs 1 -tf 5 -d gpu, 78.225011
+laghos, tioga, 1, -p 2 -dim 3 -rs 1 -tf 5 -pa -d gpu, 76.907052
+laghos, tioga, 1, -p 2 -dim 3 -rs 1 -tf 5.5 -d gpu, 84.629379
+laghos, tioga, 1, -p 2 -dim 3 -rs 1 -tf 5.5 -pa -d gpu, 84.549386
+laghos, tioga, 1, -p 2 -dim 3 -rs 2 -tf 3 -d gpu, 143.491954
+laghos, tioga, 1, -p 2 -dim 3 -rs 2 -tf 3 -pa -d gpu, 141.382238
+laghos, tioga, 1, -p 3 -dim 2 -rs 1 -tf 3 -d gpu, 11.740992
+laghos, tioga, 1, -p 3 -dim 2 -rs 1 -tf 3 -pa -d gpu, 11.758176
+laghos, tioga, 1, -p 3 -dim 2 -rs 1 -tf 3.5 -d gpu, 12.137703
+laghos, tioga, 1, -p 3 -dim 2 -rs 1 -tf 3.5 -pa -d gpu, 12.333896
+laghos, tioga, 1, -p 3 -dim 2 -rs 1 -tf 4 -d gpu, 12.828575
+laghos, tioga, 1, -p 3 -dim 2 -rs 1 -tf 4 -pa -d gpu, 12.785950
+laghos, tioga, 1, -p 3 -dim 2 -rs 1 -tf 4.5 -d gpu, 13.201368
+laghos, tioga, 1, -p 3 -dim 2 -rs 1 -tf 4.5 -pa -d gpu, 13.071698
+laghos, tioga, 1, -p 3 -dim 2 -rs 1 -tf 5 -d gpu, 13.576467
+laghos, tioga, 1, -p 3 -dim 2 -rs 1 -tf 5 -pa -d gpu, 13.798438
+laghos, tioga, 1, -p 3 -dim 2 -rs 1 -tf 5.5 -d gpu, 14.192252
+laghos, tioga, 1, -p 3 -dim 2 -rs 1 -tf 5.5 -pa -d gpu, 14.033033
+laghos, tioga, 1, -p 3 -dim 2 -rs 2 -tf 3 -d gpu, 16.305372
+laghos, tioga, 1, -p 3 -dim 2 -rs 2 -tf 3 -pa -d gpu, 16.375243
+laghos, tioga, 1, -p 3 -dim 2 -rs 2 -tf 3.5 -d gpu, 17.391618
+laghos, tioga, 1, -p 3 -dim 2 -rs 2 -tf 3.5 -pa -d gpu, 17.315445
+laghos, tioga, 1, -p 3 -dim 2 -rs 2 -tf 4 -d gpu, 18.446354
+laghos, tioga, 1, -p 3 -dim 2 -rs 2 -tf 4 -pa -d gpu, 18.441450
+laghos, tioga, 1, -p 3 -dim 2 -rs 2 -tf 4.5 -d gpu, 19.875586
+laghos, tioga, 1, -p 3 -dim 2 -rs 2 -tf 4.5 -pa -d gpu, 19.679607
+laghos, tioga, 1, -p 3 -dim 2 -rs 2 -tf 5 -d gpu, 21.302904
+laghos, tioga, 1, -p 3 -dim 2 -rs 2 -tf 5 -pa -d gpu, 20.980193
+laghos, tioga, 1, -p 3 -dim 2 -rs 2 -tf 5.5 -d gpu, 22.154513
+laghos, tioga, 1, -p 3 -dim 2 -rs 2 -tf 5.5 -pa -d gpu, 22.535184
+laghos, tioga, 1, -p 3 -dim 3 -rs 1 -tf 3 -d gpu, 15.871770
+laghos, tioga, 1, -p 3 -dim 3 -rs 1 -tf 3 -pa -d gpu, 16.205163
+laghos, tioga, 1, -p 3 -dim 3 -rs 1 -tf 3.5 -d gpu, 17.202471
+laghos, tioga, 1, -p 3 -dim 3 -rs 1 -tf 3.5 -pa -d gpu, 17.287692
+laghos, tioga, 1, -p 3 -dim 3 -rs 1 -tf 4 -d gpu, 18.802828
+laghos, tioga, 1, -p 3 -dim 3 -rs 1 -tf 4 -pa -d gpu, 18.364577
+laghos, tioga, 1, -p 3 -dim 3 -rs 1 -tf 4.5 -d gpu, 19.891314
+laghos, tioga, 1, -p 3 -dim 3 -rs 1 -tf 4.5 -pa -d gpu, 19.406873
+laghos, tioga, 1, -p 3 -dim 3 -rs 1 -tf 5 -d gpu, 20.727948
+laghos, tioga, 1, -p 3 -dim 3 -rs 1 -tf 5 -pa -d gpu, 20.548264
+laghos, tioga, 1, -p 3 -dim 3 -rs 1 -tf 5.5 -d gpu, 21.815234
+laghos, tioga, 1, -p 3 -dim 3 -rs 1 -tf 5.5 -pa -d gpu, 22.351146
+laghos, tioga, 1, -p 3 -dim 3 -rs 2 -tf 3 -d gpu, 26.858883
+laghos, tioga, 1, -p 3 -dim 3 -rs 2 -tf 3 -pa -d gpu, 26.945814
+laghos, tioga, 1, -p 3 -dim 3 -rs 2 -tf 3.5 -d gpu, 30.150998
+laghos, tioga, 1, -p 3 -dim 3 -rs 2 -tf 3.5 -pa -d gpu, 30.026030
+laghos, tioga, 1, -p 3 -dim 3 -rs 2 -tf 4 -d gpu, 32.946411
+laghos, tioga, 1, -p 3 -dim 3 -rs 2 -tf 4 -pa -d gpu, 32.806249
+laghos, tioga, 1, -p 3 -dim 3 -rs 2 -tf 4.5 -d gpu, 35.796274
+laghos, tioga, 1, -p 3 -dim 3 -rs 2 -tf 4.5 -pa -d gpu, 35.652935
+laghos, tioga, 1, -p 3 -dim 3 -rs 2 -tf 5 -d gpu, 39.052682
+laghos, tioga, 1, -p 3 -dim 3 -rs 2 -tf 5 -pa -d gpu, 38.901166
+laghos, tioga, 1, -p 3 -dim 3 -rs 2 -tf 5.5 -d gpu, 41.783862
+laghos, tioga, 1, -p 3 -dim 3 -rs 2 -tf 5.5 -pa -d gpu, 41.801602
+XSBench, tioga, 1, -m event -s XL -G hash, 21.793107
+XSBench, tioga, 1, -m event -s XL -G nuclide, 21.682002
+XSBench, tioga, 1, -m event -s XXL -G hash, 46.493589
+XSBench, tioga, 1, -m event -s XXL -G nuclide, 46.522626
+XSBench, tioga, 1, -m event -s large -G hash, 2.122245
+XSBench, tioga, 1, -m event -s large -G nuclide, 1.899391
+XSBench, tioga, 1, -m event -s large -G unionized, 5.688315
+XSBench, tioga, 1, -m event -s small -G hash, 0.934120
+XSBench, tioga, 1, -m event -s small -G nuclide, 0.911534
+XSBench, tioga, 1, -m event -s small -G unionized, 1.072751

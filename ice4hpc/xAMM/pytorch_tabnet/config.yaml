@@ -1,0 +1,11 @@
+machine_data_path: Machine.csv
+machine_output_path: machineEmbedding/machineEmbeddings_25.csv
+
+machine_dataset_categorical_columns: ['machine']
+machine_embedding_dim: [25]
+
+application_dataset_categorical_columns: ['machine', 'app']
+app_embedding_dim: [20, 30]
+
+target_column: target_column
+split_machine_output_dir: machine_splits

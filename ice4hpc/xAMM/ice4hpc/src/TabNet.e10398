@@ -1,0 +1,21 @@
+2025-01-24 10:24:22.574921: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:477] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1737743062.705818 2459829 cuda_dnn.cc:8310] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1737743062.746398 2459829 cuda_blas.cc:1418] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2025-01-24 10:24:23.090733: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+[flash1:mpi_rank_0][MPID_Init] [Performance Suggestion]: Application has requested for multi-thread capability. If allocating memory from different pthreads/OpenMP threads, please consider setting MV2_USE_ALIGNED_ALLOC=1 for improved performance.
+Use MV2_USE_THREAD_WARNING=0 to suppress this error message.
+Traceback (most recent call last):
+  File "/g/g90/dhakal1/All/ice4hpc/src/driver.py", line 73, in <module>
+    qrrp_src_x, qrrp_src_y, qrrp_tar_x, qrrp_tar_y = qrrploader.getXY("", "",["31"])
+  File "/g/g90/dhakal1/All/ice4hpc/src/dataloader.py", line 171, in getXY
+    self.src_ty = self.src_data[targetColumn]
+  File "/g/g90/dhakal1/All/dev/lib/python3.9/site-packages/pandas/core/frame.py", line 4108, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "/g/g90/dhakal1/All/dev/lib/python3.9/site-packages/pandas/core/indexes/base.py", line 6200, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "/g/g90/dhakal1/All/dev/lib/python3.9/site-packages/pandas/core/indexes/base.py", line 6249, in _raise_if_missing
+    raise KeyError(f"None of [{key}] are in the [{axis_name}]")
+KeyError: "None of [Index(['31'], dtype='object')] are in the [columns]"
+srun: error: flash1: task 0: Exited with exit code 1

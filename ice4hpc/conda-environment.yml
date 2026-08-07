@@ -1,0 +1,11 @@
+name: ml
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - jupyter
+  - python=3.9
+  - tensorflow
+  - scikit-learn
+  - xgboost
+  - matplotlib

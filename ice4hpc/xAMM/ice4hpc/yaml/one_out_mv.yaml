@@ -1,0 +1,321 @@
+
+  src_path1: '/data/ice4hpc/one-out/mv/q-r/src/'
+  tar_path1: '/data/ice4hpc/one-out/mv/q-r/tar/'
+  src_path2: '/data/ice4hpc/one-out/mv/q-c/src/'
+  tar_path2: '/data/ice4hpc/one-out/mv/q-c/tar/'
+  counter_data_src: '/data/ice4hpc/one-out/mv/q-r/src/'
+  counter_data_tar: '/data/ice4hpc/one-out/mv/q-r/tar/'
+  model_path: '/ice4hpc/models/'
+  result_path: '/ice4hpc/results/'
+  csv_path: '/ice4hpc/results/csv/one-out/mv/'
+  indices_path: '/ice4hpc/results/indices/one-out/mv/'
+  fig_path: '/ice4hpc/results/figs/one-out/mv/'
+  chck_path: '/ice4hpc/chckpoints/one-out/mv/'
+  test_split: 0.20
+  val_split: 0.25
+  rand_state: 42 
+  rand_state2: 84
+  tuning_epochs: 1000
+  tuning_trials: 400
+  num_of_frozen_layers: 0
+  storageN: 'sqlite:///dbs/Perf.db'
+  stdy: 'Perf'
+  target_label: 'Runtime'
+  test_samples:
+    - 0.1
+    - 0.2
+    - 0.3
+    - 0.4
+    - 0.5
+    - 1.00
+  index_maker:
+    module_name: 'index_maker'
+    class_name: 'index_maker'
+    init_arg: 6
+  jay_test1:
+    module_name: 'jay_test1'
+    class_name: 'jay_test1'
+    init_arg: 6
+  train_only:
+    module_name: 'train_only'
+    class_name: 'train_only'
+    init_arg: 100
+  source_only:
+    module_name: 'source_only'
+    class_name: 'source_only'
+    init_arg: 100
+  one_out_FS:
+    module_name: 'one_out_FS'
+    class_name: 'one_out_FS'
+    init_arg: 10
+    list_of_classes:
+      - 'ARD_FS'
+      - 'AdaBoost_FS'
+      - 'ExtraTree_FS'
+      - 'Bagging_FS'
+      - 'SVR_FS'
+      - 'Lasso_FS'
+      - 'ElasticNet_FS'
+      - 'DecisionTree_FS'
+      - 'XGB_FS'
+    list_of_class_args:
+      - 10
+      - 10
+      - 10
+      - 10
+      - 10
+      - 10
+      - 10
+      - 10
+      - 10
+
+  one_out:
+    module_name: 'one_out'
+    class_name: 'one_out'
+    init_arg: 10
+    list_of_classes:
+      - 'ARD'
+      - 'AdaBoost'
+      - 'ExtraTree'
+      - 'Bagging'
+      - 'SVR'
+      - 'Ridge'
+      - 'Lasso'
+      - 'ElasticNet'
+      - 'linear_regression'
+      - 'KNNregressor'
+      - 'DecisionTree'
+      - 'random_forrest'
+      - 'XGBoost'
+      - 'nn'
+    list_of_class_args:
+      - 10
+      - 10
+      - 10
+      - 10
+      - 10
+      - 10
+      - 10
+      - 10
+      - 10
+      - 10
+      - 10
+      - 10
+      - 10
+      - 10
+  target_only:
+    module_name: 'target_only'
+    class_name: 'target_only'
+    init_arg: 10
+  linear_probing:
+    module_name: 'transfer_learning'
+    class_name: 'transfer_learning'
+    init_arg: 'linear_probing'
+    num_of_frozen_layers:
+      - 1
+      - 2
+      - 3
+  fine_tuning:
+    module_name: 'transfer_learning'
+    class_name: 'transfer_learning'
+    init_arg: 'fine_tuning'
+    num_of_frozen_layers:
+      - 0
+  TransferIPT:
+    init_arg: 'fine_tuning'
+    module_name: 'TransferIPT'
+    class_name: 'TransferIPT'
+    IPT_params:
+      neurons: 100
+      layers: 6
+      lr: 0.01
+    linear_probing:
+      num_of_frozen_layers:
+        - 1
+        - 2
+        - 3
+    fine_tuning:
+      num_of_frozen_layers:
+        - 0
+  k_regressor:
+    module_name: 'k_regressor'
+    class_name: 'k_regressor'
+    init_arg: 2
+  random_forrest:
+    module_name: 'random_forrest'
+    class_name: 'random_forrest'
+    init_arg: 100
+  stacked_model:
+    module_name: 'stacked_model'
+    class_name: 'stacked_model'
+    init_arg: 2
+  IPT:
+    module_name: 'IPT'
+    class_name: 'IPT'
+    init_arg: 100 
+    IPT_params:
+      neurons: 100
+      layers: 6
+      lr: 0.01
+      num_of_frozen_layers:
+        - 0
+  KIPT:
+    init_arg: 'fine_tuning'
+    module_name: 'KIPT'
+    class_name: 'KIPT'
+    IPT_params:
+      neurons: 100
+      layers: 6
+      lr: 0.01
+    linear_probing:
+      num_of_frozen_layers:
+        - 1
+        - 2
+        - 3
+    fine_tuning:
+      num_of_frozen_layers:
+        - 0
+  stacked_ipt:
+    init_arg: 'fine_tuning'
+    module_name: 'stacked_ipt'
+    class_name: 'stacked_ipt'
+    IPT_params:
+      neurons: 100
+      layers: 6
+      lr: 0.001
+    linear_probing:
+      num_of_frozen_layers:
+        - 1
+        - 2
+        - 3
+    combined_model_params:
+      neurons: 400
+      nol: 8
+      lr: 0.001
+      moment: 1.0
+    features:
+      - 'ScatteringOrder'
+      - 'Nesting'
+      - 'Layout'
+      - 'Dset'
+      - 'Gset'
+      - 'Method'
+      - 'AvgInst'
+      - 'AvgArithFpu'
+    fine_tuning:
+      num_of_frozen_layers:
+  tar_ipt:
+    init_arg: 'fine_tuning'
+    module_name: 'tar_ipt'
+    class_name: 'tar_ipt'
+    IPT_params:
+      neurons: 100
+      layers: 6
+      lr: 0.01
+    linear_probing:
+      num_of_frozen_layers:
+        - 1
+        - 2
+        - 3
+    features:
+      - 'ScatteringOrder'
+      - 'Nesting'
+      - 'Layout'
+      - 'Dset'
+      - 'Gset'
+      - 'Method'
+      - 'AvgInst'
+      - 'AvgArithFpu'
+    fine_tuning:
+      num_of_frozen_layers:
+        - 0
+  UIPT:
+    init_arg: 'fine_tuning'
+    module_name: 'UIPT'
+    class_name: 'UIPT'
+    IPT_params:
+      neurons: 100
+      layers: 6
+      lr: 0.01
+    second_model_params:
+      neurons: 100
+      nol: 8
+      lr: 0.008
+      moment: 0.98
+    combined_model_params:
+      neurons: 5
+      nol: 10
+      lr: 0.003
+      moment: 0.98 
+    linear_probing:
+      num_of_frozen_layers:
+        - 1
+        - 2
+        - 3
+    features:
+      - 'ScatteringOrder'
+      - 'Nesting'
+      - 'Layout'
+      - 'Dset'
+      - 'Gset'
+      - 'Method'
+      - 'AvgInst'
+      - 'AvgArithFpu'
+    fine_tuning:
+      num_of_frozen_layers:
+        - 0
+
+  res_ipt:
+    init_arg: 'fine_tuning'
+    module_name: 'res_ipt'
+    class_name: 'res_ipt'
+    IPT_params:
+      neurons: 100
+      layers: 6
+      lr: 0.01
+    linear_probing:
+      num_of_frozen_layers:
+        - 1
+        - 2
+        - 3
+    features:
+      - 'Input'
+      - 'ScatteringOrder'
+      - 'DRAMPowerPerNode'
+      - 'ProcessorPowerPerNode'
+      - 'Ranks'
+      - 'Nesting'
+      - 'Layout'
+      - 'Dset'
+      - 'Gset'
+      - 'Method'
+      - 'OMP'
+      - 'PKG_LIMIT'
+      - 'DRAM_LIMIT'
+      - 'AvgInst'
+      - 'AvgIpc'
+      - 'AvgArithFpu'
+      - 'AvgFreq'
+      - 'AvgTemp'
+      - 'ProcessorPower'
+      - 'DRAMPower'
+    fine_tuning:
+      num_of_frozen_layers:
+        - 0
+
+  tasks:
+  - transfer_learning
+  - transfer_learning
+  - value 3
+  target_model_params:
+    - 100
+    - 3
+    - 0.01
+    - 0.7
+    - 100
+  source_model1: '/models/ice4hpc/one-out/mv/ice4hpc-model1.json'
+  source_model_weights1: '/models/ice4hpc/one-out/mv/ice4hpc-model1'
+  source_model2: '/models/ice4hpc/one-out/mv/ice4hpc-model2.json'
+  source_model_weights2: '/models/ice4hpc/one-out/mv/ice4hpc-model2'
+  source_model_params: '/ice4hpc/results/txt/Source-model-on-target-OPENMC-parameters.txt'
+  source_model_prev_weights: '/models/x-OPENMC-SourceModel'

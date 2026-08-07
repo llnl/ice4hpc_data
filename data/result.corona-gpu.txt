@@ -1,0 +1,10 @@
+XSBench, corona, 1, -m event -s XL -G hash, 27.989618
+XSBench, corona, 1, -m event -s XL -G nuclide, 27.936728
+XSBench, corona, 1, -m event -s XXL -G hash, 61.207392
+XSBench, corona, 1, -m event -s XXL -G nuclide, 67.272773
+XSBench, corona, 1, -m event -s large -G hash, 2.192041
+XSBench, corona, 1, -m event -s large -G nuclide, 2.227863
+XSBench, corona, 1, -m event -s large -G unionized, 6.577811
+XSBench, corona, 1, -m event -s small -G hash, 1.069027
+XSBench, corona, 1, -m event -s small -G nuclide, 1.043400
+XSBench, corona, 1, -m event -s small -G unionized, 1.210687

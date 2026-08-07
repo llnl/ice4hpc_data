@@ -1,0 +1,66 @@
+#!/bin/bash
+#SBATCH -A ASC23014
+#SBATCH -J ICE4HPC           # Job name
+#SBATCH -o ICE4HPC.o%j       # Name of stdout output file
+#SBATCH -e ICE4HPC.e%j       # Name of stderr error file
+#SBATCH -p development    # Queue (partition) name
+#SBATCH -N 1             # Total # of nodes 
+#SBATCH -n 5             # Total # of mpi tasks
+#SBATCH -t 00:30:00       # Run time (hh:mm:ss
+
+
+date
+source ../../../dev/bin/activate
+
+#srun -N 1 -n 1 python3 driver.py "crime" "linear_probing" 5
+#srun -N 1 -n 1 python3 driver.py "crime" "fine_tuning" 5
+#srun -N 1 -n 1 python3 driver.py "crime" "random_forrest" 5
+#srun -N 1 -n 1 python3 driver.py "crime" "stacked_model" 5
+#srun -N 1 -n 1 python3 driver.py "crime" "IPT" 5
+#srun -N 1 -n 1 python3 driver.py "crime" "random_forrest" 5
+
+#srun -N 1 -n 1 python3 driver.py "skillcraft" "linear_probing" 5
+#srun -N 1 -n 1 python3 driver.py "skillcraft" "fine_tuning" 5
+#srun -N 1 -n 1 python3 driver.py "skillcraft" "random_forrest" 5
+#srun -N 1 -n 1 python3 driver.py "skillcraft" "stacked_model" 5
+#srun -N 1 -n 1 python3 driver.py "skillcraft" "IPT" 5
+#srun -N 1 -n 1 python3 driver.py "skillcraft" "random_forrest" 5
+#mpiexec -n 5 python3 driver.py "ice4hpc" "index_maker" "/ice4hpc/yaml/one_out_laghos.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "linear_probing" "/ice4hpc/yaml/one_out_laghos.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "fine_tuning" "/ice4hpc/yaml/one_out_laghos.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "index_maker" "/ice4hpc/yaml/one_out_kripke.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "linear_probing" "/ice4hpc/yaml/one_out_kripke.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "fine_tuning" "/ice4hpc/yaml/one_out_kripke.yaml"
+#mpiexec -n 1 python3 driver2.py "ice4hpc" "nn2" "/ice4hpc/yaml/aws.yaml"
+#mpiexec -n 5 python3 driver2.py "ice4hpc" "index_maker2" "/ice4hpc/yaml/aws.yaml"
+#mpiexec -n 5 python3 driver2.py "ice4hpc" "IPT2" "/ice4hpc/yaml/aws.yaml"
+
+#mpiexec -n 5 python3 driver.py "ice4hpc" "index_maker" "/ice4hpc/yaml/one_out_td.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "linear_probing" "/ice4hpc/yaml/one_out_td.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "fine_tuning" "/ice4hpc/yaml/one_out_td.yaml"
+
+
+
+mpiexec -n 1 python3 driver.py "ice4hpc" "source_only" "/ice4hpc/yaml/one_out_kripke.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "index_maker" "/ice4hpc/yaml/one_out_kripke.yaml"
+mpiexec -n 5 python3 driver.py "ice4hpc" "linear_probing" "/ice4hpc/yaml/one_out_kripke.yaml"
+mpiexec -n 5 python3 driver.py "ice4hpc" "fine_tuning" "/ice4hpc/yaml/one_out_kripke.yaml"
+mpiexec -n 5 python3 driver.py "ice4hpc" "IPT" "/ice4hpc/yaml/one_out_kripke.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "index_maker" "/ice4hpc/yaml/one_out_mv.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "linear_probing" "/ice4hpc/yaml/one_out_mv.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "fine_tuning" "/ice4hpc/yaml/one_out_mv.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "index_maker" "/ice4hpc/yaml/one_out_td.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "linear_probing" "/ice4hpc/yaml/one_out_td.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "fine_tuning" "/ice4hpc/yaml/one_out_td.yaml"
+
+
+
+#mpiexec -n 5 python3 driver.py "ice4hpc" "one_out" "/ice4hpc/yaml/one_out_kripke.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "one_out" "/ice4hpc/yaml/one_out_amg.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "one_out" "/ice4hpc/yaml/one_out_mv.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "one_out" "/ice4hpc/yaml/one_out_sw.yaml"
+#mpiexec -n 5 python3 driver.py "ice4hpc" "one_out" "/ice4hpc/yaml/one_out_td.yaml"
+
+#mpiexec -n 5 python3 driver.py "ice4hpc" "fine_tuning" "/ice4hpc/yaml/one_out.yaml"
+#mpiexec -n 5 python3 driver.py "skillcraft" "KIPT" "/fslda/yaml/skillcraft-config-6.yaml"
+date

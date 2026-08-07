@@ -1,0 +1,10 @@
+#!/bin/bash
+#SBATCH --job-name=VAEEmbeddings          # Job name
+#SBATCH --output=VAEEmbeddings.o%j        # Name of stdout output file
+#SBATCH --error=VAEEmbeddings.e%j         # Name of stderr error file
+#SBATCH --ntasks=1              # Total number of MPI tasks
+#SBATCH --partition=pbatch        # Specify partition
+
+date
+source ../../dev/bin/activate
+srun -n 1 python3 driver.py "ice4hpc" "one_out" "/ice4hpc/yaml/one_out_source2.yaml"

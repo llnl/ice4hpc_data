@@ -1,0 +1,186 @@
+laghos -p 1 -dim 2 -rs 2 -tf 3
+laghos -p 1 -dim 2 -rs 2 -tf 3 -pa
+laghos -p 1 -dim 2 -rs 2 -tf 3.1
+laghos -p 1 -dim 2 -rs 2 -tf 3.1 -pa
+laghos -p 1 -dim 2 -rs 2 -tf 3.2
+laghos -p 1 -dim 2 -rs 2 -tf 3.2 -pa
+laghos -p 1 -dim 2 -rs 2 -tf 3.3
+laghos -p 1 -dim 2 -rs 2 -tf 3.3 -pa
+laghos -p 1 -dim 2 -rs 2 -tf 3.4
+laghos -p 1 -dim 2 -rs 2 -tf 3.4 -pa
+laghos -p 1 -dim 2 -rs 2 -tf 3.5
+laghos -p 1 -dim 2 -rs 2 -tf 3.5 -pa
+laghos -p 1 -dim 2 -rs 2 -tf 3.6
+laghos -p 1 -dim 2 -rs 2 -tf 3.6 -pa
+laghos -p 1 -dim 2 -rs 2 -tf 3.7
+laghos -p 1 -dim 2 -rs 2 -tf 3.7 -pa
+laghos -p 1 -dim 2 -rs 2 -tf 3.8
+laghos -p 1 -dim 2 -rs 2 -tf 3.8 -pa
+laghos -p 1 -dim 2 -rs 2 -tf 3.9
+laghos -p 1 -dim 2 -rs 2 -tf 3.9 -pa
+laghos -p 1 -dim 2 -rs 2 -tf 4
+laghos -p 1 -dim 2 -rs 2 -tf 4 -pa
+laghos -p 1 -dim 2 -rs 2 -tf 4.1
+laghos -p 1 -dim 2 -rs 2 -tf 4.1 -pa
+laghos -p 1 -dim 2 -rs 2 -tf 4.2
+laghos -p 1 -dim 2 -rs 2 -tf 4.2 -pa
+laghos -p 1 -dim 2 -rs 2 -tf 4.3
+laghos -p 1 -dim 2 -rs 2 -tf 4.3 -pa
+laghos -p 1 -dim 2 -rs 2 -tf 4.4
+laghos -p 1 -dim 2 -rs 2 -tf 4.4 -pa
+laghos -p 1 -dim 2 -rs 2 -tf 4.5
+laghos -p 1 -dim 2 -rs 2 -tf 4.5 -pa
+laghos -p 1 -dim 2 -rs 2 -tf 4.6
+laghos -p 1 -dim 2 -rs 2 -tf 4.6 -pa
+laghos -p 1 -dim 2 -rs 2 -tf 4.7
+laghos -p 1 -dim 2 -rs 2 -tf 4.7 -pa
+laghos -p 1 -dim 2 -rs 2 -tf 4.8
+laghos -p 1 -dim 2 -rs 2 -tf 4.8 -pa
+laghos -p 1 -dim 2 -rs 2 -tf 4.9
+laghos -p 1 -dim 2 -rs 2 -tf 4.9 -pa
+laghos -p 1 -dim 2 -rs 2 -tf 5
+laghos -p 1 -dim 2 -rs 2 -tf 5 -pa
+laghos -p 1 -dim 2 -rs 2 -tf 5.5
+laghos -p 1 -dim 2 -rs 2 -tf 5.5 -pa
+laghos -p 1 -dim 2 -rs 3 -tf 3
+laghos -p 1 -dim 2 -rs 3 -tf 3 -pa
+laghos -p 1 -dim 2 -rs 3 -tf 3.1
+laghos -p 1 -dim 2 -rs 3 -tf 3.1 -pa
+laghos -p 1 -dim 2 -rs 3 -tf 3.2
+laghos -p 1 -dim 2 -rs 3 -tf 3.2 -pa
+laghos -p 1 -dim 2 -rs 3 -tf 3.3
+laghos -p 1 -dim 2 -rs 3 -tf 3.3 -pa
+laghos -p 1 -dim 2 -rs 3 -tf 3.4
+laghos -p 1 -dim 2 -rs 3 -tf 3.4 -pa
+laghos -p 1 -dim 2 -rs 3 -tf 3.5
+laghos -p 1 -dim 2 -rs 3 -tf 3.5 -pa
+laghos -p 1 -dim 2 -rs 3 -tf 3.6
+laghos -p 1 -dim 2 -rs 3 -tf 3.6 -pa
+laghos -p 1 -dim 2 -rs 3 -tf 3.7
+laghos -p 1 -dim 2 -rs 3 -tf 3.7 -pa
+laghos -p 1 -dim 2 -rs 3 -tf 3.8
+laghos -p 1 -dim 2 -rs 3 -tf 3.8 -pa
+laghos -p 1 -dim 2 -rs 3 -tf 3.9
+laghos -p 1 -dim 2 -rs 3 -tf 3.9 -pa
+laghos -p 1 -dim 2 -rs 3 -tf 4
+laghos -p 1 -dim 2 -rs 3 -tf 4 -pa
+laghos -p 1 -dim 2 -rs 3 -tf 4.1
+laghos -p 1 -dim 2 -rs 3 -tf 4.1 -pa
+laghos -p 1 -dim 2 -rs 3 -tf 4.2
+laghos -p 1 -dim 2 -rs 3 -tf 4.2 -pa
+laghos -p 1 -dim 2 -rs 3 -tf 4.3
+laghos -p 1 -dim 2 -rs 3 -tf 4.3 -pa
+laghos -p 1 -dim 2 -rs 3 -tf 4.4
+laghos -p 1 -dim 2 -rs 3 -tf 4.4 -pa
+laghos -p 1 -dim 2 -rs 3 -tf 4.5
+laghos -p 1 -dim 2 -rs 3 -tf 4.5 -pa
+laghos -p 1 -dim 2 -rs 3 -tf 4.6
+laghos -p 1 -dim 2 -rs 3 -tf 4.6 -pa
+laghos -p 1 -dim 2 -rs 3 -tf 4.7
+laghos -p 1 -dim 2 -rs 3 -tf 4.7 -pa
+laghos -p 1 -dim 2 -rs 3 -tf 4.8
+laghos -p 1 -dim 2 -rs 3 -tf 4.8 -pa
+laghos -p 1 -dim 2 -rs 3 -tf 4.9
+laghos -p 1 -dim 2 -rs 3 -tf 4.9 -pa
+laghos -p 1 -dim 2 -rs 3 -tf 5
+laghos -p 1 -dim 2 -rs 3 -tf 5 -pa
+laghos -p 1 -dim 2 -rs 3 -tf 5.5
+laghos -p 1 -dim 2 -rs 3 -tf 5.5 -pa
+laghos -p 1 -dim 3 -rs 1 -tf 3
+laghos -p 1 -dim 3 -rs 1 -tf 3 -pa
+laghos -p 1 -dim 3 -rs 1 -tf 3.5
+laghos -p 1 -dim 3 -rs 1 -tf 3.5 -pa
+laghos -p 1 -dim 3 -rs 1 -tf 4
+laghos -p 1 -dim 3 -rs 1 -tf 4 -pa
+laghos -p 1 -dim 3 -rs 1 -tf 4.5
+laghos -p 1 -dim 3 -rs 1 -tf 4.5 -pa
+laghos -p 1 -dim 3 -rs 1 -tf 5
+laghos -p 1 -dim 3 -rs 1 -tf 5 -pa
+laghos -p 1 -dim 3 -rs 1 -tf 5.5
+laghos -p 1 -dim 3 -rs 1 -tf 5.5 -pa
+laghos -p 1 -dim 3 -rs 2 -tf 3
+laghos -p 1 -dim 3 -rs 2 -tf 3 -pa
+laghos -p 1 -dim 3 -rs 2 -tf 3.5
+laghos -p 1 -dim 3 -rs 2 -tf 3.5 -pa
+laghos -p 1 -dim 3 -rs 2 -tf 4
+laghos -p 1 -dim 3 -rs 2 -tf 4 -pa
+laghos -p 1 -dim 3 -rs 2 -tf 4.5
+laghos -p 1 -dim 3 -rs 2 -tf 4.5 -pa
+laghos -p 1 -dim 3 -rs 2 -tf 5
+laghos -p 1 -dim 3 -rs 2 -tf 5 -pa
+laghos -p 1 -dim 3 -rs 2 -tf 5.5
+laghos -p 1 -dim 3 -rs 2 -tf 5.5 -pa
+laghos -p 2 -dim 2 -rs 2 -tf 3
+laghos -p 2 -dim 2 -rs 2 -tf 3 -pa
+laghos -p 2 -dim 2 -rs 2 -tf 3.5
+laghos -p 2 -dim 2 -rs 2 -tf 3.5 -pa
+laghos -p 2 -dim 2 -rs 2 -tf 4
+laghos -p 2 -dim 2 -rs 2 -tf 4 -pa
+laghos -p 2 -dim 2 -rs 2 -tf 4.5
+laghos -p 2 -dim 2 -rs 2 -tf 4.5 -pa
+laghos -p 2 -dim 2 -rs 2 -tf 5
+laghos -p 2 -dim 2 -rs 2 -tf 5 -pa
+laghos -p 2 -dim 2 -rs 2 -tf 5.5
+laghos -p 2 -dim 2 -rs 2 -tf 5.5 -pa
+laghos -p 2 -dim 3 -rs 1 -tf 3
+laghos -p 2 -dim 3 -rs 1 -tf 3 -pa
+laghos -p 2 -dim 3 -rs 1 -tf 3.5
+laghos -p 2 -dim 3 -rs 1 -tf 3.5 -pa
+laghos -p 2 -dim 3 -rs 1 -tf 4
+laghos -p 2 -dim 3 -rs 1 -tf 4 -pa
+laghos -p 2 -dim 3 -rs 1 -tf 4.5
+laghos -p 2 -dim 3 -rs 1 -tf 4.5 -pa
+laghos -p 2 -dim 3 -rs 1 -tf 5
+laghos -p 2 -dim 3 -rs 1 -tf 5 -pa
+laghos -p 2 -dim 3 -rs 1 -tf 5.5
+laghos -p 2 -dim 3 -rs 1 -tf 5.5 -pa
+laghos -p 2 -dim 3 -rs 2 -tf 3
+laghos -p 2 -dim 3 -rs 2 -tf 3 -pa
+laghos -p 3 -dim 2 -rs 1 -tf 3
+laghos -p 3 -dim 2 -rs 1 -tf 3 -pa
+laghos -p 3 -dim 2 -rs 1 -tf 3.5
+laghos -p 3 -dim 2 -rs 1 -tf 3.5 -pa
+laghos -p 3 -dim 2 -rs 1 -tf 4
+laghos -p 3 -dim 2 -rs 1 -tf 4 -pa
+laghos -p 3 -dim 2 -rs 1 -tf 4.5
+laghos -p 3 -dim 2 -rs 1 -tf 4.5 -pa
+laghos -p 3 -dim 2 -rs 1 -tf 5
+laghos -p 3 -dim 2 -rs 1 -tf 5 -pa
+laghos -p 3 -dim 2 -rs 1 -tf 5.5
+laghos -p 3 -dim 2 -rs 1 -tf 5.5 -pa
+laghos -p 3 -dim 2 -rs 2 -tf 3
+laghos -p 3 -dim 2 -rs 2 -tf 3 -pa
+laghos -p 3 -dim 2 -rs 2 -tf 3.5
+laghos -p 3 -dim 2 -rs 2 -tf 3.5 -pa
+laghos -p 3 -dim 2 -rs 2 -tf 4
+laghos -p 3 -dim 2 -rs 2 -tf 4 -pa
+laghos -p 3 -dim 2 -rs 2 -tf 4.5
+laghos -p 3 -dim 2 -rs 2 -tf 4.5 -pa
+laghos -p 3 -dim 2 -rs 2 -tf 5
+laghos -p 3 -dim 2 -rs 2 -tf 5 -pa
+laghos -p 3 -dim 2 -rs 2 -tf 5.5
+laghos -p 3 -dim 2 -rs 2 -tf 5.5 -pa
+laghos -p 3 -dim 3 -rs 1 -tf 3
+laghos -p 3 -dim 3 -rs 1 -tf 3 -pa
+laghos -p 3 -dim 3 -rs 1 -tf 3.5
+laghos -p 3 -dim 3 -rs 1 -tf 3.5 -pa
+laghos -p 3 -dim 3 -rs 1 -tf 4
+laghos -p 3 -dim 3 -rs 1 -tf 4 -pa
+laghos -p 3 -dim 3 -rs 1 -tf 4.5
+laghos -p 3 -dim 3 -rs 1 -tf 4.5 -pa
+laghos -p 3 -dim 3 -rs 1 -tf 5
+laghos -p 3 -dim 3 -rs 1 -tf 5 -pa
+laghos -p 3 -dim 3 -rs 1 -tf 5.5
+laghos -p 3 -dim 3 -rs 1 -tf 5.5 -pa
+laghos -p 3 -dim 3 -rs 2 -tf 3
+laghos -p 3 -dim 3 -rs 2 -tf 3 -pa
+laghos -p 3 -dim 3 -rs 2 -tf 3.5
+laghos -p 3 -dim 3 -rs 2 -tf 3.5 -pa
+laghos -p 3 -dim 3 -rs 2 -tf 4
+laghos -p 3 -dim 3 -rs 2 -tf 4 -pa
+laghos -p 3 -dim 3 -rs 2 -tf 4.5
+laghos -p 3 -dim 3 -rs 2 -tf 4.5 -pa
+laghos -p 3 -dim 3 -rs 2 -tf 5
+laghos -p 3 -dim 3 -rs 2 -tf 5 -pa
+laghos -p 3 -dim 3 -rs 2 -tf 5.5
+laghos -p 3 -dim 3 -rs 2 -tf 5.5 -pa

@@ -1,0 +1,738 @@
+amg, corona-cpu, 1, -problem 2 -P 1 1 1 -n 128 128 128, 137.179620
+amg, corona-cpu, 1, -problem 2 -P 1 1 1 -n 16 16 16, 0.413331
+amg, corona-cpu, 1, -problem 2 -P 1 1 1 -n 256 256 256, 1125.916781
+amg, corona-cpu, 1, -problem 2 -P 1 1 1 -n 32 32 32, 1.924173
+amg, corona-cpu, 1, -problem 2 -P 1 1 1 -n 64 64 64, 17.599709
+amg, corona-cpu, 1, -problem 2 -P 1 1 1 -n 8 8 8, 0.266690
+amg, corona-cpu, 32, -problem 1 -P 4 4 2 -n 128 128 64, 17.968607
+amg, corona-cpu, 32, -problem 1 -P 4 4 2 -n 16 16 8, 0.784903
+amg, corona-cpu, 32, -problem 1 -P 4 4 2 -n 32 32 16, 0.915309
+amg, corona-cpu, 32, -problem 1 -P 4 4 2 -n 64 64 32, 2.724027
+amg, corona-cpu, 32, -problem 1 -P 4 4 2 -n 8 8 4, 0.766371
+amg, corona-cpu, 32, -problem 2 -P 4 4 2 -n 128 128 64, 150.697720
+amg, corona-cpu, 32, -problem 2 -P 4 4 2 -n 16 16 8, 0.992417
+amg, corona-cpu, 32, -problem 2 -P 4 4 2 -n 32 32 16, 2.068372
+amg, corona-cpu, 32, -problem 2 -P 4 4 2 -n 64 64 32, 18.244998
+amg, corona-cpu, 32, -problem 2 -P 4 4 2 -n 8 8 4, 0.870784
+kripke, corona-cpu, 1, --niter 10 --pmethod bj --groups 16 --legendre 0 --arch Sequential, 1.826061
+kripke, corona-cpu, 1, --niter 10 --pmethod bj --groups 16 --legendre 1 --arch Sequential, 1.946649
+kripke, corona-cpu, 1, --niter 10 --pmethod bj --groups 16 --legendre 2 --arch Sequential, 2.267182
+kripke, corona-cpu, 1, --niter 10 --pmethod bj --groups 16 --legendre 3 --arch Sequential, 2.695953
+kripke, corona-cpu, 1, --niter 10 --pmethod bj --groups 16 --legendre 4 --arch Sequential, 3.217971
+kripke, corona-cpu, 1, --niter 10 --pmethod bj --groups 32 --legendre 0 --arch Sequential, 3.172020
+kripke, corona-cpu, 1, --niter 10 --pmethod bj --groups 32 --legendre 1 --arch Sequential, 3.673965
+kripke, corona-cpu, 1, --niter 10 --pmethod bj --groups 32 --legendre 2 --arch Sequential, 4.517706
+kripke, corona-cpu, 1, --niter 10 --pmethod bj --groups 32 --legendre 3 --arch Sequential, 5.754179
+kripke, corona-cpu, 1, --niter 10 --pmethod bj --groups 32 --legendre 4 --arch Sequential, 7.568201
+kripke, corona-cpu, 1, --niter 10 --pmethod bj --groups 8 --legendre 0 --arch Sequential, 1.154940
+kripke, corona-cpu, 1, --niter 10 --pmethod bj --groups 8 --legendre 1 --arch Sequential, 1.216183
+kripke, corona-cpu, 1, --niter 10 --pmethod bj --groups 8 --legendre 2 --arch Sequential, 1.362727
+kripke, corona-cpu, 1, --niter 10 --pmethod bj --groups 8 --legendre 3 --arch Sequential, 1.489646
+kripke, corona-cpu, 1, --niter 10 --pmethod bj --groups 8 --legendre 4 --arch Sequential, 1.676623
+kripke, corona-cpu, 1, --niter 10 --pmethod sweep --groups 16 --legendre 0 --arch Sequential, 1.723219
+kripke, corona-cpu, 1, --niter 10 --pmethod sweep --groups 16 --legendre 1 --arch Sequential, 1.895608
+kripke, corona-cpu, 1, --niter 10 --pmethod sweep --groups 16 --legendre 2 --arch Sequential, 2.164079
+kripke, corona-cpu, 1, --niter 10 --pmethod sweep --groups 16 --legendre 3 --arch Sequential, 2.611762
+kripke, corona-cpu, 1, --niter 10 --pmethod sweep --groups 16 --legendre 4 --arch Sequential, 3.134659
+kripke, corona-cpu, 1, --niter 10 --pmethod sweep --groups 32 --legendre 0 --arch Sequential, 2.917264
+kripke, corona-cpu, 1, --niter 10 --pmethod sweep --groups 32 --legendre 1 --arch Sequential, 3.427542
+kripke, corona-cpu, 1, --niter 10 --pmethod sweep --groups 32 --legendre 2 --arch Sequential, 4.317375
+kripke, corona-cpu, 1, --niter 10 --pmethod sweep --groups 32 --legendre 3 --arch Sequential, 5.496596
+kripke, corona-cpu, 1, --niter 10 --pmethod sweep --groups 32 --legendre 4 --arch Sequential, 7.103438
+kripke, corona-cpu, 1, --niter 10 --pmethod sweep --groups 8 --legendre 0 --arch Sequential, 1.126228
+kripke, corona-cpu, 1, --niter 10 --pmethod sweep --groups 8 --legendre 1 --arch Sequential, 1.235032
+kripke, corona-cpu, 1, --niter 10 --pmethod sweep --groups 8 --legendre 2 --arch Sequential, 1.345510
+kripke, corona-cpu, 1, --niter 10 --pmethod sweep --groups 8 --legendre 3 --arch Sequential, 1.471120
+kripke, corona-cpu, 1, --niter 10 --pmethod sweep --groups 8 --legendre 4 --arch Sequential, 1.677963
+kripke, corona-cpu, 1, --niter 15 --pmethod bj --groups 16 --legendre 0 --arch Sequential, 2.340807
+kripke, corona-cpu, 1, --niter 15 --pmethod bj --groups 16 --legendre 1 --arch Sequential, 2.624055
+kripke, corona-cpu, 1, --niter 15 --pmethod bj --groups 16 --legendre 2 --arch Sequential, 3.156631
+kripke, corona-cpu, 1, --niter 15 --pmethod bj --groups 16 --legendre 3 --arch Sequential, 3.643306
+kripke, corona-cpu, 1, --niter 15 --pmethod bj --groups 16 --legendre 4 --arch Sequential, 4.539432
+kripke, corona-cpu, 1, --niter 15 --pmethod bj --groups 32 --legendre 0 --arch Sequential, 4.403879
+kripke, corona-cpu, 1, --niter 15 --pmethod bj --groups 32 --legendre 1 --arch Sequential, 5.191681
+kripke, corona-cpu, 1, --niter 15 --pmethod bj --groups 32 --legendre 2 --arch Sequential, 6.596261
+kripke, corona-cpu, 1, --niter 15 --pmethod bj --groups 32 --legendre 3 --arch Sequential, 8.236482
+kripke, corona-cpu, 1, --niter 15 --pmethod bj --groups 32 --legendre 4 --arch Sequential, 10.698160
+kripke, corona-cpu, 1, --niter 15 --pmethod bj --groups 8 --legendre 0 --arch Sequential, 1.467136
+kripke, corona-cpu, 1, --niter 15 --pmethod bj --groups 8 --legendre 1 --arch Sequential, 1.524177
+kripke, corona-cpu, 1, --niter 15 --pmethod bj --groups 8 --legendre 2 --arch Sequential, 1.738306
+kripke, corona-cpu, 1, --niter 15 --pmethod bj --groups 8 --legendre 3 --arch Sequential, 1.962424
+kripke, corona-cpu, 1, --niter 15 --pmethod bj --groups 8 --legendre 4 --arch Sequential, 2.278017
+kripke, corona-cpu, 1, --niter 15 --pmethod sweep --groups 16 --legendre 0 --arch Sequential, 2.256379
+kripke, corona-cpu, 1, --niter 15 --pmethod sweep --groups 16 --legendre 1 --arch Sequential, 2.516699
+kripke, corona-cpu, 1, --niter 15 --pmethod sweep --groups 16 --legendre 2 --arch Sequential, 2.989828
+kripke, corona-cpu, 1, --niter 15 --pmethod sweep --groups 16 --legendre 3 --arch Sequential, 3.627360
+kripke, corona-cpu, 1, --niter 15 --pmethod sweep --groups 16 --legendre 4 --arch Sequential, 4.433473
+kripke, corona-cpu, 1, --niter 15 --pmethod sweep --groups 32 --legendre 0 --arch Sequential, 4.111172
+kripke, corona-cpu, 1, --niter 15 --pmethod sweep --groups 32 --legendre 1 --arch Sequential, 4.916684
+kripke, corona-cpu, 1, --niter 15 --pmethod sweep --groups 32 --legendre 2 --arch Sequential, 6.204794
+kripke, corona-cpu, 1, --niter 15 --pmethod sweep --groups 32 --legendre 3 --arch Sequential, 8.026603
+kripke, corona-cpu, 1, --niter 15 --pmethod sweep --groups 32 --legendre 4 --arch Sequential, 10.535829
+kripke, corona-cpu, 1, --niter 15 --pmethod sweep --groups 8 --legendre 0 --arch Sequential, 1.383399
+kripke, corona-cpu, 1, --niter 15 --pmethod sweep --groups 8 --legendre 1 --arch Sequential, 1.499373
+kripke, corona-cpu, 1, --niter 15 --pmethod sweep --groups 8 --legendre 2 --arch Sequential, 1.700411
+kripke, corona-cpu, 1, --niter 15 --pmethod sweep --groups 8 --legendre 3 --arch Sequential, 1.945091
+kripke, corona-cpu, 1, --niter 15 --pmethod sweep --groups 8 --legendre 4 --arch Sequential, 2.206593
+kripke, corona-cpu, 1, --niter 40 --pmethod sweep --groups 16 --legendre 0 --arch Sequential, 5.060201
+kripke, corona-cpu, 1, --niter 40 --pmethod sweep --groups 16 --legendre 1 --arch Sequential, 5.719861
+kripke, corona-cpu, 1, --niter 40 --pmethod sweep --groups 16 --legendre 2 --arch Sequential, 6.916731
+kripke, corona-cpu, 1, --niter 40 --pmethod sweep --groups 16 --legendre 3 --arch Sequential, 8.625206
+kripke, corona-cpu, 1, --niter 40 --pmethod sweep --groups 16 --legendre 4 --arch Sequential, 10.911055
+kripke, corona-cpu, 1, --niter 40 --pmethod sweep --groups 32 --legendre 0 --arch Sequential, 9.795622
+kripke, corona-cpu, 1, --niter 40 --pmethod sweep --groups 32 --legendre 1 --arch Sequential, 11.876423
+kripke, corona-cpu, 1, --niter 40 --pmethod sweep --groups 32 --legendre 2 --arch Sequential, 15.387700
+kripke, corona-cpu, 1, --niter 40 --pmethod sweep --groups 32 --legendre 3 --arch Sequential, 20.172877
+kripke, corona-cpu, 1, --niter 40 --pmethod sweep --groups 32 --legendre 4 --arch Sequential, 27.025805
+kripke, corona-cpu, 1, --niter 40 --pmethod sweep --groups 8 --legendre 0 --arch Sequential, 2.755700
+kripke, corona-cpu, 1, --niter 40 --pmethod sweep --groups 8 --legendre 1 --arch Sequential, 3.025997
+kripke, corona-cpu, 1, --niter 40 --pmethod sweep --groups 8 --legendre 2 --arch Sequential, 3.487933
+kripke, corona-cpu, 1, --niter 40 --pmethod sweep --groups 8 --legendre 3 --arch Sequential, 4.127885
+kripke, corona-cpu, 1, --niter 40 --pmethod sweep --groups 8 --legendre 4 --arch Sequential, 4.999436
+kripke, corona-cpu, 1, --niter 5 --pmethod bj --groups 16 --legendre 0 --arch Sequential, 1.245441
+kripke, corona-cpu, 1, --niter 5 --pmethod bj --groups 16 --legendre 1 --arch Sequential, 1.277804
+kripke, corona-cpu, 1, --niter 5 --pmethod bj --groups 16 --legendre 2 --arch Sequential, 1.423909
+kripke, corona-cpu, 1, --niter 5 --pmethod bj --groups 16 --legendre 3 --arch Sequential, 1.666171
+kripke, corona-cpu, 1, --niter 5 --pmethod bj --groups 16 --legendre 4 --arch Sequential, 1.904755
+kripke, corona-cpu, 1, --niter 5 --pmethod bj --groups 32 --legendre 0 --arch Sequential, 1.915412
+kripke, corona-cpu, 1, --niter 5 --pmethod bj --groups 32 --legendre 1 --arch Sequential, 2.151571
+kripke, corona-cpu, 1, --niter 5 --pmethod bj --groups 32 --legendre 2 --arch Sequential, 2.590771
+kripke, corona-cpu, 1, --niter 5 --pmethod bj --groups 32 --legendre 3 --arch Sequential, 3.216164
+kripke, corona-cpu, 1, --niter 5 --pmethod bj --groups 32 --legendre 4 --arch Sequential, 4.038116
+kripke, corona-cpu, 1, --niter 5 --pmethod bj --groups 8 --legendre 0 --arch Sequential, 0.864020
+kripke, corona-cpu, 1, --niter 5 --pmethod bj --groups 8 --legendre 1 --arch Sequential, 0.903882
+kripke, corona-cpu, 1, --niter 5 --pmethod bj --groups 8 --legendre 2 --arch Sequential, 0.969242
+kripke, corona-cpu, 1, --niter 5 --pmethod bj --groups 8 --legendre 3 --arch Sequential, 1.050258
+kripke, corona-cpu, 1, --niter 5 --pmethod bj --groups 8 --legendre 4 --arch Sequential, 1.145252
+kripke, corona-cpu, 1, --niter 5 --pmethod sweep --groups 16 --legendre 0 --arch Sequential, 1.159438
+kripke, corona-cpu, 1, --niter 5 --pmethod sweep --groups 16 --legendre 1 --arch Sequential, 1.237982
+kripke, corona-cpu, 1, --niter 5 --pmethod sweep --groups 16 --legendre 2 --arch Sequential, 1.428035
+kripke, corona-cpu, 1, --niter 5 --pmethod sweep --groups 16 --legendre 3 --arch Sequential, 1.595660
+kripke, corona-cpu, 1, --niter 5 --pmethod sweep --groups 16 --legendre 4 --arch Sequential, 1.868931
+kripke, corona-cpu, 1, --niter 5 --pmethod sweep --groups 32 --legendre 0 --arch Sequential, 1.768278
+kripke, corona-cpu, 1, --niter 5 --pmethod sweep --groups 32 --legendre 1 --arch Sequential, 2.070636
+kripke, corona-cpu, 1, --niter 5 --pmethod sweep --groups 32 --legendre 2 --arch Sequential, 2.463041
+kripke, corona-cpu, 1, --niter 5 --pmethod sweep --groups 32 --legendre 3 --arch Sequential, 3.102451
+kripke, corona-cpu, 1, --niter 5 --pmethod sweep --groups 32 --legendre 4 --arch Sequential, 3.981169
+kripke, corona-cpu, 1, --niter 5 --pmethod sweep --groups 8 --legendre 0 --arch Sequential, 0.968349
+kripke, corona-cpu, 1, --niter 5 --pmethod sweep --groups 8 --legendre 1 --arch Sequential, 0.881696
+kripke, corona-cpu, 1, --niter 5 --pmethod sweep --groups 8 --legendre 2 --arch Sequential, 0.932527
+kripke, corona-cpu, 1, --niter 5 --pmethod sweep --groups 8 --legendre 3 --arch Sequential, 1.017641
+kripke, corona-cpu, 1, --niter 5 --pmethod sweep --groups 8 --legendre 4 --arch Sequential, 1.108554
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3 -d cpu, 14.072150
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3 -pa -d cpu, 14.295258
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.1 -d cpu, 14.362903
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.1 -pa -d cpu, 14.591567
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.2 -d cpu, 15.627134
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.2 -pa -d cpu, 14.902741
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.3 -d cpu, 15.125634
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.3 -pa -d cpu, 15.019920
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.4 -d cpu, 15.136285
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.4 -pa -d cpu, 15.215750
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.5 -d cpu, 15.406162
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.5 -pa -d cpu, 15.607225
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.6 -d cpu, 15.688125
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.6 -pa -d cpu, 15.429032
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.7 -d cpu, 16.015474
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.7 -pa -d cpu, 16.008835
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.8 -d cpu, 16.253010
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.8 -pa -d cpu, 16.198898
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.9 -d cpu, 16.959490
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.9 -pa -d cpu, 16.413968
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4 -d cpu, 16.537918
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4 -pa -d cpu, 16.656826
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.1 -d cpu, 16.994501
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.1 -pa -d cpu, 17.016766
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.2 -d cpu, 17.363841
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.2 -pa -d cpu, 17.340024
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.3 -d cpu, 17.736979
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.3 -pa -d cpu, 17.573645
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.4 -d cpu, 18.026850
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.4 -pa -d cpu, 18.421883
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.5 -d cpu, 18.563784
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.5 -pa -d cpu, 18.720438
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.6 -d cpu, 19.187059
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.6 -pa -d cpu, 18.938134
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.7 -d cpu, 19.252673
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.7 -pa -d cpu, 19.604060
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.8 -d cpu, 19.704386
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.8 -pa -d cpu, 19.545009
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.9 -d cpu, 19.773610
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.9 -pa -d cpu, 19.947497
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 5 -d cpu, 20.236173
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 5 -pa -d cpu, 20.238997
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 5.5 -d cpu, 21.170198
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 2 -tf 5.5 -pa -d cpu, 20.946252
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3 -d cpu, 65.078277
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3 -pa -d cpu, 64.296376
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.1 -d cpu, 66.305876
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.1 -pa -d cpu, 66.722092
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.2 -d cpu, 67.848090
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.2 -pa -d cpu, 67.397733
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.3 -d cpu, 69.109551
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.3 -pa -d cpu, 69.968683
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.4 -d cpu, 71.245022
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.4 -pa -d cpu, 70.776220
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.5 -d cpu, 72.461075
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.5 -pa -d cpu, 72.101150
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.6 -d cpu, 74.200836
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.6 -pa -d cpu, 73.734327
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.7 -d cpu, 74.713613
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.7 -pa -d cpu, 75.030765
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.8 -d cpu, 75.605583
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.8 -pa -d cpu, 76.010168
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.9 -d cpu, 77.726171
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.9 -pa -d cpu, 77.398063
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4 -d cpu, 79.647654
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4 -pa -d cpu, 79.268027
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.1 -d cpu, 84.028444
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.1 -pa -d cpu, 84.648702
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.2 -d cpu, 88.686919
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.2 -pa -d cpu, 88.070113
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.3 -d cpu, 92.959649
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.3 -pa -d cpu, 94.041634
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.4 -d cpu, 99.219120
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.4 -pa -d cpu, 99.327102
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.5 -d cpu, 102.694134
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.5 -pa -d cpu, 104.095337
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.6 -d cpu, 106.148990
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.6 -pa -d cpu, 106.328094
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.7 -d cpu, 109.046799
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.7 -pa -d cpu, 108.154037
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.8 -d cpu, 110.497788
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.8 -pa -d cpu, 110.980668
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.9 -d cpu, 114.594842
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.9 -pa -d cpu, 113.417089
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 5 -d cpu, 118.192421
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 5 -pa -d cpu, 117.390513
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 5.5 -d cpu, 131.356337
+laghos, corona-cpu, 1, -p 1 -dim 2 -rs 3 -tf 5.5 -pa -d cpu, 132.162522
+laghos, corona-cpu, 1, -p 1 -dim 3 -rs 1 -tf 3 -d cpu, 40.339804
+laghos, corona-cpu, 1, -p 1 -dim 3 -rs 1 -tf 3 -pa -d cpu, 40.206705
+laghos, corona-cpu, 1, -p 1 -dim 3 -rs 1 -tf 3.5 -d cpu, 49.011183
+laghos, corona-cpu, 1, -p 1 -dim 3 -rs 1 -tf 3.5 -pa -d cpu, 49.425670
+laghos, corona-cpu, 1, -p 1 -dim 3 -rs 1 -tf 4 -d cpu, 59.114917
+laghos, corona-cpu, 1, -p 1 -dim 3 -rs 1 -tf 4 -pa -d cpu, 58.893797
+laghos, corona-cpu, 1, -p 1 -dim 3 -rs 1 -tf 4.5 -d cpu, 68.163418
+laghos, corona-cpu, 1, -p 1 -dim 3 -rs 1 -tf 4.5 -pa -d cpu, 68.016975
+laghos, corona-cpu, 1, -p 1 -dim 3 -rs 1 -tf 5 -d cpu, 75.479451
+laghos, corona-cpu, 1, -p 1 -dim 3 -rs 1 -tf 5 -pa -d cpu, 75.168089
+laghos, corona-cpu, 1, -p 1 -dim 3 -rs 1 -tf 5.5 -d cpu, 81.608974
+laghos, corona-cpu, 1, -p 1 -dim 3 -rs 1 -tf 5.5 -pa -d cpu, 82.618691
+laghos, corona-cpu, 1, -p 1 -dim 3 -rs 2 -tf 3 -d cpu, 711.298943
+laghos, corona-cpu, 1, -p 1 -dim 3 -rs 2 -tf 3 -pa -d cpu, 721.072779
+laghos, corona-cpu, 1, -p 1 -dim 3 -rs 2 -tf 3.5 -d cpu, 951.789028
+laghos, corona-cpu, 1, -p 1 -dim 3 -rs 2 -tf 3.5 -pa -d cpu, 947.848910
+laghos, corona-cpu, 1, -p 1 -dim 3 -rs 2 -tf 4 -d cpu, 1181.515719
+laghos, corona-cpu, 1, -p 1 -dim 3 -rs 2 -tf 4 -pa -d cpu, 1195.221281
+laghos, corona-cpu, 1, -p 1 -dim 3 -rs 2 -tf 4.5 -d cpu, 1277.768994
+laghos, corona-cpu, 1, -p 1 -dim 3 -rs 2 -tf 4.5 -pa -d cpu, 1264.715822
+laghos, corona-cpu, 1, -p 1 -dim 3 -rs 2 -tf 5 -d cpu, 1402.904419
+laghos, corona-cpu, 1, -p 1 -dim 3 -rs 2 -tf 5 -pa -d cpu, 1413.315836
+laghos, corona-cpu, 1, -p 1 -dim 3 -rs 2 -tf 5.5 -d cpu, 1626.802551
+laghos, corona-cpu, 1, -p 1 -dim 3 -rs 2 -tf 5.5 -pa -d cpu, 1640.782107
+laghos, corona-cpu, 1, -p 2 -dim 2 -rs 2 -tf 3 -d cpu, 14.641134
+laghos, corona-cpu, 1, -p 2 -dim 2 -rs 2 -tf 3 -pa -d cpu, 14.438287
+laghos, corona-cpu, 1, -p 2 -dim 2 -rs 2 -tf 3.5 -d cpu, 15.810487
+laghos, corona-cpu, 1, -p 2 -dim 2 -rs 2 -tf 3.5 -pa -d cpu, 15.757110
+laghos, corona-cpu, 1, -p 2 -dim 2 -rs 2 -tf 4 -d cpu, 16.439433
+laghos, corona-cpu, 1, -p 2 -dim 2 -rs 2 -tf 4 -pa -d cpu, 16.603281
+laghos, corona-cpu, 1, -p 2 -dim 2 -rs 2 -tf 4.5 -d cpu, 17.803279
+laghos, corona-cpu, 1, -p 2 -dim 2 -rs 2 -tf 4.5 -pa -d cpu, 17.575830
+laghos, corona-cpu, 1, -p 2 -dim 2 -rs 2 -tf 5 -d cpu, 19.370388
+laghos, corona-cpu, 1, -p 2 -dim 2 -rs 2 -tf 5 -pa -d cpu, 19.257043
+laghos, corona-cpu, 1, -p 2 -dim 2 -rs 2 -tf 5.5 -d cpu, 20.282028
+laghos, corona-cpu, 1, -p 2 -dim 2 -rs 2 -tf 5.5 -pa -d cpu, 20.028916
+laghos, corona-cpu, 1, -p 2 -dim 3 -rs 1 -tf 3 -d cpu, 37.855886
+laghos, corona-cpu, 1, -p 2 -dim 3 -rs 1 -tf 3 -pa -d cpu, 38.166491
+laghos, corona-cpu, 1, -p 2 -dim 3 -rs 1 -tf 3.5 -d cpu, 43.703325
+laghos, corona-cpu, 1, -p 2 -dim 3 -rs 1 -tf 3.5 -pa -d cpu, 43.281774
+laghos, corona-cpu, 1, -p 2 -dim 3 -rs 1 -tf 4 -d cpu, 46.411313
+laghos, corona-cpu, 1, -p 2 -dim 3 -rs 1 -tf 4 -pa -d cpu, 46.549183
+laghos, corona-cpu, 1, -p 2 -dim 3 -rs 1 -tf 4.5 -d cpu, 50.381196
+laghos, corona-cpu, 1, -p 2 -dim 3 -rs 1 -tf 4.5 -pa -d cpu, 50.008298
+laghos, corona-cpu, 1, -p 2 -dim 3 -rs 1 -tf 5 -d cpu, 54.795312
+laghos, corona-cpu, 1, -p 2 -dim 3 -rs 1 -tf 5 -pa -d cpu, 55.902500
+laghos, corona-cpu, 1, -p 2 -dim 3 -rs 1 -tf 5.5 -d cpu, 60.274358
+laghos, corona-cpu, 1, -p 2 -dim 3 -rs 1 -tf 5.5 -pa -d cpu, 60.487596
+laghos, corona-cpu, 1, -p 2 -dim 3 -rs 2 -tf 3 -d cpu, 650.882074
+laghos, corona-cpu, 1, -p 2 -dim 3 -rs 2 -tf 3 -pa -d cpu, 652.641144
+laghos, corona-cpu, 1, -p 3 -dim 2 -rs 1 -tf 3 -d cpu, 5.308065
+laghos, corona-cpu, 1, -p 3 -dim 2 -rs 1 -tf 3 -pa -d cpu, 5.061081
+laghos, corona-cpu, 1, -p 3 -dim 2 -rs 1 -tf 3.5 -d cpu, 5.379736
+laghos, corona-cpu, 1, -p 3 -dim 2 -rs 1 -tf 3.5 -pa -d cpu, 5.133125
+laghos, corona-cpu, 1, -p 3 -dim 2 -rs 1 -tf 4 -d cpu, 5.167085
+laghos, corona-cpu, 1, -p 3 -dim 2 -rs 1 -tf 4 -pa -d cpu, 5.350045
+laghos, corona-cpu, 1, -p 3 -dim 2 -rs 1 -tf 4.5 -d cpu, 5.227228
+laghos, corona-cpu, 1, -p 3 -dim 2 -rs 1 -tf 4.5 -pa -d cpu, 5.446492
+laghos, corona-cpu, 1, -p 3 -dim 2 -rs 1 -tf 5 -d cpu, 5.270930
+laghos, corona-cpu, 1, -p 3 -dim 2 -rs 1 -tf 5 -pa -d cpu, 5.415584
+laghos, corona-cpu, 1, -p 3 -dim 2 -rs 1 -tf 5.5 -d cpu, 5.553790
+laghos, corona-cpu, 1, -p 3 -dim 2 -rs 1 -tf 5.5 -pa -d cpu, 5.487508
+laghos, corona-cpu, 1, -p 3 -dim 2 -rs 2 -tf 3 -d cpu, 6.289084
+laghos, corona-cpu, 1, -p 3 -dim 2 -rs 2 -tf 3 -pa -d cpu, 6.042464
+laghos, corona-cpu, 1, -p 3 -dim 2 -rs 2 -tf 3.5 -d cpu, 6.329179
+laghos, corona-cpu, 1, -p 3 -dim 2 -rs 2 -tf 3.5 -pa -d cpu, 6.282687
+laghos, corona-cpu, 1, -p 3 -dim 2 -rs 2 -tf 4 -d cpu, 6.598262
+laghos, corona-cpu, 1, -p 3 -dim 2 -rs 2 -tf 4 -pa -d cpu, 6.647450
+laghos, corona-cpu, 1, -p 3 -dim 2 -rs 2 -tf 4.5 -d cpu, 6.607062
+laghos, corona-cpu, 1, -p 3 -dim 2 -rs 2 -tf 4.5 -pa -d cpu, 6.525039
+laghos, corona-cpu, 1, -p 3 -dim 2 -rs 2 -tf 5 -d cpu, 6.909607
+laghos, corona-cpu, 1, -p 3 -dim 2 -rs 2 -tf 5 -pa -d cpu, 6.944063
+laghos, corona-cpu, 1, -p 3 -dim 2 -rs 2 -tf 5.5 -d cpu, 7.200443
+laghos, corona-cpu, 1, -p 3 -dim 2 -rs 2 -tf 5.5 -pa -d cpu, 6.981681
+laghos, corona-cpu, 1, -p 3 -dim 3 -rs 1 -tf 3 -d cpu, 9.199639
+laghos, corona-cpu, 1, -p 3 -dim 3 -rs 1 -tf 3 -pa -d cpu, 9.162457
+laghos, corona-cpu, 1, -p 3 -dim 3 -rs 1 -tf 3.5 -d cpu, 9.792520
+laghos, corona-cpu, 1, -p 3 -dim 3 -rs 1 -tf 3.5 -pa -d cpu, 9.702338
+laghos, corona-cpu, 1, -p 3 -dim 3 -rs 1 -tf 4 -d cpu, 10.324892
+laghos, corona-cpu, 1, -p 3 -dim 3 -rs 1 -tf 4 -pa -d cpu, 10.479413
+laghos, corona-cpu, 1, -p 3 -dim 3 -rs 1 -tf 4.5 -d cpu, 11.380176
+laghos, corona-cpu, 1, -p 3 -dim 3 -rs 1 -tf 4.5 -pa -d cpu, 11.190600
+laghos, corona-cpu, 1, -p 3 -dim 3 -rs 1 -tf 5 -d cpu, 11.947033
+laghos, corona-cpu, 1, -p 3 -dim 3 -rs 1 -tf 5 -pa -d cpu, 11.969764
+laghos, corona-cpu, 1, -p 3 -dim 3 -rs 1 -tf 5.5 -d cpu, 12.502836
+laghos, corona-cpu, 1, -p 3 -dim 3 -rs 1 -tf 5.5 -pa -d cpu, 12.634760
+laghos, corona-cpu, 1, -p 3 -dim 3 -rs 2 -tf 3 -d cpu, 76.301604
+laghos, corona-cpu, 1, -p 3 -dim 3 -rs 2 -tf 3 -pa -d cpu, 76.264749
+laghos, corona-cpu, 1, -p 3 -dim 3 -rs 2 -tf 3.5 -d cpu, 86.977669
+laghos, corona-cpu, 1, -p 3 -dim 3 -rs 2 -tf 3.5 -pa -d cpu, 87.920901
+laghos, corona-cpu, 1, -p 3 -dim 3 -rs 2 -tf 4 -d cpu, 98.926566
+laghos, corona-cpu, 1, -p 3 -dim 3 -rs 2 -tf 4 -pa -d cpu, 100.157886
+laghos, corona-cpu, 1, -p 3 -dim 3 -rs 2 -tf 4.5 -d cpu, 111.613715
+laghos, corona-cpu, 1, -p 3 -dim 3 -rs 2 -tf 4.5 -pa -d cpu, 111.116840
+laghos, corona-cpu, 1, -p 3 -dim 3 -rs 2 -tf 5 -d cpu, 121.295340
+laghos, corona-cpu, 1, -p 3 -dim 3 -rs 2 -tf 5 -pa -d cpu, 122.955205
+laghos, corona-cpu, 1, -p 3 -dim 3 -rs 2 -tf 5.5 -d cpu, 134.603086
+laghos, corona-cpu, 1, -p 3 -dim 3 -rs 2 -tf 5.5 -pa -d cpu, 136.337097
+miniFE, corona-cpu, 1, -nx 100 -ny 100 -nz 100, 8.877973
+miniFE, corona-cpu, 1, -nx 100 -ny 100 -nz 50, 4.540834
+miniFE, corona-cpu, 1, -nx 100 -ny 50 -nz 50, 2.421988
+miniFE, corona-cpu, 1, -nx 100 -ny 75 -nz 50, 3.461464
+miniFE, corona-cpu, 1, -nx 100 -ny 75 -nz 75, 5.159981
+miniFE, corona-cpu, 1, -nx 125 -ny 100 -nz 100, 11.170823
+miniFE, corona-cpu, 1, -nx 125 -ny 100 -nz 50, 5.676317
+miniFE, corona-cpu, 1, -nx 125 -ny 125 -nz 125, 17.356277
+miniFE, corona-cpu, 1, -nx 125 -ny 125 -nz 50, 7.073816
+miniFE, corona-cpu, 1, -nx 125 -ny 50 -nz 50, 2.973322
+miniFE, corona-cpu, 1, -nx 125 -ny 75 -nz 50, 4.343200
+miniFE, corona-cpu, 1, -nx 125 -ny 75 -nz 75, 6.362908
+miniFE, corona-cpu, 1, -nx 150 -ny 100 -nz 100, 13.383053
+miniFE, corona-cpu, 1, -nx 150 -ny 100 -nz 50, 6.739397
+miniFE, corona-cpu, 1, -nx 150 -ny 125 -nz 125, 20.530950
+miniFE, corona-cpu, 1, -nx 150 -ny 125 -nz 50, 8.322777
+miniFE, corona-cpu, 1, -nx 150 -ny 150 -nz 150, 30.358859
+miniFE, corona-cpu, 1, -nx 150 -ny 150 -nz 50, 9.946431
+miniFE, corona-cpu, 1, -nx 150 -ny 50 -nz 50, 3.453197
+miniFE, corona-cpu, 1, -nx 150 -ny 75 -nz 50, 5.072527
+miniFE, corona-cpu, 1, -nx 150 -ny 75 -nz 75, 7.605266
+miniFE, corona-cpu, 1, -nx 175 -ny 100 -nz 100, 15.285201
+miniFE, corona-cpu, 1, -nx 175 -ny 100 -nz 50, 7.853064
+miniFE, corona-cpu, 1, -nx 175 -ny 125 -nz 125, 23.852569
+miniFE, corona-cpu, 1, -nx 175 -ny 125 -nz 50, 9.694509
+miniFE, corona-cpu, 1, -nx 175 -ny 150 -nz 150, 35.040042
+miniFE, corona-cpu, 1, -nx 175 -ny 150 -nz 50, 11.617157
+miniFE, corona-cpu, 1, -nx 175 -ny 175 -nz 175, 48.687612
+miniFE, corona-cpu, 1, -nx 175 -ny 175 -nz 50, 13.589794
+miniFE, corona-cpu, 1, -nx 175 -ny 50 -nz 50, 3.927988
+miniFE, corona-cpu, 1, -nx 175 -ny 75 -nz 50, 5.924681
+miniFE, corona-cpu, 1, -nx 175 -ny 75 -nz 75, 8.728365
+miniFE, corona-cpu, 1, -nx 200 -ny 100 -nz 100, 17.818579
+miniFE, corona-cpu, 1, -nx 200 -ny 100 -nz 50, 9.049935
+miniFE, corona-cpu, 1, -nx 200 -ny 125 -nz 125, 27.934710
+miniFE, corona-cpu, 1, -nx 200 -ny 125 -nz 50, 11.163365
+miniFE, corona-cpu, 1, -nx 200 -ny 150 -nz 150, 39.877340
+miniFE, corona-cpu, 1, -nx 200 -ny 150 -nz 50, 13.459472
+miniFE, corona-cpu, 1, -nx 200 -ny 175 -nz 175, 54.621300
+miniFE, corona-cpu, 1, -nx 200 -ny 175 -nz 50, 15.659413
+miniFE, corona-cpu, 1, -nx 200 -ny 200 -nz 200, 72.987636
+miniFE, corona-cpu, 1, -nx 200 -ny 200 -nz 50, 17.600877
+miniFE, corona-cpu, 1, -nx 200 -ny 50 -nz 50, 4.573743
+miniFE, corona-cpu, 1, -nx 200 -ny 75 -nz 50, 6.819134
+miniFE, corona-cpu, 1, -nx 200 -ny 75 -nz 75, 10.099507
+miniFE, corona-cpu, 1, -nx 50 -ny 50 -nz 50, 1.211175
+miniFE, corona-cpu, 1, -nx 75 -ny 75 -nz 75, 3.867351
+miniFE, corona-cpu, 1, -nx 75 -ny 50 -nz 50, 1.904328
+miniFE, corona-cpu, 1, -nx 75 -ny 75 -nz 50, 2.682631
+miniVite, corona-cpu, 1, -l -p 1 -n 128, 0.238064
+miniVite, corona-cpu, 1, -l -p 1 -n 256, 0.247817
+miniVite, corona-cpu, 1, -l -p 1 -n 32, 0.253496
+miniVite, corona-cpu, 1, -l -p 1 -n 512, 0.255711
+miniVite, corona-cpu, 1, -l -p 1 -n 64, 0.239986
+miniVite, corona-cpu, 1, -l -p 2 -n 128, 0.251099
+miniVite, corona-cpu, 1, -l -p 2 -n 256, 0.245383
+miniVite, corona-cpu, 1, -l -p 2 -n 32, 0.243439
+miniVite, corona-cpu, 1, -l -p 2 -n 512, 0.248057
+miniVite, corona-cpu, 1, -l -p 2 -n 64, 0.238602
+miniVite, corona-cpu, 1, -l -p 3 -n 128, 0.244484
+miniVite, corona-cpu, 1, -l -p 3 -n 256, 0.240688
+miniVite, corona-cpu, 1, -l -p 3 -n 32, 0.241691
+miniVite, corona-cpu, 1, -l -p 3 -n 512, 0.257640
+miniVite, corona-cpu, 1, -l -p 3 -n 64, 0.252801
+miniVite, corona-cpu, 1, -l -p 4 -n 128, 0.250749
+miniVite, corona-cpu, 1, -l -p 4 -n 256, 0.245631
+miniVite, corona-cpu, 1, -l -p 4 -n 32, 0.258815
+miniVite, corona-cpu, 1, -l -p 4 -n 512, 0.254114
+miniVite, corona-cpu, 1, -l -p 4 -n 64, 0.246926
+miniVite, corona-cpu, 1, -l -p 5 -n 128, 0.248450
+miniVite, corona-cpu, 1, -l -p 5 -n 256, 0.246501
+miniVite, corona-cpu, 1, -l -p 5 -n 32, 0.254127
+miniVite, corona-cpu, 1, -l -p 5 -n 512, 0.249018
+miniVite, corona-cpu, 1, -l -p 5 -n 64, 0.245997
+miniVite, corona-cpu, 1, -l -p 6 -n 128, 0.254428
+miniVite, corona-cpu, 1, -l -p 6 -n 256, 0.245464
+miniVite, corona-cpu, 1, -l -p 6 -n 32, 0.240614
+miniVite, corona-cpu, 1, -l -p 6 -n 512, 0.248513
+miniVite, corona-cpu, 1, -l -p 6 -n 64, 0.243016
+miniVite, corona-cpu, 1, -l -p 7 -n 128, 0.259058
+miniVite, corona-cpu, 1, -l -p 7 -n 256, 0.247507
+miniVite, corona-cpu, 1, -l -p 7 -n 32, 0.257816
+miniVite, corona-cpu, 1, -l -p 7 -n 512, 0.248930
+miniVite, corona-cpu, 1, -l -p 7 -n 64, 0.231478
+miniVite, corona-cpu, 1, -l -p 8 -n 128, 0.245893
+miniVite, corona-cpu, 1, -l -p 8 -n 256, 0.243582
+miniVite, corona-cpu, 1, -l -p 8 -n 32, 0.252561
+miniVite, corona-cpu, 1, -l -p 8 -n 512, 0.257667
+miniVite, corona-cpu, 1, -l -p 8 -n 64, 0.248268
+miniVite, corona-cpu, 1, -l -p 9 -n 128, 0.246183
+miniVite, corona-cpu, 1, -l -p 9 -n 256, 0.247674
+miniVite, corona-cpu, 1, -l -p 9 -n 32, 0.241433
+miniVite, corona-cpu, 1, -l -p 9 -n 512, 0.247856
+miniVite, corona-cpu, 1, -l -p 9 -n 64, 0.244727
+miniVite, corona-cpu, 1, -p 1 -n 128, 0.245822
+miniVite, corona-cpu, 1, -p 1 -n 256, 0.247071
+miniVite, corona-cpu, 1, -p 1 -n 32, 0.246915
+miniVite, corona-cpu, 1, -p 1 -n 512, 0.262061
+miniVite, corona-cpu, 1, -p 1 -n 64, 0.252417
+miniVite, corona-cpu, 1, -p 2 -n 128, 0.247275
+miniVite, corona-cpu, 1, -p 2 -n 256, 0.245203
+miniVite, corona-cpu, 1, -p 2 -n 32, 0.244518
+miniVite, corona-cpu, 1, -p 2 -n 512, 0.244392
+miniVite, corona-cpu, 1, -p 2 -n 64, 0.242448
+miniVite, corona-cpu, 1, -p 3 -n 128, 0.252680
+miniVite, corona-cpu, 1, -p 3 -n 256, 0.258267
+miniVite, corona-cpu, 1, -p 3 -n 32, 0.251034
+miniVite, corona-cpu, 1, -p 3 -n 512, 0.256478
+miniVite, corona-cpu, 1, -p 3 -n 64, 0.245670
+miniVite, corona-cpu, 1, -p 4 -n 128, 0.247929
+miniVite, corona-cpu, 1, -p 4 -n 256, 0.241323
+miniVite, corona-cpu, 1, -p 4 -n 32, 0.254649
+miniVite, corona-cpu, 1, -p 4 -n 512, 0.243858
+miniVite, corona-cpu, 1, -p 4 -n 64, 0.258123
+miniVite, corona-cpu, 1, -p 5 -n 128, 0.243986
+miniVite, corona-cpu, 1, -p 5 -n 256, 0.248152
+miniVite, corona-cpu, 1, -p 5 -n 32, 0.254933
+miniVite, corona-cpu, 1, -p 5 -n 512, 0.246092
+miniVite, corona-cpu, 1, -p 5 -n 64, 0.246547
+miniVite, corona-cpu, 1, -p 6 -n 128, 0.247434
+miniVite, corona-cpu, 1, -p 6 -n 256, 0.241965
+miniVite, corona-cpu, 1, -p 6 -n 32, 0.246614
+miniVite, corona-cpu, 1, -p 6 -n 512, 0.243390
+miniVite, corona-cpu, 1, -p 6 -n 64, 0.242403
+miniVite, corona-cpu, 1, -p 7 -n 128, 0.241694
+miniVite, corona-cpu, 1, -p 7 -n 256, 0.245708
+miniVite, corona-cpu, 1, -p 7 -n 32, 0.245947
+miniVite, corona-cpu, 1, -p 7 -n 512, 0.245538
+miniVite, corona-cpu, 1, -p 7 -n 64, 0.251407
+miniVite, corona-cpu, 1, -p 8 -n 128, 0.246533
+miniVite, corona-cpu, 1, -p 8 -n 256, 0.240097
+miniVite, corona-cpu, 1, -p 8 -n 32, 0.255191
+miniVite, corona-cpu, 1, -p 8 -n 512, 0.250024
+miniVite, corona-cpu, 1, -p 8 -n 64, 0.245745
+miniVite, corona-cpu, 1, -p 9 -n 128, 0.245455
+miniVite, corona-cpu, 1, -p 9 -n 256, 0.244448
+miniVite, corona-cpu, 1, -p 9 -n 32, 0.244626
+miniVite, corona-cpu, 1, -p 9 -n 512, 0.258200
+miniVite, corona-cpu, 1, -p 9 -n 64, 0.244806
+miniVite, corona-cpu, 1, -w -l -p 1 -n 128, 0.241532
+miniVite, corona-cpu, 1, -w -l -p 1 -n 256, 0.244398
+miniVite, corona-cpu, 1, -w -l -p 1 -n 32, 0.254630
+miniVite, corona-cpu, 1, -w -l -p 1 -n 512, 0.248410
+miniVite, corona-cpu, 1, -w -l -p 1 -n 64, 0.247238
+miniVite, corona-cpu, 1, -w -l -p 2 -n 128, 0.248617
+miniVite, corona-cpu, 1, -w -l -p 2 -n 256, 0.243864
+miniVite, corona-cpu, 1, -w -l -p 2 -n 32, 0.242535
+miniVite, corona-cpu, 1, -w -l -p 2 -n 512, 0.248352
+miniVite, corona-cpu, 1, -w -l -p 2 -n 64, 0.252470
+miniVite, corona-cpu, 1, -w -l -p 3 -n 128, 0.260894
+miniVite, corona-cpu, 1, -w -l -p 3 -n 256, 0.247981
+miniVite, corona-cpu, 1, -w -l -p 3 -n 32, 0.256527
+miniVite, corona-cpu, 1, -w -l -p 3 -n 512, 0.249367
+miniVite, corona-cpu, 1, -w -l -p 3 -n 64, 0.246528
+miniVite, corona-cpu, 1, -w -l -p 4 -n 128, 0.243126
+miniVite, corona-cpu, 1, -w -l -p 4 -n 256, 0.247974
+miniVite, corona-cpu, 1, -w -l -p 4 -n 32, 0.241418
+miniVite, corona-cpu, 1, -w -l -p 4 -n 512, 0.253789
+miniVite, corona-cpu, 1, -w -l -p 4 -n 64, 0.246706
+miniVite, corona-cpu, 1, -w -l -p 5 -n 128, 0.246304
+miniVite, corona-cpu, 1, -w -l -p 5 -n 256, 0.257480
+miniVite, corona-cpu, 1, -w -l -p 5 -n 32, 0.245270
+miniVite, corona-cpu, 1, -w -l -p 5 -n 512, 0.245864
+miniVite, corona-cpu, 1, -w -l -p 5 -n 64, 0.244446
+miniVite, corona-cpu, 1, -w -l -p 6 -n 128, 0.257650
+miniVite, corona-cpu, 1, -w -l -p 6 -n 256, 0.252052
+miniVite, corona-cpu, 1, -w -l -p 6 -n 32, 0.243168
+miniVite, corona-cpu, 1, -w -l -p 6 -n 512, 0.251438
+miniVite, corona-cpu, 1, -w -l -p 6 -n 64, 0.253440
+miniVite, corona-cpu, 1, -w -l -p 7 -n 128, 0.246237
+miniVite, corona-cpu, 1, -w -l -p 7 -n 256, 0.243941
+miniVite, corona-cpu, 1, -w -l -p 7 -n 32, 0.252962
+miniVite, corona-cpu, 1, -w -l -p 7 -n 512, 0.255494
+miniVite, corona-cpu, 1, -w -l -p 7 -n 64, 0.250500
+miniVite, corona-cpu, 1, -w -l -p 8 -n 128, 0.241445
+miniVite, corona-cpu, 1, -w -l -p 8 -n 256, 0.248949
+miniVite, corona-cpu, 1, -w -l -p 8 -n 32, 0.239610
+miniVite, corona-cpu, 1, -w -l -p 8 -n 512, 0.245462
+miniVite, corona-cpu, 1, -w -l -p 8 -n 64, 0.240463
+miniVite, corona-cpu, 1, -w -l -p 9 -n 128, 0.247636
+miniVite, corona-cpu, 1, -w -l -p 9 -n 256, 0.257840
+miniVite, corona-cpu, 1, -w -l -p 9 -n 32, 0.257804
+miniVite, corona-cpu, 1, -w -l -p 9 -n 512, 0.259863
+miniVite, corona-cpu, 1, -w -l -p 9 -n 64, 0.244479
+miniVite, corona-cpu, 1, -w -p 1 -n 128, 0.251144
+miniVite, corona-cpu, 1, -w -p 1 -n 256, 0.241617
+miniVite, corona-cpu, 1, -w -p 1 -n 32, 0.246112
+miniVite, corona-cpu, 1, -w -p 1 -n 512, 0.243519
+miniVite, corona-cpu, 1, -w -p 1 -n 64, 0.241747
+miniVite, corona-cpu, 1, -w -p 2 -n 128, 0.245828
+miniVite, corona-cpu, 1, -w -p 2 -n 256, 0.243269
+miniVite, corona-cpu, 1, -w -p 2 -n 32, 0.255259
+miniVite, corona-cpu, 1, -w -p 2 -n 512, 0.250283
+miniVite, corona-cpu, 1, -w -p 2 -n 64, 0.239826
+miniVite, corona-cpu, 1, -w -p 3 -n 128, 0.238419
+miniVite, corona-cpu, 1, -w -p 3 -n 256, 0.246032
+miniVite, corona-cpu, 1, -w -p 3 -n 32, 0.247480
+miniVite, corona-cpu, 1, -w -p 3 -n 512, 0.264538
+miniVite, corona-cpu, 1, -w -p 3 -n 64, 0.245767
+miniVite, corona-cpu, 1, -w -p 4 -n 128, 0.249222
+miniVite, corona-cpu, 1, -w -p 4 -n 256, 0.245896
+miniVite, corona-cpu, 1, -w -p 4 -n 32, 0.246415
+miniVite, corona-cpu, 1, -w -p 4 -n 512, 0.247448
+miniVite, corona-cpu, 1, -w -p 4 -n 64, 0.239983
+miniVite, corona-cpu, 1, -w -p 5 -n 128, 0.245457
+miniVite, corona-cpu, 1, -w -p 5 -n 256, 0.258004
+miniVite, corona-cpu, 1, -w -p 5 -n 32, 0.246387
+miniVite, corona-cpu, 1, -w -p 5 -n 512, 0.251636
+miniVite, corona-cpu, 1, -w -p 5 -n 64, 0.246639
+miniVite, corona-cpu, 1, -w -p 6 -n 128, 0.243287
+miniVite, corona-cpu, 1, -w -p 6 -n 256, 0.242999
+miniVite, corona-cpu, 1, -w -p 6 -n 32, 0.257163
+miniVite, corona-cpu, 1, -w -p 6 -n 512, 0.248845
+miniVite, corona-cpu, 1, -w -p 6 -n 64, 0.238179
+miniVite, corona-cpu, 1, -w -p 7 -n 128, 0.243664
+miniVite, corona-cpu, 1, -w -p 7 -n 256, 0.242969
+miniVite, corona-cpu, 1, -w -p 7 -n 32, 0.241092
+miniVite, corona-cpu, 1, -w -p 7 -n 512, 0.254838
+miniVite, corona-cpu, 1, -w -p 7 -n 64, 0.256290
+miniVite, corona-cpu, 1, -w -p 8 -n 128, 0.246405
+miniVite, corona-cpu, 1, -w -p 8 -n 256, 0.245510
+miniVite, corona-cpu, 1, -w -p 8 -n 32, 0.238576
+miniVite, corona-cpu, 1, -w -p 8 -n 512, 0.249917
+miniVite, corona-cpu, 1, -w -p 8 -n 64, 0.256640
+miniVite, corona-cpu, 1, -w -p 9 -n 128, 0.245939
+miniVite, corona-cpu, 1, -w -p 9 -n 256, 0.253890
+miniVite, corona-cpu, 1, -w -p 9 -n 32, 0.245607
+miniVite, corona-cpu, 1, -w -p 9 -n 512, 0.250390
+miniVite, corona-cpu, 1, -w -p 9 -n 64, 0.242490
+miniVite, corona-cpu, 32, -l -p 1 -n 16384, 0.748812
+miniVite, corona-cpu, 32, -l -p 1 -n 4096, 0.755673
+miniVite, corona-cpu, 32, -l -p 1 -n 8192, 0.763210
+miniVite, corona-cpu, 32, -l -p 2 -n 16384, 0.758411
+miniVite, corona-cpu, 32, -l -p 2 -n 4096, 0.756424
+miniVite, corona-cpu, 32, -l -p 2 -n 8192, 0.752324
+miniVite, corona-cpu, 32, -l -p 3 -n 16384, 0.759265
+miniVite, corona-cpu, 32, -l -p 3 -n 4096, 0.752296
+miniVite, corona-cpu, 32, -l -p 3 -n 8192, 0.756494
+miniVite, corona-cpu, 32, -l -p 4 -n 16384, 0.758549
+miniVite, corona-cpu, 32, -l -p 4 -n 4096, 0.751595
+miniVite, corona-cpu, 32, -l -p 4 -n 8192, 0.758986
+miniVite, corona-cpu, 32, -l -p 5 -n 16384, 0.761078
+miniVite, corona-cpu, 32, -l -p 5 -n 4096, 0.768607
+miniVite, corona-cpu, 32, -l -p 5 -n 8192, 0.769850
+miniVite, corona-cpu, 32, -l -p 6 -n 16384, 0.768524
+miniVite, corona-cpu, 32, -l -p 6 -n 4096, 0.756895
+miniVite, corona-cpu, 32, -l -p 6 -n 8192, 0.767150
+miniVite, corona-cpu, 32, -l -p 7 -n 16384, 0.778579
+miniVite, corona-cpu, 32, -l -p 7 -n 4096, 0.760367
+miniVite, corona-cpu, 32, -l -p 7 -n 8192, 0.765551
+miniVite, corona-cpu, 32, -l -p 8 -n 16384, 0.757229
+miniVite, corona-cpu, 32, -l -p 8 -n 4096, 0.758133
+miniVite, corona-cpu, 32, -l -p 8 -n 8192, 0.758535
+miniVite, corona-cpu, 32, -l -p 9 -n 16384, 0.764432
+miniVite, corona-cpu, 32, -l -p 9 -n 4096, 0.753846
+miniVite, corona-cpu, 32, -l -p 9 -n 8192, 0.756801
+miniVite, corona-cpu, 32, -p 1 -n 16384, 0.756554
+miniVite, corona-cpu, 32, -p 1 -n 4096, 0.750139
+miniVite, corona-cpu, 32, -p 1 -n 8192, 0.750080
+miniVite, corona-cpu, 32, -p 2 -n 16384, 0.757833
+miniVite, corona-cpu, 32, -p 2 -n 4096, 0.760201
+miniVite, corona-cpu, 32, -p 2 -n 8192, 0.755002
+miniVite, corona-cpu, 32, -p 3 -n 16384, 0.762707
+miniVite, corona-cpu, 32, -p 3 -n 4096, 0.753310
+miniVite, corona-cpu, 32, -p 3 -n 8192, 0.753500
+miniVite, corona-cpu, 32, -p 4 -n 16384, 0.762533
+miniVite, corona-cpu, 32, -p 4 -n 4096, 0.755446
+miniVite, corona-cpu, 32, -p 4 -n 8192, 0.757993
+miniVite, corona-cpu, 32, -p 5 -n 16384, 0.761041
+miniVite, corona-cpu, 32, -p 5 -n 4096, 0.750482
+miniVite, corona-cpu, 32, -p 5 -n 8192, 0.761695
+miniVite, corona-cpu, 32, -p 6 -n 16384, 0.765872
+miniVite, corona-cpu, 32, -p 6 -n 4096, 0.755785
+miniVite, corona-cpu, 32, -p 6 -n 8192, 0.756305
+miniVite, corona-cpu, 32, -p 7 -n 16384, 0.762373
+miniVite, corona-cpu, 32, -p 7 -n 4096, 0.758620
+miniVite, corona-cpu, 32, -p 7 -n 8192, 0.753036
+miniVite, corona-cpu, 32, -p 8 -n 16384, 0.781228
+miniVite, corona-cpu, 32, -p 8 -n 4096, 0.754661
+miniVite, corona-cpu, 32, -p 8 -n 8192, 0.764447
+miniVite, corona-cpu, 32, -p 9 -n 16384, 0.769977
+miniVite, corona-cpu, 32, -p 9 -n 4096, 0.759953
+miniVite, corona-cpu, 32, -p 9 -n 8192, 0.760448
+miniVite, corona-cpu, 32, -w -l -p 1 -n 16384, 0.772613
+miniVite, corona-cpu, 32, -w -l -p 1 -n 4096, 0.753221
+miniVite, corona-cpu, 32, -w -l -p 1 -n 8192, 0.752649
+miniVite, corona-cpu, 32, -w -l -p 2 -n 16384, 0.764610
+miniVite, corona-cpu, 32, -w -l -p 2 -n 4096, 0.742917
+miniVite, corona-cpu, 32, -w -l -p 2 -n 8192, 0.758257
+miniVite, corona-cpu, 32, -w -l -p 3 -n 16384, 0.761207
+miniVite, corona-cpu, 32, -w -l -p 3 -n 4096, 0.748200
+miniVite, corona-cpu, 32, -w -l -p 3 -n 8192, 0.753419
+miniVite, corona-cpu, 32, -w -l -p 4 -n 16384, 0.760610
+miniVite, corona-cpu, 32, -w -l -p 4 -n 4096, 0.748576
+miniVite, corona-cpu, 32, -w -l -p 4 -n 8192, 0.759972
+miniVite, corona-cpu, 32, -w -l -p 5 -n 16384, 0.760446
+miniVite, corona-cpu, 32, -w -l -p 5 -n 4096, 0.752876
+miniVite, corona-cpu, 32, -w -l -p 5 -n 8192, 0.755743
+miniVite, corona-cpu, 32, -w -l -p 6 -n 16384, 0.765262
+miniVite, corona-cpu, 32, -w -l -p 6 -n 4096, 0.750256
+miniVite, corona-cpu, 32, -w -l -p 6 -n 8192, 0.752314
+miniVite, corona-cpu, 32, -w -l -p 7 -n 16384, 0.763607
+miniVite, corona-cpu, 32, -w -l -p 7 -n 4096, 0.758958
+miniVite, corona-cpu, 32, -w -l -p 7 -n 8192, 0.763390
+miniVite, corona-cpu, 32, -w -l -p 8 -n 16384, 0.764601
+miniVite, corona-cpu, 32, -w -l -p 8 -n 4096, 0.755235
+miniVite, corona-cpu, 32, -w -l -p 8 -n 8192, 0.764425
+miniVite, corona-cpu, 32, -w -l -p 9 -n 16384, 0.765981
+miniVite, corona-cpu, 32, -w -l -p 9 -n 4096, 0.754411
+miniVite, corona-cpu, 32, -w -l -p 9 -n 8192, 0.753920
+miniVite, corona-cpu, 32, -w -p 1 -n 16384, 0.770793
+miniVite, corona-cpu, 32, -w -p 1 -n 4096, 0.755010
+miniVite, corona-cpu, 32, -w -p 1 -n 8192, 0.758936
+miniVite, corona-cpu, 32, -w -p 2 -n 16384, 0.759095
+miniVite, corona-cpu, 32, -w -p 2 -n 4096, 0.750401
+miniVite, corona-cpu, 32, -w -p 2 -n 8192, 0.758914
+miniVite, corona-cpu, 32, -w -p 3 -n 16384, 0.760183
+miniVite, corona-cpu, 32, -w -p 3 -n 4096, 0.758314
+miniVite, corona-cpu, 32, -w -p 3 -n 8192, 0.764400
+miniVite, corona-cpu, 32, -w -p 4 -n 16384, 0.759482
+miniVite, corona-cpu, 32, -w -p 4 -n 4096, 0.760586
+miniVite, corona-cpu, 32, -w -p 4 -n 8192, 0.761181
+miniVite, corona-cpu, 32, -w -p 5 -n 16384, 0.755548
+miniVite, corona-cpu, 32, -w -p 5 -n 4096, 0.761197
+miniVite, corona-cpu, 32, -w -p 5 -n 8192, 0.759386
+miniVite, corona-cpu, 32, -w -p 6 -n 16384, 0.764246
+miniVite, corona-cpu, 32, -w -p 6 -n 4096, 0.754424
+miniVite, corona-cpu, 32, -w -p 6 -n 8192, 0.759832
+miniVite, corona-cpu, 32, -w -p 7 -n 16384, 0.758459
+miniVite, corona-cpu, 32, -w -p 7 -n 4096, 0.755494
+miniVite, corona-cpu, 32, -w -p 7 -n 8192, 0.753488
+miniVite, corona-cpu, 32, -w -p 8 -n 16384, 0.752237
+miniVite, corona-cpu, 32, -w -p 8 -n 4096, 0.752357
+miniVite, corona-cpu, 32, -w -p 8 -n 8192, 0.756557
+miniVite, corona-cpu, 32, -w -p 9 -n 16384, 0.759930
+miniVite, corona-cpu, 32, -w -p 9 -n 4096, 0.759113
+miniVite, corona-cpu, 32, -w -p 9 -n 8192, 0.756798
+SWFFT, corona-cpu, 1, 10 120, 2.142795
+SWFFT, corona-cpu, 1, 10 128, 8.366378
+SWFFT, corona-cpu, 1, 10 160, 5.927969
+SWFFT, corona-cpu, 1, 10 200, 9.460897
+SWFFT, corona-cpu, 1, 10 240, 18.451407
+SWFFT, corona-cpu, 1, 10 256, 66.858649
+SWFFT, corona-cpu, 1, 10 32, 0.294623
+SWFFT, corona-cpu, 1, 10 64, 0.903811
+SWFFT, corona-cpu, 1, 12 128, 9.806887
+SWFFT, corona-cpu, 1, 12 256, 81.547913
+SWFFT, corona-cpu, 1, 12 32, 0.310313
+SWFFT, corona-cpu, 1, 12 64, 1.033059
+SWFFT, corona-cpu, 1, 14 128, 11.317037
+SWFFT, corona-cpu, 1, 14 256, 95.033668
+SWFFT, corona-cpu, 1, 14 32, 0.307066
+SWFFT, corona-cpu, 1, 14 64, 1.107818
+SWFFT, corona-cpu, 1, 15 120, 3.006427
+SWFFT, corona-cpu, 1, 15 160, 8.703095
+SWFFT, corona-cpu, 1, 15 200, 13.882735
+SWFFT, corona-cpu, 1, 15 240, 27.287994
+SWFFT, corona-cpu, 1, 16 128, 11.208586
+SWFFT, corona-cpu, 1, 16 256, 109.094420
+SWFFT, corona-cpu, 1, 16 32, 0.320420
+SWFFT, corona-cpu, 1, 16 64, 0.895542
+SWFFT, corona-cpu, 1, 18 128, 14.261831
+SWFFT, corona-cpu, 1, 18 256, 136.357622
+SWFFT, corona-cpu, 1, 18 32, 0.316314
+SWFFT, corona-cpu, 1, 18 64, 0.814849
+SWFFT, corona-cpu, 1, 20 120, 3.861949
+SWFFT, corona-cpu, 1, 20 128, 15.575837
+SWFFT, corona-cpu, 1, 20 160, 11.568636
+SWFFT, corona-cpu, 1, 20 200, 18.338453
+SWFFT, corona-cpu, 1, 20 240, 36.028980
+SWFFT, corona-cpu, 1, 20 256, 129.838428
+SWFFT, corona-cpu, 1, 20 32, 0.329340
+SWFFT, corona-cpu, 1, 20 64, 1.456281
+SWFFT, corona-cpu, 32, 10 120, 0.987661
+SWFFT, corona-cpu, 32, 10 128, 0.982609
+SWFFT, corona-cpu, 32, 10 160, 1.142146
+SWFFT, corona-cpu, 32, 10 200, 1.587941
+SWFFT, corona-cpu, 32, 10 240, 2.425782
+SWFFT, corona-cpu, 32, 10 256, 2.807925
+SWFFT, corona-cpu, 32, 10 32, 0.800371
+SWFFT, corona-cpu, 32, 10 64, 0.838023
+SWFFT, corona-cpu, 32, 12 128, 1.008810
+SWFFT, corona-cpu, 32, 12 256, 3.210297
+SWFFT, corona-cpu, 32, 12 32, 0.787507
+SWFFT, corona-cpu, 32, 12 64, 0.819343
+SWFFT, corona-cpu, 32, 14 128, 1.046850
+SWFFT, corona-cpu, 32, 14 256, 3.594911
+SWFFT, corona-cpu, 32, 14 32, 0.796587
+SWFFT, corona-cpu, 32, 14 64, 0.831763
+SWFFT, corona-cpu, 32, 15 120, 1.044190
+SWFFT, corona-cpu, 32, 15 160, 1.280162
+SWFFT, corona-cpu, 32, 15 200, 1.946554
+SWFFT, corona-cpu, 32, 15 240, 3.174073
+SWFFT, corona-cpu, 32, 16 128, 1.083502
+SWFFT, corona-cpu, 32, 16 256, 4.138650
+SWFFT, corona-cpu, 32, 16 32, 0.792423
+SWFFT, corona-cpu, 32, 16 64, 0.841337
+SWFFT, corona-cpu, 32, 18 128, 1.129711
+SWFFT, corona-cpu, 32, 18 256, 4.574829
+SWFFT, corona-cpu, 32, 18 32, 0.805750
+SWFFT, corona-cpu, 32, 18 64, 0.856520
+SWFFT, corona-cpu, 32, 20 120, 1.134060
+SWFFT, corona-cpu, 32, 20 128, 1.177063
+SWFFT, corona-cpu, 32, 20 160, 1.424712
+SWFFT, corona-cpu, 32, 20 200, 2.290857
+SWFFT, corona-cpu, 32, 20 240, 4.083496
+SWFFT, corona-cpu, 32, 20 256, 4.956282
+SWFFT, corona-cpu, 32, 20 32, 0.799552
+SWFFT, corona-cpu, 32, 20 64, 0.869465
+XSBench, corona-cpu, 1, -m event -s XL -G hash -t 1, 189.066065
+XSBench, corona-cpu, 1, -m event -s XL -G nuclide -t 1, 636.108565
+XSBench, corona-cpu, 1, -m event -s XL -G unionized -t 1, 203.755044
+XSBench, corona-cpu, 1, -m event -s XXL -G hash -t 1, 255.341185
+XSBench, corona-cpu, 1, -m event -s XXL -G nuclide -t 1, 760.289522
+XSBench, corona-cpu, 1, -m event -s large -G hash -t 1, 65.474770
+XSBench, corona-cpu, 1, -m event -s large -G nuclide -t 1, 277.565150
+XSBench, corona-cpu, 1, -m event -s large -G unionized -t 1, 56.046304
+XSBench, corona-cpu, 1, -m event -s small -G hash -t 1, 17.249351
+XSBench, corona-cpu, 1, -m event -s small -G nuclide -t 1, 58.403289
+XSBench, corona-cpu, 1, -m event -s small -G unionized -t 1, 18.687837
+XSBench, corona-cpu, 1, -m history -s XL -G hash -t 1, 188.868516
+XSBench, corona-cpu, 1, -m history -s XL -G nuclide -t 1, 700.771110
+XSBench, corona-cpu, 1, -m history -s XL -G unionized -t 1, 202.341479
+XSBench, corona-cpu, 1, -m history -s XXL -G hash -t 1, 255.317603
+XSBench, corona-cpu, 1, -m history -s XXL -G nuclide -t 1, 774.962016
+XSBench, corona-cpu, 1, -m history -s large -G hash -t 1, 65.189262
+XSBench, corona-cpu, 1, -m history -s large -G nuclide -t 1, 278.348185
+XSBench, corona-cpu, 1, -m history -s large -G unionized -t 1, 54.001227
+XSBench, corona-cpu, 1, -m history -s small -G hash -t 1, 16.277032
+XSBench, corona-cpu, 1, -m history -s small -G nuclide -t 1, 57.956855
+XSBench, corona-cpu, 1, -m history -s small -G unionized -t 1, 17.487796

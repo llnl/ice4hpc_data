@@ -1,0 +1,2 @@
+miniFE.x -nx 50 -ny 50 -nz 50
+miniFE.x -nx 75 -ny 50 -nz 50

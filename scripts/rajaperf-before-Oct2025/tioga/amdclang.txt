@@ -1,0 +1,5 @@
+AMD clang version 15.0.0 (https://github.com/RadeonOpenCompute/llvm-project roc-5.4.3 23045 a29fe425c7b0e5aba97ed2f95f61fd5ecba68aed)
+Target: x86_64-unknown-linux-gnu
+Thread model: posix
+InstalledDir: /opt/rocm-5.4.3/llvm/bin
+Configuration file: /opt/rocm-5.4.3/llvm/bin/clang.cfg

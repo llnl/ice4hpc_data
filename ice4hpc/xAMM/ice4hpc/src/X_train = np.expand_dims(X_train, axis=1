@@ -1,0 +1,36 @@
+    X_train = np.expand_dims(X_train, axis=1)
+    print(f"X_train shape here {X_train.shape}")
+    rp_tree_model = util.sorceModelLoader(X_train, Y_train_encoded, False, 0, True, global_config, target_app, True, os.getcwd()+global_config["source_model1"], os.getcwd()+global_config["source_model_weights1"],output_n=num_classes_A )
+    pca = PCA(n_components=100)
+    tar_x_scaled_reduced = pca.fit_transform(tar_x_scaled)
+    print(f"THe shape here I needed of tar_scaled is {tar_x_scaled_reduced.shape}")
+    # Reshape the reduced data
+    tar_x_scaled_reshaped = tar_x_scaled_reduced.reshape(108, 1, 100)
+    print(f"THe shape here I needed of tar_scaled_reshaped is {tar_x_scaled_reshaped.shape}")
+    rp_test_loss, rp_test_accuracy = rp_tree_model.evaluate(tar_x_scaled, tar_x_scaled_reshaped) 
+    print(f"Test accuracy: {rp_test_accuracy:.4f}")
+        
+    return rp_test_loss, rp_test_accuracy
+
+
+
+
+    ========================For Attention=======================================================
+    X_train = np.expand_dims(X_train, axis=1)
+    print(f"X_train shape here {X_train.shape}")
+    rp_tree_model = util.sorceModelLoader(X_train, Y_train_encoded, False, 0, True, global_config, target_app, True, os.getcwd()+global_config["source_model1"], os.getcwd()+global_config["source_model_weights1"],output_n=num_classes_A )
+    pca = PCA(n_components=100)
+    tar_x_scaled_reduced = pca.fit_transform(tar_x_scaled)
+    print(f"THe shape here I needed of tar_scaled is {tar_x_scaled_reduced.shape}")
+    # Reshape the reduced data
+    tar_x_scaled_reshaped = tar_x_scaled_reduced.reshape(108, 1, 100)
+    pca = PCA(n_components=1)
+    tar_x_scaled_reshaped_flat = tar_x_scaled_reshaped.reshape(108, 100)
+    pca = PCA(n_components=1)
+    tar_x_pca = pca.fit_transform(tar_x_scaled_reshaped_flat)
+    tar_x_pca_reshaped = tar_x_pca.reshape(108, 1)
+    print(f"THe shape here I needed of tar_scaled_reshaped is {tar_x_scaled_reshaped.shape}, tar_y_scaled{tar_y_scaled.shape},{tar_x_pca_reshaped}")
+    rp_test_loss, rp_test_accuracy = rp_tree_model.evaluate(tar_x_pca_reshaped, tar_y_scaled) 
+    print(f"Test accuracy: {rp_test_accuracy:.4f}")
+        
+    return rp_test_loss, rp_test_accuracy

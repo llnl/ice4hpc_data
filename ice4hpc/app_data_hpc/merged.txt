@@ -1,0 +1,2724 @@
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 0",1.406057
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 1",1.433762
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 2",1.5043090000000001
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 3",1.6000949999999998
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 4",1.595156
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 0",1.829793
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 1",1.9931009999999998
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 2",1.9624759999999999
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 3",2.3235050000000004
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 4",2.2229740000000002
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 0",1.2690130000000002
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 1",1.2641459999999998
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 2",1.2742440000000002
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 3",1.295589
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 4",1.3568959999999999
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 0",1.331931
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 1",1.350175
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 2",1.4476390000000003
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 3",1.588931
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 4",1.5481859999999998
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 0",1.618808
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 1",1.713008
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 2",1.7849700000000002
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 3",1.988592
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 4",2.0430749999999995
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 0",1.2128860000000001
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 1",1.223244
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 2",1.447158
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 3",1.276701
+corona-cpu,1,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 4",1.350956
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 0",1.6174839999999997
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 1",1.6128600000000004
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 2",1.736201
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 3",1.8220049999999999
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 4",1.983496
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 0",2.269776
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 1",2.4245430000000003
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 2",2.479705
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 3",2.7363280000000003
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 4",2.9303200000000014
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 0",1.3885969999999999
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 1",1.372694
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 2",1.419045
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 3",1.510184
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 4",1.5503709999999995
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 0",1.521097
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 1",1.5455580000000002
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 2",1.6274480000000002
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 3",1.7561930000000001
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 4",1.796604
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 0",1.995036
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 1",2.056991
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 2",2.1335189999999997
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 3",2.4398910000000003
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 4",2.642588
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 0",1.3352419999999998
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 1",1.3365029999999998
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 2",1.3962009999999998
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 3",1.431725
+corona-cpu,1,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 4",1.7169660000000002
+corona-cpu,1,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 0",2.379208
+corona-cpu,1,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 1",2.493036
+corona-cpu,1,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 2",2.671659
+corona-cpu,1,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 3",3.021458
+corona-cpu,1,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 4",3.3538649999999994
+corona-cpu,1,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 0",3.4568239999999997
+corona-cpu,1,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 1",3.9385490000000014
+corona-cpu,1,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 2",4.151756
+corona-cpu,1,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 3",4.705673
+corona-cpu,1,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 4",5.314816999999999
+corona-cpu,1,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 0",1.9061240000000002
+corona-cpu,1,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 1",1.993141
+corona-cpu,1,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 2",2.085162
+corona-cpu,1,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 3",2.2395340000000004
+corona-cpu,1,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 4",2.383434
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 0",1.2120149999999998
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 1",1.2038979999999997
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 2",1.231817
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 3",1.2981
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 4",1.304553
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 0",1.413302
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 1",1.442523
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 2",1.51198
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 3",1.635965
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 4",1.6386879999999997
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 0",1.118503
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 1",1.1218780000000002
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 2",1.352782
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 3",1.1384230000000002
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 4",1.169145
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 0",1.182823
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 1",1.1663299999999999
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 2",1.233832
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 3",1.230302
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 4",1.2894509999999997
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 0",1.310536
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 1",1.365085
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 2",1.4244700000000001
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 3",1.502413
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 4",1.59079
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 0",1.089813
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 1",1.114316
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 2",1.1036540000000001
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 3",1.1311749999999998
+corona-cpu,1,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 4",1.1487840000000002
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.1",37.580613
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.1 -pa",37.205958
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.2",38.299686
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.2 -pa",38.43825200000001
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.3",39.265613
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.3 -pa",39.05116399999999
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.4 -pa",48.11305700000001
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.5",41.00275100000001
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.5 -pa",41.40148
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.6",42.153534
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.6 -pa",42.248967000000015
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.7",43.308649
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.7 -pa",43.02667599999999
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.8",44.135679
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.8 -pa",44.121596
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.9",45.47657500000001
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.9 -pa",45.13941000000001
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3 -pa",36.42725100000001
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.1",47.180153
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.1 -pa",47.25509
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.2",48.783629
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.2 -pa",48.57705399999999
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.3",50.427458
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.3 -pa",49.80584699999999
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.4",52.06797499999999
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4",46.042481
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.4 -pa",51.95238
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.5",53.803096999999994
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.5 -pa",53.49023599999999
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.6",54.73022
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.6 -pa",54.92176200000001
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.7",55.938019
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.7 -pa",55.908819
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.8",57.07029999999998
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.8 -pa",56.875533999999995
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.9",57.52115599999999
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.9 -pa",58.01319599999999
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4 -pa",45.86938600000001
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 5",58.543939
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 5.5 -pa",62.77961199999998
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 5 -pa",58.899159
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.1",82.05288
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.1 -pa",82.39100400000002
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.2",84.361292
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.4 -pa",104.00573899999998
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.5 -pa",89.28938000000002
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.7",93.05106499999997
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3",79.75244199999996
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.7 -pa",92.196547
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.8 -pa",94.540164
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.9 -pa",95.85315799999998
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3 -pa",79.90815099999998
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.1 -pa",104.50362399999996
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.3 -pa",117.66249999999997
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.4",149.44053699999995
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.4 -pa",124.95127099999998
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.5",129.56734899999998
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.5 -pa",129.99828
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.6",134.10126899999997
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.6 -pa",134.10065299999994
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.7 -pa",162.6345739999999
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.8 -pa",140.01806399999998
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.9",145.14441200000005
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4",99.50870700000002
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4 -pa",98.919871
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 5",150.03932300000002
+corona-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 5.5 -pa",199.405428
+corona-cpu,1,laghos,"-p 1 -dim 3 -rs 1 -tf 3.5",46.78850599999999
+corona-cpu,1,laghos,"-p 1 -dim 3 -rs 1 -tf 3.5 -pa",46.788398
+corona-cpu,1,laghos,"-p 1 -dim 3 -rs 1 -tf 3 -pa",43.989369
+corona-cpu,1,laghos,"-p 1 -dim 3 -rs 1 -tf 4",57.48248399999999
+corona-cpu,1,laghos,"-p 1 -dim 3 -rs 1 -tf 4.5",77.39537800000002
+corona-cpu,1,laghos,"-p 1 -dim 3 -rs 1 -tf 4.5 -pa",66.73852800000002
+corona-cpu,1,laghos,"-p 1 -dim 3 -rs 1 -tf 4 -pa",57.30665799999999
+corona-cpu,1,laghos,"-p 1 -dim 3 -rs 1 -tf 5.5",81.043102
+corona-cpu,1,laghos,"-p 1 -dim 3 -rs 1 -tf 5.5 -pa",81.24187200000001
+corona-cpu,1,laghos,"-p 1 -dim 3 -rs 1 -tf 5",74.777171
+corona-cpu,1,laghos,"-p 1 -dim 3 -rs 1 -tf 5 -pa",74.79638100000003
+corona-cpu,1,laghos,"-p 1 -dim 3 -rs 2 -tf 3",125.64299800000008
+corona-cpu,1,laghos,"-p 1 -dim 3 -rs 2 -tf 3.5 -pa",167.99293400000025
+corona-cpu,1,laghos,"-p 1 -dim 3 -rs 2 -tf 3 -pa",125.70925100000021
+corona-cpu,1,laghos,"-p 1 -dim 3 -rs 2 -tf 4",208.60502500000047
+corona-cpu,1,laghos,"-p 1 -dim 3 -rs 2 -tf 4.5",226.46045800000059
+corona-cpu,1,laghos,"-p 1 -dim 3 -rs 2 -tf 4.5 -pa",225.8856930000005
+corona-cpu,1,laghos,"-p 1 -dim 3 -rs 2 -tf 5 -pa",248.28872600000042
+corona-cpu,1,laghos,"-p 2 -dim 2 -rs 2 -tf 3",36.91859800000001
+corona-cpu,1,laghos,"-p 2 -dim 2 -rs 2 -tf 3.5",41.83027799999999
+corona-cpu,1,laghos,"-p 2 -dim 2 -rs 2 -tf 3.5 -pa",41.848717
+corona-cpu,1,laghos,"-p 2 -dim 2 -rs 2 -tf 3 -pa",36.80469900000001
+corona-cpu,1,laghos,"-p 2 -dim 2 -rs 2 -tf 4",44.743463
+corona-cpu,1,laghos,"-p 2 -dim 2 -rs 2 -tf 4.5",48.80501200000002
+corona-cpu,1,laghos,"-p 2 -dim 2 -rs 2 -tf 4.5 -pa",48.48436800000001
+corona-cpu,1,laghos,"-p 2 -dim 2 -rs 2 -tf 4 -pa",44.502446000000006
+corona-cpu,1,laghos,"-p 2 -dim 2 -rs 2 -tf 5.5",59.10241599999999
+corona-cpu,1,laghos,"-p 2 -dim 2 -rs 2 -tf 5.5 -pa",59.15371899999999
+corona-cpu,1,laghos,"-p 2 -dim 2 -rs 2 -tf 5 -pa",54.73948300000001
+corona-cpu,1,laghos,"-p 2 -dim 3 -rs 1 -tf 3",30.612089000000005
+corona-cpu,1,laghos,"-p 2 -dim 3 -rs 1 -tf 3.5",35.514941
+corona-cpu,1,laghos,"-p 2 -dim 3 -rs 1 -tf 3.5 -pa",35.50633200000001
+corona-cpu,1,laghos,"-p 2 -dim 3 -rs 1 -tf 3 -pa",30.738878
+corona-cpu,1,laghos,"-p 2 -dim 3 -rs 1 -tf 4.5",41.588044000000025
+corona-cpu,1,laghos,"-p 2 -dim 3 -rs 1 -tf 4.5 -pa",41.367374
+corona-cpu,1,laghos,"-p 2 -dim 3 -rs 1 -tf 5",54.56460999999999
+corona-cpu,1,laghos,"-p 2 -dim 3 -rs 1 -tf 5.5",59.55198699999998
+corona-cpu,1,laghos,"-p 2 -dim 3 -rs 1 -tf 5.5 -pa",59.80901899999999
+corona-cpu,1,laghos,"-p 2 -dim 3 -rs 1 -tf 5 -pa",46.77515899999998
+corona-cpu,1,laghos,"-p 2 -dim 3 -rs 2 -tf 3",103.60827300000004
+corona-cpu,1,laghos,"-p 2 -dim 3 -rs 2 -tf 3 -pa",113.502574
+corona-cpu,1,laghos,"-p 3 -dim 2 -rs 2 -tf 3.5",6.746845
+corona-cpu,1,laghos,"-p 3 -dim 2 -rs 2 -tf 3",5.8395730000000015
+corona-cpu,1,laghos,"-p 3 -dim 2 -rs 2 -tf 3.5 -pa",6.588497
+corona-cpu,1,laghos,"-p 3 -dim 2 -rs 2 -tf 3 -pa",5.7967260000000005
+corona-cpu,1,laghos,"-p 3 -dim 2 -rs 2 -tf 4.5",8.240768000000001
+corona-cpu,1,laghos,"-p 3 -dim 2 -rs 2 -tf 4.5 -pa",7.974735000000001
+corona-cpu,1,laghos,"-p 3 -dim 2 -rs 2 -tf 4",7.268796000000003
+corona-cpu,1,laghos,"-p 3 -dim 2 -rs 2 -tf 4 -pa",7.307671000000001
+corona-cpu,1,laghos,"-p 3 -dim 2 -rs 2 -tf 5",10.383775
+corona-cpu,1,laghos,"-p 3 -dim 2 -rs 2 -tf 5.5",9.652613
+corona-cpu,1,laghos,"-p 3 -dim 2 -rs 2 -tf 5.5 -pa",9.549016
+corona-cpu,1,laghos,"-p 3 -dim 2 -rs 2 -tf 5 -pa",9.23152
+corona-cpu,1,laghos,"-p 3 -dim 3 -rs 1 -tf 3.5",6.690824
+corona-cpu,1,laghos,"-p 3 -dim 3 -rs 1 -tf 3",5.933347
+corona-cpu,1,laghos,"-p 3 -dim 3 -rs 1 -tf 3.5 -pa",6.6299800000000015
+corona-cpu,1,laghos,"-p 3 -dim 3 -rs 1 -tf 3 -pa",5.9681190000000015
+corona-cpu,1,laghos,"-p 3 -dim 3 -rs 1 -tf 4.5",8.189319000000001
+corona-cpu,1,laghos,"-p 3 -dim 3 -rs 1 -tf 4.5 -pa",8.252123000000001
+corona-cpu,1,laghos,"-p 3 -dim 3 -rs 1 -tf 4",7.354315999999999
+corona-cpu,1,laghos,"-p 3 -dim 3 -rs 1 -tf 4 -pa",7.315556999999999
+corona-cpu,1,laghos,"-p 3 -dim 3 -rs 1 -tf 5.5",9.703500000000002
+corona-cpu,1,laghos,"-p 3 -dim 3 -rs 1 -tf 5.5 -pa",9.64205
+corona-cpu,1,laghos,"-p 3 -dim 3 -rs 1 -tf 5",8.956527000000003
+corona-cpu,1,laghos,"-p 3 -dim 3 -rs 1 -tf 5 -pa",8.974986000000003
+corona-cpu,1,laghos,"-p 3 -dim 3 -rs 2 -tf 3",15.258181
+corona-cpu,1,laghos,"-p 3 -dim 3 -rs 2 -tf 3.5",17.073232
+corona-cpu,1,laghos,"-p 3 -dim 3 -rs 2 -tf 3.5 -pa",17.101914999999998
+corona-cpu,1,laghos,"-p 3 -dim 3 -rs 2 -tf 4",21.371102000000004
+corona-cpu,1,laghos,"-p 3 -dim 3 -rs 2 -tf 4.5",21.622775000000004
+corona-cpu,1,laghos,"-p 3 -dim 3 -rs 2 -tf 4.5 -pa",21.542061999999998
+corona-cpu,1,laghos,"-p 3 -dim 3 -rs 2 -tf 4 -pa",19.630458
+corona-cpu,1,laghos,"-p 3 -dim 3 -rs 2 -tf 5",23.76076
+corona-cpu,1,laghos,"-p 3 -dim 3 -rs 2 -tf 5.5",25.988443
+corona-cpu,1,laghos,"-p 3 -dim 3 -rs 2 -tf 5.5 -pa",25.942924000000005
+corona-cpu,1,laghos,"-p 3 -dim 3 -rs 2 -tf 5 -pa",23.706673
+corona-cpu,1,miniFE.x,"-nx 100 -ny 100 -nz 100",8.598383999999998
+corona-cpu,1,miniFE.x,"-nx 100 -ny 100 -nz 50",4.063503000000001
+corona-cpu,1,miniFE.x,"-nx 100 -ny 50 -nz 50",2.1278520000000003
+corona-cpu,1,miniFE.x,"-nx 100 -ny 75 -nz 50",3.2907009999999994
+corona-cpu,1,miniFE.x,"-nx 100 -ny 75 -nz 75",4.885511999999999
+corona-cpu,1,miniFE.x,"-nx 125 -ny 100 -nz 100",10.984689999999988
+corona-cpu,1,miniFE.x,"-nx 125 -ny 100 -nz 50",5.473499000000002
+corona-cpu,1,miniFE.x,"-nx 125 -ny 125 -nz 125",17.415744000000004
+corona-cpu,1,miniFE.x,"-nx 125 -ny 125 -nz 50",6.6162090000000005
+corona-cpu,1,miniFE.x,"-nx 125 -ny 50 -nz 50",2.6932360000000006
+corona-cpu,1,miniFE.x,"-nx 125 -ny 75 -nz 50",4.020631
+corona-cpu,1,miniFE.x,"-nx 125 -ny 75 -nz 75",6.166678999999999
+corona-cpu,1,miniFE.x,"-nx 150 -ny 100 -nz 100",12.995548000000007
+corona-cpu,1,miniFE.x,"-nx 150 -ny 100 -nz 50",6.550270000000004
+corona-cpu,1,miniFE.x,"-nx 150 -ny 125 -nz 125",20.22509399999993
+corona-cpu,1,miniFE.x,"-nx 150 -ny 125 -nz 50",8.123019000000003
+corona-cpu,1,miniFE.x,"-nx 150 -ny 150 -nz 150",29.59969600000012
+corona-cpu,1,miniFE.x,"-nx 150 -ny 150 -nz 50",9.703411999999997
+corona-cpu,1,miniFE.x,"-nx 150 -ny 50 -nz 50",3.188219999999998
+corona-cpu,1,miniFE.x,"-nx 150 -ny 75 -nz 50",4.797253999999998
+corona-cpu,1,miniFE.x,"-nx 150 -ny 75 -nz 75",7.392491999999995
+corona-cpu,1,miniFE.x,"-nx 175 -ny 100 -nz 100",15.250374999999995
+corona-cpu,1,miniFE.x,"-nx 175 -ny 100 -nz 50",7.528046999999992
+corona-cpu,1,miniFE.x,"-nx 175 -ny 125 -nz 125",24.22162899999996
+corona-cpu,1,miniFE.x,"-nx 175 -ny 125 -nz 50",9.61056299999999
+corona-cpu,1,miniFE.x,"-nx 175 -ny 150 -nz 150",34.406226999999966
+corona-cpu,1,miniFE.x,"-nx 175 -ny 150 -nz 50",11.490511999999988
+corona-cpu,1,miniFE.x,"-nx 175 -ny 175 -nz 175",48.13959600000007
+corona-cpu,1,miniFE.x,"-nx 175 -ny 175 -nz 50",13.640008999999996
+corona-cpu,1,miniFE.x,"-nx 175 -ny 50 -nz 50",3.714072999999999
+corona-cpu,1,miniFE.x,"-nx 175 -ny 75 -nz 50",5.720782999999997
+corona-cpu,1,miniFE.x,"-nx 175 -ny 75 -nz 75",8.587745000000004
+corona-cpu,1,miniFE.x,"-nx 200 -ny 100 -nz 100",17.496903999999972
+corona-cpu,1,miniFE.x,"-nx 200 -ny 100 -nz 50",8.474443999999998
+corona-cpu,1,miniFE.x,"-nx 200 -ny 125 -nz 125",27.571065999999885
+corona-cpu,1,miniFE.x,"-nx 200 -ny 125 -nz 50",11.045592999999993
+corona-cpu,1,miniFE.x,"-nx 200 -ny 150 -nz 150",40.086967000000094
+corona-cpu,1,miniFE.x,"-nx 200 -ny 150 -nz 50",13.176266999999992
+corona-cpu,1,miniFE.x,"-nx 200 -ny 175 -nz 175",54.7201940000005
+corona-cpu,1,miniFE.x,"-nx 200 -ny 175 -nz 50",15.293054999999995
+corona-cpu,1,miniFE.x,"-nx 200 -ny 200 -nz 200",72.22126900000063
+corona-cpu,1,miniFE.x,"-nx 200 -ny 200 -nz 50",17.466432999999984
+corona-cpu,1,miniFE.x,"-nx 200 -ny 50 -nz 50",4.296296999999999
+corona-cpu,1,miniFE.x,"-nx 200 -ny 75 -nz 50",6.4072669999999965
+corona-cpu,1,miniFE.x,"-nx 200 -ny 75 -nz 75",9.87056499999999
+corona-cpu,1,miniFE.x,"-nx 50 -ny 50 -nz 50",0.976375
+corona-cpu,1,miniFE.x,"-nx 75 -ny 50 -nz 50",1.591625
+corona-cpu,1,miniFE.x,"-nx 75 -ny 75 -nz 50",2.423858
+corona-cpu,1,miniFE.x,"-nx 75 -ny 75 -nz 75",3.583715
+corona-cpu,1,TestDfft,"10 120",1.6991360000000002
+corona-cpu,1,TestDfft,"10 128",4.845408999999999
+corona-cpu,1,TestDfft,"10 160",4.6753
+corona-cpu,1,TestDfft,"10 200",7.961283000000001
+corona-cpu,1,TestDfft,"10 240",15.981328999999993
+corona-cpu,1,TestDfft,"10 256",49.251053000000155
+corona-cpu,1,TestDfft,"10 32",0.050547
+corona-cpu,1,TestDfft,"10 64",0.380568
+corona-cpu,1,TestDfft,"12 128",5.111857999999999
+corona-cpu,1,TestDfft,"12 256",71.44009099999991
+corona-cpu,1,TestDfft,"12 32",0.055252
+corona-cpu,1,TestDfft,"12 64",0.35062600000000005
+corona-cpu,1,TestDfft,"14 128",9.857739000000008
+corona-cpu,1,TestDfft,"14 256",36.083320000000015
+corona-cpu,1,TestDfft,"14 32",0.06081
+corona-cpu,1,TestDfft,"14 64",0.7861229999999999
+corona-cpu,1,TestDfft,"15 120",2.4789370000000006
+corona-cpu,1,TestDfft,"15 160",7.0742150000000015
+corona-cpu,1,TestDfft,"15 200",11.714698999999996
+corona-cpu,1,TestDfft,"15 240",23.23567300000001
+corona-cpu,1,TestDfft,"16 128",11.017290000000004
+corona-cpu,1,TestDfft,"16 256",91.5754059999995
+corona-cpu,1,TestDfft,"16 32",0.06509400000000001
+corona-cpu,1,TestDfft,"16 64",0.426018
+corona-cpu,1,TestDfft,"18 128",10.989024000000004
+corona-cpu,1,TestDfft,"18 256",96.32576899999904
+corona-cpu,1,TestDfft,"18 32",0.075615
+corona-cpu,1,TestDfft,"18 64",0.596089
+corona-cpu,1,TestDfft,"20 120",3.2125320000000013
+corona-cpu,1,TestDfft,"20 128",7.6312630000000015
+corona-cpu,1,TestDfft,"20 160",9.591617
+corona-cpu,1,TestDfft,"20 200",15.636764
+corona-cpu,1,TestDfft,"20 240",31.008663999999985
+corona-cpu,1,TestDfft,"20 256",98.97886299999823
+corona-cpu,1,TestDfft,"20 32",0.07541300000000001
+corona-cpu,1,TestDfft,"20 64",1.0363120000000001
+lassen,1,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 0",0.06709466666666666
+lassen,1,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 1",0.06566033333333332
+lassen,1,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 2",0.07221266666666667
+lassen,1,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 3",0.07716933333333333
+lassen,1,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 4",0.07042466666666668
+lassen,1,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 0",0.11409666666666668
+lassen,1,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 1",0.126023
+lassen,1,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 2",0.12377133333333334
+lassen,1,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 3",0.1070903333333333
+lassen,1,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 4",0.11716
+lassen,1,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 0",0.058857000000000013
+lassen,1,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 1",0.06258633333333334
+lassen,1,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 2",0.055510000000000004
+lassen,1,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 3",0.052264333333333336
+lassen,1,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 4",0.057339
+lassen,1,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 0",0.05556566666666666
+lassen,1,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 1",0.05534066666666667
+lassen,1,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 2",0.057237
+lassen,1,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 3",0.06882933333333334
+lassen,1,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 4",0.056950333333333325
+lassen,1,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 0",0.06848766666666667
+lassen,1,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 1",0.05896000000000001
+lassen,1,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 2",0.06905333333333334
+lassen,1,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 3",0.07942433333333332
+lassen,1,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 4",0.08395433333333334
+lassen,1,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 0",0.047114666666666666
+lassen,1,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 1",0.046957
+lassen,1,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 2",0.048742666666666684
+lassen,1,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 3",0.043674333333333336
+lassen,1,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 4",0.049171
+lassen,1,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 0",0.09588733333333334
+lassen,1,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 1",0.091236
+lassen,1,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 2",0.09902166666666666
+lassen,1,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 3",0.10207900000000003
+lassen,1,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 4",0.092179
+lassen,1,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 0",0.1311203333333333
+lassen,1,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 1",0.14246700000000004
+lassen,1,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 2",0.1457726666666667
+lassen,1,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 3",0.150713
+lassen,1,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 4",0.156342
+lassen,1,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 0",0.06519533333333334
+lassen,1,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 1",0.061026666666666673
+lassen,1,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 2",0.06411966666666667
+lassen,1,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 3",0.07730433333333334
+lassen,1,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 4",0.082053
+lassen,1,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 0",0.06917333333333335
+lassen,1,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 1",0.06553266666666667
+lassen,1,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 2",0.06914733333333334
+lassen,1,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 3",0.067451
+lassen,1,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 4",0.056919666666666674
+lassen,1,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 0",0.07888033333333334
+lassen,1,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 1",0.08887133333333333
+lassen,1,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 2",0.097422
+lassen,1,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 3",0.109312
+lassen,1,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 4",0.09523166666666666
+lassen,1,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 0",0.062574
+lassen,1,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 1",0.05058633333333334
+lassen,1,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 2",0.045689
+lassen,1,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 3",0.05412
+lassen,1,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 4",0.05586633333333333
+lassen,1,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 0",0.11389
+lassen,1,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 1",0.11042733333333336
+lassen,1,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 2",0.12038733333333332
+lassen,1,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 3",0.13360233333333335
+lassen,1,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 4",0.15746433333333335
+lassen,1,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 0",0.16296300000000002
+lassen,1,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 1",0.1913183333333333
+lassen,1,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 2",0.19460433333333332
+lassen,1,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 3",0.20470566666666667
+lassen,1,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 4",0.207533
+lassen,1,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 0",0.088835
+lassen,1,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 1",0.09203133333333334
+lassen,1,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 2",0.10707133333333334
+lassen,1,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 3",0.09891066666666666
+lassen,1,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 4",0.10770233333333334
+lassen,1,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 0",0.044347
+lassen,1,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 1",0.05551166666666666
+lassen,1,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 2",0.05230666666666667
+lassen,1,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 3",0.057252
+lassen,1,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 4",0.04586366666666667
+lassen,1,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 0",0.07069666666666666
+lassen,1,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 1",0.066993
+lassen,1,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 2",0.06381933333333333
+lassen,1,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 3",0.07717933333333334
+lassen,1,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 4",0.07749333333333333
+lassen,1,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 0",0.036989666666666664
+lassen,1,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 1",0.04383366666666667
+lassen,1,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 2",0.03394633333333333
+lassen,1,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 3",0.046863000000000016
+lassen,1,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 4",0.04848066666666667
+lassen,1,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 0",0.04395366666666667
+lassen,1,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 1",0.03573266666666667
+lassen,1,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 2",0.039365333333333336
+lassen,1,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 3",0.040688666666666665
+lassen,1,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 4",0.04046133333333333
+lassen,1,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 0",0.04551733333333333
+lassen,1,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 1",0.049006
+lassen,1,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 2",0.04755733333333334
+lassen,1,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 3",0.05893366666666666
+lassen,1,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 4",0.059253999999999994
+lassen,1,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 0",0.033896333333333334
+lassen,1,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 1",0.03762366666666666
+lassen,1,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 2",0.03373633333333333
+lassen,1,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 3",0.037636
+lassen,1,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 4",0.029360666666666663
+lassen,1,miniFE.x,"-nx 100 -ny 100 -nz 100",4.254396666666668
+lassen,1,miniFE.x,"-nx 100 -ny 100 -nz 50",2.1035236666666686
+lassen,1,miniFE.x,"-nx 100 -ny 50 -nz 50",1.0434150000000004
+lassen,1,miniFE.x,"-nx 100 -ny 75 -nz 50",1.586495
+lassen,1,miniFE.x,"-nx 100 -ny 75 -nz 75",2.3720476666666674
+lassen,1,miniFE.x,"-nx 125 -ny 100 -nz 100",5.260464666666677
+lassen,1,miniFE.x,"-nx 125 -ny 100 -nz 50",2.689893
+lassen,1,miniFE.x,"-nx 125 -ny 125 -nz 125",8.228204333333348
+lassen,1,miniFE.x,"-nx 125 -ny 125 -nz 50",3.3044783333333343
+lassen,1,miniFE.x,"-nx 125 -ny 50 -nz 50",1.303277666666667
+lassen,1,miniFE.x,"-nx 125 -ny 75 -nz 50",1.9848973333333315
+lassen,1,miniFE.x,"-nx 125 -ny 75 -nz 75",2.9612176666666663
+lassen,1,miniFE.x,"-nx 150 -ny 100 -nz 100",6.2922980000000015
+lassen,1,miniFE.x,"-nx 150 -ny 100 -nz 50",3.233705000000002
+lassen,1,miniFE.x,"-nx 150 -ny 125 -nz 125",9.869833999999999
+lassen,1,miniFE.x,"-nx 150 -ny 125 -nz 50",3.9562826666666733
+lassen,1,miniFE.x,"-nx 150 -ny 150 -nz 150",14.19998933333332
+lassen,1,miniFE.x,"-nx 150 -ny 150 -nz 50",4.754003666666672
+lassen,1,miniFE.x,"-nx 150 -ny 50 -nz 50",1.5711253333333326
+lassen,1,miniFE.x,"-nx 150 -ny 75 -nz 50",2.3845680000000002
+lassen,1,miniFE.x,"-nx 150 -ny 75 -nz 75",3.5622303333333365
+lassen,1,miniFE.x,"-nx 175 -ny 100 -nz 100",7.3796696666666675
+lassen,1,miniFE.x,"-nx 175 -ny 100 -nz 50",3.702772000000005
+lassen,1,miniFE.x,"-nx 175 -ny 125 -nz 125",11.744639999999988
+lassen,1,miniFE.x,"-nx 175 -ny 125 -nz 50",4.625902333333337
+lassen,1,miniFE.x,"-nx 175 -ny 150 -nz 150",16.992377666666602
+lassen,1,miniFE.x,"-nx 175 -ny 150 -nz 50",5.568651666666675
+lassen,1,miniFE.x,"-nx 175 -ny 175 -nz 175",23.235927666666544
+lassen,1,miniFE.x,"-nx 175 -ny 175 -nz 50",6.52408466666666
+lassen,1,miniFE.x,"-nx 175 -ny 50 -nz 50",1.8375876666666653
+lassen,1,miniFE.x,"-nx 175 -ny 75 -nz 50",2.793977666666665
+lassen,1,miniFE.x,"-nx 175 -ny 75 -nz 75",4.152769666666669
+lassen,1,miniFE.x,"-nx 200 -ny 100 -nz 100",8.377469666666661
+lassen,1,miniFE.x,"-nx 200 -ny 100 -nz 50",4.220971999999999
+lassen,1,miniFE.x,"-nx 200 -ny 125 -nz 125",13.181049666666668
+lassen,1,miniFE.x,"-nx 200 -ny 125 -nz 50",5.269827666666678
+lassen,1,miniFE.x,"-nx 200 -ny 150 -nz 150",19.870935333333364
+lassen,1,miniFE.x,"-nx 200 -ny 150 -nz 50",6.320295999999987
+lassen,1,miniFE.x,"-nx 200 -ny 175 -nz 175",26.32588133333324
+lassen,1,miniFE.x,"-nx 200 -ny 175 -nz 50",7.433092666666673
+lassen,1,miniFE.x,"-nx 200 -ny 200 -nz 200",35.45465433333327
+lassen,1,miniFE.x,"-nx 200 -ny 200 -nz 50",8.445285999999994
+lassen,1,miniFE.x,"-nx 200 -ny 50 -nz 50",2.1275490000000006
+lassen,1,miniFE.x,"-nx 200 -ny 75 -nz 50",3.1902783333333367
+lassen,1,miniFE.x,"-nx 200 -ny 75 -nz 75",4.723779666666664
+lassen,1,miniFE.x,"-nx 50 -ny 50 -nz 50",0.4926750000000002
+lassen,1,miniFE.x,"-nx 75 -ny 50 -nz 50",0.7835366666666671
+lassen,1,miniFE.x,"-nx 75 -ny 75 -nz 50",1.1785750000000006
+lassen,1,miniFE.x,"-nx 75 -ny 75 -nz 75",1.7687896666666667
+lassen,1,XSBench,"-m event -s large -G hash",1.2612150000000002
+lassen,1,XSBench,"-m event -s large -G nuclide",0.980735
+lassen,1,XSBench,"-m event -s large -G unionized",3.3166799999999954
+lassen,1,XSBench,"-m event -s small -G hash",0.240726
+lassen,1,XSBench,"-m event -s small -G nuclide",0.195068
+lassen,1,XSBench,"-m event -s small -G unionized",0.345167
+lassen,1,XSBench,"-m event -s XL -G hash",21.503392999999992
+lassen,1,XSBench,"-m event -s XL -G nuclide",20.94815499999999
+lassen,1,XSBench,"-m event -s XL -G unionized",74.86778499999906
+lassen,1,XSBench,"-m event -s XXL -G hash",48.411401999999974
+lassen,1,XSBench,"-m event -s XXL -G nuclide",47.86421699999997
+lassen,1,XSBench,"-m history -s large -G hash",1.090758
+lassen,1,XSBench,"-m history -s large -G nuclide",0.735284
+lassen,1,XSBench,"-m history -s large -G unionized",3.1971019999999952
+lassen,1,XSBench,"-m history -s small -G hash",0.200082
+lassen,1,XSBench,"-m history -s small -G nuclide",0.155084
+lassen,1,XSBench,"-m history -s small -G unionized",0.305684
+lassen,1,XSBench,"-m history -s XL -G hash",21.173154999999984
+lassen,1,XSBench,"-m history -s XL -G nuclide",20.50329999999998
+lassen,1,XSBench,"-m history -s XL -G unionized",72.48890399999983
+lassen,1,XSBench,"-m history -s XXL -G hash",47.91862699999997
+lassen,1,XSBench,"-m history -s XXL -G nuclide",47.172360999999974
+lassen,1,XSBench,"-m history -s XXL -G unionized",69.57323399999996
+lassen-cpu,1,amg,"-problem 2 -P 1 1 1 -n 128 128 128",83.7968010000001
+lassen-cpu,1,amg,"-problem 2 -P 1 1 1 -n 16 16 16",0.25725466666666663
+lassen-cpu,1,amg,"-problem 2 -P 1 1 1 -n 32 32 32",1.2304578333333336
+lassen-cpu,1,amg,"-problem 2 -P 1 1 1 -n 64 64 64",10.386092
+lassen-cpu,1,amg,"-problem 2 -P 1 1 1 -n 8 8 8",0.05354950000000002
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.1",11.322159333333332
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3",11.897498
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.1 -pa",11.37052133333333
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.2",11.904535666666666
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.2 -pa",11.581137333333333
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.3",12.832654666666665
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.3 -pa",12.330664333333333
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.4",12.06342733333333
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.4 -pa",12.172730666666665
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.5",12.577376333333332
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.5 -pa",12.465507000000002
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.6",12.91498666666667
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.6 -pa",13.236956999999993
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.7",13.523134666666673
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.7 -pa",13.622907333333332
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.8",13.236416999999998
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.8 -pa",13.422306
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.9",13.570216666666674
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.9 -pa",13.833978
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3 -pa",11.620818999999996
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.1",14.89027
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4",14.047122999999992
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.1 -pa",15.393516999999996
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.2",14.895672333333332
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.2 -pa",14.78837333333333
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.3",15.474494999999996
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.3 -pa",16.218706333333333
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.4",15.851620999999994
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.4 -pa",16.83992566666667
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.5",16.570373999999994
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.5 -pa",17.410182999999993
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.6",17.104696333333333
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.6 -pa",16.594955
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.7",17.610050999999995
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.7 -pa",17.46499233333333
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.8",18.148011
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.8 -pa",17.198033333333324
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.9",17.628125999999995
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.9 -pa",17.51942633333333
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4 -pa",14.42377566666666
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 5",17.731094000000006
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 5.5",19.118400333333327
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 5.5 -pa",19.325126333333326
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 2 -tf 5 -pa",18.286875333333327
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.1",23.96200166666667
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.1 -pa",25.13821800000001
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.2",24.63495033333333
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3",23.27946866666667
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.2 -pa",26.29594866666666
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.3",24.99300433333333
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.3 -pa",25.67429066666667
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.4",27.02458533333333
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.4 -pa",25.592791999999992
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.5",25.501292666666657
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.5 -pa",26.000168333333324
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.6",28.07390766666668
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.6 -pa",27.25710333333333
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.7",28.529086333333336
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.7 -pa",28.784772999999998
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.8",28.90640066666666
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.8 -pa",27.35545333333333
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.9",28.34741833333333
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.9 -pa",28.067009666666664
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3 -pa",23.34031533333333
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.1",30.979231
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.1 -pa",31.384344
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.2",32.40878800000001
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.2 -pa",32.811688333333336
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4",31.10506233333333
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.3",35.96375166666667
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.3 -pa",33.96985766666667
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.4",34.897198333333336
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.4 -pa",38.10078166666667
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.5",37.727849000000006
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.5 -pa",37.49015466666667
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.6",38.76235466666667
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.6 -pa",40.60790833333334
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.7",39.120919
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.7 -pa",40.13406866666666
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.8",40.767602000000025
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.8 -pa",42.36276566666668
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.9",44.02763499999998
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.9 -pa",44.68464066666667
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4 -pa",29.57232566666667
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 5",43.55744033333331
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 5.5",49.36091699999998
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 5.5 -pa",49.04999366666666
+lassen-cpu,1,laghos,"-p 1 -dim 2 -rs 3 -tf 5 -pa",45.62432233333334
+lassen-cpu,1,laghos,"-p 1 -dim 3 -rs 1 -tf 3",10.694462
+lassen-cpu,1,laghos,"-p 1 -dim 3 -rs 1 -tf 3.5",13.100995333333335
+lassen-cpu,1,laghos,"-p 1 -dim 3 -rs 1 -tf 3.5 -pa",13.146524
+lassen-cpu,1,laghos,"-p 1 -dim 3 -rs 1 -tf 3 -pa",10.350821666666667
+lassen-cpu,1,laghos,"-p 1 -dim 3 -rs 1 -tf 4",16.05778633333333
+lassen-cpu,1,laghos,"-p 1 -dim 3 -rs 1 -tf 4.5",18.317829999999997
+lassen-cpu,1,laghos,"-p 1 -dim 3 -rs 1 -tf 4.5 -pa",18.990003
+lassen-cpu,1,laghos,"-p 1 -dim 3 -rs 1 -tf 4 -pa",15.745820333333334
+lassen-cpu,1,laghos,"-p 1 -dim 3 -rs 1 -tf 5",20.58316733333333
+lassen-cpu,1,laghos,"-p 1 -dim 3 -rs 1 -tf 5.5",22.51568333333334
+lassen-cpu,1,laghos,"-p 1 -dim 3 -rs 1 -tf 5.5 -pa",23.50601466666667
+lassen-cpu,1,laghos,"-p 1 -dim 3 -rs 1 -tf 5 -pa",21.44724300000001
+lassen-cpu,1,laghos,"-p 1 -dim 3 -rs 2 -tf 3",28.442154
+lassen-cpu,1,laghos,"-p 1 -dim 3 -rs 2 -tf 3.5",38.47945200000001
+lassen-cpu,1,laghos,"-p 1 -dim 3 -rs 2 -tf 3.5 -pa",39.972279
+lassen-cpu,1,laghos,"-p 1 -dim 3 -rs 2 -tf 3 -pa",29.757002333333343
+lassen-cpu,1,laghos,"-p 1 -dim 3 -rs 2 -tf 4",47.86601933333332
+lassen-cpu,1,laghos,"-p 1 -dim 3 -rs 2 -tf 4.5",54.13025233333331
+lassen-cpu,1,laghos,"-p 1 -dim 3 -rs 2 -tf 4.5 -pa",51.304403999999984
+lassen-cpu,1,laghos,"-p 1 -dim 3 -rs 2 -tf 4 -pa",49.18456899999999
+lassen-cpu,1,laghos,"-p 1 -dim 3 -rs 2 -tf 5.5",66.17684266666664
+lassen-cpu,1,laghos,"-p 1 -dim 3 -rs 2 -tf 5",57.06483366666663
+lassen-cpu,1,laghos,"-p 1 -dim 3 -rs 2 -tf 5.5 -pa",68.96583899999997
+lassen-cpu,1,laghos,"-p 1 -dim 3 -rs 2 -tf 5 -pa",58.522516333333314
+lassen-cpu,1,laghos,"-p 2 -dim 2 -rs 2 -tf 3",11.829325333333328
+lassen-cpu,1,laghos,"-p 2 -dim 2 -rs 2 -tf 3.5",13.094564666666667
+lassen-cpu,1,laghos,"-p 2 -dim 2 -rs 2 -tf 3.5 -pa",12.776283666666664
+lassen-cpu,1,laghos,"-p 2 -dim 2 -rs 2 -tf 3 -pa",11.310850000000002
+lassen-cpu,1,laghos,"-p 2 -dim 2 -rs 2 -tf 4",13.628056333333333
+lassen-cpu,1,laghos,"-p 2 -dim 2 -rs 2 -tf 4.5",15.541347666666667
+lassen-cpu,1,laghos,"-p 2 -dim 2 -rs 2 -tf 4.5 -pa",15.558630333333326
+lassen-cpu,1,laghos,"-p 2 -dim 2 -rs 2 -tf 4 -pa",14.016983666666668
+lassen-cpu,1,laghos,"-p 2 -dim 2 -rs 2 -tf 5",16.96314633333333
+lassen-cpu,1,laghos,"-p 2 -dim 2 -rs 2 -tf 5.5",18.138529333333327
+lassen-cpu,1,laghos,"-p 2 -dim 2 -rs 2 -tf 5.5 -pa",17.894020666666666
+lassen-cpu,1,laghos,"-p 2 -dim 2 -rs 2 -tf 5 -pa",17.038085666666667
+lassen-cpu,1,laghos,"-p 2 -dim 3 -rs 1 -tf 3.5",9.849846666666668
+lassen-cpu,1,laghos,"-p 2 -dim 3 -rs 1 -tf 3.5 -pa",10.356218666666663
+lassen-cpu,1,laghos,"-p 2 -dim 3 -rs 1 -tf 3",8.405016666666667
+lassen-cpu,1,laghos,"-p 2 -dim 3 -rs 1 -tf 3 -pa",8.521807333333333
+lassen-cpu,1,laghos,"-p 2 -dim 3 -rs 1 -tf 4",10.978819
+lassen-cpu,1,laghos,"-p 2 -dim 3 -rs 1 -tf 4.5",11.848035333333328
+lassen-cpu,1,laghos,"-p 2 -dim 3 -rs 1 -tf 4.5 -pa",11.42670233333333
+lassen-cpu,1,laghos,"-p 2 -dim 3 -rs 1 -tf 4 -pa",10.525466333333334
+lassen-cpu,1,laghos,"-p 2 -dim 3 -rs 1 -tf 5",12.825803666666667
+lassen-cpu,1,laghos,"-p 2 -dim 3 -rs 1 -tf 5.5",14.214216999999998
+lassen-cpu,1,laghos,"-p 2 -dim 3 -rs 1 -tf 5.5 -pa",14.712702333333333
+lassen-cpu,1,laghos,"-p 2 -dim 3 -rs 1 -tf 5 -pa",13.35112733333333
+lassen-cpu,1,laghos,"-p 2 -dim 3 -rs 2 -tf 3",23.890511333333325
+lassen-cpu,1,laghos,"-p 2 -dim 3 -rs 2 -tf 3 -pa",25.13885833333333
+lassen-cpu,1,laghos,"-p 3 -dim 2 -rs 2 -tf 3",1.4601803333333332
+lassen-cpu,1,laghos,"-p 3 -dim 2 -rs 2 -tf 3.5",1.809176
+lassen-cpu,1,laghos,"-p 3 -dim 2 -rs 2 -tf 3.5 -pa",1.7925756666666668
+lassen-cpu,1,laghos,"-p 3 -dim 2 -rs 2 -tf 3 -pa",1.488036666666667
+lassen-cpu,1,laghos,"-p 3 -dim 2 -rs 2 -tf 4",1.932549
+lassen-cpu,1,laghos,"-p 3 -dim 2 -rs 2 -tf 4.5",2.228976666666667
+lassen-cpu,1,laghos,"-p 3 -dim 2 -rs 2 -tf 4.5 -pa",2.067159333333334
+lassen-cpu,1,laghos,"-p 3 -dim 2 -rs 2 -tf 4 -pa",1.878893666666668
+lassen-cpu,1,laghos,"-p 3 -dim 2 -rs 2 -tf 5",2.349635666666667
+lassen-cpu,1,laghos,"-p 3 -dim 2 -rs 2 -tf 5.5",2.6094916666666665
+lassen-cpu,1,laghos,"-p 3 -dim 2 -rs 2 -tf 5.5 -pa",2.606030333333333
+lassen-cpu,1,laghos,"-p 3 -dim 2 -rs 2 -tf 5 -pa",2.4352446666666667
+lassen-cpu,1,laghos,"-p 3 -dim 3 -rs 1 -tf 3",1.3594663333333334
+lassen-cpu,1,laghos,"-p 3 -dim 3 -rs 1 -tf 3.5",1.589251666666667
+lassen-cpu,1,laghos,"-p 3 -dim 3 -rs 1 -tf 3.5 -pa",1.5694176666666668
+lassen-cpu,1,laghos,"-p 3 -dim 3 -rs 1 -tf 3 -pa",1.3494956666666666
+lassen-cpu,1,laghos,"-p 3 -dim 3 -rs 1 -tf 4",1.7755040000000004
+lassen-cpu,1,laghos,"-p 3 -dim 3 -rs 1 -tf 4.5",1.952791333333333
+lassen-cpu,1,laghos,"-p 3 -dim 3 -rs 1 -tf 4.5 -pa",2.0272669999999997
+lassen-cpu,1,laghos,"-p 3 -dim 3 -rs 1 -tf 4 -pa",1.7633016666666663
+lassen-cpu,1,laghos,"-p 3 -dim 3 -rs 1 -tf 5",2.043118666666667
+lassen-cpu,1,laghos,"-p 3 -dim 3 -rs 1 -tf 5.5",2.391924
+lassen-cpu,1,laghos,"-p 3 -dim 3 -rs 1 -tf 5.5 -pa",2.2668633333333337
+lassen-cpu,1,laghos,"-p 3 -dim 3 -rs 1 -tf 5 -pa",2.029786666666667
+lassen-cpu,1,laghos,"-p 3 -dim 3 -rs 2 -tf 3",3.127075333333334
+lassen-cpu,1,laghos,"-p 3 -dim 3 -rs 2 -tf 3.5",3.8346910000000007
+lassen-cpu,1,laghos,"-p 3 -dim 3 -rs 2 -tf 3.5 -pa",3.629970666666667
+lassen-cpu,1,laghos,"-p 3 -dim 3 -rs 2 -tf 3 -pa",3.2663213333333325
+lassen-cpu,1,laghos,"-p 3 -dim 3 -rs 2 -tf 4",4.116080333333335
+lassen-cpu,1,laghos,"-p 3 -dim 3 -rs 2 -tf 4.5",4.694450999999999
+lassen-cpu,1,laghos,"-p 3 -dim 3 -rs 2 -tf 4.5 -pa",4.8402536666666665
+lassen-cpu,1,laghos,"-p 3 -dim 3 -rs 2 -tf 4 -pa",4.243992666666665
+lassen-cpu,1,laghos,"-p 3 -dim 3 -rs 2 -tf 5",5.269302333333333
+lassen-cpu,1,laghos,"-p 3 -dim 3 -rs 2 -tf 5.5",5.6502593333333335
+lassen-cpu,1,laghos,"-p 3 -dim 3 -rs 2 -tf 5.5 -pa",5.779828999999999
+lassen-cpu,1,laghos,"-p 3 -dim 3 -rs 2 -tf 5 -pa",5.1224370000000015
+lassen-cpu,1,TestDfft,"10 120",0.5905703333333333
+lassen-cpu,1,TestDfft,"10 128",0.9457443333333332
+lassen-cpu,1,TestDfft,"10 160",1.7402900000000001
+lassen-cpu,1,TestDfft,"10 200",3.165187666666668
+lassen-cpu,1,TestDfft,"10 240",5.9781716666666656
+lassen-cpu,1,TestDfft,"10 256",11.233596333333333
+lassen-cpu,1,TestDfft,"10 32",0.022346666666666667
+lassen-cpu,1,TestDfft,"10 64",0.10752100000000002
+lassen-cpu,1,TestDfft,"12 128",1.1241336666666668
+lassen-cpu,1,TestDfft,"12 256",13.592187999999995
+lassen-cpu,1,TestDfft,"12 32",0.025651999999999998
+lassen-cpu,1,TestDfft,"12 64",0.12445033333333333
+lassen-cpu,1,TestDfft,"14 128",1.291136
+lassen-cpu,1,TestDfft,"14 256",15.808090333333327
+lassen-cpu,1,TestDfft,"14 32",0.02612166666666666
+lassen-cpu,1,TestDfft,"14 64",0.13917366666666664
+lassen-cpu,1,TestDfft,"15 120",0.8745433333333331
+lassen-cpu,1,TestDfft,"15 160",2.5958110000000003
+lassen-cpu,1,TestDfft,"15 200",4.7413490000000005
+lassen-cpu,1,TestDfft,"15 240",9.088055666666667
+lassen-cpu,1,TestDfft,"16 128",1.4726106666666663
+lassen-cpu,1,TestDfft,"16 256",18.131847666666623
+lassen-cpu,1,TestDfft,"16 32",0.02539
+lassen-cpu,1,TestDfft,"16 64",0.15944966666666668
+lassen-cpu,1,TestDfft,"18 128",1.6535900000000003
+lassen-cpu,1,TestDfft,"18 256",20.09457433333329
+lassen-cpu,1,TestDfft,"18 32",0.027351666666666663
+lassen-cpu,1,TestDfft,"18 64",0.17284566666666668
+lassen-cpu,1,TestDfft,"20 120",1.2295456666666664
+lassen-cpu,1,TestDfft,"20 128",1.8546006666666663
+lassen-cpu,1,TestDfft,"20 160",3.449739
+lassen-cpu,1,TestDfft,"20 200",6.330231
+lassen-cpu,1,TestDfft,"20 240",11.899713999999996
+lassen-cpu,1,TestDfft,"20 256",22.714279666666652
+lassen-cpu,1,TestDfft,"20 32",0.030517333333333337
+lassen-cpu,1,TestDfft,"20 64",0.1864
+quartz,1,amg,"-problem 2 -P 1 1 1 -n 128 128 128",22.71462425000001
+quartz,1,amg,"-problem 2 -P 1 1 1 -n 16 16 16",0.2558344861111112
+quartz,1,amg,"-problem 2 -P 1 1 1 -n 256 256 256",158.07806125000005
+quartz,1,amg,"-problem 2 -P 1 1 1 -n 32 32 32",0.8265452777777778
+quartz,1,amg,"-problem 2 -P 1 1 1 -n 64 64 64",3.4402330277777766
+quartz,1,amg,"-problem 2 -P 1 1 1 -n 8 8 8",0.18527183333333347
+quartz,32,amg,"-problem 1 -P 2 2 1 -n 128 128 64",0.0475935
+quartz,32,amg,"-problem 1 -P 2 2 1 -n 16 16 8",0.04575309375000002
+quartz,32,amg,"-problem 1 -P 2 2 1 -n 32 32 16",0.04399065625
+quartz,32,amg,"-problem 1 -P 2 2 1 -n 64 64 32",0.044634093750000006
+quartz,32,amg,"-problem 1 -P 2 2 1 -n 8 8 4",0.04504325000000002
+quartz,32,amg,"-problem 1 -P 4 4 2 -n 128 128 64",27.239824375
+quartz,32,amg,"-problem 1 -P 4 4 2 -n 16 16 8",0.12399499999999998
+quartz,32,amg,"-problem 1 -P 4 4 2 -n 32 32 16",0.39799871875
+quartz,32,amg,"-problem 1 -P 4 4 2 -n 64 64 32",2.76940415625
+quartz,32,amg,"-problem 1 -P 4 4 2 -n 8 8 4",0.0987691875
+quartz,32,amg,"-problem 2 -P 4 4 2 -n 128 128 64",250.04523231250005
+quartz,32,amg,"-problem 2 -P 4 4 2 -n 16 16 8",0.4972314062499999
+quartz,32,amg,"-problem 2 -P 4 4 2 -n 32 32 16",3.17712671875
+quartz,32,amg,"-problem 2 -P 4 4 2 -n 64 64 32",24.82336500000001
+quartz,32,amg,"-problem 2 -P 4 4 2 -n 8 8 4",0.294766125
+quartz,1,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 0",0.026956763888888888
+quartz,1,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 1",0.03363383333333333
+quartz,1,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 2",0.04453944444444445
+quartz,1,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 3",0.06330502777777779
+quartz,1,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 4",0.0856543472222222
+quartz,1,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 0",0.05277827777777778
+quartz,1,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 1",0.07260083333333331
+quartz,1,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 2",0.10251879166666668
+quartz,1,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 3",0.1497092222222222
+quartz,1,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 4",0.20560470833333333
+quartz,1,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 0",0.012988013888888884
+quartz,1,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 1",0.01693594444444444
+quartz,1,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 2",0.020436027777777786
+quartz,1,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 3",0.02830877777777778
+quartz,1,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 4",0.03598770833333334
+quartz,1,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 0",0.02374508333333334
+quartz,1,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 1",0.03082054166666667
+quartz,1,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 2",0.04375155555555555
+quartz,1,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 3",0.05898869444444445
+quartz,1,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 4",0.0826185277777778
+quartz,1,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 0",0.048734777777777766
+quartz,1,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 1",0.0672699861111111
+quartz,1,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 2",0.09857934722222222
+quartz,1,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 3",0.1433523888888889
+quartz,1,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 4",0.2026503194444444
+quartz,1,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 0",0.011231597222222221
+quartz,1,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 1",0.014236222222222225
+quartz,1,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 2",0.01935975
+quartz,1,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 3",0.026405319444444447
+quartz,1,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 4",0.036607527777777774
+quartz,1,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 0",0.03729037500000002
+quartz,1,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 1",0.0469511111111111
+quartz,1,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 2",0.06788247222222221
+quartz,1,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 3",0.09431916666666668
+quartz,1,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 4",0.1257272083333333
+quartz,1,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 0",0.0746092083333333
+quartz,1,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 1",0.10708156944444444
+quartz,1,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 2",0.15551487499999994
+quartz,1,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 3",0.21636754166666666
+quartz,1,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 4",0.3017407777777777
+quartz,1,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 0",0.01988288888888889
+quartz,1,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 1",0.022229986111111117
+quartz,1,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 2",0.03167111111111112
+quartz,1,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 3",0.045325902777777774
+quartz,1,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 4",0.05435070833333334
+quartz,1,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 0",0.0344666388888889
+quartz,1,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 1",0.044040083333333334
+quartz,1,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 2",0.06425275
+quartz,1,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 3",0.091393875
+quartz,1,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 4",0.12253516666666668
+quartz,1,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 0",0.07011320833333329
+quartz,1,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 1",0.09957048611111108
+quartz,1,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 2",0.14946316666666667
+quartz,1,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 3",0.21276445833333324
+quartz,1,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 4",0.3045085555555554
+quartz,1,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 0",0.017169569444444446
+quartz,1,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 1",0.02160393055555556
+quartz,1,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 2",0.02992211111111111
+quartz,1,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 3",0.03833969444444444
+quartz,1,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 4",0.05151080555555557
+quartz,1,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 0",0.08742436111111106
+quartz,1,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 1",0.11776426388888885
+quartz,1,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 2",0.16643386111111108
+quartz,1,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 3",0.22967086111111115
+quartz,1,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 4",0.3232615972222221
+quartz,1,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 0",0.17706290277777775
+quartz,1,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 1",0.2586922777777778
+quartz,1,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 2",0.3903854305555555
+quartz,1,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 3",0.5706333888888888
+quartz,1,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 4",0.7888930277777771
+quartz,1,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 0",0.04105336111111112
+quartz,1,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 1",0.052912944444444436
+quartz,1,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 2",0.0735447361111111
+quartz,1,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 3",0.09917025000000004
+quartz,1,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 4",0.13702747222222225
+quartz,1,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 0",0.014379125
+quartz,1,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 1",0.034171361111111104
+quartz,1,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 2",0.02410648611111112
+quartz,1,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 3",0.031868499999999994
+quartz,1,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 4",0.04368004166666668
+quartz,1,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 0",0.027461097222222224
+quartz,1,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 1",0.037538638888888885
+quartz,1,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 2",0.05403954166666666
+quartz,1,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 3",0.07643493055555556
+quartz,1,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 4",0.10430770833333332
+quartz,1,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 0",0.006886263888888888
+quartz,1,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 1",0.008733625
+quartz,1,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 2",0.011269847222222221
+quartz,1,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 3",0.013941097222222221
+quartz,1,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 4",0.019493944444444446
+quartz,1,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 0",0.012663222222222222
+quartz,1,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 1",0.017074180555555558
+quartz,1,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 2",0.02326698611111111
+quartz,1,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 3",0.032141055555555555
+quartz,1,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 4",0.041797708333333336
+quartz,1,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 0",0.025583041666666667
+quartz,1,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 1",0.03457194444444446
+quartz,1,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 2",0.054896888888888884
+quartz,1,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 3",0.15089833333333333
+quartz,1,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 4",0.10274477777777777
+quartz,1,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 0",0.00686925
+quartz,1,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 1",0.008040194444444444
+quartz,1,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 2",0.010777375
+quartz,1,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 3",0.01427711111111111
+quartz,1,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 4",0.019449333333333332
+quartz,32,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 0 --procs 4,4,2",0.12828878124999998
+quartz,32,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 1 --procs 4,4,2",0.138301375
+quartz,32,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 2 --procs 4,4,2",0.16996912500000005
+quartz,32,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 3 --procs 4,4,2",0.23355971875
+quartz,32,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 4 --procs 4,4,2",0.27074109375
+quartz,32,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 0 --procs 4,4,2",0.21765390625
+quartz,32,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 1 --procs 4,4,2",0.2734908125
+quartz,32,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 2 --procs 4,4,2",0.34744687499999993
+quartz,32,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 3 --procs 4,4,2",0.4650404687500001
+quartz,32,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 4 --procs 4,4,2",0.5952068125000001
+quartz,32,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 0 --procs 4,4,2",0.07533103125
+quartz,32,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 1 --procs 4,4,2",0.08486874999999999
+quartz,32,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 2 --procs 4,4,2",0.09956209374999997
+quartz,32,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 3 --procs 4,4,2",0.11686303124999994
+quartz,32,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 4 --procs 4,4,2",0.14043965625000002
+quartz,32,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 0 --procs 4,4,2",0.11410428125
+quartz,32,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 1 --procs 4,4,2",0.1546570625
+quartz,32,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 2 --procs 4,4,2",0.16444587499999996
+quartz,32,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 3 --procs 4,4,2",0.2136614375
+quartz,32,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 4 --procs 4,4,2",0.27026399999999995
+quartz,32,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 0 --procs 4,4,2",0.19604834374999994
+quartz,32,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 1 --procs 4,4,2",0.242206375
+quartz,32,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 2 --procs 4,4,2",0.32508515625
+quartz,32,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 3 --procs 4,4,2",0.59479115625
+quartz,32,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 4 --procs 4,4,2",0.56982090625
+quartz,32,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 0 --procs 4,4,2",0.07352553125
+quartz,32,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 1 --procs 4,4,2",0.08704456250000002
+quartz,32,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 2 --procs 4,4,2",0.0996019375
+quartz,32,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 3 --procs 4,4,2",0.1152015
+quartz,32,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 4 --procs 4,4,2",0.13608456249999998
+quartz,32,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 0 --procs 4,4,2",0.1694471875
+quartz,32,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 1 --procs 4,4,2",0.19974725
+quartz,32,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 2 --procs 4,4,2",0.248109625
+quartz,32,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 3 --procs 4,4,2",0.30465303125
+quartz,32,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 4 --procs 4,4,2",0.39921590625
+quartz,32,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 0 --procs 4,4,2",0.32295803124999994
+quartz,32,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 1 --procs 4,4,2",0.39330846875
+quartz,32,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 2 --procs 4,4,2",0.5047611875
+quartz,32,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 3 --procs 4,4,2",0.687377375
+quartz,32,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 4 --procs 4,4,2",0.87451646875
+quartz,32,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 0 --procs 4,4,2",0.105865625
+quartz,32,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 1 --procs 4,4,2",0.10696262499999998
+quartz,32,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 2 --procs 4,4,2",0.12643168750000006
+quartz,32,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 3 --procs 4,4,2",0.16510965625
+quartz,32,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 4 --procs 4,4,2",0.204241875
+quartz,32,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 0 --procs 4,4,2",0.16915565625000006
+quartz,32,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 1 --procs 4,4,2",0.18383153125000004
+quartz,32,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 2 --procs 4,4,2",0.23397009375
+quartz,32,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 3 --procs 4,4,2",0.29052734375
+quartz,32,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 4 --procs 4,4,2",0.39510978125
+quartz,32,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 0 --procs 4,4,2",0.27738296875
+quartz,32,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 1 --procs 4,4,2",0.35348884374999984
+quartz,32,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 2 --procs 4,4,2",0.4682159375000001
+quartz,32,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 3 --procs 4,4,2",0.6279434375
+quartz,32,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 4 --procs 4,4,2",0.8692082499999999
+quartz,32,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 0 --procs 4,4,2",0.09220746875
+quartz,32,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 1 --procs 4,4,2",0.10689899999999998
+quartz,32,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 2 --procs 4,4,2",0.12926296875
+quartz,32,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 3 --procs 4,4,2",0.15068462500000002
+quartz,32,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 4 --procs 4,4,2",0.188407125
+quartz,32,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 0 --procs 4,4,2",0.35272328125
+quartz,32,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 1 --procs 4,4,2",0.4464285312499999
+quartz,32,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 2 --procs 4,4,2",0.6717515312499999
+quartz,32,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 3 --procs 4,4,2",0.7433906875
+quartz,32,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 4 --procs 4,4,2",1.5638190937500005
+quartz,32,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 0 --procs 4,4,2",0.6678255624999999
+quartz,32,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 1 --procs 4,4,2",0.87767490625
+quartz,32,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 2 --procs 4,4,2",1.2110540312499996
+quartz,32,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 3 --procs 4,4,2",1.6157607499999995
+quartz,32,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 4 --procs 4,4,2",2.227068125
+quartz,32,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 0 --procs 4,4,2",0.188115
+quartz,32,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 1 --procs 4,4,2",0.2149618125
+quartz,32,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 2 --procs 4,4,2",0.26636612499999995
+quartz,32,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 3 --procs 4,4,2",0.3431049062499999
+quartz,32,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 4 --procs 4,4,2",0.458152375
+quartz,32,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 0 --procs 4,4,2",0.0801538125
+quartz,32,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 1 --procs 4,4,2",0.08831396875
+quartz,32,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 2 --procs 4,4,2",0.10501537499999998
+quartz,32,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 3 --procs 4,4,2",0.12607587499999998
+quartz,32,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 4 --procs 4,4,2",0.16036456249999995
+quartz,32,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 0 --procs 4,4,2",0.13053337499999998
+quartz,32,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 1 --procs 4,4,2",0.155793625
+quartz,32,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 2 --procs 4,4,2",0.1897150625
+quartz,32,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 3 --procs 4,4,2",0.25415393750000004
+quartz,32,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 4 --procs 4,4,2",0.319080375
+quartz,32,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 0 --procs 4,4,2",0.0533004375
+quartz,32,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 1 --procs 4,4,2",0.06490281250000003
+quartz,32,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 2 --procs 4,4,2",0.06243825
+quartz,32,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 3 --procs 4,4,2",0.08026878125000002
+quartz,32,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 4 --procs 4,4,2",0.08641559374999998
+quartz,32,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 0 --procs 4,4,2",0.07522337500000001
+quartz,32,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 1 --procs 4,4,2",0.08535143749999999
+quartz,32,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 2 --procs 4,4,2",0.09674337499999998
+quartz,32,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 3 --procs 4,4,2",0.12476024999999998
+quartz,32,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 4 --procs 4,4,2",0.15009046875
+quartz,32,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 0 --procs 4,4,2",0.2510868125
+quartz,32,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 1 --procs 4,4,2",0.13525921875
+quartz,32,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 2 --procs 4,4,2",0.31952146875
+quartz,32,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 3 --procs 4,4,2",0.29016753124999994
+quartz,32,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 4 --procs 4,4,2",0.5225854687500001
+quartz,32,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 0 --procs 4,4,2",0.05073659375
+quartz,32,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 1 --procs 4,4,2",0.05223728125000001
+quartz,32,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 2 --procs 4,4,2",0.06276221875
+quartz,32,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 3 --procs 4,4,2",0.07096581250000003
+quartz,32,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 4 --procs 4,4,2",0.08539743750000002
+quartz,1,laghos,"-p 1 -dim 2 -rs 1 -tf 3",1.765572
+quartz,1,laghos,"-p 1 -dim 2 -rs 1 -tf 3.5",2.0251959999999998
+quartz,1,laghos,"-p 1 -dim 2 -rs 1 -tf 3.5 -pa",2.0196000000000005
+quartz,1,laghos,"-p 1 -dim 2 -rs 1 -tf 3 -pa",1.7715010000000002
+quartz,1,laghos,"-p 1 -dim 2 -rs 1 -tf 4",2.2762050000000005
+quartz,1,laghos,"-p 1 -dim 2 -rs 1 -tf 4.5",2.663958000000001
+quartz,1,laghos,"-p 1 -dim 2 -rs 1 -tf 4.5 -pa",2.4667090000000003
+quartz,1,laghos,"-p 1 -dim 2 -rs 1 -tf 4 -pa",2.260415
+quartz,1,laghos,"-p 1 -dim 2 -rs 1 -tf 5",2.6446680000000002
+quartz,1,laghos,"-p 1 -dim 2 -rs 1 -tf 5.5",2.711485
+quartz,1,laghos,"-p 1 -dim 2 -rs 1 -tf 5.5 -pa",2.703367
+quartz,1,laghos,"-p 1 -dim 2 -rs 1 -tf 5 -pa",2.6297780000000004
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.1",9.042081000000003
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.1 -pa",8.973249000000003
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.2",9.568805
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.2 -pa",9.947772000000002
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.3",9.526539
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.3 -pa",10.018331000000003
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.4",9.750920999999998
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.4 -pa",9.985573000000004
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.5",9.921400000000002
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.5 -pa",10.460111999999997
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.6",10.180706000000002
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.6 -pa",10.395079000000004
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.7",10.451857
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.7 -pa",10.663852
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.8",11.176431000000004
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3",8.763434000000004
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.8 -pa",11.28784
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.9",11.450939000000002
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.9 -pa",10.896725000000002
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3 -pa",8.836722
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.1",11.397580999999995
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4",11.168597999999998
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.1 -pa",11.841604000000002
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.2",11.844478
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.2 -pa",12.217343
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.3",12.205594
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.3 -pa",12.228887999999998
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.4",12.603778999999996
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.4 -pa",12.972289000000002
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.5",12.998832000000002
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.5 -pa",12.953582
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.6",13.538991000000005
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.6 -pa",13.325094
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.7",14.255513000000002
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.7 -pa",13.577990000000002
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.8",13.860394
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.8 -pa",13.800371000000002
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.9",14.596217999999999
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.9 -pa",14.146435
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4 -pa",11.133866000000001
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 5",14.237394999999996
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 5.5",15.260753
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 5.5 -pa",15.324182999999998
+quartz,1,laghos,"-p 1 -dim 2 -rs 2 -tf 5 -pa",14.364917999999996
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.1",64.38596100000002
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.1 -pa",64.76945500000001
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.2",66.28409800000001
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.2 -pa",66.48702400000002
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.3",68.80397300000001
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.3 -pa",68.88793400000004
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.4",73.63560200000002
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.4 -pa",70.66231100000003
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.5",72.58819700000005
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.5 -pa",71.75157200000002
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3",63.670267
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.6",74.270041
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.6 -pa",73.08142300000003
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.7",73.85835200000002
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.7 -pa",73.539224
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.8",75.22446000000005
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.8 -pa",77.836409
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.9",76.67785300000003
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.9 -pa",77.161681
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3 -pa",62.53292
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.1",84.48716100000007
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.1 -pa",85.71744500000003
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.2",91.37896600000002
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.2 -pa",87.77005500000001
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.3",94.72576500000004
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.3 -pa",94.63970800000004
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.4",98.58619800000004
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.4 -pa",100.16104500000004
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.5",103.37875600000004
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.5 -pa",106.40995600000004
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.6",106.58649500000007
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.6 -pa",107.45976100000004
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.7",110.40372600000003
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4",79.49543600000001
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.7 -pa",109.74004900000007
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.8",113.31415300000006
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.8 -pa",112.08167300000004
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.9",116.71844000000004
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.9 -pa",120.28253700000003
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4 -pa",79.382186
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 5",121.17791200000003
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 5.5",134.10261100000002
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 5.5 -pa",137.16670299999998
+quartz,1,laghos,"-p 1 -dim 2 -rs 3 -tf 5 -pa",119.08794100000004
+quartz,1,laghos,"-p 1 -dim 3 -rs 1 -tf 3",38.54632799999999
+quartz,1,laghos,"-p 1 -dim 3 -rs 1 -tf 3.5",49.21778499999998
+quartz,1,laghos,"-p 1 -dim 3 -rs 1 -tf 3.5 -pa",48.35072699999999
+quartz,1,laghos,"-p 1 -dim 3 -rs 1 -tf 3 -pa",38.542706
+quartz,1,laghos,"-p 1 -dim 3 -rs 1 -tf 4.5",70.25949999999999
+quartz,1,laghos,"-p 1 -dim 3 -rs 1 -tf 4",58.927596999999984
+quartz,1,laghos,"-p 1 -dim 3 -rs 1 -tf 4.5 -pa",69.97196100000001
+quartz,1,laghos,"-p 1 -dim 3 -rs 1 -tf 4 -pa",64.708801
+quartz,1,laghos,"-p 1 -dim 3 -rs 1 -tf 5.5",84.166428
+quartz,1,laghos,"-p 1 -dim 3 -rs 1 -tf 5.5 -pa",83.91909600000002
+quartz,1,laghos,"-p 1 -dim 3 -rs 1 -tf 5",78.77810799999997
+quartz,1,laghos,"-p 1 -dim 3 -rs 1 -tf 5 -pa",77.88895199999997
+quartz,1,laghos,"-p 1 -dim 3 -rs 2 -tf 3.5",1058.203394000001
+quartz,1,laghos,"-p 1 -dim 3 -rs 2 -tf 3.5 -pa",1050.9271010000011
+quartz,1,laghos,"-p 1 -dim 3 -rs 2 -tf 3",798.9337320000003
+quartz,1,laghos,"-p 1 -dim 3 -rs 2 -tf 3 -pa",801.3889180000003
+quartz,1,laghos,"-p 1 -dim 3 -rs 2 -tf 4",1339.6306320000006
+quartz,1,laghos,"-p 1 -dim 3 -rs 2 -tf 4.5",1417.8695920000007
+quartz,1,laghos,"-p 1 -dim 3 -rs 2 -tf 4.5 -pa",1426.5117490000007
+quartz,1,laghos,"-p 1 -dim 3 -rs 2 -tf 4 -pa",1313.9603160000008
+quartz,1,laghos,"-p 1 -dim 3 -rs 2 -tf 5",1561.7372060000016
+quartz,1,laghos,"-p 1 -dim 3 -rs 2 -tf 5.5",1790.2119380000015
+quartz,1,laghos,"-p 1 -dim 3 -rs 2 -tf 5.5 -pa",1791.634582
+quartz,1,laghos,"-p 1 -dim 3 -rs 2 -tf 5 -pa",1554.430646000001
+quartz,1,laghos,"-p 2 -dim 2 -rs 1 -tf 3",1.327392
+quartz,1,laghos,"-p 2 -dim 2 -rs 1 -tf 3.5",1.5333890000000003
+quartz,1,laghos,"-p 2 -dim 2 -rs 1 -tf 3.5 -pa",1.5332200000000002
+quartz,1,laghos,"-p 2 -dim 2 -rs 1 -tf 3 -pa",1.301731
+quartz,1,laghos,"-p 2 -dim 2 -rs 1 -tf 4",1.6653159999999998
+quartz,1,laghos,"-p 2 -dim 2 -rs 1 -tf 4.5",1.776994
+quartz,1,laghos,"-p 2 -dim 2 -rs 1 -tf 4.5 -pa",1.7837720000000001
+quartz,1,laghos,"-p 2 -dim 2 -rs 1 -tf 4 -pa",1.747685
+quartz,1,laghos,"-p 2 -dim 2 -rs 1 -tf 5",2.005884
+quartz,1,laghos,"-p 2 -dim 2 -rs 1 -tf 5.5",2.319004
+quartz,1,laghos,"-p 2 -dim 2 -rs 1 -tf 5.5 -pa",2.1998570000000006
+quartz,1,laghos,"-p 2 -dim 2 -rs 1 -tf 5 -pa",2.00699
+quartz,1,laghos,"-p 2 -dim 2 -rs 2 -tf 3.5",10.558424
+quartz,1,laghos,"-p 2 -dim 2 -rs 2 -tf 3.5 -pa",10.172935999999998
+quartz,1,laghos,"-p 2 -dim 2 -rs 2 -tf 3",8.921564
+quartz,1,laghos,"-p 2 -dim 2 -rs 2 -tf 3 -pa",8.893593000000003
+quartz,1,laghos,"-p 2 -dim 2 -rs 2 -tf 4",11.416751
+quartz,1,laghos,"-p 2 -dim 2 -rs 2 -tf 4.5",11.925637999999998
+quartz,1,laghos,"-p 2 -dim 2 -rs 2 -tf 4.5 -pa",13.556022
+quartz,1,laghos,"-p 2 -dim 2 -rs 2 -tf 4 -pa",10.956007000000001
+quartz,1,laghos,"-p 2 -dim 2 -rs 2 -tf 5",14.613785
+quartz,1,laghos,"-p 2 -dim 2 -rs 2 -tf 5.5",14.471437000000005
+quartz,1,laghos,"-p 2 -dim 2 -rs 2 -tf 5.5 -pa",14.838844
+quartz,1,laghos,"-p 2 -dim 2 -rs 2 -tf 5 -pa",13.416020000000001
+quartz,1,laghos,"-p 2 -dim 3 -rs 1 -tf 3",36.39926199999999
+quartz,1,laghos,"-p 2 -dim 3 -rs 1 -tf 3.5",42.30512999999997
+quartz,1,laghos,"-p 2 -dim 3 -rs 1 -tf 3.5 -pa",42.449818999999984
+quartz,1,laghos,"-p 2 -dim 3 -rs 1 -tf 3 -pa",36.08320199999998
+quartz,1,laghos,"-p 2 -dim 3 -rs 1 -tf 4",46.650095999999984
+quartz,1,laghos,"-p 2 -dim 3 -rs 1 -tf 4.5",50.85138299999996
+quartz,1,laghos,"-p 2 -dim 3 -rs 1 -tf 4.5 -pa",50.29040999999997
+quartz,1,laghos,"-p 2 -dim 3 -rs 1 -tf 4 -pa",46.353808
+quartz,1,laghos,"-p 2 -dim 3 -rs 1 -tf 5",55.41671499999996
+quartz,1,laghos,"-p 2 -dim 3 -rs 1 -tf 5.5",60.23650399999998
+quartz,1,laghos,"-p 2 -dim 3 -rs 1 -tf 5.5 -pa",60.71222799999998
+quartz,1,laghos,"-p 2 -dim 3 -rs 1 -tf 5 -pa",56.86564399999998
+quartz,1,laghos,"-p 2 -dim 3 -rs 2 -tf 3.5",818.5450139999997
+quartz,1,laghos,"-p 2 -dim 3 -rs 2 -tf 3.5 -pa",832.4903039999997
+quartz,1,laghos,"-p 2 -dim 3 -rs 2 -tf 3",718.1115879999999
+quartz,1,laghos,"-p 2 -dim 3 -rs 2 -tf 3 -pa",719.0188569999997
+quartz,1,laghos,"-p 3 -dim 2 -rs 1 -tf 3",0.225497
+quartz,1,laghos,"-p 3 -dim 2 -rs 1 -tf 3.5",0.239083
+quartz,1,laghos,"-p 3 -dim 2 -rs 1 -tf 3.5 -pa",0.25783500000000004
+quartz,1,laghos,"-p 3 -dim 2 -rs 1 -tf 3 -pa",0.22536800000000004
+quartz,1,laghos,"-p 3 -dim 2 -rs 1 -tf 4",0.272745
+quartz,1,laghos,"-p 3 -dim 2 -rs 1 -tf 4.5",0.3119270000000001
+quartz,1,laghos,"-p 3 -dim 2 -rs 1 -tf 4.5 -pa",0.29984000000000005
+quartz,1,laghos,"-p 3 -dim 2 -rs 1 -tf 4 -pa",0.269742
+quartz,1,laghos,"-p 3 -dim 2 -rs 1 -tf 5",0.35495800000000005
+quartz,1,laghos,"-p 3 -dim 2 -rs 1 -tf 5.5",0.36759200000000003
+quartz,1,laghos,"-p 3 -dim 2 -rs 1 -tf 5.5 -pa",0.363939
+quartz,1,laghos,"-p 3 -dim 2 -rs 1 -tf 5 -pa",0.340609
+quartz,1,laghos,"-p 3 -dim 2 -rs 2 -tf 3",1.172088
+quartz,1,laghos,"-p 3 -dim 2 -rs 2 -tf 3.5",1.2874560000000002
+quartz,1,laghos,"-p 3 -dim 2 -rs 2 -tf 3.5 -pa",1.2861740000000002
+quartz,1,laghos,"-p 3 -dim 2 -rs 2 -tf 3 -pa",1.10488
+quartz,1,laghos,"-p 3 -dim 2 -rs 2 -tf 4",1.4630140000000005
+quartz,1,laghos,"-p 3 -dim 2 -rs 2 -tf 4.5",1.633633
+quartz,1,laghos,"-p 3 -dim 2 -rs 2 -tf 4.5 -pa",1.6298770000000002
+quartz,1,laghos,"-p 3 -dim 2 -rs 2 -tf 4 -pa",1.473355
+quartz,1,laghos,"-p 3 -dim 2 -rs 2 -tf 5",1.8280380000000005
+quartz,1,laghos,"-p 3 -dim 2 -rs 2 -tf 5.5",2.1304780000000005
+quartz,1,laghos,"-p 3 -dim 2 -rs 2 -tf 5.5 -pa",2.010209
+quartz,1,laghos,"-p 3 -dim 2 -rs 2 -tf 5 -pa",1.8350600000000004
+quartz,1,laghos,"-p 3 -dim 2 -rs 3 -tf 5.0",13.326448
+quartz,1,laghos,"-p 3 -dim 3 -rs 1 -tf 3",4.538443000000001
+quartz,1,laghos,"-p 3 -dim 3 -rs 1 -tf 3.5",5.788539000000001
+quartz,1,laghos,"-p 3 -dim 3 -rs 1 -tf 3.5 -pa",5.254812000000002
+quartz,1,laghos,"-p 3 -dim 3 -rs 1 -tf 3 -pa",4.522251000000002
+quartz,1,laghos,"-p 3 -dim 3 -rs 1 -tf 4.5",6.7397750000000025
+quartz,1,laghos,"-p 3 -dim 3 -rs 1 -tf 4",5.989286000000001
+quartz,1,laghos,"-p 3 -dim 3 -rs 1 -tf 4.5 -pa",6.738729000000001
+quartz,1,laghos,"-p 3 -dim 3 -rs 1 -tf 4 -pa",6.0056720000000015
+quartz,1,laghos,"-p 3 -dim 3 -rs 1 -tf 5.0",7.5249830000000015
+quartz,1,laghos,"-p 3 -dim 3 -rs 1 -tf 5.5",8.998724000000003
+quartz,1,laghos,"-p 3 -dim 3 -rs 1 -tf 5.5 -pa",8.861904000000003
+quartz,1,laghos,"-p 3 -dim 3 -rs 1 -tf 5",7.751217000000001
+quartz,1,laghos,"-p 3 -dim 3 -rs 1 -tf 5 -pa",7.470986000000003
+quartz,1,laghos,"-p 3 -dim 3 -rs 2 -tf 2.0 -pa",54.779156999999984
+quartz,1,laghos,"-p 3 -dim 3 -rs 2 -tf 3.5",90.95711400000002
+quartz,1,laghos,"-p 3 -dim 3 -rs 2 -tf 3.5 -pa",91.22405400000001
+quartz,1,laghos,"-p 3 -dim 3 -rs 2 -tf 3",79.53637899999998
+quartz,1,laghos,"-p 3 -dim 3 -rs 2 -tf 3 -pa",77.86360200000001
+quartz,1,laghos,"-p 3 -dim 3 -rs 2 -tf 4",105.09247
+quartz,1,laghos,"-p 3 -dim 3 -rs 2 -tf 4.5",120.61966800000006
+quartz,1,laghos,"-p 3 -dim 3 -rs 2 -tf 4.5 -pa",117.25092400000004
+quartz,1,laghos,"-p 3 -dim 3 -rs 2 -tf 4 -pa",105.09018799999998
+quartz,1,laghos,"-p 3 -dim 3 -rs 2 -tf 5.0",130.49184499999998
+quartz,1,laghos,"-p 3 -dim 3 -rs 2 -tf 5.0 -pa",133.33801200000008
+quartz,1,laghos,"-p 3 -dim 3 -rs 2 -tf 5",130.93531000000004
+quartz,1,laghos,"-p 3 -dim 3 -rs 2 -tf 5.5",143.94800600000005
+quartz,1,laghos,"-p 3 -dim 3 -rs 2 -tf 5.5 -pa",142.908579
+quartz,1,laghos,"-p 3 -dim 3 -rs 2 -tf 5 -pa",128.20937099999998
+quartz,32,laghos,"-p 1 -dim 2 -rs 2 -tf 3.5",8.146281125
+quartz,32,laghos,"-p 1 -dim 2 -rs 2 -tf 3.5 -pa",8.280306562500002
+quartz,32,laghos,"-p 1 -dim 2 -rs 2 -tf 3",7.056628843750002
+quartz,32,laghos,"-p 1 -dim 2 -rs 2 -tf 3 -pa",7.062784468750002
+quartz,32,laghos,"-p 1 -dim 2 -rs 2 -tf 4.5",10.679586843750004
+quartz,32,laghos,"-p 1 -dim 2 -rs 2 -tf 4.5 -pa",10.503508656250002
+quartz,32,laghos,"-p 1 -dim 2 -rs 2 -tf 4",8.956693750000003
+quartz,32,laghos,"-p 1 -dim 2 -rs 2 -tf 4 -pa",9.036614718750002
+quartz,32,laghos,"-p 1 -dim 2 -rs 2 -tf 5",11.378156218749998
+quartz,32,laghos,"-p 1 -dim 2 -rs 2 -tf 5.5",12.7298411875
+quartz,32,laghos,"-p 1 -dim 2 -rs 2 -tf 5.5 -pa",12.20363775
+quartz,32,laghos,"-p 1 -dim 2 -rs 2 -tf 5 -pa",11.672238218750005
+quartz,32,laghos,"-p 1 -dim 2 -rs 3 -tf 3",18.2055011875
+quartz,32,laghos,"-p 1 -dim 2 -rs 3 -tf 3.5",20.99445009375
+quartz,32,laghos,"-p 1 -dim 2 -rs 3 -tf 3.5 -pa",20.46328725
+quartz,32,laghos,"-p 1 -dim 2 -rs 3 -tf 3 -pa",18.090018406250003
+quartz,32,laghos,"-p 1 -dim 2 -rs 3 -tf 4",23.19665378125001
+quartz,32,laghos,"-p 1 -dim 2 -rs 3 -tf 4.5",29.64774418750001
+quartz,32,laghos,"-p 1 -dim 2 -rs 3 -tf 4.5 -pa",29.670644125
+quartz,32,laghos,"-p 1 -dim 2 -rs 3 -tf 4 -pa",23.36092721875001
+quartz,32,laghos,"-p 1 -dim 2 -rs 3 -tf 5",33.96220343750001
+quartz,32,laghos,"-p 1 -dim 2 -rs 3 -tf 5.5",39.18778937499999
+quartz,32,laghos,"-p 1 -dim 2 -rs 3 -tf 5.5 -pa",39.138989468749976
+quartz,32,laghos,"-p 1 -dim 2 -rs 3 -tf 5 -pa",34.743095062500004
+quartz,32,laghos,"-p 1 -dim 3 -rs 1 -tf 3",13.436914875
+quartz,32,laghos,"-p 1 -dim 3 -rs 1 -tf 3.5",16.801952468750002
+quartz,32,laghos,"-p 1 -dim 3 -rs 1 -tf 3.5 -pa",16.8162921875
+quartz,32,laghos,"-p 1 -dim 3 -rs 1 -tf 3 -pa",13.47541534375
+quartz,32,laghos,"-p 1 -dim 3 -rs 1 -tf 4",20.786600968750005
+quartz,32,laghos,"-p 1 -dim 3 -rs 1 -tf 4.5",24.4805519375
+quartz,32,laghos,"-p 1 -dim 3 -rs 1 -tf 4.5 -pa",24.723665375
+quartz,32,laghos,"-p 1 -dim 3 -rs 1 -tf 4 -pa",20.8623233125
+quartz,32,laghos,"-p 1 -dim 3 -rs 1 -tf 5",27.34279890625
+quartz,32,laghos,"-p 1 -dim 3 -rs 1 -tf 5.5",30.35295618750001
+quartz,32,laghos,"-p 1 -dim 3 -rs 1 -tf 5.5 -pa",29.6702716875
+quartz,32,laghos,"-p 1 -dim 3 -rs 1 -tf 5 -pa",27.14786240625
+quartz,32,laghos,"-p 1 -dim 3 -rs 2 -tf 3.5",103.1360260625
+quartz,32,laghos,"-p 1 -dim 3 -rs 2 -tf 3.5 -pa",105.83687649999999
+quartz,32,laghos,"-p 1 -dim 3 -rs 2 -tf 3",76.40125421875
+quartz,32,laghos,"-p 1 -dim 3 -rs 2 -tf 3 -pa",77.08473318749998
+quartz,32,laghos,"-p 1 -dim 3 -rs 2 -tf 4",128.7681208125
+quartz,32,laghos,"-p 1 -dim 3 -rs 2 -tf 4.5",137.63969234374997
+quartz,32,laghos,"-p 1 -dim 3 -rs 2 -tf 4.5 -pa",138.19851981249997
+quartz,32,laghos,"-p 1 -dim 3 -rs 2 -tf 4 -pa",127.96674065624998
+quartz,32,laghos,"-p 1 -dim 3 -rs 2 -tf 5",149.75744749999996
+quartz,32,laghos,"-p 1 -dim 3 -rs 2 -tf 5.5",174.80342443749996
+quartz,32,laghos,"-p 1 -dim 3 -rs 2 -tf 5.5 -pa",176.18633771875002
+quartz,32,laghos,"-p 1 -dim 3 -rs 2 -tf 5 -pa",150.95708953125
+quartz,32,laghos,"-p 1 -dim 3 -rs 3 -tf 3",1085.1766907187503
+quartz,32,laghos,"-p 1 -dim 3 -rs 3 -tf 3.5",1245.4136252812516
+quartz,32,laghos,"-p 1 -dim 3 -rs 3 -tf 3.5 -pa",1244.8443111875008
+quartz,32,laghos,"-p 1 -dim 3 -rs 3 -tf 3 -pa",1079.9553665625008
+quartz,32,laghos,"-p 1 -dim 3 -rs 3 -tf 4",1378.9651905625005
+quartz,32,laghos,"-p 1 -dim 3 -rs 3 -tf 4.5",1479.283963562502
+quartz,32,laghos,"-p 1 -dim 3 -rs 3 -tf 4.5 -pa",1476.4784305312512
+quartz,32,laghos,"-p 1 -dim 3 -rs 3 -tf 4 -pa",1379.5124752187505
+quartz,32,laghos,"-p 1 -dim 3 -rs 3 -tf 5",1639.5289166250013
+quartz,32,laghos,"-p 1 -dim 3 -rs 3 -tf 5.5",2285.397739375002
+quartz,32,laghos,"-p 1 -dim 3 -rs 3 -tf 5.5 -pa",2273.762423562502
+quartz,32,laghos,"-p 1 -dim 3 -rs 3 -tf 5 -pa",1635.0013145000016
+quartz,32,laghos,"-p 2 -dim 2 -rs 2 -tf 3.5",8.163866218750002
+quartz,32,laghos,"-p 2 -dim 2 -rs 2 -tf 3.5 -pa",8.273859031250002
+quartz,32,laghos,"-p 2 -dim 2 -rs 2 -tf 3",7.278401937499999
+quartz,32,laghos,"-p 2 -dim 2 -rs 2 -tf 3 -pa",7.196961437500002
+quartz,32,laghos,"-p 2 -dim 2 -rs 2 -tf 4.5",9.5244659375
+quartz,32,laghos,"-p 2 -dim 2 -rs 2 -tf 4.5 -pa",9.5996455
+quartz,32,laghos,"-p 2 -dim 2 -rs 2 -tf 4",8.813869343750003
+quartz,32,laghos,"-p 2 -dim 2 -rs 2 -tf 4 -pa",8.798682156249997
+quartz,32,laghos,"-p 2 -dim 2 -rs 2 -tf 5",10.631736812500002
+quartz,32,laghos,"-p 2 -dim 2 -rs 2 -tf 5.5",11.6143600625
+quartz,32,laghos,"-p 2 -dim 2 -rs 2 -tf 5.5 -pa",11.488010281250002
+quartz,32,laghos,"-p 2 -dim 2 -rs 2 -tf 5 -pa",10.608748625000002
+quartz,32,laghos,"-p 2 -dim 3 -rs 1 -tf 3",11.27108796875
+quartz,32,laghos,"-p 2 -dim 3 -rs 1 -tf 3.5",13.164626812500002
+quartz,32,laghos,"-p 2 -dim 3 -rs 1 -tf 3.5 -pa",13.04329240625
+quartz,32,laghos,"-p 2 -dim 3 -rs 1 -tf 3 -pa",11.430725750000002
+quartz,32,laghos,"-p 2 -dim 3 -rs 1 -tf 4",14.052165250000002
+quartz,32,laghos,"-p 2 -dim 3 -rs 1 -tf 4.5",15.23806540625
+quartz,32,laghos,"-p 2 -dim 3 -rs 1 -tf 4.5 -pa",15.2486855625
+quartz,32,laghos,"-p 2 -dim 3 -rs 1 -tf 4 -pa",14.033402187499998
+quartz,32,laghos,"-p 2 -dim 3 -rs 1 -tf 5",16.989531125000006
+quartz,32,laghos,"-p 2 -dim 3 -rs 1 -tf 5.5",18.782732031250006
+quartz,32,laghos,"-p 2 -dim 3 -rs 1 -tf 5.5 -pa",19.3440799375
+quartz,32,laghos,"-p 2 -dim 3 -rs 1 -tf 5 -pa",17.0085628125
+quartz,32,laghos,"-p 2 -dim 3 -rs 2 -tf 3.5",75.4843605
+quartz,32,laghos,"-p 2 -dim 3 -rs 2 -tf 3.5 -pa",75.33576281249998
+quartz,32,laghos,"-p 2 -dim 3 -rs 2 -tf 3",65.75362499999996
+quartz,32,laghos,"-p 2 -dim 3 -rs 2 -tf 3 -pa",65.80287428124998
+quartz,32,laghos,"-p 2 -dim 3 -rs 2 -tf 4.5",87.20352328124994
+quartz,32,laghos,"-p 2 -dim 3 -rs 2 -tf 4.5 -pa",87.70002121874997
+quartz,32,laghos,"-p 2 -dim 3 -rs 2 -tf 4",79.6858646875
+quartz,32,laghos,"-p 2 -dim 3 -rs 2 -tf 4 -pa",81.04741984375
+quartz,32,laghos,"-p 2 -dim 3 -rs 2 -tf 5.5",105.77283099999998
+quartz,32,laghos,"-p 2 -dim 3 -rs 2 -tf 5.5 -pa",106.18944878125
+quartz,32,laghos,"-p 2 -dim 3 -rs 2 -tf 5",98.55380640624996
+quartz,32,laghos,"-p 2 -dim 3 -rs 2 -tf 5 -pa",98.87631565625
+quartz,32,laghos,"-p 3 -dim 2 -rs 2 -tf 3",0.9733864999999999
+quartz,32,laghos,"-p 3 -dim 2 -rs 2 -tf 3.5",1.09528759375
+quartz,32,laghos,"-p 3 -dim 2 -rs 2 -tf 3.5 -pa",1.1352624062500003
+quartz,32,laghos,"-p 3 -dim 2 -rs 2 -tf 3 -pa",0.9747337500000004
+quartz,32,laghos,"-p 3 -dim 2 -rs 2 -tf 4",1.29180753125
+quartz,32,laghos,"-p 3 -dim 2 -rs 2 -tf 4.5",1.4128041562500004
+quartz,32,laghos,"-p 3 -dim 2 -rs 2 -tf 4.5 -pa",2.3186016250000003
+quartz,32,laghos,"-p 3 -dim 2 -rs 2 -tf 4 -pa",1.2862403437500003
+quartz,32,laghos,"-p 3 -dim 2 -rs 2 -tf 5",1.5492067500000004
+quartz,32,laghos,"-p 3 -dim 2 -rs 2 -tf 5.5",1.6922425312500005
+quartz,32,laghos,"-p 3 -dim 2 -rs 2 -tf 5.5 -pa",1.7183919687500009
+quartz,32,laghos,"-p 3 -dim 2 -rs 2 -tf 5 -pa",1.6012018437500002
+quartz,32,laghos,"-p 3 -dim 2 -rs 3 -tf 5.0",3.85009446875
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 3",1.76604025
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 3.5",2.03873175
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 3.5 -pa",2.04849546875
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 3 -pa",1.7558355625000004
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 4",2.38169571875
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 4.5",2.5917908125
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 4.5 -pa",2.5646704375
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 4 -pa",2.3147491875000004
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 5.0",2.880829125
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 5",2.8653714687500003
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 5.5",3.1555466875
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 5.5 -pa",3.19007453125
+quartz,32,laghos,"-p 3 -dim 3 -rs 1 -tf 5 -pa",3.1742309062500005
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 2.0 -pa",5.528688406249999
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 3.5",9.495037687500002
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 3.5 -pa",9.467205437500002
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 3",8.16731953125
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 3 -pa",8.177258531249999
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 4",10.86804365625
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 4.5",12.059491406250006
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 4.5 -pa",12.06362675
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 4 -pa",10.7494990625
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 5.0",14.061234250000002
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 5.0 -pa",13.879292062499998
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 5",13.468896875
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 5.5",14.885906062499995
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 5.5 -pa",14.789725531250005
+quartz,32,laghos,"-p 3 -dim 3 -rs 2 -tf 5 -pa",13.402501125
+quartz,64,laghos,"-p 3 -dim 2 -rs 3 -tf 5.0",2.8142485703125
+quartz,64,laghos,"-p 3 -dim 3 -rs 1 -tf 5.0",1.8136955000000001
+quartz,64,laghos,"-p 3 -dim 3 -rs 2 -tf 2.0 -pa",2.7841927265625
+quartz,64,laghos,"-p 3 -dim 3 -rs 2 -tf 5.0",7.0571896328125
+quartz,64,laghos,"-p 3 -dim 3 -rs 2 -tf 5.0 -pa",7.191441
+quartz,1,miniFE.x,"-nx 100 -ny 100 -nz 100",5.654979000000001
+quartz,1,miniFE.x,"-nx 100 -ny 100 -nz 50",3.1013820000000005
+quartz,1,miniFE.x,"-nx 100 -ny 50 -nz 50",1.5282715
+quartz,1,miniFE.x,"-nx 100 -ny 75 -nz 50",2.1280600000000005
+quartz,1,miniFE.x,"-nx 100 -ny 75 -nz 75",3.157099
+quartz,1,miniFE.x,"-nx 125 -ny 100 -nz 100",6.8692515000000025
+quartz,1,miniFE.x,"-nx 125 -ny 100 -nz 50",3.6147260000000014
+quartz,1,miniFE.x,"-nx 125 -ny 125 -nz 125",11.0157625
+quartz,1,miniFE.x,"-nx 125 -ny 125 -nz 50",4.602338
+quartz,1,miniFE.x,"-nx 125 -ny 50 -nz 50",1.777276
+quartz,1,miniFE.x,"-nx 125 -ny 75 -nz 50",2.6455730000000006
+quartz,1,miniFE.x,"-nx 125 -ny 75 -nz 75",4.117013
+quartz,1,miniFE.x,"-nx 150 -ny 100 -nz 100",8.467139500000002
+quartz,1,miniFE.x,"-nx 150 -ny 100 -nz 50",4.1528045
+quartz,1,miniFE.x,"-nx 150 -ny 125 -nz 125",13.305719000000005
+quartz,1,miniFE.x,"-nx 150 -ny 125 -nz 50",5.194372
+quartz,1,miniFE.x,"-nx 150 -ny 150 -nz 150",19.601003500000008
+quartz,1,miniFE.x,"-nx 150 -ny 150 -nz 50",6.496696000000001
+quartz,1,miniFE.x,"-nx 150 -ny 50 -nz 50",2.0909945000000008
+quartz,1,miniFE.x,"-nx 150 -ny 75 -nz 50",3.0866985000000007
+quartz,1,miniFE.x,"-nx 150 -ny 75 -nz 75",4.6499135
+quartz,1,miniFE.x,"-nx 175 -ny 100 -nz 100",9.734266000000003
+quartz,1,miniFE.x,"-nx 175 -ny 100 -nz 50",4.8246635
+quartz,1,miniFE.x,"-nx 175 -ny 125 -nz 125",15.707550499999995
+quartz,1,miniFE.x,"-nx 175 -ny 125 -nz 50",6.016005500000002
+quartz,1,miniFE.x,"-nx 175 -ny 150 -nz 150",22.67897899999999
+quartz,1,miniFE.x,"-nx 175 -ny 150 -nz 50",7.540371000000002
+quartz,1,miniFE.x,"-nx 175 -ny 175 -nz 175",31.507722499999996
+quartz,1,miniFE.x,"-nx 175 -ny 175 -nz 50",8.883992499999998
+quartz,1,miniFE.x,"-nx 175 -ny 50 -nz 50",2.411286500000001
+quartz,1,miniFE.x,"-nx 175 -ny 75 -nz 50",3.656534500000001
+quartz,1,miniFE.x,"-nx 175 -ny 75 -nz 75",5.4957385000000025
+quartz,1,miniFE.x,"-nx 200 -ny 100 -nz 100",11.371100499999995
+quartz,1,miniFE.x,"-nx 200 -ny 100 -nz 50",5.5321565
+quartz,1,miniFE.x,"-nx 200 -ny 125 -nz 125",17.852263000000004
+quartz,1,miniFE.x,"-nx 200 -ny 125 -nz 50",7.208269
+quartz,1,miniFE.x,"-nx 200 -ny 150 -nz 150",26.307395500000002
+quartz,1,miniFE.x,"-nx 200 -ny 150 -nz 50",8.600737000000002
+quartz,1,miniFE.x,"-nx 200 -ny 175 -nz 175",36.1294385
+quartz,1,miniFE.x,"-nx 200 -ny 175 -nz 50",9.8782645
+quartz,1,miniFE.x,"-nx 200 -ny 200 -nz 200",50.067367499999996
+quartz,1,miniFE.x,"-nx 200 -ny 200 -nz 50",11.712288000000001
+quartz,1,miniFE.x,"-nx 200 -ny 50 -nz 50",2.7670605000000013
+quartz,1,miniFE.x,"-nx 200 -ny 75 -nz 50",4.4492135
+quartz,1,miniFE.x,"-nx 200 -ny 75 -nz 75",6.2384840000000015
+quartz,1,miniFE.x,"-nx 50 -ny 50 -nz 50",0.627903
+quartz,1,miniFE.x,"-nx 75 -ny 50 -nz 50",1.0335434999999995
+quartz,1,miniFE.x,"-nx 75 -ny 75 -nz 50",1.5935625000000002
+quartz,1,miniFE.x,"-nx 75 -ny 75 -nz 75",2.3129435000000007
+quartz,32,miniFE.x,"-nx 100 -ny 100 -nz 100",0.690265828125
+quartz,32,miniFE.x,"-nx 100 -ny 100 -nz 50",0.44808778125
+quartz,32,miniFE.x,"-nx 100 -ny 50 -nz 50",0.314950953125
+quartz,32,miniFE.x,"-nx 100 -ny 75 -nz 50",0.4033669218750001
+quartz,32,miniFE.x,"-nx 100 -ny 75 -nz 75",0.4759628125
+quartz,32,miniFE.x,"-nx 125 -ny 100 -nz 100",0.7925934374999998
+quartz,32,miniFE.x,"-nx 125 -ny 100 -nz 50",0.522957640625
+quartz,32,miniFE.x,"-nx 125 -ny 125 -nz 125",1.1153501874999998
+quartz,32,miniFE.x,"-nx 125 -ny 125 -nz 50",0.5938456875
+quartz,32,miniFE.x,"-nx 125 -ny 50 -nz 50",0.347701953125
+quartz,32,miniFE.x,"-nx 125 -ny 75 -nz 50",0.4479618593750001
+quartz,32,miniFE.x,"-nx 125 -ny 75 -nz 75",0.5646846562500001
+quartz,32,miniFE.x,"-nx 150 -ny 100 -nz 100",0.915701203125
+quartz,32,miniFE.x,"-nx 150 -ny 100 -nz 50",0.57728234375
+quartz,32,miniFE.x,"-nx 150 -ny 125 -nz 125",1.282578125
+quartz,32,miniFE.x,"-nx 150 -ny 125 -nz 50",0.6628030624999999
+quartz,32,miniFE.x,"-nx 150 -ny 150 -nz 150",1.7522326718750003
+quartz,32,miniFE.x,"-nx 150 -ny 150 -nz 50",0.746296125
+quartz,32,miniFE.x,"-nx 150 -ny 50 -nz 50",0.3842586874999999
+quartz,32,miniFE.x,"-nx 150 -ny 75 -nz 50",0.50207090625
+quartz,32,miniFE.x,"-nx 150 -ny 75 -nz 75",0.6163775000000001
+quartz,32,miniFE.x,"-nx 175 -ny 100 -nz 100",1.0095508281250003
+quartz,32,miniFE.x,"-nx 175 -ny 100 -nz 50",0.63271465625
+quartz,32,miniFE.x,"-nx 175 -ny 125 -nz 125",1.46051446875
+quartz,32,miniFE.x,"-nx 175 -ny 125 -nz 50",0.7279793906249998
+quartz,32,miniFE.x,"-nx 175 -ny 150 -nz 150",2.0312253125
+quartz,32,miniFE.x,"-nx 175 -ny 150 -nz 50",0.8237492812500002
+quartz,32,miniFE.x,"-nx 175 -ny 175 -nz 175",2.674774671875
+quartz,32,miniFE.x,"-nx 175 -ny 175 -nz 50",0.92586459375
+quartz,32,miniFE.x,"-nx 175 -ny 50 -nz 50",0.4324233124999999
+quartz,32,miniFE.x,"-nx 175 -ny 75 -nz 50",0.522539265625
+quartz,32,miniFE.x,"-nx 175 -ny 75 -nz 75",0.6774501093749999
+quartz,32,miniFE.x,"-nx 200 -ny 100 -nz 100",1.0988816093750002
+quartz,32,miniFE.x,"-nx 200 -ny 100 -nz 50",0.6944174062500001
+quartz,32,miniFE.x,"-nx 200 -ny 125 -nz 125",1.6424509375
+quartz,32,miniFE.x,"-nx 200 -ny 125 -nz 50",0.8232639531250001
+quartz,32,miniFE.x,"-nx 200 -ny 150 -nz 150",2.2492563906250007
+quartz,32,miniFE.x,"-nx 200 -ny 150 -nz 50",0.903712609375
+quartz,32,miniFE.x,"-nx 200 -ny 175 -nz 175",3.0548944062499994
+quartz,32,miniFE.x,"-nx 200 -ny 175 -nz 50",1.0172719843750002
+quartz,32,miniFE.x,"-nx 200 -ny 200 -nz 200",3.9044736093749988
+quartz,32,miniFE.x,"-nx 200 -ny 200 -nz 50",1.128259828125
+quartz,32,miniFE.x,"-nx 200 -ny 50 -nz 50",0.4592171875000001
+quartz,32,miniFE.x,"-nx 200 -ny 75 -nz 50",0.569148578125
+quartz,32,miniFE.x,"-nx 200 -ny 75 -nz 75",0.7234245468750001
+quartz,32,miniFE.x,"-nx 50 -ny 50 -nz 50",0.27459140624999995
+quartz,32,miniFE.x,"-nx 75 -ny 50 -nz 50",0.2761608125
+quartz,32,miniFE.x,"-nx 75 -ny 75 -nz 50",0.3245983593750001
+quartz,32,miniFE.x,"-nx 75 -ny 75 -nz 75",0.395420953125
+quartz,1,miniVite,"-l -p 1 -n 128",0.03571880821917808
+quartz,1,miniVite,"-l -p 1 -n 256",0.012378931506849315
+quartz,1,miniVite,"-l -p 1 -n 32",0.02408109589041096
+quartz,1,miniVite,"-l -p 1 -n 512",0.07972901369863013
+quartz,1,miniVite,"-l -p 1 -n 64",0.05677139726027398
+quartz,1,miniVite,"-l -p 2 -n 128",0.030694424657534244
+quartz,1,miniVite,"-l -p 2 -n 256",0.03621413698630137
+quartz,1,miniVite,"-l -p 2 -n 32",0.037198
+quartz,1,miniVite,"-l -p 2 -n 512",0.05175769863013698
+quartz,1,miniVite,"-l -p 2 -n 64",0.030235465753424662
+quartz,1,miniVite,"-l -p 3 -n 128",0.006051602739726026
+quartz,1,miniVite,"-l -p 3 -n 256",0.08660047945205479
+quartz,1,miniVite,"-l -p 3 -n 32",0.03582223287671233
+quartz,1,miniVite,"-l -p 3 -n 512",0.053704397260273984
+quartz,1,miniVite,"-l -p 3 -n 64",0.0295581095890411
+quartz,1,miniVite,"-l -p 4 -n 128",0.036762041095890416
+quartz,1,miniVite,"-l -p 4 -n 256",0.01290313698630137
+quartz,1,miniVite,"-l -p 4 -n 32",0.012703
+quartz,1,miniVite,"-l -p 4 -n 512",0.05000130136986302
+quartz,1,miniVite,"-l -p 4 -n 64",0.00610409589041096
+quartz,1,miniVite,"-l -p 5 -n 128",0.036170287671232884
+quartz,1,miniVite,"-l -p 5 -n 256",0.047688602739726034
+quartz,1,miniVite,"-l -p 5 -n 32",0.02320980821917808
+quartz,1,miniVite,"-l -p 5 -n 512",0.05387539726027397
+quartz,1,miniVite,"-l -p 5 -n 64",0.023600849315068492
+quartz,1,miniVite,"-l -p 6 -n 128",0.07367208219178083
+quartz,1,miniVite,"-l -p 6 -n 256",0.07300438356164382
+quartz,1,miniVite,"-l -p 6 -n 32",0.02430346575342466
+quartz,1,miniVite,"-l -p 6 -n 512",0.05675783561643835
+quartz,1,miniVite,"-l -p 6 -n 64",0.02011454794520548
+quartz,1,miniVite,"-l -p 7 -n 128",0.017400342465753425
+quartz,1,miniVite,"-l -p 7 -n 256",0.0690339315068493
+quartz,1,miniVite,"-l -p 7 -n 32",0.012073671232876712
+quartz,1,miniVite,"-l -p 7 -n 512",0.05583202739726028
+quartz,1,miniVite,"-l -p 7 -n 64",0.043464589041095895
+quartz,1,miniVite,"-l -p 8 -n 128",0.030420273972602743
+quartz,1,miniVite,"-l -p 8 -n 256",0.0563745205479452
+quartz,1,miniVite,"-l -p 8 -n 32",0.03476667123287671
+quartz,1,miniVite,"-l -p 8 -n 512",0.07116934246575342
+quartz,1,miniVite,"-l -p 8 -n 64",0.02433775342465753
+quartz,1,miniVite,"-l -p 9 -n 128",0.018844013698630136
+quartz,1,miniVite,"-l -p 9 -n 256",0.08748347945205477
+quartz,1,miniVite,"-l -p 9 -n 32",0.022914246575342467
+quartz,1,miniVite,"-l -p 9 -n 512",0.12359493150684933
+quartz,1,miniVite,"-l -p 9 -n 64",0.023835821917808225
+quartz,1,miniVite,"-p 1 -n 128",0.029853246575342458
+quartz,1,miniVite,"-p 1 -n 256",0.033170534246575345
+quartz,1,miniVite,"-p 1 -n 32",0.006935958904109591
+quartz,1,miniVite,"-p 1 -n 512",0.07488606849315067
+quartz,1,miniVite,"-p 1 -n 64",0.024310205479452056
+quartz,1,miniVite,"-p 2 -n 128",0.04169954794520548
+quartz,1,miniVite,"-p 2 -n 256",0.09259579452054796
+quartz,1,miniVite,"-p 2 -n 32",0.013441123287671232
+quartz,1,miniVite,"-p 2 -n 512",0.05989908219178083
+quartz,1,miniVite,"-p 2 -n 64",0.019248041095890414
+quartz,1,miniVite,"-p 3 -n 128",0.04509861643835617
+quartz,1,miniVite,"-p 3 -n 256",0.055579479452054784
+quartz,1,miniVite,"-p 3 -n 32",0.02487058904109589
+quartz,1,miniVite,"-p 3 -n 512",0.11966476712328768
+quartz,1,miniVite,"-p 3 -n 64",0.05862384931506848
+quartz,1,miniVite,"-p 4 -n 128",0.05591464383561643
+quartz,1,miniVite,"-p 4 -n 256",0.0568973698630137
+quartz,1,miniVite,"-p 4 -n 32",0.011880657534246577
+quartz,1,miniVite,"-p 4 -n 512",0.0368148904109589
+quartz,1,miniVite,"-p 4 -n 64",0.042581931506849316
+quartz,1,miniVite,"-p 5 -n 128",0.03629105479452055
+quartz,1,miniVite,"-p 5 -n 256",0.08220779452054794
+quartz,1,miniVite,"-p 5 -n 32",0.07523830136986302
+quartz,1,miniVite,"-p 5 -n 512",0.08794483561643836
+quartz,1,miniVite,"-p 5 -n 64",0.029526191780821918
+quartz,1,miniVite,"-p 6 -n 128",0.0420846301369863
+quartz,1,miniVite,"-p 6 -n 256",0.05014356164383561
+quartz,1,miniVite,"-p 6 -n 32",0.01786990410958904
+quartz,1,miniVite,"-p 6 -n 512",0.07871930136986302
+quartz,1,miniVite,"-p 6 -n 64",0.012137205479452054
+quartz,1,miniVite,"-p 7 -n 128",0.030381219178082192
+quartz,1,miniVite,"-p 7 -n 256",0.04709576712328768
+quartz,1,miniVite,"-p 7 -n 32",0.02876421917808219
+quartz,1,miniVite,"-p 7 -n 512",0.06990231506849312
+quartz,1,miniVite,"-p 7 -n 64",0.0551874383561644
+quartz,1,miniVite,"-p 8 -n 128",0.02415226027397261
+quartz,1,miniVite,"-p 8 -n 256",0.037506273972602734
+quartz,1,miniVite,"-p 8 -n 32",0.011808301369863014
+quartz,1,miniVite,"-p 8 -n 512",0.07345086301369863
+quartz,1,miniVite,"-p 8 -n 64",0.03335483561643835
+quartz,1,miniVite,"-p 9 -n 128",0.03835676712328767
+quartz,1,miniVite,"-p 9 -n 256",0.041153835616438365
+quartz,1,miniVite,"-p 9 -n 32",0.018150534246575343
+quartz,1,miniVite,"-p 9 -n 512",0.10313460273972604
+quartz,1,miniVite,"-p 9 -n 64",0.00623968493150685
+quartz,1,miniVite,"-w -l -p 1 -n 128",0.04361021917808218
+quartz,1,miniVite,"-w -l -p 1 -n 256",0.028476767123287675
+quartz,1,miniVite,"-w -l -p 1 -n 32",0.04243854794520548
+quartz,1,miniVite,"-w -l -p 1 -n 512",0.04858756164383561
+quartz,1,miniVite,"-w -l -p 1 -n 64",0.01161535616438356
+quartz,1,miniVite,"-w -l -p 2 -n 128",0.06292327397260274
+quartz,1,miniVite,"-w -l -p 2 -n 256",0.01225354794520548
+quartz,1,miniVite,"-w -l -p 2 -n 32",0.027934506849315068
+quartz,1,miniVite,"-w -l -p 2 -n 512",0.04804121917808219
+quartz,1,miniVite,"-w -l -p 2 -n 64",0.028183342465753426
+quartz,1,miniVite,"-w -l -p 3 -n 128",0.011931835616438357
+quartz,1,miniVite,"-w -l -p 3 -n 256",0.03396536986301369
+quartz,1,miniVite,"-w -l -p 3 -n 32",0.011977232876712329
+quartz,1,miniVite,"-w -l -p 3 -n 512",0.05532821917808218
+quartz,1,miniVite,"-w -l -p 3 -n 64",0.024530698630136984
+quartz,1,miniVite,"-w -l -p 4 -n 128",0.03161713698630137
+quartz,1,miniVite,"-w -l -p 4 -n 256",0.10367895890410958
+quartz,1,miniVite,"-w -l -p 4 -n 32",0.030476808219178086
+quartz,1,miniVite,"-w -l -p 4 -n 512",0.05021487671232877
+quartz,1,miniVite,"-w -l -p 4 -n 64",0.0776308904109589
+quartz,1,miniVite,"-w -l -p 5 -n 128",0.0248298904109589
+quartz,1,miniVite,"-w -l -p 5 -n 256",0.05687219178082191
+quartz,1,miniVite,"-w -l -p 5 -n 32",0.025290671232876715
+quartz,1,miniVite,"-w -l -p 5 -n 512",0.034817027397260274
+quartz,1,miniVite,"-w -l -p 5 -n 64",0.022879260273972604
+quartz,1,miniVite,"-w -l -p 6 -n 128",0.02970046575342465
+quartz,1,miniVite,"-w -l -p 6 -n 256",0.04792009589041096
+quartz,1,miniVite,"-w -l -p 6 -n 32",0.00657009589041096
+quartz,1,miniVite,"-w -l -p 6 -n 512",0.053100452054794516
+quartz,1,miniVite,"-w -l -p 6 -n 64",0.0317808904109589
+quartz,1,miniVite,"-w -l -p 7 -n 128",0.030635041095890405
+quartz,1,miniVite,"-w -l -p 7 -n 256",0.057357890410958914
+quartz,1,miniVite,"-w -l -p 7 -n 32",0.05159491780821918
+quartz,1,miniVite,"-w -l -p 7 -n 512",0.04875342465753425
+quartz,1,miniVite,"-w -l -p 7 -n 64",0.025813863013698632
+quartz,1,miniVite,"-w -l -p 8 -n 128",0.052999821917808214
+quartz,1,miniVite,"-w -l -p 8 -n 256",0.05862212328767125
+quartz,1,miniVite,"-w -l -p 8 -n 32",0.029393273972602725
+quartz,1,miniVite,"-w -l -p 8 -n 512",0.05354705479452055
+quartz,1,miniVite,"-w -l -p 8 -n 64",0.030229808219178082
+quartz,1,miniVite,"-w -l -p 9 -n 128",0.030651602739726024
+quartz,1,miniVite,"-w -l -p 9 -n 256",0.04899450684931507
+quartz,1,miniVite,"-w -l -p 9 -n 32",0.011288383561643836
+quartz,1,miniVite,"-w -l -p 9 -n 512",0.034338068493150686
+quartz,1,miniVite,"-w -l -p 9 -n 64",0.006029794520547944
+quartz,1,miniVite,"-w -p 1 -n 128",0.0494492602739726
+quartz,1,miniVite,"-w -p 1 -n 256",0.04098072602739727
+quartz,1,miniVite,"-w -p 1 -n 32",0.028296616438356164
+quartz,1,miniVite,"-w -p 1 -n 512",0.04875541095890412
+quartz,1,miniVite,"-w -p 1 -n 64",0.04150382191780823
+quartz,1,miniVite,"-w -p 2 -n 128",0.04984849315068493
+quartz,1,miniVite,"-w -p 2 -n 256",0.04024436986301369
+quartz,1,miniVite,"-w -p 2 -n 32",0.016880397260273967
+quartz,1,miniVite,"-w -p 2 -n 512",0.06959547945205477
+quartz,1,miniVite,"-w -p 2 -n 64",0.012156876712328771
+quartz,1,miniVite,"-w -p 3 -n 128",0.023860150684931504
+quartz,1,miniVite,"-w -p 3 -n 256",0.05140109589041096
+quartz,1,miniVite,"-w -p 3 -n 32",0.02446253424657534
+quartz,1,miniVite,"-w -p 3 -n 512",0.06380349315068494
+quartz,1,miniVite,"-w -p 3 -n 64",0.0241872191780822
+quartz,1,miniVite,"-w -p 4 -n 128",0.06725597260273973
+quartz,1,miniVite,"-w -p 4 -n 256",0.05227475342465753
+quartz,1,miniVite,"-w -p 4 -n 32",0.017251657534246574
+quartz,1,miniVite,"-w -p 4 -n 512",0.11254278082191782
+quartz,1,miniVite,"-w -p 4 -n 64",0.030228821917808218
+quartz,1,miniVite,"-w -p 5 -n 128",0.018764452054794524
+quartz,1,miniVite,"-w -p 5 -n 256",0.0355518904109589
+quartz,1,miniVite,"-w -p 5 -n 32",0.05603931506849315
+quartz,1,miniVite,"-w -p 5 -n 512",0.05067569863013699
+quartz,1,miniVite,"-w -p 5 -n 64",0.011879780821917806
+quartz,1,miniVite,"-w -p 6 -n 128",0.03161191780821918
+quartz,1,miniVite,"-w -p 6 -n 256",0.02411379452054794
+quartz,1,miniVite,"-w -p 6 -n 32",0.006004479452054797
+quartz,1,miniVite,"-w -p 6 -n 512",0.050101972602739735
+quartz,1,miniVite,"-w -p 6 -n 64",0.006570767123287672
+quartz,1,miniVite,"-w -p 7 -n 128",0.06851923287671233
+quartz,1,miniVite,"-w -p 7 -n 256",0.06947527397260272
+quartz,1,miniVite,"-w -p 7 -n 32",0.017367643835616443
+quartz,1,miniVite,"-w -p 7 -n 512",0.05847219178082193
+quartz,1,miniVite,"-w -p 7 -n 64",0.02302656164383561
+quartz,1,miniVite,"-w -p 8 -n 128",0.013385410958904113
+quartz,1,miniVite,"-w -p 8 -n 256",0.08433531506849315
+quartz,1,miniVite,"-w -p 8 -n 32",0.016716328767123288
+quartz,1,miniVite,"-w -p 8 -n 512",0.10765887671232878
+quartz,1,miniVite,"-w -p 8 -n 64",0.024675657534246567
+quartz,1,miniVite,"-w -p 9 -n 128",0.036605027397260265
+quartz,1,miniVite,"-w -p 9 -n 256",0.02317750684931507
+quartz,1,miniVite,"-w -p 9 -n 32",0.0181622602739726
+quartz,1,miniVite,"-w -p 9 -n 512",0.050149890410958894
+quartz,1,miniVite,"-w -p 9 -n 64",0.010796205479452056
+quartz,32,miniVite,"-l -p 1 -n 16384",0.29337385937500005
+quartz,32,miniVite,"-l -p 1 -n 4096",0.29375106249999994
+quartz,32,miniVite,"-l -p 1 -n 8192",0.2820677187499999
+quartz,32,miniVite,"-l -p 2 -n 16384",0.29446187500000004
+quartz,32,miniVite,"-l -p 2 -n 4096",0.2604235625000001
+quartz,32,miniVite,"-l -p 2 -n 8192",0.26459035937500003
+quartz,32,miniVite,"-l -p 3 -n 16384",0.2959003750000001
+quartz,32,miniVite,"-l -p 3 -n 4096",0.270775359375
+quartz,32,miniVite,"-l -p 3 -n 8192",0.28506785937499995
+quartz,32,miniVite,"-l -p 4 -n 16384",0.2894386250000001
+quartz,32,miniVite,"-l -p 4 -n 4096",0.2920370781250001
+quartz,32,miniVite,"-l -p 4 -n 8192",0.27940096875000003
+quartz,32,miniVite,"-l -p 5 -n 16384",0.285534796875
+quartz,32,miniVite,"-l -p 5 -n 4096",0.28713646875
+quartz,32,miniVite,"-l -p 5 -n 8192",0.27150726562499994
+quartz,32,miniVite,"-l -p 6 -n 16384",0.2912281250000001
+quartz,32,miniVite,"-l -p 6 -n 4096",0.294402046875
+quartz,32,miniVite,"-l -p 6 -n 8192",0.271573125
+quartz,32,miniVite,"-l -p 7 -n 16384",0.29162253124999993
+quartz,32,miniVite,"-l -p 7 -n 4096",0.2704816875
+quartz,32,miniVite,"-l -p 7 -n 8192",0.2732967187500001
+quartz,32,miniVite,"-l -p 8 -n 16384",0.28776784375
+quartz,32,miniVite,"-l -p 8 -n 4096",0.25075493750000005
+quartz,32,miniVite,"-l -p 8 -n 8192",0.2871787812500001
+quartz,32,miniVite,"-l -p 9 -n 16384",0.291121
+quartz,32,miniVite,"-l -p 9 -n 4096",0.26241610937500004
+quartz,32,miniVite,"-l -p 9 -n 8192",0.268142953125
+quartz,32,miniVite,"-p 1 -n 16384",0.289609234375
+quartz,32,miniVite,"-p 1 -n 4096",0.25844312499999994
+quartz,32,miniVite,"-p 1 -n 8192",0.289810296875
+quartz,32,miniVite,"-p 2 -n 16384",0.27492284375
+quartz,32,miniVite,"-p 2 -n 4096",0.2693488125
+quartz,32,miniVite,"-p 2 -n 8192",0.248755421875
+quartz,32,miniVite,"-p 3 -n 16384",0.2897356875
+quartz,32,miniVite,"-p 3 -n 4096",0.29804931249999994
+quartz,32,miniVite,"-p 3 -n 8192",0.27164707812500005
+quartz,32,miniVite,"-p 4 -n 16384",0.2928775625000001
+quartz,32,miniVite,"-p 4 -n 4096",0.28467528125
+quartz,32,miniVite,"-p 4 -n 8192",0.27971653125
+quartz,32,miniVite,"-p 5 -n 16384",0.29049728125
+quartz,32,miniVite,"-p 5 -n 4096",0.28280200000000005
+quartz,32,miniVite,"-p 5 -n 8192",0.26133389062499995
+quartz,32,miniVite,"-p 6 -n 16384",0.28326178125
+quartz,32,miniVite,"-p 6 -n 4096",0.28295509375
+quartz,32,miniVite,"-p 6 -n 8192",0.27703065625
+quartz,32,miniVite,"-p 7 -n 16384",0.3000536562499999
+quartz,32,miniVite,"-p 7 -n 4096",0.277897171875
+quartz,32,miniVite,"-p 7 -n 8192",0.2856628125
+quartz,32,miniVite,"-p 8 -n 16384",0.2933265625
+quartz,32,miniVite,"-p 8 -n 4096",0.2795594375000001
+quartz,32,miniVite,"-p 8 -n 8192",0.28068396875
+quartz,32,miniVite,"-p 9 -n 16384",0.283119234375
+quartz,32,miniVite,"-p 9 -n 4096",0.27070662500000003
+quartz,32,miniVite,"-p 9 -n 8192",0.25584095312500005
+quartz,32,miniVite,"-w -l -p 1 -n 16384",0.2941013125
+quartz,32,miniVite,"-w -l -p 1 -n 4096",0.261201421875
+quartz,32,miniVite,"-w -l -p 1 -n 8192",0.2824947343750001
+quartz,32,miniVite,"-w -l -p 2 -n 16384",0.28301625
+quartz,32,miniVite,"-w -l -p 2 -n 4096",0.301419328125
+quartz,32,miniVite,"-w -l -p 2 -n 8192",0.295807640625
+quartz,32,miniVite,"-w -l -p 3 -n 16384",0.312711921875
+quartz,32,miniVite,"-w -l -p 3 -n 4096",0.2884407343750001
+quartz,32,miniVite,"-w -l -p 3 -n 8192",0.2788508125
+quartz,32,miniVite,"-w -l -p 4 -n 16384",0.28294676562500004
+quartz,32,miniVite,"-w -l -p 4 -n 4096",0.27457939062500003
+quartz,32,miniVite,"-w -l -p 4 -n 8192",0.275025109375
+quartz,32,miniVite,"-w -l -p 5 -n 16384",0.2944817812500001
+quartz,32,miniVite,"-w -l -p 5 -n 4096",0.27990723437500004
+quartz,32,miniVite,"-w -l -p 5 -n 8192",0.26770967187499994
+quartz,32,miniVite,"-w -l -p 6 -n 16384",0.28771585937499994
+quartz,32,miniVite,"-w -l -p 6 -n 4096",0.27934226562500003
+quartz,32,miniVite,"-w -l -p 6 -n 8192",0.27502809375
+quartz,32,miniVite,"-w -l -p 7 -n 16384",0.269855515625
+quartz,32,miniVite,"-w -l -p 7 -n 4096",0.268878953125
+quartz,32,miniVite,"-w -l -p 7 -n 8192",0.288426703125
+quartz,32,miniVite,"-w -l -p 8 -n 16384",0.2954421406250001
+quartz,32,miniVite,"-w -l -p 8 -n 4096",0.27214679687499993
+quartz,32,miniVite,"-w -l -p 8 -n 8192",0.280348078125
+quartz,32,miniVite,"-w -l -p 9 -n 16384",0.268351109375
+quartz,32,miniVite,"-w -l -p 9 -n 4096",0.3144946562499999
+quartz,32,miniVite,"-w -l -p 9 -n 8192",0.269155796875
+quartz,32,miniVite,"-w -p 1 -n 16384",0.25883948437500004
+quartz,32,miniVite,"-w -p 1 -n 4096",0.29221235937499995
+quartz,32,miniVite,"-w -p 1 -n 8192",0.284587765625
+quartz,32,miniVite,"-w -p 2 -n 16384",0.2770809375
+quartz,32,miniVite,"-w -p 2 -n 4096",0.287342796875
+quartz,32,miniVite,"-w -p 2 -n 8192",0.289983046875
+quartz,32,miniVite,"-w -p 3 -n 16384",0.3020728593750001
+quartz,32,miniVite,"-w -p 3 -n 4096",0.2709719375
+quartz,32,miniVite,"-w -p 3 -n 8192",0.34686481249999995
+quartz,32,miniVite,"-w -p 4 -n 16384",0.3004820468750001
+quartz,32,miniVite,"-w -p 4 -n 4096",0.28060553125
+quartz,32,miniVite,"-w -p 4 -n 8192",0.303275640625
+quartz,32,miniVite,"-w -p 5 -n 16384",0.2928079687500001
+quartz,32,miniVite,"-w -p 5 -n 4096",0.26597817187499995
+quartz,32,miniVite,"-w -p 5 -n 8192",0.2835893750000001
+quartz,32,miniVite,"-w -p 6 -n 16384",0.298600328125
+quartz,32,miniVite,"-w -p 6 -n 4096",0.278879296875
+quartz,32,miniVite,"-w -p 6 -n 8192",0.283159484375
+quartz,32,miniVite,"-w -p 7 -n 16384",0.2910544062500001
+quartz,32,miniVite,"-w -p 7 -n 4096",0.286295421875
+quartz,32,miniVite,"-w -p 7 -n 8192",0.3060100937500001
+quartz,32,miniVite,"-w -p 8 -n 16384",0.28766084374999995
+quartz,32,miniVite,"-w -p 8 -n 4096",0.2738425781250001
+quartz,32,miniVite,"-w -p 8 -n 8192",0.274088890625
+quartz,32,miniVite,"-w -p 9 -n 16384",0.279133953125
+quartz,32,miniVite,"-w -p 9 -n 4096",0.2743915312500001
+quartz,32,miniVite,"-w -p 9 -n 8192",0.26451759375
+quartz,1,TestDfft,"10 100",1.4605489999999999
+quartz,1,TestDfft,"10 120",2.7799840000000002
+quartz,1,TestDfft,"10 128",4.3237239999999995
+quartz,1,TestDfft,"10 140",4.3821330000000005
+quartz,1,TestDfft,"10 160",6.854841000000001
+quartz,1,TestDfft,"10 180",9.554459000000003
+quartz,1,TestDfft,"10 200",13.247938999999995
+quartz,1,TestDfft,"10 220",18.184673
+quartz,1,TestDfft,"10 240",23.274089
+quartz,1,TestDfft,"10 256",36.72502499999999
+quartz,1,TestDfft,"10 32",0.069725
+quartz,1,TestDfft,"10 64",0.4248329999999999
+quartz,1,TestDfft,"12 128",4.8629180000000005
+quartz,1,TestDfft,"12 256",44.465362
+quartz,1,TestDfft,"12 32",0.074705
+quartz,1,TestDfft,"12 64",0.504834
+quartz,1,TestDfft,"14 128",5.6336020000000016
+quartz,1,TestDfft,"14 256",52.035281999999974
+quartz,1,TestDfft,"14 32",0.07877400000000001
+quartz,1,TestDfft,"14 64",0.5348329999999999
+quartz,1,TestDfft,"15 100",2.088555
+quartz,1,TestDfft,"15 120",3.9884370000000002
+quartz,1,TestDfft,"15 140",6.329615000000001
+quartz,1,TestDfft,"15 160",10.022818
+quartz,1,TestDfft,"15 180",13.832303
+quartz,1,TestDfft,"15 200",19.459884
+quartz,1,TestDfft,"15 220",26.98559199999999
+quartz,1,TestDfft,"15 240",34.10557899999999
+quartz,1,TestDfft,"16 128",6.198375
+quartz,1,TestDfft,"16 256",60.83969899999988
+quartz,1,TestDfft,"16 32",0.105161
+quartz,1,TestDfft,"16 64",0.6053069999999999
+quartz,1,TestDfft,"18 128",7.017222
+quartz,1,TestDfft,"18 256",66.17178799999982
+quartz,1,TestDfft,"18 32",0.09967899999999999
+quartz,1,TestDfft,"18 64",0.62412
+quartz,1,TestDfft,"20 100",2.731789
+quartz,1,TestDfft,"20 120",4.982803
+quartz,1,TestDfft,"20 128",7.687363000000001
+quartz,1,TestDfft,"20 140",8.255625
+quartz,1,TestDfft,"20 160",12.78757
+quartz,1,TestDfft,"20 180",18.859729999999995
+quartz,1,TestDfft,"20 200",25.202821
+quartz,1,TestDfft,"20 220",35.490843
+quartz,1,TestDfft,"20 240",45.13501599999999
+quartz,1,TestDfft,"20 256",70.99630800000007
+quartz,1,TestDfft,"20 32",0.10598099999999998
+quartz,1,TestDfft,"20 64",0.698168
+quartz,32,TestDfft,"10 120",0.4769946250000001
+quartz,32,TestDfft,"10 128",0.4014999375000001
+quartz,32,TestDfft,"10 160",0.91354496875
+quartz,32,TestDfft,"10 200",1.7388225000000002
+quartz,32,TestDfft,"10 240",3.2786044999999997
+quartz,32,TestDfft,"10 256",3.76508396875
+quartz,32,TestDfft,"10 32",0.07142240625000001
+quartz,32,TestDfft,"10 64",0.131199375
+quartz,32,TestDfft,"12 128",0.4568311875000001
+quartz,32,TestDfft,"12 256",4.440376812500001
+quartz,32,TestDfft,"12 32",0.07632021875000003
+quartz,32,TestDfft,"12 64",0.14076115624999996
+quartz,32,TestDfft,"14 128",0.50754234375
+quartz,32,TestDfft,"14 256",5.17764478125
+quartz,32,TestDfft,"14 32",0.07971234374999997
+quartz,32,TestDfft,"14 64",0.1507785625
+quartz,32,TestDfft,"15 120",0.56840609375
+quartz,32,TestDfft,"15 160",1.25153675
+quartz,32,TestDfft,"15 200",2.45298271875
+quartz,32,TestDfft,"15 240",4.64856875
+quartz,32,TestDfft,"16 128",0.5625810624999998
+quartz,32,TestDfft,"16 256",5.926427249999999
+quartz,32,TestDfft,"16 32",0.08399715625
+quartz,32,TestDfft,"16 64",0.15498696875
+quartz,32,TestDfft,"18 128",0.60736771875
+quartz,32,TestDfft,"18 256",6.653381093750001
+quartz,32,TestDfft,"18 32",0.0863705625
+quartz,32,TestDfft,"18 64",0.16681528125
+quartz,32,TestDfft,"20 120",0.67661
+quartz,32,TestDfft,"20 128",0.6565581562499998
+quartz,32,TestDfft,"20 160",1.5635084375000006
+quartz,32,TestDfft,"20 200",3.199984125
+quartz,32,TestDfft,"20 240",6.009287218749997
+quartz,32,TestDfft,"20 256",7.323210312500001
+quartz,32,TestDfft,"20 32",0.091389125
+quartz,32,TestDfft,"20 64",0.1996044062500001
+quartz,1,XSBench,"-m event -s large -G hash",0.763193
+quartz,1,XSBench,"-m event -s large -G nuclide",0.75416
+quartz,1,XSBench,"-m event -s large -G unionized",6.190045000000005
+quartz,1,XSBench,"-m event -s small -G hash",0.17792400000000005
+quartz,1,XSBench,"-m event -s small -G nuclide",0.178815
+quartz,1,XSBench,"-m event -s small -G unionized",0.438015
+quartz,1,XSBench,"-m event -s XL -G hash",22.44879599999999
+quartz,1,XSBench,"-m event -s XL -G nuclide",22.22012899999999
+quartz,1,XSBench,"-m event -s XL -G unionized",32.554087999999986
+quartz,1,XSBench,"-m event -s XXL -G hash",49.76978499999996
+quartz,1,XSBench,"-m event -s XXL -G nuclide",50.32166899999997
+quartz,1,XSBench,"-m event -s XXL -G unionized",72.02853799999998
+quartz,1,XSBench,"-m history -s large -G hash",0.7624780000000001
+quartz,1,XSBench,"-m history -s large -G nuclide",0.7659290000000001
+quartz,1,XSBench,"-m history -s large -G unionized",6.106293000000008
+quartz,1,XSBench,"-m history -s small -G hash",0.16173400000000002
+quartz,1,XSBench,"-m history -s small -G nuclide",0.162279
+quartz,1,XSBench,"-m history -s small -G unionized",0.4369380000000001
+quartz,1,XSBench,"-m history -s XL -G hash",22.523420999999992
+quartz,1,XSBench,"-m history -s XL -G nuclide",21.872494999999986
+quartz,1,XSBench,"-m history -s XL -G unionized",32.81307499999999
+quartz,1,XSBench,"-m history -s XXL -G hash",50.26826599999998
+quartz,1,XSBench,"-m history -s XXL -G nuclide",51.134042999999984
+quartz,1,XSBench,"-m history -s XXL -G unionized",71.11690799999997
+ruby,1,amg,"-problem 2 -P 1 1 1 -n 128 128 128",20.377176714285728
+ruby,1,amg,"-problem 2 -P 1 1 1 -n 16 16 16",0.6612844732142859
+ruby,1,amg,"-problem 2 -P 1 1 1 -n 256 256 256",129.81713610714291
+ruby,1,amg,"-problem 2 -P 1 1 1 -n 32 32 32",1.3126589821428574
+ruby,1,amg,"-problem 2 -P 1 1 1 -n 64 64 64",4.421066098214284
+ruby,1,amg,"-problem 2 -P 1 1 1 -n 8 8 8",0.12229701785714285
+ruby,32,amg,"-problem 1 -P 2 2 1 -n 128 128 64",0.04669328125
+ruby,32,amg,"-problem 1 -P 2 2 1 -n 16 16 8",0.23865778125
+ruby,32,amg,"-problem 1 -P 2 2 1 -n 32 32 16",0.04159071875
+ruby,32,amg,"-problem 1 -P 2 2 1 -n 64 64 32",0.046594375
+ruby,32,amg,"-problem 1 -P 2 2 1 -n 8 8 4",0.04212984375
+ruby,32,amg,"-problem 1 -P 4 4 2 -n 128 128 64",18.32962865625001
+ruby,32,amg,"-problem 1 -P 4 4 2 -n 16 16 8",0.10605303125
+ruby,32,amg,"-problem 1 -P 4 4 2 -n 32 32 16",0.28015909375000003
+ruby,32,amg,"-problem 1 -P 4 4 2 -n 64 64 32",1.9217656875
+ruby,32,amg,"-problem 1 -P 4 4 2 -n 8 8 4",0.25231546875
+ruby,32,amg,"-problem 2 -P 4 4 2 -n 128 128 64",172.18412775000007
+ruby,32,amg,"-problem 2 -P 4 4 2 -n 16 16 8",0.41254884375
+ruby,32,amg,"-problem 2 -P 4 4 2 -n 32 32 16",2.09854984375
+ruby,32,amg,"-problem 2 -P 4 4 2 -n 64 64 32",17.60372415625
+ruby,32,amg,"-problem 2 -P 4 4 2 -n 8 8 4",0.25062353125000003
+ruby,1,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 0",0.011943080357142857
+ruby,1,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 1",0.015165901785714288
+ruby,1,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 2",0.02110676785714285
+ruby,1,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 3",0.029509455357142857
+ruby,1,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 4",0.03986300892857142
+ruby,1,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 0",0.023644071428571427
+ruby,1,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 1",0.03415170535714285
+ruby,1,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 2",0.051052464285714284
+ruby,1,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 3",0.07242599999999999
+ruby,1,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 4",0.1007746785714286
+ruby,1,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 0",0.0063059374999999964
+ruby,1,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 1",0.0078110178571428575
+ruby,1,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 2",0.010055607142857142
+ruby,1,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 3",0.013592116071428573
+ruby,1,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 4",0.017497901785714292
+ruby,1,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 0",0.010158669642857143
+ruby,1,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 1",0.014312803571428572
+ruby,1,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 2",0.019986205357142853
+ruby,1,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 3",0.027461303571428567
+ruby,1,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 4",0.038274848214285714
+ruby,1,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 0",0.02119009821428572
+ruby,1,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 1",0.03165337499999999
+ruby,1,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 2",0.0471745625
+ruby,1,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 3",0.07067208928571428
+ruby,1,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 4",0.09838283035714288
+ruby,1,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 0",0.005970276785714285
+ruby,1,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 1",0.006856526785714286
+ruby,1,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 2",0.00914425
+ruby,1,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 3",0.012449339285714284
+ruby,1,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 4",0.016409874999999997
+ruby,1,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 0",0.016581767857142857
+ruby,1,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 1",0.022718339285714286
+ruby,1,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 2",0.03173045535714285
+ruby,1,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 3",0.04322050892857142
+ruby,1,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 4",0.05942148214285715
+ruby,1,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 0",0.03466541964285714
+ruby,1,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 1",0.0503929107142857
+ruby,1,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 2",0.07452622321428573
+ruby,1,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 3",0.10821800000000001
+ruby,1,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 4",0.15027929464285714
+ruby,1,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 0",0.008616187499999999
+ruby,1,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 1",0.011155285714285715
+ruby,1,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 2",0.013591276785714285
+ruby,1,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 3",0.01990138392857143
+ruby,1,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 4",0.026370901785714284
+ruby,1,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 0",0.01508008035714286
+ruby,1,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 1",0.02133878571428572
+ruby,1,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 2",0.02996961607142857
+ruby,1,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 3",0.04205685714285714
+ruby,1,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 4",0.05785239285714287
+ruby,1,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 0",0.031018866071428543
+ruby,1,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 1",0.047210124999999985
+ruby,1,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 2",0.06919941071428573
+ruby,1,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 3",0.10206860714285712
+ruby,1,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 4",0.14842365178571426
+ruby,1,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 0",0.007025250000000002
+ruby,1,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 1",0.00997844642857143
+ruby,1,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 2",0.013661491071428573
+ruby,1,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 3",0.018706178571428568
+ruby,1,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 4",0.024869187500000004
+ruby,1,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 0",0.037201749999999985
+ruby,1,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 1",0.10841634821428564
+ruby,1,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 2",0.07753708035714282
+ruby,1,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 3",0.10759372321428567
+ruby,1,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 4",0.15166396428571427
+ruby,1,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 0",0.07976814285714284
+ruby,1,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 1",0.12336386607142864
+ruby,1,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 2",0.18607169642857133
+ruby,1,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 3",0.27624103571428565
+ruby,1,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 4",0.39585671428571395
+ruby,1,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 0",0.01843273214285714
+ruby,1,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 1",0.024642133928571425
+ruby,1,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 2",0.03436492857142857
+ruby,1,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 3",0.045478035714285714
+ruby,1,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 4",0.06360147321428572
+ruby,1,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 0",0.0063082053571428594
+ruby,1,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 1",0.008630866071428572
+ruby,1,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 2",0.011359044642857141
+ruby,1,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 3",0.015201526785714287
+ruby,1,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 4",0.02042979464285714
+ruby,1,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 0",0.012790928571428576
+ruby,1,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 1",0.01770385714285714
+ruby,1,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 2",0.02593095535714285
+ruby,1,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 3",0.03710445535714285
+ruby,1,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 4",0.05162208035714287
+ruby,1,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 0",0.003362080357142857
+ruby,1,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 1",0.004226375
+ruby,1,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 2",0.0057683125
+ruby,1,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 3",0.007422785714285714
+ruby,1,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 4",0.009389553571428571
+ruby,1,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 0",0.005788383928571429
+ruby,1,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 1",0.008180839285714286
+ruby,1,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 2",0.011235642857142856
+ruby,1,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 3",0.014887535714285713
+ruby,1,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 4",0.01984534821428572
+ruby,1,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 0",0.011765580357142858
+ruby,1,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 1",0.016024526785714286
+ruby,1,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 2",0.0260241875
+ruby,1,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 3",0.035488008928571416
+ruby,1,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 4",0.050017330357142856
+ruby,1,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 0",0.0030873482142857143
+ruby,1,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 1",0.0036899464285714287
+ruby,1,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 2",0.005065910714285715
+ruby,1,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 3",0.0066580982142857145
+ruby,1,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 4",0.009271401785714286
+ruby,32,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 0 --procs 4,4,2",0.08463503125
+ruby,32,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 1 --procs 4,4,2",0.100082625
+ruby,32,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 2 --procs 4,4,2",0.12426709375
+ruby,32,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 3 --procs 4,4,2",0.14988196874999998
+ruby,32,kripke.exe,"--niter 10 --pmethod bj --groups 16 --legendre 4 --procs 4,4,2",0.1907298125
+ruby,32,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 0 --procs 4,4,2",0.16423568749999998
+ruby,32,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 1 --procs 4,4,2",0.1996306875
+ruby,32,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 2 --procs 4,4,2",0.25436696875000003
+ruby,32,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 3 --procs 4,4,2",0.335811875
+ruby,32,kripke.exe,"--niter 10 --pmethod bj --groups 32 --legendre 4 --procs 4,4,2",0.4405633125
+ruby,32,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 0 --procs 4,4,2",0.049698937500000005
+ruby,32,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 1 --procs 4,4,2",0.05552321874999999
+ruby,32,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 2 --procs 4,4,2",0.06795231249999999
+ruby,32,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 3 --procs 4,4,2",0.08064953124999998
+ruby,32,kripke.exe,"--niter 10 --pmethod bj --groups 8 --legendre 4 --procs 4,4,2",0.10054171875
+ruby,32,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 0 --procs 4,4,2",0.07368237500000001
+ruby,32,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 1 --procs 4,4,2",0.08738825000000001
+ruby,32,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 2 --procs 4,4,2",0.11878706249999996
+ruby,32,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 3 --procs 4,4,2",0.144106125
+ruby,32,kripke.exe,"--niter 10 --pmethod sweep --groups 16 --legendre 4 --procs 4,4,2",0.1900081875
+ruby,32,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 0 --procs 4,4,2",0.13539940624999994
+ruby,32,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 1 --procs 4,4,2",0.16557846875000004
+ruby,32,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 2 --procs 4,4,2",0.23071303124999995
+ruby,32,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 3 --procs 4,4,2",0.31556546875
+ruby,32,kripke.exe,"--niter 10 --pmethod sweep --groups 32 --legendre 4 --procs 4,4,2",0.41921303125
+ruby,32,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 0 --procs 4,4,2",0.04458909374999999
+ruby,32,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 1 --procs 4,4,2",0.0541356875
+ruby,32,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 2 --procs 4,4,2",0.05877115625000001
+ruby,32,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 3 --procs 4,4,2",0.07281737499999998
+ruby,32,kripke.exe,"--niter 10 --pmethod sweep --groups 8 --legendre 4 --procs 4,4,2",0.0954415625
+ruby,32,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 0 --procs 4,4,2",0.11911440625
+ruby,32,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 1 --procs 4,4,2",0.14090240624999995
+ruby,32,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 2 --procs 4,4,2",0.17504909375000002
+ruby,32,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 3 --procs 4,4,2",0.21542221875
+ruby,32,kripke.exe,"--niter 15 --pmethod bj --groups 16 --legendre 4 --procs 4,4,2",0.27088115625000003
+ruby,32,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 0 --procs 4,4,2",0.245535875
+ruby,32,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 1 --procs 4,4,2",0.290444625
+ruby,32,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 2 --procs 4,4,2",0.36323975
+ruby,32,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 3 --procs 4,4,2",0.4903583125000001
+ruby,32,kripke.exe,"--niter 15 --pmethod bj --groups 32 --legendre 4 --procs 4,4,2",0.6714842812500001
+ruby,32,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 0 --procs 4,4,2",0.0650665
+ruby,32,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 1 --procs 4,4,2",0.07430331249999997
+ruby,32,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 2 --procs 4,4,2",0.08738590624999998
+ruby,32,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 3 --procs 4,4,2",0.11475856249999995
+ruby,32,kripke.exe,"--niter 15 --pmethod bj --groups 8 --legendre 4 --procs 4,4,2",0.13539796875000004
+ruby,32,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 0 --procs 4,4,2",0.10487359375
+ruby,32,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 1 --procs 4,4,2",0.1206830625
+ruby,32,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 2 --procs 4,4,2",0.16064693749999998
+ruby,32,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 3 --procs 4,4,2",0.21468015625
+ruby,32,kripke.exe,"--niter 15 --pmethod sweep --groups 16 --legendre 4 --procs 4,4,2",0.26758453125
+ruby,32,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 0 --procs 4,4,2",0.193211
+ruby,32,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 1 --procs 4,4,2",0.25010246875
+ruby,32,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 2 --procs 4,4,2",0.328549625
+ruby,32,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 3 --procs 4,4,2",0.4647587187500001
+ruby,32,kripke.exe,"--niter 15 --pmethod sweep --groups 32 --legendre 4 --procs 4,4,2",0.6251089375000001
+ruby,32,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 0 --procs 4,4,2",0.06323790625000003
+ruby,32,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 1 --procs 4,4,2",0.06949625000000001
+ruby,32,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 2 --procs 4,4,2",0.08753075000000002
+ruby,32,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 3 --procs 4,4,2",0.10791196875000003
+ruby,32,kripke.exe,"--niter 15 --pmethod sweep --groups 8 --legendre 4 --procs 4,4,2",0.13244378125
+ruby,32,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 0 --procs 4,4,2",0.21782540625
+ruby,32,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 1 --procs 4,4,2",0.27961806250000004
+ruby,32,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 2 --procs 4,4,2",0.3862388125
+ruby,32,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 3 --procs 4,4,2",0.4988576250000002
+ruby,32,kripke.exe,"--niter 40 --pmethod sweep --groups 16 --legendre 4 --procs 4,4,2",0.6716910625000001
+ruby,32,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 0 --procs 4,4,2",0.4785101875
+ruby,32,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 1 --procs 4,4,2",0.6181269999999999
+ruby,32,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 2 --procs 4,4,2",0.8531725
+ruby,32,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 3 --procs 4,4,2",1.17852821875
+ruby,32,kripke.exe,"--niter 40 --pmethod sweep --groups 32 --legendre 4 --procs 4,4,2",1.6314960312500002
+ruby,32,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 0 --procs 4,4,2",0.11603121874999996
+ruby,32,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 1 --procs 4,4,2",0.143278375
+ruby,32,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 2 --procs 4,4,2",0.17911884374999998
+ruby,32,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 3 --procs 4,4,2",0.2323670625
+ruby,32,kripke.exe,"--niter 40 --pmethod sweep --groups 8 --legendre 4 --procs 4,4,2",0.3152921875
+ruby,32,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 0 --procs 4,4,2",0.05252828124999999
+ruby,32,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 1 --procs 4,4,2",0.060155656250000016
+ruby,32,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 2 --procs 4,4,2",0.07461134375
+ruby,32,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 3 --procs 4,4,2",0.08666778125
+ruby,32,kripke.exe,"--niter 5 --pmethod bj --groups 16 --legendre 4 --procs 4,4,2",0.10597246874999998
+ruby,32,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 0 --procs 4,4,2",0.09184453125
+ruby,32,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 1 --procs 4,4,2",0.11154628125
+ruby,32,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 2 --procs 4,4,2",0.13958487499999994
+ruby,32,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 3 --procs 4,4,2",0.18040728124999994
+ruby,32,kripke.exe,"--niter 5 --pmethod bj --groups 32 --legendre 4 --procs 4,4,2",0.23073896875000005
+ruby,32,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 0 --procs 4,4,2",0.03563134375000001
+ruby,32,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 1 --procs 4,4,2",0.04008421875
+ruby,32,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 2 --procs 4,4,2",0.04541631249999999
+ruby,32,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 3 --procs 4,4,2",0.0502168125
+ruby,32,kripke.exe,"--niter 5 --pmethod bj --groups 8 --legendre 4 --procs 4,4,2",0.05785153125
+ruby,32,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 0 --procs 4,4,2",0.04381074999999999
+ruby,32,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 1 --procs 4,4,2",0.05546103125000002
+ruby,32,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 2 --procs 4,4,2",0.06983459375
+ruby,32,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 3 --procs 4,4,2",0.08497981249999996
+ruby,32,kripke.exe,"--niter 5 --pmethod sweep --groups 16 --legendre 4 --procs 4,4,2",0.1051846875
+ruby,32,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 0 --procs 4,4,2",0.07995353125
+ruby,32,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 1 --procs 4,4,2",0.0952745625
+ruby,32,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 2 --procs 4,4,2",0.1255226875
+ruby,32,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 3 --procs 4,4,2",0.16023262499999993
+ruby,32,kripke.exe,"--niter 5 --pmethod sweep --groups 32 --legendre 4 --procs 4,4,2",0.228728625
+ruby,32,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 0 --procs 4,4,2",0.034704312499999994
+ruby,32,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 1 --procs 4,4,2",0.034220500000000015
+ruby,32,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 2 --procs 4,4,2",0.038651843749999984
+ruby,32,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 3 --procs 4,4,2",0.04558746875
+ruby,32,kripke.exe,"--niter 5 --pmethod sweep --groups 8 --legendre 4 --procs 4,4,2",0.0556169375
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.1",6.778034000000003
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.1 -pa",6.7817370000000015
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.2",7.0123190000000015
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.2 -pa",6.932646000000001
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.3",7.177675999999999
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.3 -pa",7.122713000000001
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.4",7.362699
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.4 -pa",7.3224740000000015
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.5",7.512060000000001
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.5 -pa",7.522385000000001
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3",6.572249
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.6",7.723261999999999
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.6 -pa",7.6833170000000015
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.7",7.857596000000001
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.7 -pa",7.981994
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.8",8.518199000000001
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.8 -pa",8.037107
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.9",8.387908000000001
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3.9 -pa",8.223251000000003
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 3 -pa",6.617439
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.1",8.616882000000002
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.1 -pa",8.596846000000001
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.2",8.893442
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.2 -pa",8.918262
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.3",9.247217999999998
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.3 -pa",9.193506
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.4",9.558152999999999
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.4 -pa",9.562810999999998
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.5",10.268243999999996
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.5 -pa",10.328576
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.6",10.073474999999998
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.6 -pa",10.078251000000002
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.7",10.638194
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.7 -pa",10.742926000000002
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.8",11.463034
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.8 -pa",10.423718
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4",9.026961
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.9",10.974090000000002
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4.9 -pa",11.308077
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 4 -pa",8.893197000000002
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 5",10.939343
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 5.5",12.239875999999999
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 5.5 -pa",12.368848
+ruby,1,laghos,"-p 1 -dim 2 -rs 2 -tf 5 -pa",11.467666
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.1",48.93283100000002
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.1 -pa",49.10252100000001
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.2",49.48636800000001
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.2 -pa",50.407621000000006
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.3",51.64895500000002
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.3 -pa",51.70294200000001
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.4",52.827784
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3",48.12737100000001
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.4 -pa",52.17091800000001
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.5",54.07935100000001
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.5 -pa",53.804595000000006
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.6",54.11985700000001
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.6 -pa",53.40277400000002
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.7",55.19902
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.7 -pa",55.629309
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.8",55.632488
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.8 -pa",56.26314300000001
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.9",57.09977900000001
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3.9 -pa",57.12377600000001
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 3 -pa",48.081901
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.1",62.55721800000003
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.1 -pa",63.33629400000003
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.2",66.66370500000002
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.2 -pa",65.49213700000004
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.3",71.03948700000002
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.3 -pa",70.36900100000003
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.4",74.85569600000007
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.4 -pa",74.47073000000003
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.5",79.52763700000007
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4",59.55181700000001
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.5 -pa",79.08335200000003
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.6",80.44284100000003
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.6 -pa",81.01287600000006
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.7",82.25270700000007
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.7 -pa",82.81850400000006
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.8",84.19056100000007
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.8 -pa",82.86155100000005
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.9",87.5841360000001
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4.9 -pa",87.41530000000006
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 4 -pa",60.07654000000001
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 5.5",106.34387500000008
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 5.5 -pa",100.68797900000007
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 5",91.67781200000006
+ruby,1,laghos,"-p 1 -dim 2 -rs 3 -tf 5 -pa",92.00516200000007
+ruby,1,laghos,"-p 1 -dim 3 -rs 1 -tf 3",29.431342999999995
+ruby,1,laghos,"-p 1 -dim 3 -rs 1 -tf 3.5",37.167709
+ruby,1,laghos,"-p 1 -dim 3 -rs 1 -tf 3.5 -pa",37.86474199999999
+ruby,1,laghos,"-p 1 -dim 3 -rs 1 -tf 3 -pa",29.840148
+ruby,1,laghos,"-p 1 -dim 3 -rs 1 -tf 4",46.28100799999999
+ruby,1,laghos,"-p 1 -dim 3 -rs 1 -tf 4.5",53.983153
+ruby,1,laghos,"-p 1 -dim 3 -rs 1 -tf 4.5 -pa",54.46002799999998
+ruby,1,laghos,"-p 1 -dim 3 -rs 1 -tf 4 -pa",46.40776699999999
+ruby,1,laghos,"-p 1 -dim 3 -rs 1 -tf 5.5",65.41893799999998
+ruby,1,laghos,"-p 1 -dim 3 -rs 1 -tf 5.5 -pa",65.80893199999998
+ruby,1,laghos,"-p 1 -dim 3 -rs 1 -tf 5",60.085882
+ruby,1,laghos,"-p 1 -dim 3 -rs 1 -tf 5 -pa",60.351094999999994
+ruby,1,laghos,"-p 1 -dim 3 -rs 2 -tf 3.5",796.2699750000003
+ruby,1,laghos,"-p 1 -dim 3 -rs 2 -tf 3",595.0276649999997
+ruby,1,laghos,"-p 1 -dim 3 -rs 2 -tf 3.5 -pa",795.2175340000003
+ruby,1,laghos,"-p 1 -dim 3 -rs 2 -tf 3 -pa",600.5728740000002
+ruby,1,laghos,"-p 1 -dim 3 -rs 2 -tf 4.5",1069.9102310000007
+ruby,1,laghos,"-p 1 -dim 3 -rs 2 -tf 4.5 -pa",1072.876613000001
+ruby,1,laghos,"-p 1 -dim 3 -rs 2 -tf 4",990.4164600000006
+ruby,1,laghos,"-p 1 -dim 3 -rs 2 -tf 4 -pa",993.8368420000003
+ruby,1,laghos,"-p 1 -dim 3 -rs 2 -tf 5",1177.7041110000016
+ruby,1,laghos,"-p 1 -dim 3 -rs 2 -tf 5.5",1366.8708540000005
+ruby,1,laghos,"-p 1 -dim 3 -rs 2 -tf 5.5 -pa",1365.7899970000008
+ruby,1,laghos,"-p 1 -dim 3 -rs 2 -tf 5 -pa",1175.0912890000009
+ruby,1,laghos,"-p 2 -dim 2 -rs 2 -tf 3.5",8.551961999999998
+ruby,1,laghos,"-p 2 -dim 2 -rs 2 -tf 3.5 -pa",8.433639
+ruby,1,laghos,"-p 2 -dim 2 -rs 2 -tf 3",6.8775280000000025
+ruby,1,laghos,"-p 2 -dim 2 -rs 2 -tf 3 -pa",6.747109000000003
+ruby,1,laghos,"-p 2 -dim 2 -rs 2 -tf 4.5",9.108228000000002
+ruby,1,laghos,"-p 2 -dim 2 -rs 2 -tf 4.5 -pa",9.462583
+ruby,1,laghos,"-p 2 -dim 2 -rs 2 -tf 4",8.703341000000002
+ruby,1,laghos,"-p 2 -dim 2 -rs 2 -tf 4 -pa",8.483432
+ruby,1,laghos,"-p 2 -dim 2 -rs 2 -tf 5",10.732366
+ruby,1,laghos,"-p 2 -dim 2 -rs 2 -tf 5.5",11.048056999999998
+ruby,1,laghos,"-p 2 -dim 2 -rs 2 -tf 5.5 -pa",10.99249
+ruby,1,laghos,"-p 2 -dim 2 -rs 2 -tf 5 -pa",10.602344
+ruby,1,laghos,"-p 2 -dim 3 -rs 1 -tf 3",28.25984900000001
+ruby,1,laghos,"-p 2 -dim 3 -rs 1 -tf 3.5",33.006615999999994
+ruby,1,laghos,"-p 2 -dim 3 -rs 1 -tf 3.5 -pa",33.191705
+ruby,1,laghos,"-p 2 -dim 3 -rs 1 -tf 3 -pa",28.489571999999995
+ruby,1,laghos,"-p 2 -dim 3 -rs 1 -tf 4",35.62776399999999
+ruby,1,laghos,"-p 2 -dim 3 -rs 1 -tf 4.5",38.63012199999999
+ruby,1,laghos,"-p 2 -dim 3 -rs 1 -tf 4.5 -pa",38.51309499999999
+ruby,1,laghos,"-p 2 -dim 3 -rs 1 -tf 4 -pa",35.187614999999994
+ruby,1,laghos,"-p 2 -dim 3 -rs 1 -tf 5",42.895643
+ruby,1,laghos,"-p 2 -dim 3 -rs 1 -tf 5.5",47.18199999999999
+ruby,1,laghos,"-p 2 -dim 3 -rs 1 -tf 5.5 -pa",47.13067799999999
+ruby,1,laghos,"-p 2 -dim 3 -rs 1 -tf 5 -pa",43.11943699999999
+ruby,1,laghos,"-p 2 -dim 3 -rs 2 -tf 3",554.2688319999997
+ruby,1,laghos,"-p 2 -dim 3 -rs 2 -tf 3 -pa",552.587679
+ruby,1,laghos,"-p 3 -dim 2 -rs 1 -tf 3",0.156879
+ruby,1,laghos,"-p 3 -dim 2 -rs 1 -tf 3.5",0.181331
+ruby,1,laghos,"-p 3 -dim 2 -rs 1 -tf 3.5 -pa",0.17537800000000006
+ruby,1,laghos,"-p 3 -dim 2 -rs 1 -tf 3 -pa",0.15808800000000006
+ruby,1,laghos,"-p 3 -dim 2 -rs 1 -tf 4",0.200217
+ruby,1,laghos,"-p 3 -dim 2 -rs 1 -tf 4.5",0.2318490000000001
+ruby,1,laghos,"-p 3 -dim 2 -rs 1 -tf 4.5 -pa",0.235257
+ruby,1,laghos,"-p 3 -dim 2 -rs 1 -tf 4 -pa",0.206321
+ruby,1,laghos,"-p 3 -dim 2 -rs 1 -tf 5",0.260156
+ruby,1,laghos,"-p 3 -dim 2 -rs 1 -tf 5.5",0.281224
+ruby,1,laghos,"-p 3 -dim 2 -rs 1 -tf 5.5 -pa",0.28020500000000004
+ruby,1,laghos,"-p 3 -dim 2 -rs 1 -tf 5 -pa",0.256567
+ruby,1,laghos,"-p 3 -dim 2 -rs 2 -tf 3",0.861175
+ruby,1,laghos,"-p 3 -dim 2 -rs 2 -tf 3.5",0.991011
+ruby,1,laghos,"-p 3 -dim 2 -rs 2 -tf 3.5 -pa",0.9804870000000001
+ruby,1,laghos,"-p 3 -dim 2 -rs 2 -tf 3 -pa",0.8262639999999999
+ruby,1,laghos,"-p 3 -dim 2 -rs 2 -tf 4",1.120264
+ruby,1,laghos,"-p 3 -dim 2 -rs 2 -tf 4.5",1.2157930000000001
+ruby,1,laghos,"-p 3 -dim 2 -rs 2 -tf 4.5 -pa",1.936302
+ruby,1,laghos,"-p 3 -dim 2 -rs 2 -tf 4 -pa",1.076773
+ruby,1,laghos,"-p 3 -dim 2 -rs 2 -tf 5",1.3807479999999999
+ruby,1,laghos,"-p 3 -dim 2 -rs 2 -tf 5.5",1.516637
+ruby,1,laghos,"-p 3 -dim 2 -rs 2 -tf 5.5 -pa",1.5864969999999998
+ruby,1,laghos,"-p 3 -dim 2 -rs 2 -tf 5 -pa",1.41135
+ruby,1,laghos,"-p 3 -dim 3 -rs 1 -tf 3",3.4973840000000003
+ruby,1,laghos,"-p 3 -dim 3 -rs 1 -tf 3.5",4.0066000000000015
+ruby,1,laghos,"-p 3 -dim 3 -rs 1 -tf 3.5 -pa",4.021407000000001
+ruby,1,laghos,"-p 3 -dim 3 -rs 1 -tf 3 -pa",3.4920730000000004
+ruby,1,laghos,"-p 3 -dim 3 -rs 1 -tf 4",4.583014000000001
+ruby,1,laghos,"-p 3 -dim 3 -rs 1 -tf 4.5",5.489472000000001
+ruby,1,laghos,"-p 3 -dim 3 -rs 1 -tf 4.5 -pa",5.172541000000002
+ruby,1,laghos,"-p 3 -dim 3 -rs 1 -tf 4 -pa",4.595895000000001
+ruby,1,laghos,"-p 3 -dim 3 -rs 1 -tf 5.5",6.519141
+ruby,1,laghos,"-p 3 -dim 3 -rs 1 -tf 5",5.767648000000001
+ruby,1,laghos,"-p 3 -dim 3 -rs 1 -tf 5.5 -pa",6.323946000000001
+ruby,1,laghos,"-p 3 -dim 3 -rs 1 -tf 5 -pa",6.017222000000001
+ruby,1,laghos,"-p 3 -dim 3 -rs 2 -tf 3.5",69.16844699999999
+ruby,1,laghos,"-p 3 -dim 3 -rs 2 -tf 3",59.30660299999998
+ruby,1,laghos,"-p 3 -dim 3 -rs 2 -tf 3.5 -pa",70.1722
+ruby,1,laghos,"-p 3 -dim 3 -rs 2 -tf 3 -pa",59.62230299999999
+ruby,1,laghos,"-p 3 -dim 3 -rs 2 -tf 4.5",88.340469
+ruby,1,laghos,"-p 3 -dim 3 -rs 2 -tf 4.5 -pa",88.76142400000003
+ruby,1,laghos,"-p 3 -dim 3 -rs 2 -tf 4",78.99808
+ruby,1,laghos,"-p 3 -dim 3 -rs 2 -tf 4 -pa",79.55348200000002
+ruby,1,laghos,"-p 3 -dim 3 -rs 2 -tf 5.5",109.12863200000002
+ruby,1,laghos,"-p 3 -dim 3 -rs 2 -tf 5.5 -pa",108.95772100000003
+ruby,1,laghos,"-p 3 -dim 3 -rs 2 -tf 5",98.80833600000004
+ruby,1,laghos,"-p 3 -dim 3 -rs 2 -tf 5 -pa",96.785709
+ruby,56,laghos,"-p 1 -dim 2 -rs 2 -tf 3.5",10.053070089285717
+ruby,56,laghos,"-p 1 -dim 2 -rs 2 -tf 3.5 -pa",10.305381982142855
+ruby,56,laghos,"-p 1 -dim 2 -rs 2 -tf 3",8.884578107142858
+ruby,56,laghos,"-p 1 -dim 2 -rs 2 -tf 3 -pa",8.838080124999998
+ruby,56,laghos,"-p 1 -dim 2 -rs 2 -tf 4",11.161939035714287
+ruby,56,laghos,"-p 1 -dim 2 -rs 2 -tf 4.5",13.515499660714287
+ruby,56,laghos,"-p 1 -dim 2 -rs 2 -tf 4.5 -pa",13.050004392857144
+ruby,56,laghos,"-p 1 -dim 2 -rs 2 -tf 4 -pa",11.318299464285722
+ruby,56,laghos,"-p 1 -dim 2 -rs 2 -tf 5",14.341038946428574
+ruby,56,laghos,"-p 1 -dim 2 -rs 2 -tf 5.5",15.360567714285715
+ruby,56,laghos,"-p 1 -dim 2 -rs 2 -tf 5.5 -pa",15.369306928571431
+ruby,56,laghos,"-p 1 -dim 2 -rs 2 -tf 5 -pa",14.455014839285724
+ruby,56,laghos,"-p 1 -dim 2 -rs 3 -tf 3",20.719855464285725
+ruby,56,laghos,"-p 1 -dim 2 -rs 3 -tf 3.5",23.232551142857147
+ruby,56,laghos,"-p 1 -dim 2 -rs 3 -tf 3.5 -pa",23.299558660714286
+ruby,56,laghos,"-p 1 -dim 2 -rs 3 -tf 3 -pa",20.704159017857155
+ruby,56,laghos,"-p 1 -dim 2 -rs 3 -tf 4",26.140751732142874
+ruby,56,laghos,"-p 1 -dim 2 -rs 3 -tf 4.5",33.91135630357143
+ruby,56,laghos,"-p 1 -dim 2 -rs 3 -tf 4.5 -pa",34.086201107142855
+ruby,56,laghos,"-p 1 -dim 2 -rs 3 -tf 4 -pa",26.126660410714287
+ruby,56,laghos,"-p 1 -dim 2 -rs 3 -tf 5",40.096392678571426
+ruby,56,laghos,"-p 1 -dim 2 -rs 3 -tf 5.5",44.441096035714295
+ruby,56,laghos,"-p 1 -dim 2 -rs 3 -tf 5.5 -pa",43.78555212500002
+ruby,56,laghos,"-p 1 -dim 2 -rs 3 -tf 5 -pa",39.11134644642857
+ruby,56,laghos,"-p 1 -dim 3 -rs 1 -tf 3",16.098347696428572
+ruby,56,laghos,"-p 1 -dim 3 -rs 1 -tf 3.5",19.779851571428573
+ruby,56,laghos,"-p 1 -dim 3 -rs 1 -tf 3.5 -pa",19.68985626785713
+ruby,56,laghos,"-p 1 -dim 3 -rs 1 -tf 3 -pa",16.127466571428574
+ruby,56,laghos,"-p 1 -dim 3 -rs 1 -tf 4",25.162909249999995
+ruby,56,laghos,"-p 1 -dim 3 -rs 1 -tf 4.5",28.566513017857147
+ruby,56,laghos,"-p 1 -dim 3 -rs 1 -tf 4.5 -pa",28.468835321428585
+ruby,56,laghos,"-p 1 -dim 3 -rs 1 -tf 4 -pa",24.287122142857147
+ruby,56,laghos,"-p 1 -dim 3 -rs 1 -tf 5",31.99659032142857
+ruby,56,laghos,"-p 1 -dim 3 -rs 1 -tf 5.5",34.58585464285714
+ruby,56,laghos,"-p 1 -dim 3 -rs 1 -tf 5.5 -pa",34.49511771428572
+ruby,56,laghos,"-p 1 -dim 3 -rs 1 -tf 5 -pa",32.59464741071429
+ruby,56,laghos,"-p 1 -dim 3 -rs 2 -tf 3.5",91.3153552142857
+ruby,56,laghos,"-p 1 -dim 3 -rs 2 -tf 3.5 -pa",90.75513646428568
+ruby,56,laghos,"-p 1 -dim 3 -rs 2 -tf 3",67.72138403571428
+ruby,56,laghos,"-p 1 -dim 3 -rs 2 -tf 3 -pa",68.38074266071429
+ruby,56,laghos,"-p 1 -dim 3 -rs 2 -tf 4",113.43953264285707
+ruby,56,laghos,"-p 1 -dim 3 -rs 2 -tf 4.5",122.58930580357142
+ruby,56,laghos,"-p 1 -dim 3 -rs 2 -tf 4.5 -pa",121.80154073214285
+ruby,56,laghos,"-p 1 -dim 3 -rs 2 -tf 4 -pa",113.4146700714285
+ruby,56,laghos,"-p 1 -dim 3 -rs 2 -tf 5",134.44942867857142
+ruby,56,laghos,"-p 1 -dim 3 -rs 2 -tf 5.5",157.14124837500006
+ruby,56,laghos,"-p 1 -dim 3 -rs 2 -tf 5.5 -pa",158.74731619642856
+ruby,56,laghos,"-p 1 -dim 3 -rs 2 -tf 5 -pa",133.6387502142857
+ruby,56,laghos,"-p 2 -dim 2 -rs 2 -tf 3.5",10.16739173214286
+ruby,56,laghos,"-p 2 -dim 2 -rs 2 -tf 3.5 -pa",10.982097375000004
+ruby,56,laghos,"-p 2 -dim 2 -rs 2 -tf 3",9.26883153571429
+ruby,56,laghos,"-p 2 -dim 2 -rs 2 -tf 3 -pa",9.101718196428576
+ruby,56,laghos,"-p 2 -dim 2 -rs 2 -tf 4",11.186978232142858
+ruby,56,laghos,"-p 2 -dim 2 -rs 2 -tf 4.5",12.144946410714288
+ruby,56,laghos,"-p 2 -dim 2 -rs 2 -tf 4.5 -pa",11.888226464285712
+ruby,56,laghos,"-p 2 -dim 2 -rs 2 -tf 4 -pa",11.179370232142864
+ruby,56,laghos,"-p 2 -dim 2 -rs 2 -tf 5",13.258710125000002
+ruby,56,laghos,"-p 2 -dim 2 -rs 2 -tf 5.5",14.423498928571437
+ruby,56,laghos,"-p 2 -dim 2 -rs 2 -tf 5.5 -pa",14.565337071428573
+ruby,56,laghos,"-p 2 -dim 2 -rs 2 -tf 5 -pa",14.234011678571427
+ruby,56,laghos,"-p 2 -dim 3 -rs 1 -tf 3",13.475413857142858
+ruby,56,laghos,"-p 2 -dim 3 -rs 1 -tf 3.5",15.591217232142865
+ruby,56,laghos,"-p 2 -dim 3 -rs 1 -tf 3.5 -pa",15.34622764285714
+ruby,56,laghos,"-p 2 -dim 3 -rs 1 -tf 3 -pa",13.148844107142859
+ruby,56,laghos,"-p 2 -dim 3 -rs 1 -tf 4",17.044488625
+ruby,56,laghos,"-p 2 -dim 3 -rs 1 -tf 4.5",17.927100821428574
+ruby,56,laghos,"-p 2 -dim 3 -rs 1 -tf 4.5 -pa",17.801052357142858
+ruby,56,laghos,"-p 2 -dim 3 -rs 1 -tf 4 -pa",17.37921580357143
+ruby,56,laghos,"-p 2 -dim 3 -rs 1 -tf 5",20.33363146428572
+ruby,56,laghos,"-p 2 -dim 3 -rs 1 -tf 5.5",22.208805142857152
+ruby,56,laghos,"-p 2 -dim 3 -rs 1 -tf 5.5 -pa",22.165144946428576
+ruby,56,laghos,"-p 2 -dim 3 -rs 1 -tf 5 -pa",20.162840410714285
+ruby,56,laghos,"-p 2 -dim 3 -rs 2 -tf 3",57.44173803571427
+ruby,56,laghos,"-p 2 -dim 3 -rs 2 -tf 3 -pa",57.24496200000002
+ruby,56,laghos,"-p 3 -dim 2 -rs 2 -tf 3",1.1958276785714286
+ruby,56,laghos,"-p 3 -dim 2 -rs 2 -tf 3.5",1.3928608928571429
+ruby,56,laghos,"-p 3 -dim 2 -rs 2 -tf 3.5 -pa",1.403124642857143
+ruby,56,laghos,"-p 3 -dim 2 -rs 2 -tf 3 -pa",1.8405946071428567
+ruby,56,laghos,"-p 3 -dim 2 -rs 2 -tf 4",1.5637292499999995
+ruby,56,laghos,"-p 3 -dim 2 -rs 2 -tf 4.5",1.7622508928571428
+ruby,56,laghos,"-p 3 -dim 2 -rs 2 -tf 4.5 -pa",1.765132964285714
+ruby,56,laghos,"-p 3 -dim 2 -rs 2 -tf 4 -pa",1.575587892857143
+ruby,56,laghos,"-p 3 -dim 2 -rs 2 -tf 5",1.956844267857143
+ruby,56,laghos,"-p 3 -dim 2 -rs 2 -tf 5.5",2.8381444642857145
+ruby,56,laghos,"-p 3 -dim 2 -rs 2 -tf 5.5 -pa",2.1472653214285717
+ruby,56,laghos,"-p 3 -dim 2 -rs 2 -tf 5 -pa",1.9232524464285716
+ruby,56,laghos,"-p 3 -dim 3 -rs 1 -tf 3",2.0472757678571427
+ruby,56,laghos,"-p 3 -dim 3 -rs 1 -tf 3.5",2.3623967678571427
+ruby,56,laghos,"-p 3 -dim 3 -rs 1 -tf 3.5 -pa",2.3625445535714285
+ruby,56,laghos,"-p 3 -dim 3 -rs 1 -tf 3 -pa",2.056259160714286
+ruby,56,laghos,"-p 3 -dim 3 -rs 1 -tf 4",2.6880851071428573
+ruby,56,laghos,"-p 3 -dim 3 -rs 1 -tf 4.5",3.050157232142858
+ruby,56,laghos,"-p 3 -dim 3 -rs 1 -tf 4.5 -pa",3.0378498750000014
+ruby,56,laghos,"-p 3 -dim 3 -rs 1 -tf 4 -pa",2.6832343928571434
+ruby,56,laghos,"-p 3 -dim 3 -rs 1 -tf 5",3.3576299464285717
+ruby,56,laghos,"-p 3 -dim 3 -rs 1 -tf 5.5",4.444943232142858
+ruby,56,laghos,"-p 3 -dim 3 -rs 1 -tf 5.5 -pa",4.0124185
+ruby,56,laghos,"-p 3 -dim 3 -rs 1 -tf 5 -pa",3.3478890000000012
+ruby,56,laghos,"-p 3 -dim 3 -rs 2 -tf 3.5",8.538961267857143
+ruby,56,laghos,"-p 3 -dim 3 -rs 2 -tf 3.5 -pa",8.585027499999999
+ruby,56,laghos,"-p 3 -dim 3 -rs 2 -tf 3",7.603417714285714
+ruby,56,laghos,"-p 3 -dim 3 -rs 2 -tf 3 -pa",7.623797339285713
+ruby,56,laghos,"-p 3 -dim 3 -rs 2 -tf 4.5",10.886559500000004
+ruby,56,laghos,"-p 3 -dim 3 -rs 2 -tf 4.5 -pa",10.915684750000004
+ruby,56,laghos,"-p 3 -dim 3 -rs 2 -tf 4",9.70022067857143
+ruby,56,laghos,"-p 3 -dim 3 -rs 2 -tf 4 -pa",9.933450964285717
+ruby,56,laghos,"-p 3 -dim 3 -rs 2 -tf 5",12.114337357142858
+ruby,56,laghos,"-p 3 -dim 3 -rs 2 -tf 5.5",14.060384249999998
+ruby,56,laghos,"-p 3 -dim 3 -rs 2 -tf 5.5 -pa",13.280771553571432
+ruby,56,laghos,"-p 3 -dim 3 -rs 2 -tf 5 -pa",12.116595696428574
+ruby,1,miniFE.x,"-nx 50 -ny 50 -nz 50",0.590542
+ruby,1,miniFE.x,"-nx 75 -ny 50 -nz 50",0.9046784999999999
+ruby,32,miniFE.x,"-nx 50 -ny 50 -nz 50",0.2808365
+ruby,32,miniFE.x,"-nx 75 -ny 50 -nz 50",0.294056171875
+ruby,1,miniVite,"-l -p 1 -n 128",0.014640353982300885
+ruby,1,miniVite,"-l -p 1 -n 256",0.08048915044247787
+ruby,1,miniVite,"-l -p 1 -n 32",0.022191548672566373
+ruby,1,miniVite,"-l -p 1 -n 512",0.09310535398230088
+ruby,1,miniVite,"-l -p 1 -n 64",0.013557725663716814
+ruby,1,miniVite,"-l -p 2 -n 128",0.04365824778761062
+ruby,1,miniVite,"-l -p 2 -n 256",0.019418946902654863
+ruby,1,miniVite,"-l -p 2 -n 32",0.04052660176991151
+ruby,1,miniVite,"-l -p 2 -n 512",0.05291313274336283
+ruby,1,miniVite,"-l -p 2 -n 64",0.04518578761061946
+ruby,1,miniVite,"-l -p 3 -n 128",0.031249955752212392
+ruby,1,miniVite,"-l -p 3 -n 256",0.01965003539823009
+ruby,1,miniVite,"-l -p 3 -n 32",0.02124469911504425
+ruby,1,miniVite,"-l -p 3 -n 512",0.09306542477876106
+ruby,1,miniVite,"-l -p 3 -n 64",0.02579654867256637
+ruby,1,miniVite,"-l -p 4 -n 128",0.07621873451327434
+ruby,1,miniVite,"-l -p 4 -n 256",0.0586725221238938
+ruby,1,miniVite,"-l -p 4 -n 32",0.05358353097345132
+ruby,1,miniVite,"-l -p 4 -n 512",0.0819516814159292
+ruby,1,miniVite,"-l -p 4 -n 64",0.0683939203539823
+ruby,1,miniVite,"-l -p 5 -n 128",0.011372548672566369
+ruby,1,miniVite,"-l -p 5 -n 256",0.0443516814159292
+ruby,1,miniVite,"-l -p 5 -n 32",0.028353672566371682
+ruby,1,miniVite,"-l -p 5 -n 512",0.09711632743362833
+ruby,1,miniVite,"-l -p 5 -n 64",0.06685209734513274
+ruby,1,miniVite,"-l -p 6 -n 128",0.0477176017699115
+ruby,1,miniVite,"-l -p 6 -n 256",0.03563486725663717
+ruby,1,miniVite,"-l -p 6 -n 32",0.03730292920353983
+ruby,1,miniVite,"-l -p 6 -n 512",0.05943212389380531
+ruby,1,miniVite,"-l -p 6 -n 64",0.026261628318584068
+ruby,1,miniVite,"-l -p 7 -n 128",0.06075556637168144
+ruby,1,miniVite,"-l -p 7 -n 256",0.032858203539823
+ruby,1,miniVite,"-l -p 7 -n 32",0.02405933628318584
+ruby,1,miniVite,"-l -p 7 -n 512",0.046601115044247785
+ruby,1,miniVite,"-l -p 7 -n 64",0.07854974336283185
+ruby,1,miniVite,"-l -p 8 -n 128",0.04275521238938053
+ruby,1,miniVite,"-l -p 8 -n 256",0.02467133628318584
+ruby,1,miniVite,"-l -p 8 -n 32",0.031495999999999996
+ruby,1,miniVite,"-l -p 8 -n 512",0.07163446017699114
+ruby,1,miniVite,"-l -p 8 -n 64",0.03616510619469026
+ruby,1,miniVite,"-l -p 9 -n 128",0.09217022123893803
+ruby,1,miniVite,"-l -p 9 -n 256",0.00945753982300885
+ruby,1,miniVite,"-l -p 9 -n 32",0.0407184778761062
+ruby,1,miniVite,"-l -p 9 -n 512",0.06283541592920354
+ruby,1,miniVite,"-l -p 9 -n 64",0.07111369026548672
+ruby,1,miniVite,"-p 1 -n 128",0.04391287610619468
+ruby,1,miniVite,"-p 1 -n 256",0.041028707964601764
+ruby,1,miniVite,"-p 1 -n 32",0.010102831858407078
+ruby,1,miniVite,"-p 1 -n 512",0.10526089380530974
+ruby,1,miniVite,"-p 1 -n 64",0.032289769911504416
+ruby,1,miniVite,"-p 2 -n 128",0.027113203539823008
+ruby,1,miniVite,"-p 2 -n 256",0.0659573982300885
+ruby,1,miniVite,"-p 2 -n 32",0.015417407079646015
+ruby,1,miniVite,"-p 2 -n 512",0.05699011504424779
+ruby,1,miniVite,"-p 2 -n 64",0.019885575221238936
+ruby,1,miniVite,"-p 3 -n 128",0.024263973451327428
+ruby,1,miniVite,"-p 3 -n 256",0.04588123008849557
+ruby,1,miniVite,"-p 3 -n 32",0.033279044247787604
+ruby,1,miniVite,"-p 3 -n 512",0.08630520353982299
+ruby,1,miniVite,"-p 3 -n 64",0.0252301592920354
+ruby,1,miniVite,"-p 4 -n 128",0.07304838938053097
+ruby,1,miniVite,"-p 4 -n 256",0.04039483185840708
+ruby,1,miniVite,"-p 4 -n 32",0.02122262831858408
+ruby,1,miniVite,"-p 4 -n 512",0.033103752212389384
+ruby,1,miniVite,"-p 4 -n 64",0.0294679203539823
+ruby,1,miniVite,"-p 5 -n 128",0.015095610619469029
+ruby,1,miniVite,"-p 5 -n 256",0.02054562831858407
+ruby,1,miniVite,"-p 5 -n 32",0.015225681415929206
+ruby,1,miniVite,"-p 5 -n 512",0.0884936371681416
+ruby,1,miniVite,"-p 5 -n 64",0.010598761061946904
+ruby,1,miniVite,"-p 6 -n 128",0.02578826548672566
+ruby,1,miniVite,"-p 6 -n 256",0.009748831858407078
+ruby,1,miniVite,"-p 6 -n 32",0.010461495575221238
+ruby,1,miniVite,"-p 6 -n 512",0.052558584070796464
+ruby,1,miniVite,"-p 6 -n 64",0.009837035398230087
+ruby,1,miniVite,"-p 7 -n 128",0.029865362831858405
+ruby,1,miniVite,"-p 7 -n 256",0.046361097345132746
+ruby,1,miniVite,"-p 7 -n 32",0.03296364601769912
+ruby,1,miniVite,"-p 7 -n 512",0.1296501592920354
+ruby,1,miniVite,"-p 7 -n 64",0.04558643362831858
+ruby,1,miniVite,"-p 8 -n 128",0.05497195575221239
+ruby,1,miniVite,"-p 8 -n 256",0.044591601769911504
+ruby,1,miniVite,"-p 8 -n 32",0.015067955752212387
+ruby,1,miniVite,"-p 8 -n 512",0.10312315044247787
+ruby,1,miniVite,"-p 8 -n 64",0.030053203539823006
+ruby,1,miniVite,"-p 9 -n 128",0.02640371681415929
+ruby,1,miniVite,"-p 9 -n 256",0.04275105309734513
+ruby,1,miniVite,"-p 9 -n 32",0.06648038053097345
+ruby,1,miniVite,"-p 9 -n 512",0.09870406194690266
+ruby,1,miniVite,"-p 9 -n 64",0.06137412389380531
+ruby,1,miniVite,"-w -l -p 1 -n 128",0.021023256637168145
+ruby,1,miniVite,"-w -l -p 1 -n 256",0.0459108407079646
+ruby,1,miniVite,"-w -l -p 1 -n 32",0.01503041592920354
+ruby,1,miniVite,"-w -l -p 1 -n 512",0.10736264601769913
+ruby,1,miniVite,"-w -l -p 1 -n 64",0.02399916814159292
+ruby,1,miniVite,"-w -l -p 2 -n 128",0.036236982300884964
+ruby,1,miniVite,"-w -l -p 2 -n 256",0.0448807610619469
+ruby,1,miniVite,"-w -l -p 2 -n 32",0.04782532743362832
+ruby,1,miniVite,"-w -l -p 2 -n 512",0.040685938053097344
+ruby,1,miniVite,"-w -l -p 2 -n 64",0.03945500884955752
+ruby,1,miniVite,"-w -l -p 3 -n 128",0.03440477876106194
+ruby,1,miniVite,"-w -l -p 3 -n 256",0.07463062831858408
+ruby,1,miniVite,"-w -l -p 3 -n 32",0.0441593185840708
+ruby,1,miniVite,"-w -l -p 3 -n 512",0.08178625663716814
+ruby,1,miniVite,"-w -l -p 3 -n 64",0.05592278761061946
+ruby,1,miniVite,"-w -l -p 4 -n 128",0.02851559292035398
+ruby,1,miniVite,"-w -l -p 4 -n 256",0.05158249557522124
+ruby,1,miniVite,"-w -l -p 4 -n 32",0.02634754867256637
+ruby,1,miniVite,"-w -l -p 4 -n 512",0.08543522123893807
+ruby,1,miniVite,"-w -l -p 4 -n 64",0.03077466371681416
+ruby,1,miniVite,"-w -l -p 5 -n 128",0.039243610619469016
+ruby,1,miniVite,"-w -l -p 5 -n 256",0.02089907964601769
+ruby,1,miniVite,"-w -l -p 5 -n 32",0.04299497345132743
+ruby,1,miniVite,"-w -l -p 5 -n 512",0.05631946902654868
+ruby,1,miniVite,"-w -l -p 5 -n 64",0.03147832743362833
+ruby,1,miniVite,"-w -l -p 6 -n 128",0.057818362831858414
+ruby,1,miniVite,"-w -l -p 6 -n 256",0.0972268849557522
+ruby,1,miniVite,"-w -l -p 6 -n 32",0.03822396460176992
+ruby,1,miniVite,"-w -l -p 6 -n 512",0.06063949557522124
+ruby,1,miniVite,"-w -l -p 6 -n 64",0.010554610619469024
+ruby,1,miniVite,"-w -l -p 7 -n 128",0.06352550442477876
+ruby,1,miniVite,"-w -l -p 7 -n 256",0.05092326548672567
+ruby,1,miniVite,"-w -l -p 7 -n 32",0.031324743362831864
+ruby,1,miniVite,"-w -l -p 7 -n 512",0.056731061946902674
+ruby,1,miniVite,"-w -l -p 7 -n 64",0.03533917699115044
+ruby,1,miniVite,"-w -l -p 8 -n 128",0.0540956814159292
+ruby,1,miniVite,"-w -l -p 8 -n 256",0.0513136017699115
+ruby,1,miniVite,"-w -l -p 8 -n 32",0.023720920353982298
+ruby,1,miniVite,"-w -l -p 8 -n 512",0.1006389115044248
+ruby,1,miniVite,"-w -l -p 8 -n 64",0.08341817699115045
+ruby,1,miniVite,"-w -l -p 9 -n 128",0.03984064601769911
+ruby,1,miniVite,"-w -l -p 9 -n 256",0.04144400884955753
+ruby,1,miniVite,"-w -l -p 9 -n 32",0.010027203539823008
+ruby,1,miniVite,"-w -l -p 9 -n 512",0.04104891150442478
+ruby,1,miniVite,"-w -l -p 9 -n 64",0.06743378761061948
+ruby,1,miniVite,"-w -p 1 -n 128",0.03803410619469027
+ruby,1,miniVite,"-w -p 1 -n 256",0.0675206814159292
+ruby,1,miniVite,"-w -p 1 -n 32",0.050832778761061945
+ruby,1,miniVite,"-w -p 1 -n 512",0.09901070796460176
+ruby,1,miniVite,"-w -p 1 -n 64",0.014687415929203541
+ruby,1,miniVite,"-w -p 2 -n 128",0.06909837168141593
+ruby,1,miniVite,"-w -p 2 -n 256",0.052833610619469035
+ruby,1,miniVite,"-w -p 2 -n 32",0.0048376548672566366
+ruby,1,miniVite,"-w -p 2 -n 512",0.16596552212389382
+ruby,1,miniVite,"-w -p 2 -n 64",0.014481106194690266
+ruby,1,miniVite,"-w -p 3 -n 128",0.020919433628318586
+ruby,1,miniVite,"-w -p 3 -n 256",0.04647507079646017
+ruby,1,miniVite,"-w -p 3 -n 32",0.030545265486725662
+ruby,1,miniVite,"-w -p 3 -n 512",0.11738054867256635
+ruby,1,miniVite,"-w -p 3 -n 64",0.023957221238938054
+ruby,1,miniVite,"-w -p 4 -n 128",0.004842884955752211
+ruby,1,miniVite,"-w -p 4 -n 256",0.038108389380530974
+ruby,1,miniVite,"-w -p 4 -n 32",0.019850000000000003
+ruby,1,miniVite,"-w -p 4 -n 512",0.11729033628318584
+ruby,1,miniVite,"-w -p 4 -n 64",0.01974473451327434
+ruby,1,miniVite,"-w -p 5 -n 128",0.05249126548672566
+ruby,1,miniVite,"-w -p 5 -n 256",0.04992938053097345
+ruby,1,miniVite,"-w -p 5 -n 32",0.005075796460176993
+ruby,1,miniVite,"-w -p 5 -n 512",0.06800830088495577
+ruby,1,miniVite,"-w -p 5 -n 64",0.015255407079646016
+ruby,1,miniVite,"-w -p 6 -n 128",0.02468809734513274
+ruby,1,miniVite,"-w -p 6 -n 256",0.07216196460176992
+ruby,1,miniVite,"-w -p 6 -n 32",0.02136470796460177
+ruby,1,miniVite,"-w -p 6 -n 512",0.09824446902654868
+ruby,1,miniVite,"-w -p 6 -n 64",0.01957629203539823
+ruby,1,miniVite,"-w -p 7 -n 128",0.02155058407079646
+ruby,1,miniVite,"-w -p 7 -n 256",0.03573161061946903
+ruby,1,miniVite,"-w -p 7 -n 32",0.024784787610619467
+ruby,1,miniVite,"-w -p 7 -n 512",0.0657263982300885
+ruby,1,miniVite,"-w -p 7 -n 64",0.02021738053097345
+ruby,1,miniVite,"-w -p 8 -n 128",0.03689709734513274
+ruby,1,miniVite,"-w -p 8 -n 256",0.03108264601769912
+ruby,1,miniVite,"-w -p 8 -n 32",0.009688584070796459
+ruby,1,miniVite,"-w -p 8 -n 512",0.0696324778761062
+ruby,1,miniVite,"-w -p 8 -n 64",0.03492422123893805
+ruby,1,miniVite,"-w -p 9 -n 128",0.02535843362831858
+ruby,1,miniVite,"-w -p 9 -n 256",0.06958355752212389
+ruby,1,miniVite,"-w -p 9 -n 32",0.004915628318584069
+ruby,1,miniVite,"-w -p 9 -n 512",0.07998612389380531
+ruby,1,miniVite,"-w -p 9 -n 64",0.014782
+ruby,32,miniVite,"-l -p 1 -n 16384",0.2691898125
+ruby,32,miniVite,"-l -p 1 -n 4096",0.344450171875
+ruby,32,miniVite,"-l -p 1 -n 8192",0.23727409375000005
+ruby,32,miniVite,"-l -p 2 -n 16384",0.317076703125
+ruby,32,miniVite,"-l -p 2 -n 4096",0.24833959375
+ruby,32,miniVite,"-l -p 2 -n 8192",0.282798671875
+ruby,32,miniVite,"-l -p 3 -n 16384",0.32869431250000003
+ruby,32,miniVite,"-l -p 3 -n 4096",0.3251080625
+ruby,32,miniVite,"-l -p 3 -n 8192",0.342245359375
+ruby,32,miniVite,"-l -p 4 -n 16384",0.28562159375
+ruby,32,miniVite,"-l -p 4 -n 4096",0.3030066875
+ruby,32,miniVite,"-l -p 4 -n 8192",0.27551390625
+ruby,32,miniVite,"-l -p 5 -n 16384",0.277543515625
+ruby,32,miniVite,"-l -p 5 -n 4096",0.306255875
+ruby,32,miniVite,"-l -p 5 -n 8192",0.3400255625
+ruby,32,miniVite,"-l -p 6 -n 16384",0.256229609375
+ruby,32,miniVite,"-l -p 6 -n 4096",0.266016515625
+ruby,32,miniVite,"-l -p 6 -n 8192",0.285692359375
+ruby,32,miniVite,"-l -p 7 -n 16384",0.29247740625
+ruby,32,miniVite,"-l -p 7 -n 4096",0.3244755625
+ruby,32,miniVite,"-l -p 7 -n 8192",0.41185840625
+ruby,32,miniVite,"-l -p 8 -n 16384",0.28518784375
+ruby,32,miniVite,"-l -p 8 -n 4096",0.25795617187500003
+ruby,32,miniVite,"-l -p 8 -n 8192",0.27700734375
+ruby,32,miniVite,"-l -p 9 -n 16384",0.322680296875
+ruby,32,miniVite,"-l -p 9 -n 4096",0.279144046875
+ruby,32,miniVite,"-l -p 9 -n 8192",0.27127946875
+ruby,32,miniVite,"-p 1 -n 16384",0.27975659375
+ruby,32,miniVite,"-p 1 -n 4096",0.258270015625
+ruby,32,miniVite,"-p 1 -n 8192",0.265713421875
+ruby,32,miniVite,"-p 2 -n 16384",0.32214984375
+ruby,32,miniVite,"-p 2 -n 4096",0.2944996875
+ruby,32,miniVite,"-p 2 -n 8192",0.28422540625000003
+ruby,32,miniVite,"-p 3 -n 16384",0.279582734375
+ruby,32,miniVite,"-p 3 -n 4096",0.363794859375
+ruby,32,miniVite,"-p 3 -n 8192",0.275842234375
+ruby,32,miniVite,"-p 4 -n 16384",0.29957068750000004
+ruby,32,miniVite,"-p 4 -n 4096",0.262918390625
+ruby,32,miniVite,"-p 4 -n 8192",0.276627171875
+ruby,32,miniVite,"-p 5 -n 16384",0.382712328125
+ruby,32,miniVite,"-p 5 -n 4096",0.20721090625
+ruby,32,miniVite,"-p 5 -n 8192",0.259720984375
+ruby,32,miniVite,"-p 6 -n 16384",0.329912171875
+ruby,32,miniVite,"-p 6 -n 4096",0.265662859375
+ruby,32,miniVite,"-p 6 -n 8192",0.23702259375
+ruby,32,miniVite,"-p 7 -n 16384",0.296374859375
+ruby,32,miniVite,"-p 7 -n 4096",0.241463984375
+ruby,32,miniVite,"-p 7 -n 8192",0.289566046875
+ruby,32,miniVite,"-p 8 -n 16384",0.30413856250000004
+ruby,32,miniVite,"-p 8 -n 4096",0.2708781875
+ruby,32,miniVite,"-p 8 -n 8192",0.296845171875
+ruby,32,miniVite,"-p 9 -n 16384",0.30071481250000004
+ruby,32,miniVite,"-p 9 -n 4096",0.264664578125
+ruby,32,miniVite,"-p 9 -n 8192",0.2795494375
+ruby,32,miniVite,"-w -l -p 1 -n 16384",0.3268614375
+ruby,32,miniVite,"-w -l -p 1 -n 4096",0.353002828125
+ruby,32,miniVite,"-w -l -p 1 -n 8192",0.309079515625
+ruby,32,miniVite,"-w -l -p 2 -n 16384",0.28044571875
+ruby,32,miniVite,"-w -l -p 2 -n 4096",0.26100409375
+ruby,32,miniVite,"-w -l -p 2 -n 8192",0.3291405625
+ruby,32,miniVite,"-w -l -p 3 -n 16384",0.337533484375
+ruby,32,miniVite,"-w -l -p 3 -n 4096",0.31366575
+ruby,32,miniVite,"-w -l -p 3 -n 8192",0.295977109375
+ruby,32,miniVite,"-w -l -p 4 -n 16384",0.26561125
+ruby,32,miniVite,"-w -l -p 4 -n 4096",0.27135771875
+ruby,32,miniVite,"-w -l -p 4 -n 8192",0.279025515625
+ruby,32,miniVite,"-w -l -p 5 -n 16384",0.391925375
+ruby,32,miniVite,"-w -l -p 5 -n 4096",0.2868041875
+ruby,32,miniVite,"-w -l -p 5 -n 8192",0.281101890625
+ruby,32,miniVite,"-w -l -p 6 -n 16384",0.29718325
+ruby,32,miniVite,"-w -l -p 6 -n 4096",0.356161671875
+ruby,32,miniVite,"-w -l -p 6 -n 8192",0.28603790625
+ruby,32,miniVite,"-w -l -p 7 -n 16384",0.240971
+ruby,32,miniVite,"-w -l -p 7 -n 4096",0.27264740625
+ruby,32,miniVite,"-w -l -p 7 -n 8192",0.284871796875
+ruby,32,miniVite,"-w -l -p 8 -n 16384",0.39807228125
+ruby,32,miniVite,"-w -l -p 8 -n 4096",0.247809984375
+ruby,32,miniVite,"-w -l -p 8 -n 8192",0.27319203125
+ruby,32,miniVite,"-w -l -p 9 -n 16384",0.298417265625
+ruby,32,miniVite,"-w -l -p 9 -n 4096",0.28069753125
+ruby,32,miniVite,"-w -l -p 9 -n 8192",0.229374125
+ruby,32,miniVite,"-w -p 1 -n 16384",0.319965578125
+ruby,32,miniVite,"-w -p 1 -n 4096",0.295193890625
+ruby,32,miniVite,"-w -p 1 -n 8192",0.287460234375
+ruby,32,miniVite,"-w -p 2 -n 16384",0.255085953125
+ruby,32,miniVite,"-w -p 2 -n 4096",0.277681484375
+ruby,32,miniVite,"-w -p 2 -n 8192",0.315415953125
+ruby,32,miniVite,"-w -p 3 -n 16384",0.305926140625
+ruby,32,miniVite,"-w -p 3 -n 4096",0.214888125
+ruby,32,miniVite,"-w -p 3 -n 8192",0.263440421875
+ruby,32,miniVite,"-w -p 4 -n 16384",0.281846953125
+ruby,32,miniVite,"-w -p 4 -n 4096",0.260641078125
+ruby,32,miniVite,"-w -p 4 -n 8192",0.247942734375
+ruby,32,miniVite,"-w -p 5 -n 16384",0.312194234375
+ruby,32,miniVite,"-w -p 5 -n 4096",0.37598221875
+ruby,32,miniVite,"-w -p 5 -n 8192",0.25533845312500003
+ruby,32,miniVite,"-w -p 6 -n 16384",0.297479046875
+ruby,32,miniVite,"-w -p 6 -n 4096",0.26963425
+ruby,32,miniVite,"-w -p 6 -n 8192",0.314914265625
+ruby,32,miniVite,"-w -p 7 -n 16384",0.261934453125
+ruby,32,miniVite,"-w -p 7 -n 4096",0.25205115625
+ruby,32,miniVite,"-w -p 7 -n 8192",0.2728415625
+ruby,32,miniVite,"-w -p 8 -n 16384",0.3198756875
+ruby,32,miniVite,"-w -p 8 -n 4096",0.303760390625
+ruby,32,miniVite,"-w -p 8 -n 8192",0.5516753906249999
+ruby,32,miniVite,"-w -p 9 -n 16384",0.42324396875
+ruby,32,miniVite,"-w -p 9 -n 4096",0.194723703125
+ruby,32,miniVite,"-w -p 9 -n 8192",0.28294481250000003
+ruby,1,TestDfft,"10 120",2.7230090000000002
+ruby,1,TestDfft,"10 128",4.005808000000001
+ruby,1,TestDfft,"10 160",6.716223999999999
+ruby,1,TestDfft,"10 200",13.677552999999996
+ruby,1,TestDfft,"10 240",24.352284
+ruby,1,TestDfft,"10 256",34.19775600000002
+ruby,1,TestDfft,"10 32",0.055031
+ruby,1,TestDfft,"10 64",0.371792
+ruby,1,TestDfft,"12 128",4.6100400000000015
+ruby,1,TestDfft,"12 256",40.969139000000034
+ruby,1,TestDfft,"12 32",0.076514
+ruby,1,TestDfft,"12 64",0.396074
+ruby,1,TestDfft,"14 128",5.3397960000000015
+ruby,1,TestDfft,"14 256",47.33979300000002
+ruby,1,TestDfft,"14 32",0.05503
+ruby,1,TestDfft,"14 64",0.446292
+ruby,1,TestDfft,"15 120",3.916382
+ruby,1,TestDfft,"15 160",10.349526
+ruby,1,TestDfft,"15 200",20.039545
+ruby,1,TestDfft,"15 240",36.14694499999999
+ruby,1,TestDfft,"16 128",5.932309000000001
+ruby,1,TestDfft,"16 256",53.32035900000007
+ruby,1,TestDfft,"16 32",0.07004099999999999
+ruby,1,TestDfft,"16 64",0.491446
+ruby,1,TestDfft,"18 128",6.4773400000000025
+ruby,1,TestDfft,"18 256",61.09822800000014
+ruby,1,TestDfft,"18 32",0.070038
+ruby,1,TestDfft,"18 64",0.5618340000000001
+ruby,1,TestDfft,"20 120",5.076418
+ruby,1,TestDfft,"20 128",7.283607000000003
+ruby,1,TestDfft,"20 160",12.829108999999995
+ruby,1,TestDfft,"20 200",26.40863599999999
+ruby,1,TestDfft,"20 240",46.96454399999998
+ruby,1,TestDfft,"20 256",66.06183800000017
+ruby,1,TestDfft,"20 32",0.07003699999999999
+ruby,1,TestDfft,"20 64",0.591357
+ruby,32,TestDfft,"10 120",0.41523084375
+ruby,32,TestDfft,"10 128",0.5651221875
+ruby,32,TestDfft,"10 160",0.70112178125
+ruby,32,TestDfft,"10 200",1.2652341875
+ruby,32,TestDfft,"10 240",2.31258021875
+ruby,32,TestDfft,"10 256",2.91365215625
+ruby,32,TestDfft,"10 32",0.0557485625
+ruby,32,TestDfft,"10 64",0.10613309375
+ruby,32,TestDfft,"12 128",0.607388375
+ruby,32,TestDfft,"12 256",3.41752675
+ruby,32,TestDfft,"12 32",0.06047565625
+ruby,32,TestDfft,"12 64",0.11016759375
+ruby,32,TestDfft,"14 128",0.68177625
+ruby,32,TestDfft,"14 256",3.92955321875
+ruby,32,TestDfft,"14 32",0.06574071875
+ruby,32,TestDfft,"14 64",0.12088121875
+ruby,32,TestDfft,"15 120",0.4903000625
+ruby,32,TestDfft,"15 160",1.194739875
+ruby,32,TestDfft,"15 200",1.7804514999999999
+ruby,32,TestDfft,"15 240",3.25000665625
+ruby,32,TestDfft,"16 128",0.440596
+ruby,32,TestDfft,"16 256",4.4669208125
+ruby,32,TestDfft,"16 32",0.30562115625
+ruby,32,TestDfft,"16 64",0.1259895625
+ruby,32,TestDfft,"18 128",0.4800171875
+ruby,32,TestDfft,"18 256",4.9823469375
+ruby,32,TestDfft,"18 32",0.0755915625
+ruby,32,TestDfft,"18 64",0.13041334375
+ruby,32,TestDfft,"20 120",0.79742303125
+ruby,32,TestDfft,"20 128",0.7515403125
+ruby,32,TestDfft,"20 160",1.41826753125
+ruby,32,TestDfft,"20 200",3.05331728125
+ruby,32,TestDfft,"20 240",4.19210565625
+ruby,32,TestDfft,"20 256",5.53731240625
+ruby,32,TestDfft,"20 32",0.07500865625
+ruby,32,TestDfft,"20 64",0.3751424375
+ruby,1,XSBench,"-m event -s large -G hash",0.5870690000000002
+ruby,1,XSBench,"-m event -s large -G nuclide",0.5907530000000001
+ruby,1,XSBench,"-m event -s large -G unionized",4.641038000000003
+ruby,1,XSBench,"-m event -s small -G hash",0.169478
+ruby,1,XSBench,"-m event -s small -G nuclide",0.125353
+ruby,1,XSBench,"-m event -s small -G unionized",0.3359480000000001
+ruby,1,XSBench,"-m event -s XL -G hash",20.863900999999988
+ruby,1,XSBench,"-m event -s XL -G nuclide",19.20292399999998
+ruby,1,XSBench,"-m event -s XL -G unionized",27.70677399999999
+ruby,1,XSBench,"-m event -s XXL -G hash",46.50264799999999
+ruby,1,XSBench,"-m event -s XXL -G nuclide",44.038626999999984
+ruby,1,XSBench,"-m event -s XXL -G unionized",62.898682999999984
+ruby,1,XSBench,"-m history -s large -G hash",0.8743070000000002
+ruby,1,XSBench,"-m history -s large -G nuclide",0.600655
+ruby,1,XSBench,"-m history -s large -G unionized",4.544896
+ruby,1,XSBench,"-m history -s small -G hash",0.17627600000000004
+ruby,1,XSBench,"-m history -s small -G nuclide",0.12166500000000001
+ruby,1,XSBench,"-m history -s small -G unionized",0.3503000000000001
+ruby,1,XSBench,"-m history -s XL -G hash",20.93128299999998
+ruby,1,XSBench,"-m history -s XL -G nuclide",19.583117999999985
+ruby,1,XSBench,"-m history -s XL -G unionized",27.655606999999986
+ruby,1,XSBench,"-m history -s XXL -G hash",46.22748299999997
+ruby,1,XSBench,"-m history -s XXL -G nuclide",43.96415899999998
+ruby,1,XSBench,"-m history -s XXL -G unionized",62.49708899999999

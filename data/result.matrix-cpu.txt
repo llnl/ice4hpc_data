@@ -1,0 +1,635 @@
+amg, matrix-cpu, 1, -problem 2 -P 1 1 1 -n 128 128 128, 124.688555
+amg, matrix-cpu, 1, -problem 2 -P 1 1 1 -n 16 16 16, 0.391811
+amg, matrix-cpu, 1, -problem 2 -P 1 1 1 -n 256 256 256, 1024.006709
+amg, matrix-cpu, 1, -problem 2 -P 1 1 1 -n 32 32 32, 1.401387
+amg, matrix-cpu, 1, -problem 2 -P 1 1 1 -n 64 64 64, 15.258044
+amg, matrix-cpu, 1, -problem 2 -P 1 1 1 -n 8 8 8, 0.268479
+amg, matrix-cpu, 32, -problem 1 -P 4 4 2 -n 128 128 64, 24.893258
+amg, matrix-cpu, 32, -problem 1 -P 4 4 2 -n 16 16 8, 0.840524
+amg, matrix-cpu, 32, -problem 1 -P 4 4 2 -n 32 32 16, 1.183278
+amg, matrix-cpu, 32, -problem 1 -P 4 4 2 -n 64 64 32, 3.646650
+amg, matrix-cpu, 32, -problem 1 -P 4 4 2 -n 8 8 4, 0.846132
+amg, matrix-cpu, 32, -problem 2 -P 4 4 2 -n 128 128 64, 242.938789
+amg, matrix-cpu, 32, -problem 2 -P 4 4 2 -n 16 16 8, 1.003831
+amg, matrix-cpu, 32, -problem 2 -P 4 4 2 -n 32 32 16, 3.569844
+amg, matrix-cpu, 32, -problem 2 -P 4 4 2 -n 64 64 32, 27.798759
+amg, matrix-cpu, 32, -problem 2 -P 4 4 2 -n 8 8 4, 0.916304
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3, 10.202274
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3 -pa, 10.397727
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.1, 10.375054
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.1 -pa, 10.390567
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.2, 10.475614
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.2 -pa, 10.646968
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.3, 10.842006
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.3 -pa, 10.674490
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.4, 10.863816
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.4 -pa, 11.048548
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.5, 11.238832
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.5 -pa, 11.255917
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.6, 11.287317
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.6 -pa, 11.789311
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.7, 11.548575
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.7 -pa, 11.905146
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.8, 11.842238
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.8 -pa, 12.023805
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.9, 11.812648
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.9 -pa, 12.260779
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4, 12.187262
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4 -pa, 11.997726
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.1, 12.264809
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.1 -pa, 12.249775
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.2, 12.612606
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.2 -pa, 12.773169
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.3, 12.848475
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.3 -pa, 12.809365
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.4, 13.150526
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.4 -pa, 13.198166
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.5, 13.846667
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.5 -pa, 13.518740
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.6, 14.089112
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.6 -pa, 13.723152
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.7, 14.170218
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.7 -pa, 14.153946
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.8, 14.349001
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.8 -pa, 14.435299
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.9, 14.367727
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.9 -pa, 14.578883
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 5, 14.518958
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 5 -pa, 14.450192
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 5.5, 15.183120
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 2 -tf 5.5 -pa, 15.791080
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3, 48.799299
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3 -pa, 48.748329
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.1, 49.526082
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.1 -pa, 49.580457
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.2, 51.021927
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.2 -pa, 51.129430
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.3, 52.261861
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.3 -pa, 52.434436
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.4, 52.871784
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.4 -pa, 53.752660
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.5, 54.120874
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.5 -pa, 54.047064
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.6, 54.654192
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.6 -pa, 55.202629
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.7, 56.076542
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.7 -pa, 56.168148
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.8, 57.104153
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.8 -pa, 56.994524
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.9, 58.399545
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.9 -pa, 58.413573
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4, 60.192854
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4 -pa, 60.471771
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.1, 62.957001
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.1 -pa, 63.903677
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.2, 66.654968
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.2 -pa, 66.952856
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.3, 71.061621
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.3 -pa, 70.165043
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.4, 74.921689
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.4 -pa, 74.134521
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.5, 77.941369
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.5 -pa, 77.631026
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.6, 79.161862
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.6 -pa, 80.144568
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.7, 80.877277
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.7 -pa, 81.648480
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.8, 83.014738
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.8 -pa, 83.303998
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.9, 85.936374
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.9 -pa, 86.839770
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 5, 89.577538
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 5 -pa, 89.181077
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 5.5, 99.591173
+laghos, matrix-cpu, 1, -p 1 -dim 2 -rs 3 -tf 5.5 -pa, 98.899567
+laghos, matrix-cpu, 1, -p 1 -dim 3 -rs 1 -tf 3, 29.831013
+laghos, matrix-cpu, 1, -p 1 -dim 3 -rs 1 -tf 3 -pa, 29.647683
+laghos, matrix-cpu, 1, -p 1 -dim 3 -rs 1 -tf 3.5, 36.429984
+laghos, matrix-cpu, 1, -p 1 -dim 3 -rs 1 -tf 3.5 -pa, 36.314639
+laghos, matrix-cpu, 1, -p 1 -dim 3 -rs 1 -tf 4, 44.288026
+laghos, matrix-cpu, 1, -p 1 -dim 3 -rs 1 -tf 4 -pa, 44.069268
+laghos, matrix-cpu, 1, -p 1 -dim 3 -rs 1 -tf 4.5, 50.694177
+laghos, matrix-cpu, 1, -p 1 -dim 3 -rs 1 -tf 4.5 -pa, 50.625772
+laghos, matrix-cpu, 1, -p 1 -dim 3 -rs 1 -tf 5, 56.081861
+laghos, matrix-cpu, 1, -p 1 -dim 3 -rs 1 -tf 5 -pa, 56.201103
+laghos, matrix-cpu, 1, -p 1 -dim 3 -rs 1 -tf 5.5, 61.027992
+laghos, matrix-cpu, 1, -p 1 -dim 3 -rs 1 -tf 5.5 -pa, 60.732442
+laghos, matrix-cpu, 1, -p 1 -dim 3 -rs 2 -tf 3, 499.810066
+laghos, matrix-cpu, 1, -p 1 -dim 3 -rs 2 -tf 3 -pa, 499.962790
+laghos, matrix-cpu, 1, -p 1 -dim 3 -rs 2 -tf 3.5, 663.862120
+laghos, matrix-cpu, 1, -p 1 -dim 3 -rs 2 -tf 3.5 -pa, 663.585720
+laghos, matrix-cpu, 1, -p 1 -dim 3 -rs 2 -tf 4, 823.013208
+laghos, matrix-cpu, 1, -p 1 -dim 3 -rs 2 -tf 4 -pa, 822.865226
+laghos, matrix-cpu, 1, -p 1 -dim 3 -rs 2 -tf 4.5, 888.762864
+laghos, matrix-cpu, 1, -p 1 -dim 3 -rs 2 -tf 4.5 -pa, 889.545683
+laghos, matrix-cpu, 1, -p 1 -dim 3 -rs 2 -tf 5, 972.700574
+laghos, matrix-cpu, 1, -p 1 -dim 3 -rs 2 -tf 5 -pa, 971.483345
+laghos, matrix-cpu, 1, -p 1 -dim 3 -rs 2 -tf 5.5, 1133.358499
+laghos, matrix-cpu, 1, -p 1 -dim 3 -rs 2 -tf 5.5 -pa, 1134.274974
+laghos, matrix-cpu, 1, -p 2 -dim 2 -rs 2 -tf 3, 10.419992
+laghos, matrix-cpu, 1, -p 2 -dim 2 -rs 2 -tf 3 -pa, 10.381775
+laghos, matrix-cpu, 1, -p 2 -dim 2 -rs 2 -tf 3.5, 11.314750
+laghos, matrix-cpu, 1, -p 2 -dim 2 -rs 2 -tf 3.5 -pa, 11.309230
+laghos, matrix-cpu, 1, -p 2 -dim 2 -rs 2 -tf 4, 11.934133
+laghos, matrix-cpu, 1, -p 2 -dim 2 -rs 2 -tf 4 -pa, 11.850715
+laghos, matrix-cpu, 1, -p 2 -dim 2 -rs 2 -tf 4.5, 12.652231
+laghos, matrix-cpu, 1, -p 2 -dim 2 -rs 2 -tf 4.5 -pa, 12.595691
+laghos, matrix-cpu, 1, -p 2 -dim 2 -rs 2 -tf 5, 13.753143
+laghos, matrix-cpu, 1, -p 2 -dim 2 -rs 2 -tf 5 -pa, 13.816320
+laghos, matrix-cpu, 1, -p 2 -dim 2 -rs 2 -tf 5.5, 14.681591
+laghos, matrix-cpu, 1, -p 2 -dim 2 -rs 2 -tf 5.5 -pa, 14.781751
+laghos, matrix-cpu, 1, -p 2 -dim 3 -rs 1 -tf 3, 27.491872
+laghos, matrix-cpu, 1, -p 2 -dim 3 -rs 1 -tf 3 -pa, 27.602648
+laghos, matrix-cpu, 1, -p 2 -dim 3 -rs 1 -tf 3.5, 31.898225
+laghos, matrix-cpu, 1, -p 2 -dim 3 -rs 1 -tf 3.5 -pa, 31.813851
+laghos, matrix-cpu, 1, -p 2 -dim 3 -rs 1 -tf 4, 33.835725
+laghos, matrix-cpu, 1, -p 2 -dim 3 -rs 1 -tf 4 -pa, 34.111877
+laghos, matrix-cpu, 1, -p 2 -dim 3 -rs 1 -tf 4.5, 36.511028
+laghos, matrix-cpu, 1, -p 2 -dim 3 -rs 1 -tf 4.5 -pa, 36.649921
+laghos, matrix-cpu, 1, -p 2 -dim 3 -rs 1 -tf 5, 40.552932
+laghos, matrix-cpu, 1, -p 2 -dim 3 -rs 1 -tf 5 -pa, 40.719748
+laghos, matrix-cpu, 1, -p 2 -dim 3 -rs 1 -tf 5.5, 43.866072
+laghos, matrix-cpu, 1, -p 2 -dim 3 -rs 1 -tf 5.5 -pa, 43.932672
+laghos, matrix-cpu, 1, -p 2 -dim 3 -rs 2 -tf 3, 449.109268
+laghos, matrix-cpu, 1, -p 2 -dim 3 -rs 2 -tf 3 -pa, 448.853157
+laghos, matrix-cpu, 1, -p 3 -dim 2 -rs 1 -tf 3, 3.449307
+laghos, matrix-cpu, 1, -p 3 -dim 2 -rs 1 -tf 3 -pa, 3.435981
+laghos, matrix-cpu, 1, -p 3 -dim 2 -rs 1 -tf 3.5, 3.509518
+laghos, matrix-cpu, 1, -p 3 -dim 2 -rs 1 -tf 3.5 -pa, 3.529451
+laghos, matrix-cpu, 1, -p 3 -dim 2 -rs 1 -tf 4, 3.543797
+laghos, matrix-cpu, 1, -p 3 -dim 2 -rs 1 -tf 4 -pa, 3.548976
+laghos, matrix-cpu, 1, -p 3 -dim 2 -rs 1 -tf 4.5, 3.594153
+laghos, matrix-cpu, 1, -p 3 -dim 2 -rs 1 -tf 4.5 -pa, 3.577041
+laghos, matrix-cpu, 1, -p 3 -dim 2 -rs 1 -tf 5, 3.602879
+laghos, matrix-cpu, 1, -p 3 -dim 2 -rs 1 -tf 5 -pa, 3.587927
+laghos, matrix-cpu, 1, -p 3 -dim 2 -rs 1 -tf 5.5, 3.565489
+laghos, matrix-cpu, 1, -p 3 -dim 2 -rs 1 -tf 5.5 -pa, 3.619629
+laghos, matrix-cpu, 1, -p 3 -dim 2 -rs 2 -tf 3, 4.184096
+laghos, matrix-cpu, 1, -p 3 -dim 2 -rs 2 -tf 3 -pa, 4.192228
+laghos, matrix-cpu, 1, -p 3 -dim 2 -rs 2 -tf 3.5, 4.206331
+laghos, matrix-cpu, 1, -p 3 -dim 2 -rs 2 -tf 3.5 -pa, 4.327874
+laghos, matrix-cpu, 1, -p 3 -dim 2 -rs 2 -tf 4, 4.403467
+laghos, matrix-cpu, 1, -p 3 -dim 2 -rs 2 -tf 4 -pa, 4.551498
+laghos, matrix-cpu, 1, -p 3 -dim 2 -rs 2 -tf 4.5, 4.575233
+laghos, matrix-cpu, 1, -p 3 -dim 2 -rs 2 -tf 4.5 -pa, 4.582543
+laghos, matrix-cpu, 1, -p 3 -dim 2 -rs 2 -tf 5, 4.684147
+laghos, matrix-cpu, 1, -p 3 -dim 2 -rs 2 -tf 5 -pa, 4.743848
+laghos, matrix-cpu, 1, -p 3 -dim 2 -rs 2 -tf 5.5, 4.898177
+laghos, matrix-cpu, 1, -p 3 -dim 2 -rs 2 -tf 5.5 -pa, 4.926532
+laghos, matrix-cpu, 1, -p 3 -dim 3 -rs 1 -tf 3, 6.313656
+laghos, matrix-cpu, 1, -p 3 -dim 3 -rs 1 -tf 3 -pa, 6.303598
+laghos, matrix-cpu, 1, -p 3 -dim 3 -rs 1 -tf 3.5, 6.897113
+laghos, matrix-cpu, 1, -p 3 -dim 3 -rs 1 -tf 3.5 -pa, 6.887604
+laghos, matrix-cpu, 1, -p 3 -dim 3 -rs 1 -tf 4, 7.370804
+laghos, matrix-cpu, 1, -p 3 -dim 3 -rs 1 -tf 4 -pa, 7.380268
+laghos, matrix-cpu, 1, -p 3 -dim 3 -rs 1 -tf 4.5, 7.948088
+laghos, matrix-cpu, 1, -p 3 -dim 3 -rs 1 -tf 4.5 -pa, 7.871420
+laghos, matrix-cpu, 1, -p 3 -dim 3 -rs 1 -tf 5, 8.434649
+laghos, matrix-cpu, 1, -p 3 -dim 3 -rs 1 -tf 5 -pa, 8.356169
+laghos, matrix-cpu, 1, -p 3 -dim 3 -rs 1 -tf 5.5, 8.893279
+laghos, matrix-cpu, 1, -p 3 -dim 3 -rs 1 -tf 5.5 -pa, 8.894843
+laghos, matrix-cpu, 1, -p 3 -dim 3 -rs 2 -tf 3, 52.729121
+laghos, matrix-cpu, 1, -p 3 -dim 3 -rs 2 -tf 3 -pa, 52.597968
+laghos, matrix-cpu, 1, -p 3 -dim 3 -rs 2 -tf 3.5, 60.760744
+laghos, matrix-cpu, 1, -p 3 -dim 3 -rs 2 -tf 3.5 -pa, 60.736681
+laghos, matrix-cpu, 1, -p 3 -dim 3 -rs 2 -tf 4, 68.619549
+laghos, matrix-cpu, 1, -p 3 -dim 3 -rs 2 -tf 4 -pa, 68.659673
+laghos, matrix-cpu, 1, -p 3 -dim 3 -rs 2 -tf 4.5, 76.931108
+laghos, matrix-cpu, 1, -p 3 -dim 3 -rs 2 -tf 4.5 -pa, 76.801505
+laghos, matrix-cpu, 1, -p 3 -dim 3 -rs 2 -tf 5, 85.012291
+laghos, matrix-cpu, 1, -p 3 -dim 3 -rs 2 -tf 5 -pa, 84.987067
+laghos, matrix-cpu, 1, -p 3 -dim 3 -rs 2 -tf 5.5, 93.316800
+laghos, matrix-cpu, 1, -p 3 -dim 3 -rs 2 -tf 5.5 -pa, 93.027937
+miniFE, matrix-cpu, 1, -nx 100 -ny 100 -nz 100, 7.528256
+miniFE, matrix-cpu, 1, -nx 100 -ny 100 -nz 50, 4.182965
+miniFE, matrix-cpu, 1, -nx 100 -ny 50 -nz 50, 2.003207
+miniFE, matrix-cpu, 1, -nx 100 -ny 75 -nz 50, 2.993518
+miniFE, matrix-cpu, 1, -nx 100 -ny 75 -nz 75, 4.333513
+miniFE, matrix-cpu, 1, -nx 125 -ny 100 -nz 100, 9.414679
+miniFE, matrix-cpu, 1, -nx 125 -ny 100 -nz 50, 4.762539
+miniFE, matrix-cpu, 1, -nx 125 -ny 125 -nz 125, 14.767990
+miniFE, matrix-cpu, 1, -nx 125 -ny 125 -nz 50, 6.012512
+miniFE, matrix-cpu, 1, -nx 125 -ny 50 -nz 50, 2.472998
+miniFE, matrix-cpu, 1, -nx 125 -ny 75 -nz 50, 3.595078
+miniFE, matrix-cpu, 1, -nx 125 -ny 75 -nz 75, 5.330030
+miniFE, matrix-cpu, 1, -nx 150 -ny 100 -nz 100, 11.231053
+miniFE, matrix-cpu, 1, -nx 150 -ny 100 -nz 50, 5.688724
+miniFE, matrix-cpu, 1, -nx 150 -ny 125 -nz 125, 17.406885
+miniFE, matrix-cpu, 1, -nx 150 -ny 125 -nz 50, 7.104575
+miniFE, matrix-cpu, 1, -nx 150 -ny 150 -nz 150, 25.011998
+miniFE, matrix-cpu, 1, -nx 150 -ny 150 -nz 50, 8.406083
+miniFE, matrix-cpu, 1, -nx 150 -ny 50 -nz 50, 2.936440
+miniFE, matrix-cpu, 1, -nx 150 -ny 75 -nz 50, 4.332698
+miniFE, matrix-cpu, 1, -nx 150 -ny 75 -nz 75, 6.369400
+miniFE, matrix-cpu, 1, -nx 175 -ny 100 -nz 100, 13.211835
+miniFE, matrix-cpu, 1, -nx 175 -ny 100 -nz 50, 6.746944
+miniFE, matrix-cpu, 1, -nx 175 -ny 125 -nz 125, 20.484497
+miniFE, matrix-cpu, 1, -nx 175 -ny 125 -nz 50, 8.170159
+miniFE, matrix-cpu, 1, -nx 175 -ny 150 -nz 150, 29.138786
+miniFE, matrix-cpu, 1, -nx 175 -ny 150 -nz 50, 9.897542
+miniFE, matrix-cpu, 1, -nx 175 -ny 175 -nz 175, 40.304171
+miniFE, matrix-cpu, 1, -nx 175 -ny 175 -nz 50, 11.495670
+miniFE, matrix-cpu, 1, -nx 175 -ny 50 -nz 50, 3.395516
+miniFE, matrix-cpu, 1, -nx 175 -ny 75 -nz 50, 5.160104
+miniFE, matrix-cpu, 1, -nx 175 -ny 75 -nz 75, 7.448508
+miniFE, matrix-cpu, 1, -nx 200 -ny 100 -nz 100, 14.954827
+miniFE, matrix-cpu, 1, -nx 200 -ny 100 -nz 50, 7.612541
+miniFE, matrix-cpu, 1, -nx 200 -ny 125 -nz 125, 23.206460
+miniFE, matrix-cpu, 1, -nx 200 -ny 125 -nz 50, 9.549427
+miniFE, matrix-cpu, 1, -nx 200 -ny 150 -nz 150, 33.594390
+miniFE, matrix-cpu, 1, -nx 200 -ny 150 -nz 50, 11.340758
+miniFE, matrix-cpu, 1, -nx 200 -ny 175 -nz 175, 45.826075
+miniFE, matrix-cpu, 1, -nx 200 -ny 175 -nz 50, 13.070866
+miniFE, matrix-cpu, 1, -nx 200 -ny 200 -nz 200, 60.381479
+miniFE, matrix-cpu, 1, -nx 200 -ny 200 -nz 50, 15.334903
+miniFE, matrix-cpu, 1, -nx 200 -ny 50 -nz 50, 3.986773
+miniFE, matrix-cpu, 1, -nx 200 -ny 75 -nz 50, 5.715871
+miniFE, matrix-cpu, 1, -nx 200 -ny 75 -nz 75, 8.508825
+miniFE, matrix-cpu, 1, -nx 50 -ny 50 -nz 50, 1.001441
+miniFE, matrix-cpu, 1, -nx 75 -ny 75 -nz 75, 3.330429
+miniFE, matrix-cpu, 1, -nx 75 -ny 50 -nz 50, 1.545428
+miniFE, matrix-cpu, 1, -nx 75 -ny 75 -nz 50, 2.235488
+miniVite, matrix-cpu, 1, -l -p 1 -n 128, 0.250442
+miniVite, matrix-cpu, 1, -l -p 1 -n 256, 0.269084
+miniVite, matrix-cpu, 1, -l -p 1 -n 32, 0.261269
+miniVite, matrix-cpu, 1, -l -p 1 -n 512, 0.241163
+miniVite, matrix-cpu, 1, -l -p 1 -n 64, 0.252224
+miniVite, matrix-cpu, 1, -l -p 2 -n 128, 0.255101
+miniVite, matrix-cpu, 1, -l -p 2 -n 256, 0.249659
+miniVite, matrix-cpu, 1, -l -p 2 -n 32, 0.260335
+miniVite, matrix-cpu, 1, -l -p 2 -n 512, 0.248792
+miniVite, matrix-cpu, 1, -l -p 2 -n 64, 0.263072
+miniVite, matrix-cpu, 1, -l -p 3 -n 128, 0.249476
+miniVite, matrix-cpu, 1, -l -p 3 -n 256, 0.263050
+miniVite, matrix-cpu, 1, -l -p 3 -n 32, 0.266253
+miniVite, matrix-cpu, 1, -l -p 3 -n 512, 0.260203
+miniVite, matrix-cpu, 1, -l -p 3 -n 64, 0.257650
+miniVite, matrix-cpu, 1, -l -p 4 -n 128, 0.262034
+miniVite, matrix-cpu, 1, -l -p 4 -n 256, 0.251306
+miniVite, matrix-cpu, 1, -l -p 4 -n 32, 0.264900
+miniVite, matrix-cpu, 1, -l -p 4 -n 512, 0.262174
+miniVite, matrix-cpu, 1, -l -p 4 -n 64, 0.261998
+miniVite, matrix-cpu, 1, -l -p 5 -n 128, 0.252617
+miniVite, matrix-cpu, 1, -l -p 5 -n 256, 0.263441
+miniVite, matrix-cpu, 1, -l -p 5 -n 32, 0.263308
+miniVite, matrix-cpu, 1, -l -p 5 -n 512, 0.259467
+miniVite, matrix-cpu, 1, -l -p 5 -n 64, 0.257701
+miniVite, matrix-cpu, 1, -l -p 6 -n 128, 0.247226
+miniVite, matrix-cpu, 1, -l -p 6 -n 256, 0.253269
+miniVite, matrix-cpu, 1, -l -p 6 -n 32, 0.259395
+miniVite, matrix-cpu, 1, -l -p 6 -n 512, 0.252484
+miniVite, matrix-cpu, 1, -l -p 6 -n 64, 0.259300
+miniVite, matrix-cpu, 1, -l -p 7 -n 128, 0.250516
+miniVite, matrix-cpu, 1, -l -p 7 -n 256, 0.250369
+miniVite, matrix-cpu, 1, -l -p 7 -n 32, 0.251808
+miniVite, matrix-cpu, 1, -l -p 7 -n 512, 0.261426
+miniVite, matrix-cpu, 1, -l -p 7 -n 64, 0.247154
+miniVite, matrix-cpu, 1, -l -p 8 -n 128, 0.262471
+miniVite, matrix-cpu, 1, -l -p 8 -n 256, 0.249543
+miniVite, matrix-cpu, 1, -l -p 8 -n 32, 0.258006
+miniVite, matrix-cpu, 1, -l -p 8 -n 512, 0.254456
+miniVite, matrix-cpu, 1, -l -p 8 -n 64, 0.262097
+miniVite, matrix-cpu, 1, -l -p 9 -n 128, 0.260985
+miniVite, matrix-cpu, 1, -l -p 9 -n 256, 0.258151
+miniVite, matrix-cpu, 1, -l -p 9 -n 32, 0.249056
+miniVite, matrix-cpu, 1, -l -p 9 -n 512, 0.238286
+miniVite, matrix-cpu, 1, -l -p 9 -n 64, 0.246666
+miniVite, matrix-cpu, 1, -p 1 -n 128, 0.251745
+miniVite, matrix-cpu, 1, -p 1 -n 256, 0.249074
+miniVite, matrix-cpu, 1, -p 1 -n 32, 0.246404
+miniVite, matrix-cpu, 1, -p 1 -n 512, 0.262152
+miniVite, matrix-cpu, 1, -p 1 -n 64, 0.248780
+miniVite, matrix-cpu, 1, -p 2 -n 128, 0.251247
+miniVite, matrix-cpu, 1, -p 2 -n 256, 0.259285
+miniVite, matrix-cpu, 1, -p 2 -n 32, 0.250167
+miniVite, matrix-cpu, 1, -p 2 -n 512, 0.261536
+miniVite, matrix-cpu, 1, -p 2 -n 64, 0.265611
+miniVite, matrix-cpu, 1, -p 3 -n 128, 0.258014
+miniVite, matrix-cpu, 1, -p 3 -n 256, 0.262617
+miniVite, matrix-cpu, 1, -p 3 -n 32, 0.251220
+miniVite, matrix-cpu, 1, -p 3 -n 512, 0.238020
+miniVite, matrix-cpu, 1, -p 3 -n 64, 0.248312
+miniVite, matrix-cpu, 1, -p 4 -n 128, 0.261348
+miniVite, matrix-cpu, 1, -p 4 -n 256, 0.253039
+miniVite, matrix-cpu, 1, -p 4 -n 32, 0.249602
+miniVite, matrix-cpu, 1, -p 4 -n 512, 0.262740
+miniVite, matrix-cpu, 1, -p 4 -n 64, 0.249141
+miniVite, matrix-cpu, 1, -p 5 -n 128, 0.249500
+miniVite, matrix-cpu, 1, -p 5 -n 256, 0.248650
+miniVite, matrix-cpu, 1, -p 5 -n 32, 0.258341
+miniVite, matrix-cpu, 1, -p 5 -n 512, 0.251462
+miniVite, matrix-cpu, 1, -p 5 -n 64, 0.248177
+miniVite, matrix-cpu, 1, -p 6 -n 128, 0.260668
+miniVite, matrix-cpu, 1, -p 6 -n 256, 0.260470
+miniVite, matrix-cpu, 1, -p 6 -n 32, 0.247644
+miniVite, matrix-cpu, 1, -p 6 -n 512, 0.275240
+miniVite, matrix-cpu, 1, -p 6 -n 64, 0.249823
+miniVite, matrix-cpu, 1, -p 7 -n 128, 0.259693
+miniVite, matrix-cpu, 1, -p 7 -n 256, 0.265166
+miniVite, matrix-cpu, 1, -p 7 -n 32, 0.248403
+miniVite, matrix-cpu, 1, -p 7 -n 512, 0.251421
+miniVite, matrix-cpu, 1, -p 7 -n 64, 0.265244
+miniVite, matrix-cpu, 1, -p 8 -n 128, 0.263831
+miniVite, matrix-cpu, 1, -p 8 -n 256, 0.249608
+miniVite, matrix-cpu, 1, -p 8 -n 32, 0.264169
+miniVite, matrix-cpu, 1, -p 8 -n 512, 0.251176
+miniVite, matrix-cpu, 1, -p 8 -n 64, 0.260548
+miniVite, matrix-cpu, 1, -p 9 -n 128, 0.253457
+miniVite, matrix-cpu, 1, -p 9 -n 256, 0.253027
+miniVite, matrix-cpu, 1, -p 9 -n 32, 0.250749
+miniVite, matrix-cpu, 1, -p 9 -n 512, 0.263138
+miniVite, matrix-cpu, 1, -p 9 -n 64, 0.260225
+miniVite, matrix-cpu, 1, -w -l -p 1 -n 128, 0.253010
+miniVite, matrix-cpu, 1, -w -l -p 1 -n 256, 0.258695
+miniVite, matrix-cpu, 1, -w -l -p 1 -n 32, 0.265806
+miniVite, matrix-cpu, 1, -w -l -p 1 -n 512, 0.253686
+miniVite, matrix-cpu, 1, -w -l -p 1 -n 64, 0.251080
+miniVite, matrix-cpu, 1, -w -l -p 2 -n 128, 0.258724
+miniVite, matrix-cpu, 1, -w -l -p 2 -n 256, 0.253394
+miniVite, matrix-cpu, 1, -w -l -p 2 -n 32, 0.269102
+miniVite, matrix-cpu, 1, -w -l -p 2 -n 512, 0.240647
+miniVite, matrix-cpu, 1, -w -l -p 2 -n 64, 0.250523
+miniVite, matrix-cpu, 1, -w -l -p 3 -n 128, 0.246811
+miniVite, matrix-cpu, 1, -w -l -p 3 -n 256, 0.261990
+miniVite, matrix-cpu, 1, -w -l -p 3 -n 32, 0.261673
+miniVite, matrix-cpu, 1, -w -l -p 3 -n 512, 0.264801
+miniVite, matrix-cpu, 1, -w -l -p 3 -n 64, 0.258892
+miniVite, matrix-cpu, 1, -w -l -p 4 -n 128, 0.261848
+miniVite, matrix-cpu, 1, -w -l -p 4 -n 256, 0.249784
+miniVite, matrix-cpu, 1, -w -l -p 4 -n 32, 0.268394
+miniVite, matrix-cpu, 1, -w -l -p 4 -n 512, 0.264818
+miniVite, matrix-cpu, 1, -w -l -p 4 -n 64, 0.267270
+miniVite, matrix-cpu, 1, -w -l -p 5 -n 128, 0.255514
+miniVite, matrix-cpu, 1, -w -l -p 5 -n 256, 0.262780
+miniVite, matrix-cpu, 1, -w -l -p 5 -n 32, 0.254721
+miniVite, matrix-cpu, 1, -w -l -p 5 -n 512, 0.266196
+miniVite, matrix-cpu, 1, -w -l -p 5 -n 64, 0.253190
+miniVite, matrix-cpu, 1, -w -l -p 6 -n 128, 0.259592
+miniVite, matrix-cpu, 1, -w -l -p 6 -n 256, 0.253374
+miniVite, matrix-cpu, 1, -w -l -p 6 -n 32, 0.254992
+miniVite, matrix-cpu, 1, -w -l -p 6 -n 512, 0.253171
+miniVite, matrix-cpu, 1, -w -l -p 6 -n 64, 0.254714
+miniVite, matrix-cpu, 1, -w -l -p 7 -n 128, 0.259644
+miniVite, matrix-cpu, 1, -w -l -p 7 -n 256, 0.247036
+miniVite, matrix-cpu, 1, -w -l -p 7 -n 32, 0.248123
+miniVite, matrix-cpu, 1, -w -l -p 7 -n 512, 0.262293
+miniVite, matrix-cpu, 1, -w -l -p 7 -n 64, 0.235335
+miniVite, matrix-cpu, 1, -w -l -p 8 -n 128, 0.265278
+miniVite, matrix-cpu, 1, -w -l -p 8 -n 256, 0.262540
+miniVite, matrix-cpu, 1, -w -l -p 8 -n 32, 0.258792
+miniVite, matrix-cpu, 1, -w -l -p 8 -n 512, 0.251780
+miniVite, matrix-cpu, 1, -w -l -p 8 -n 64, 0.262507
+miniVite, matrix-cpu, 1, -w -l -p 9 -n 128, 0.260175
+miniVite, matrix-cpu, 1, -w -l -p 9 -n 256, 0.268579
+miniVite, matrix-cpu, 1, -w -l -p 9 -n 32, 0.252023
+miniVite, matrix-cpu, 1, -w -l -p 9 -n 512, 0.265301
+miniVite, matrix-cpu, 1, -w -l -p 9 -n 64, 0.249177
+miniVite, matrix-cpu, 1, -w -p 1 -n 128, 0.253115
+miniVite, matrix-cpu, 1, -w -p 1 -n 256, 0.258338
+miniVite, matrix-cpu, 1, -w -p 1 -n 32, 0.265939
+miniVite, matrix-cpu, 1, -w -p 1 -n 512, 0.250806
+miniVite, matrix-cpu, 1, -w -p 1 -n 64, 0.249012
+miniVite, matrix-cpu, 1, -w -p 2 -n 128, 0.251251
+miniVite, matrix-cpu, 1, -w -p 2 -n 256, 0.251840
+miniVite, matrix-cpu, 1, -w -p 2 -n 32, 0.263213
+miniVite, matrix-cpu, 1, -w -p 2 -n 512, 0.266136
+miniVite, matrix-cpu, 1, -w -p 2 -n 64, 0.251677
+miniVite, matrix-cpu, 1, -w -p 3 -n 128, 0.252042
+miniVite, matrix-cpu, 1, -w -p 3 -n 256, 0.263772
+miniVite, matrix-cpu, 1, -w -p 3 -n 32, 0.260718
+miniVite, matrix-cpu, 1, -w -p 3 -n 512, 0.253038
+miniVite, matrix-cpu, 1, -w -p 3 -n 64, 0.261911
+miniVite, matrix-cpu, 1, -w -p 4 -n 128, 0.261925
+miniVite, matrix-cpu, 1, -w -p 4 -n 256, 0.259413
+miniVite, matrix-cpu, 1, -w -p 4 -n 32, 0.261746
+miniVite, matrix-cpu, 1, -w -p 4 -n 512, 0.264989
+miniVite, matrix-cpu, 1, -w -p 4 -n 64, 0.263323
+miniVite, matrix-cpu, 1, -w -p 5 -n 128, 0.250314
+miniVite, matrix-cpu, 1, -w -p 5 -n 256, 0.261707
+miniVite, matrix-cpu, 1, -w -p 5 -n 32, 0.264468
+miniVite, matrix-cpu, 1, -w -p 5 -n 512, 0.266485
+miniVite, matrix-cpu, 1, -w -p 5 -n 64, 0.252620
+miniVite, matrix-cpu, 1, -w -p 6 -n 128, 0.251409
+miniVite, matrix-cpu, 1, -w -p 6 -n 256, 0.261760
+miniVite, matrix-cpu, 1, -w -p 6 -n 32, 0.260244
+miniVite, matrix-cpu, 1, -w -p 6 -n 512, 0.263386
+miniVite, matrix-cpu, 1, -w -p 6 -n 64, 0.250441
+miniVite, matrix-cpu, 1, -w -p 7 -n 128, 0.250192
+miniVite, matrix-cpu, 1, -w -p 7 -n 256, 0.263487
+miniVite, matrix-cpu, 1, -w -p 7 -n 32, 0.261432
+miniVite, matrix-cpu, 1, -w -p 7 -n 512, 0.254136
+miniVite, matrix-cpu, 1, -w -p 7 -n 64, 0.256825
+miniVite, matrix-cpu, 1, -w -p 8 -n 128, 0.267203
+miniVite, matrix-cpu, 1, -w -p 8 -n 256, 0.262646
+miniVite, matrix-cpu, 1, -w -p 8 -n 32, 0.249341
+miniVite, matrix-cpu, 1, -w -p 8 -n 512, 0.263139
+miniVite, matrix-cpu, 1, -w -p 8 -n 64, 0.260769
+miniVite, matrix-cpu, 1, -w -p 9 -n 128, 0.259288
+miniVite, matrix-cpu, 1, -w -p 9 -n 256, 0.252085
+miniVite, matrix-cpu, 1, -w -p 9 -n 32, 0.261062
+miniVite, matrix-cpu, 1, -w -p 9 -n 512, 0.257339
+miniVite, matrix-cpu, 1, -w -p 9 -n 64, 0.276738
+miniVite, matrix-cpu, 32, -l -p 1 -n 16384, 0.856833
+miniVite, matrix-cpu, 32, -l -p 1 -n 4096, 0.838194
+miniVite, matrix-cpu, 32, -l -p 1 -n 8192, 0.822237
+miniVite, matrix-cpu, 32, -l -p 2 -n 16384, 0.835938
+miniVite, matrix-cpu, 32, -l -p 2 -n 4096, 0.837316
+miniVite, matrix-cpu, 32, -l -p 2 -n 8192, 0.828071
+miniVite, matrix-cpu, 32, -l -p 3 -n 16384, 0.838885
+miniVite, matrix-cpu, 32, -l -p 3 -n 4096, 0.833615
+miniVite, matrix-cpu, 32, -l -p 3 -n 8192, 0.844399
+miniVite, matrix-cpu, 32, -l -p 4 -n 16384, 0.838610
+miniVite, matrix-cpu, 32, -l -p 4 -n 4096, 0.834275
+miniVite, matrix-cpu, 32, -l -p 4 -n 8192, 0.821626
+miniVite, matrix-cpu, 32, -l -p 5 -n 16384, 0.830886
+miniVite, matrix-cpu, 32, -l -p 5 -n 4096, 0.819404
+miniVite, matrix-cpu, 32, -l -p 5 -n 8192, 0.831111
+miniVite, matrix-cpu, 32, -l -p 6 -n 16384, 0.832339
+miniVite, matrix-cpu, 32, -l -p 6 -n 4096, 0.837396
+miniVite, matrix-cpu, 32, -l -p 6 -n 8192, 0.831195
+miniVite, matrix-cpu, 32, -l -p 7 -n 16384, 0.818971
+miniVite, matrix-cpu, 32, -l -p 7 -n 4096, 0.836860
+miniVite, matrix-cpu, 32, -l -p 7 -n 8192, 0.836782
+miniVite, matrix-cpu, 32, -l -p 8 -n 16384, 0.825753
+miniVite, matrix-cpu, 32, -l -p 8 -n 4096, 0.828415
+miniVite, matrix-cpu, 32, -l -p 8 -n 8192, 0.837122
+miniVite, matrix-cpu, 32, -l -p 9 -n 16384, 0.830038
+miniVite, matrix-cpu, 32, -l -p 9 -n 4096, 0.844513
+miniVite, matrix-cpu, 32, -l -p 9 -n 8192, 0.844949
+miniVite, matrix-cpu, 32, -p 1 -n 16384, 0.825190
+miniVite, matrix-cpu, 32, -p 1 -n 4096, 0.822246
+miniVite, matrix-cpu, 32, -p 1 -n 8192, 0.875399
+miniVite, matrix-cpu, 32, -p 2 -n 16384, 0.825288
+miniVite, matrix-cpu, 32, -p 2 -n 4096, 0.839886
+miniVite, matrix-cpu, 32, -p 2 -n 8192, 0.845682
+miniVite, matrix-cpu, 32, -p 3 -n 16384, 0.844406
+miniVite, matrix-cpu, 32, -p 3 -n 4096, 0.821543
+miniVite, matrix-cpu, 32, -p 3 -n 8192, 0.845922
+miniVite, matrix-cpu, 32, -p 4 -n 16384, 0.848920
+miniVite, matrix-cpu, 32, -p 4 -n 4096, 0.835441
+miniVite, matrix-cpu, 32, -p 4 -n 8192, 0.849484
+miniVite, matrix-cpu, 32, -p 5 -n 16384, 0.841625
+miniVite, matrix-cpu, 32, -p 5 -n 4096, 0.838306
+miniVite, matrix-cpu, 32, -p 5 -n 8192, 0.840958
+miniVite, matrix-cpu, 32, -p 6 -n 16384, 0.843427
+miniVite, matrix-cpu, 32, -p 6 -n 4096, 0.853135
+miniVite, matrix-cpu, 32, -p 6 -n 8192, 0.835650
+miniVite, matrix-cpu, 32, -p 7 -n 16384, 0.852951
+miniVite, matrix-cpu, 32, -p 7 -n 4096, 0.826093
+miniVite, matrix-cpu, 32, -p 7 -n 8192, 0.849370
+miniVite, matrix-cpu, 32, -p 8 -n 16384, 0.844233
+miniVite, matrix-cpu, 32, -p 8 -n 4096, 0.836474
+miniVite, matrix-cpu, 32, -p 8 -n 8192, 0.859293
+miniVite, matrix-cpu, 32, -p 9 -n 16384, 0.855557
+miniVite, matrix-cpu, 32, -p 9 -n 4096, 0.832702
+miniVite, matrix-cpu, 32, -p 9 -n 8192, 0.881165
+miniVite, matrix-cpu, 32, -w -l -p 1 -n 16384, 0.829851
+miniVite, matrix-cpu, 32, -w -l -p 1 -n 4096, 0.834914
+miniVite, matrix-cpu, 32, -w -l -p 1 -n 8192, 0.860431
+miniVite, matrix-cpu, 32, -w -l -p 2 -n 16384, 0.844550
+miniVite, matrix-cpu, 32, -w -l -p 2 -n 4096, 0.846678
+miniVite, matrix-cpu, 32, -w -l -p 2 -n 8192, 0.843858
+miniVite, matrix-cpu, 32, -w -l -p 3 -n 16384, 0.866537
+miniVite, matrix-cpu, 32, -w -l -p 3 -n 4096, 0.850584
+miniVite, matrix-cpu, 32, -w -l -p 3 -n 8192, 0.834625
+miniVite, matrix-cpu, 32, -w -l -p 4 -n 16384, 0.845171
+miniVite, matrix-cpu, 32, -w -l -p 4 -n 4096, 0.863034
+miniVite, matrix-cpu, 32, -w -l -p 4 -n 8192, 0.847395
+miniVite, matrix-cpu, 32, -w -l -p 5 -n 16384, 0.823591
+miniVite, matrix-cpu, 32, -w -l -p 5 -n 4096, 0.847281
+miniVite, matrix-cpu, 32, -w -l -p 5 -n 8192, 0.855241
+miniVite, matrix-cpu, 32, -w -l -p 6 -n 16384, 0.845529
+miniVite, matrix-cpu, 32, -w -l -p 6 -n 4096, 0.847810
+miniVite, matrix-cpu, 32, -w -l -p 6 -n 8192, 0.848289
+miniVite, matrix-cpu, 32, -w -l -p 7 -n 16384, 0.857784
+miniVite, matrix-cpu, 32, -w -l -p 7 -n 4096, 0.842712
+miniVite, matrix-cpu, 32, -w -l -p 7 -n 8192, 0.861687
+miniVite, matrix-cpu, 32, -w -l -p 8 -n 16384, 0.839430
+miniVite, matrix-cpu, 32, -w -l -p 8 -n 4096, 0.835197
+miniVite, matrix-cpu, 32, -w -l -p 8 -n 8192, 0.847065
+miniVite, matrix-cpu, 32, -w -l -p 9 -n 16384, 0.866082
+miniVite, matrix-cpu, 32, -w -l -p 9 -n 4096, 0.841618
+miniVite, matrix-cpu, 32, -w -l -p 9 -n 8192, 0.818543
+miniVite, matrix-cpu, 32, -w -p 1 -n 16384, 0.823458
+miniVite, matrix-cpu, 32, -w -p 1 -n 4096, 0.845302
+miniVite, matrix-cpu, 32, -w -p 1 -n 8192, 0.834464
+miniVite, matrix-cpu, 32, -w -p 2 -n 16384, 0.837598
+miniVite, matrix-cpu, 32, -w -p 2 -n 4096, 0.834937
+miniVite, matrix-cpu, 32, -w -p 2 -n 8192, 0.849240
+miniVite, matrix-cpu, 32, -w -p 3 -n 16384, 0.840493
+miniVite, matrix-cpu, 32, -w -p 3 -n 4096, 0.840476
+miniVite, matrix-cpu, 32, -w -p 3 -n 8192, 0.841868
+miniVite, matrix-cpu, 32, -w -p 4 -n 16384, 0.857902
+miniVite, matrix-cpu, 32, -w -p 4 -n 4096, 0.833596
+miniVite, matrix-cpu, 32, -w -p 4 -n 8192, 0.842209
+miniVite, matrix-cpu, 32, -w -p 5 -n 16384, 0.826610
+miniVite, matrix-cpu, 32, -w -p 5 -n 4096, 0.841732
+miniVite, matrix-cpu, 32, -w -p 5 -n 8192, 0.842990
+miniVite, matrix-cpu, 32, -w -p 6 -n 16384, 0.846080
+miniVite, matrix-cpu, 32, -w -p 6 -n 4096, 0.836318
+miniVite, matrix-cpu, 32, -w -p 6 -n 8192, 0.856613
+miniVite, matrix-cpu, 32, -w -p 7 -n 16384, 0.846690
+miniVite, matrix-cpu, 32, -w -p 7 -n 4096, 0.828073
+miniVite, matrix-cpu, 32, -w -p 7 -n 8192, 0.828744
+miniVite, matrix-cpu, 32, -w -p 8 -n 16384, 0.846362
+miniVite, matrix-cpu, 32, -w -p 8 -n 4096, 0.868046
+miniVite, matrix-cpu, 32, -w -p 8 -n 8192, 0.832764
+miniVite, matrix-cpu, 32, -w -p 9 -n 16384, 0.856330
+miniVite, matrix-cpu, 32, -w -p 9 -n 4096, 0.855975
+miniVite, matrix-cpu, 32, -w -p 9 -n 8192, 0.840116
+SWFFT, matrix-cpu, 1, 10 120, 2.266757
+SWFFT, matrix-cpu, 1, 10 128, 3.372366
+SWFFT, matrix-cpu, 1, 10 160, 5.741623
+SWFFT, matrix-cpu, 1, 10 200, 10.385000
+SWFFT, matrix-cpu, 1, 10 240, 19.141121
+SWFFT, matrix-cpu, 1, 10 256, 27.510829
+SWFFT, matrix-cpu, 1, 10 32, 0.288377
+SWFFT, matrix-cpu, 1, 10 64, 0.483475
+SWFFT, matrix-cpu, 1, 12 128, 3.942964
+SWFFT, matrix-cpu, 1, 12 256, 33.184863
+SWFFT, matrix-cpu, 1, 12 32, 0.295768
+SWFFT, matrix-cpu, 1, 12 64, 0.515425
+SWFFT, matrix-cpu, 1, 14 128, 4.475201
+SWFFT, matrix-cpu, 1, 14 256, 38.619205
+SWFFT, matrix-cpu, 1, 14 32, 0.280099
+SWFFT, matrix-cpu, 1, 14 64, 0.545299
+SWFFT, matrix-cpu, 1, 15 120, 3.190035
+SWFFT, matrix-cpu, 1, 15 160, 8.401589
+SWFFT, matrix-cpu, 1, 15 200, 15.341149
+SWFFT, matrix-cpu, 1, 15 240, 28.353556
+SWFFT, matrix-cpu, 1, 16 128, 5.022110
+SWFFT, matrix-cpu, 1, 16 256, 43.990971
+SWFFT, matrix-cpu, 1, 16 32, 0.303155
+SWFFT, matrix-cpu, 1, 16 64, 0.577198
+SWFFT, matrix-cpu, 1, 18 128, 5.585620
+SWFFT, matrix-cpu, 1, 18 256, 49.463018
+SWFFT, matrix-cpu, 1, 18 32, 0.303024
+SWFFT, matrix-cpu, 1, 18 64, 0.616987
+SWFFT, matrix-cpu, 1, 20 120, 4.078291
+SWFFT, matrix-cpu, 1, 20 128, 6.134086
+SWFFT, matrix-cpu, 1, 20 160, 11.024171
+SWFFT, matrix-cpu, 1, 20 200, 20.148656
+SWFFT, matrix-cpu, 1, 20 240, 37.561507
+SWFFT, matrix-cpu, 1, 20 256, 54.766598
+SWFFT, matrix-cpu, 1, 20 32, 0.307155
+SWFFT, matrix-cpu, 1, 20 64, 0.641661
+SWFFT, matrix-cpu, 32, 10 120, 1.077458
+SWFFT, matrix-cpu, 32, 10 128, 1.001392
+SWFFT, matrix-cpu, 32, 10 160, 1.380060
+SWFFT, matrix-cpu, 32, 10 200, 1.946773
+SWFFT, matrix-cpu, 32, 10 240, 3.052233
+SWFFT, matrix-cpu, 32, 10 256, 3.589606
+SWFFT, matrix-cpu, 32, 10 32, 0.881038
+SWFFT, matrix-cpu, 32, 10 64, 0.906644
+SWFFT, matrix-cpu, 32, 12 128, 1.017165
+SWFFT, matrix-cpu, 32, 12 256, 4.092037
+SWFFT, matrix-cpu, 32, 12 32, 0.874100
+SWFFT, matrix-cpu, 32, 12 64, 0.894261
+SWFFT, matrix-cpu, 32, 14 128, 1.037363
+SWFFT, matrix-cpu, 32, 14 256, 4.622681
+SWFFT, matrix-cpu, 32, 14 32, 0.886929
+SWFFT, matrix-cpu, 32, 14 64, 0.927359
+SWFFT, matrix-cpu, 32, 15 120, 1.119919
+SWFFT, matrix-cpu, 32, 15 160, 1.581091
+SWFFT, matrix-cpu, 32, 15 200, 2.454028
+SWFFT, matrix-cpu, 32, 15 240, 3.996909
+SWFFT, matrix-cpu, 32, 16 128, 1.045808
+SWFFT, matrix-cpu, 32, 16 256, 5.142852
+SWFFT, matrix-cpu, 32, 16 32, 0.895900
+SWFFT, matrix-cpu, 32, 16 64, 0.907811
+SWFFT, matrix-cpu, 32, 18 128, 1.071335
+SWFFT, matrix-cpu, 32, 18 256, 5.684210
+SWFFT, matrix-cpu, 32, 18 32, 0.909313
+SWFFT, matrix-cpu, 32, 18 64, 0.931730
+SWFFT, matrix-cpu, 32, 20 120, 1.158440
+SWFFT, matrix-cpu, 32, 20 128, 1.110560
+SWFFT, matrix-cpu, 32, 20 160, 1.816446
+SWFFT, matrix-cpu, 32, 20 200, 2.922097
+SWFFT, matrix-cpu, 32, 20 240, 4.962456
+SWFFT, matrix-cpu, 32, 20 256, 6.195783
+SWFFT, matrix-cpu, 32, 20 32, 0.915568
+SWFFT, matrix-cpu, 32, 20 64, 0.944049
+XSBench, matrix-cpu, 1, -m event -s XL -G hash -t 1, 110.443527
+XSBench, matrix-cpu, 1, -m event -s XL -G nuclide -t 1, 347.687415
+XSBench, matrix-cpu, 1, -m event -s XL -G unionized -t 1, 119.836681
+XSBench, matrix-cpu, 1, -m event -s XXL -G hash -t 1, 154.905567
+XSBench, matrix-cpu, 1, -m event -s XXL -G nuclide -t 1, 417.646496
+XSBench, matrix-cpu, 1, -m event -s XXL -G unionized -t 1, 212.050031
+XSBench, matrix-cpu, 1, -m event -s large -G hash -t 1, 39.902976
+XSBench, matrix-cpu, 1, -m event -s large -G nuclide -t 1, 170.148566
+XSBench, matrix-cpu, 1, -m event -s large -G unionized -t 1, 37.539265
+XSBench, matrix-cpu, 1, -m event -s small -G hash -t 1, 9.418887
+XSBench, matrix-cpu, 1, -m event -s small -G nuclide -t 1, 38.014395
+XSBench, matrix-cpu, 1, -m event -s small -G unionized -t 1, 11.876763
+XSBench, matrix-cpu, 1, -m history -s XL -G hash -t 1, 109.232680
+XSBench, matrix-cpu, 1, -m history -s XL -G nuclide -t 1, 346.502396
+XSBench, matrix-cpu, 1, -m history -s XL -G unionized -t 1, 119.254638
+XSBench, matrix-cpu, 1, -m history -s XXL -G hash -t 1, 152.880228
+XSBench, matrix-cpu, 1, -m history -s XXL -G nuclide -t 1, 417.732989
+XSBench, matrix-cpu, 1, -m history -s XXL -G unionized -t 1, 211.684133
+XSBench, matrix-cpu, 1, -m history -s large -G hash -t 1, 38.972234
+XSBench, matrix-cpu, 1, -m history -s large -G nuclide -t 1, 169.175643
+XSBench, matrix-cpu, 1, -m history -s large -G unionized -t 1, 36.560816
+XSBench, matrix-cpu, 1, -m history -s small -G hash -t 1, 8.562842
+XSBench, matrix-cpu, 1, -m history -s small -G nuclide -t 1, 37.183245
+XSBench, matrix-cpu, 1, -m history -s small -G unionized -t 1, 10.891191

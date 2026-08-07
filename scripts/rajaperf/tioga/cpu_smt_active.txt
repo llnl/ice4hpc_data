@@ -1,0 +1,2 @@
+cat /sys/devices/system/cpu/smt/active
+1

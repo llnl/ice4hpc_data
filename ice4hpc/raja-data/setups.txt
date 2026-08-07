@@ -1,0 +1,16 @@
+boraxo, Intel Xeon Gold 6140
+catalyst, Intel Xeon CPU E5-2695 v2
+mammothh, AMD EPYC 7742
+poodle, Intel Xeon Platinum 8479
+quartz, Intel Xeon CPU E5-2695 v4
+ruby, Intel Xeon Platinum 8276L
+ec2-c5n, Intel Xeon Platinum 8124M
+ec2-c6a, AMD EPYC 7R13 
+ec2-c6i, Intel Xeon Platinum 8375C
+
+tioga, rocm 5.4.3, AMD EPYC 7A53  + AMD Instinct MI250X (gfx90a)
+corona, rocm 5.1.0, AMD EPYC 7402 + AMD Instinct MI50 (gfx960)
+lassen, cuda 12.0, IBM POWER9 + Volta V100 (sm70)
+pascal, cuda 11.8, Intel Xeon CPU E5-2695 v4 + Pascal P100 (sm60)
+ec2-p3, cuda 11.7.99, Intel Xeon CPU E5-2686 v4 + Volta V100 (sm70)
+ec2-p4d, cuda 11.7.99, Intel Xeon Platinum 8275CL +  Ampere A100 (sm80)

@@ -1,0 +1,9 @@
+
+Currently Loaded Modules:
+  1) jobutils/1.0   2) StdEnv (S)   3) cuda/11.8.0   4) gcc/10.3.1-magic   5) mvapich2/2.3.6   6) cmake/3.23.1
+
+  Where:
+   S:  Module is Sticky, requires --force to unload or purge
+
+ 
+

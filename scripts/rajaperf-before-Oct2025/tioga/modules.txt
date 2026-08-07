@@ -1,0 +1,10 @@
+
+Currently Loaded Modules:
+  1) craype-x86-trento    3) libfabric/2.0            5) flux_wrappers/0.1       7) craype/2.7.20       9) cray-libsci/23.02.1.1  11) amd/5.4.3
+  2) craype-network-ofi   4) perftools-base/23.03.0   6) StdEnv            (S)   8) cray-mpich/8.1.25  10) PrgEnv-amd/8.3.3
+
+  Where:
+   S:  Module is Sticky, requires --force to unload or purge
+
+ 
+

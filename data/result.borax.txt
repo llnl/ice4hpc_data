@@ -1,0 +1,845 @@
+amg, borax, 1, -problem 2 -P 1 1 1 -n 128 128 128, 172.388700
+amg, borax, 1, -problem 2 -P 1 1 1 -n 16 16 16, 0.474103
+amg, borax, 1, -problem 2 -P 1 1 1 -n 256 256 256, 1436.798936
+amg, borax, 1, -problem 2 -P 1 1 1 -n 32 32 32, 2.220200
+amg, borax, 1, -problem 2 -P 1 1 1 -n 64 64 64, 20.455048
+amg, borax, 1, -problem 2 -P 1 1 1 -n 8 8 8, 0.261551
+amg, borax, 32, -problem 1 -P 4 4 2 -n 128 128 64, 27.971479
+amg, borax, 32, -problem 1 -P 4 4 2 -n 16 16 8, 0.787863
+amg, borax, 32, -problem 1 -P 4 4 2 -n 32 32 16, 1.138276
+amg, borax, 32, -problem 1 -P 4 4 2 -n 64 64 32, 3.927480
+amg, borax, 32, -problem 1 -P 4 4 2 -n 8 8 4, 0.770926
+amg, borax, 32, -problem 2 -P 4 4 2 -n 128 128 64, 270.209059
+amg, borax, 32, -problem 2 -P 4 4 2 -n 16 16 8, 1.087373
+amg, borax, 32, -problem 2 -P 4 4 2 -n 32 32 16, 4.645389
+amg, borax, 32, -problem 2 -P 4 4 2 -n 64 64 32, 31.559957
+amg, borax, 32, -problem 2 -P 4 4 2 -n 8 8 4, 0.897602
+kripke, borax, 1, --niter 10 --pmethod bj --groups 16 --legendre 0 --arch Sequential, 1.639634
+kripke, borax, 1, --niter 10 --pmethod bj --groups 16 --legendre 1 --arch Sequential, 1.966636
+kripke, borax, 1, --niter 10 --pmethod bj --groups 16 --legendre 2 --arch Sequential, 2.576431
+kripke, borax, 1, --niter 10 --pmethod bj --groups 16 --legendre 3 --arch Sequential, 3.359432
+kripke, borax, 1, --niter 10 --pmethod bj --groups 16 --legendre 4 --arch Sequential, 4.453706
+kripke, borax, 1, --niter 10 --pmethod bj --groups 32 --legendre 0 --arch Sequential, 3.085763
+kripke, borax, 1, --niter 10 --pmethod bj --groups 32 --legendre 1 --arch Sequential, 4.003013
+kripke, borax, 1, --niter 10 --pmethod bj --groups 32 --legendre 2 --arch Sequential, 5.496652
+kripke, borax, 1, --niter 10 --pmethod bj --groups 32 --legendre 3 --arch Sequential, 7.523048
+kripke, borax, 1, --niter 10 --pmethod bj --groups 32 --legendre 4 --arch Sequential, 10.266306
+kripke, borax, 1, --niter 10 --pmethod bj --groups 8 --legendre 0 --arch Sequential, 0.820888
+kripke, borax, 1, --niter 10 --pmethod bj --groups 8 --legendre 1 --arch Sequential, 0.947097
+kripke, borax, 1, --niter 10 --pmethod bj --groups 8 --legendre 2 --arch Sequential, 1.116924
+kripke, borax, 1, --niter 10 --pmethod bj --groups 8 --legendre 3 --arch Sequential, 1.420735
+kripke, borax, 1, --niter 10 --pmethod bj --groups 8 --legendre 4 --arch Sequential, 1.758807
+kripke, borax, 1, --niter 10 --pmethod sweep --groups 16 --legendre 0 --arch Sequential, 1.527976
+kripke, borax, 1, --niter 10 --pmethod sweep --groups 16 --legendre 1 --arch Sequential, 1.899287
+kripke, borax, 1, --niter 10 --pmethod sweep --groups 16 --legendre 2 --arch Sequential, 2.471226
+kripke, borax, 1, --niter 10 --pmethod sweep --groups 16 --legendre 3 --arch Sequential, 3.275354
+kripke, borax, 1, --niter 10 --pmethod sweep --groups 16 --legendre 4 --arch Sequential, 4.318258
+kripke, borax, 1, --niter 10 --pmethod sweep --groups 32 --legendre 0 --arch Sequential, 2.846027
+kripke, borax, 1, --niter 10 --pmethod sweep --groups 32 --legendre 1 --arch Sequential, 3.728859
+kripke, borax, 1, --niter 10 --pmethod sweep --groups 32 --legendre 2 --arch Sequential, 5.299677
+kripke, borax, 1, --niter 10 --pmethod sweep --groups 32 --legendre 3 --arch Sequential, 7.382589
+kripke, borax, 1, --niter 10 --pmethod sweep --groups 32 --legendre 4 --arch Sequential, 9.977543
+kripke, borax, 1, --niter 10 --pmethod sweep --groups 8 --legendre 0 --arch Sequential, 0.850363
+kripke, borax, 1, --niter 10 --pmethod sweep --groups 8 --legendre 1 --arch Sequential, 0.887407
+kripke, borax, 1, --niter 10 --pmethod sweep --groups 8 --legendre 2 --arch Sequential, 1.086064
+kripke, borax, 1, --niter 10 --pmethod sweep --groups 8 --legendre 3 --arch Sequential, 1.335492
+kripke, borax, 1, --niter 10 --pmethod sweep --groups 8 --legendre 4 --arch Sequential, 1.658124
+kripke, borax, 1, --niter 15 --pmethod bj --groups 16 --legendre 0 --arch Sequential, 2.298916
+kripke, borax, 1, --niter 15 --pmethod bj --groups 16 --legendre 1 --arch Sequential, 2.863791
+kripke, borax, 1, --niter 15 --pmethod bj --groups 16 --legendre 2 --arch Sequential, 3.725369
+kripke, borax, 1, --niter 15 --pmethod bj --groups 16 --legendre 3 --arch Sequential, 4.980042
+kripke, borax, 1, --niter 15 --pmethod bj --groups 16 --legendre 4 --arch Sequential, 6.585206
+kripke, borax, 1, --niter 15 --pmethod bj --groups 32 --legendre 0 --arch Sequential, 4.408057
+kripke, borax, 1, --niter 15 --pmethod bj --groups 32 --legendre 1 --arch Sequential, 5.641489
+kripke, borax, 1, --niter 15 --pmethod bj --groups 32 --legendre 2 --arch Sequential, 7.995177
+kripke, borax, 1, --niter 15 --pmethod bj --groups 32 --legendre 3 --arch Sequential, 11.102838
+kripke, borax, 1, --niter 15 --pmethod bj --groups 32 --legendre 4 --arch Sequential, 15.245964
+kripke, borax, 1, --niter 15 --pmethod bj --groups 8 --legendre 0 --arch Sequential, 1.074480
+kripke, borax, 1, --niter 15 --pmethod bj --groups 8 --legendre 1 --arch Sequential, 1.289670
+kripke, borax, 1, --niter 15 --pmethod bj --groups 8 --legendre 2 --arch Sequential, 1.579012
+kripke, borax, 1, --niter 15 --pmethod bj --groups 8 --legendre 3 --arch Sequential, 1.981161
+kripke, borax, 1, --niter 15 --pmethod bj --groups 8 --legendre 4 --arch Sequential, 2.424020
+kripke, borax, 1, --niter 15 --pmethod sweep --groups 16 --legendre 0 --arch Sequential, 2.074664
+kripke, borax, 1, --niter 15 --pmethod sweep --groups 16 --legendre 1 --arch Sequential, 2.708857
+kripke, borax, 1, --niter 15 --pmethod sweep --groups 16 --legendre 2 --arch Sequential, 3.548386
+kripke, borax, 1, --niter 15 --pmethod sweep --groups 16 --legendre 3 --arch Sequential, 4.809392
+kripke, borax, 1, --niter 15 --pmethod sweep --groups 16 --legendre 4 --arch Sequential, 6.367780
+kripke, borax, 1, --niter 15 --pmethod sweep --groups 32 --legendre 0 --arch Sequential, 3.950784
+kripke, borax, 1, --niter 15 --pmethod sweep --groups 32 --legendre 1 --arch Sequential, 5.423850
+kripke, borax, 1, --niter 15 --pmethod sweep --groups 32 --legendre 2 --arch Sequential, 7.689501
+kripke, borax, 1, --niter 15 --pmethod sweep --groups 32 --legendre 3 --arch Sequential, 10.886142
+kripke, borax, 1, --niter 15 --pmethod sweep --groups 32 --legendre 4 --arch Sequential, 14.976470
+kripke, borax, 1, --niter 15 --pmethod sweep --groups 8 --legendre 0 --arch Sequential, 1.010243
+kripke, borax, 1, --niter 15 --pmethod sweep --groups 8 --legendre 1 --arch Sequential, 1.180260
+kripke, borax, 1, --niter 15 --pmethod sweep --groups 8 --legendre 2 --arch Sequential, 1.487509
+kripke, borax, 1, --niter 15 --pmethod sweep --groups 8 --legendre 3 --arch Sequential, 1.849201
+kripke, borax, 1, --niter 15 --pmethod sweep --groups 8 --legendre 4 --arch Sequential, 2.394421
+kripke, borax, 1, --niter 40 --pmethod sweep --groups 16 --legendre 0 --arch Sequential, 4.889363
+kripke, borax, 1, --niter 40 --pmethod sweep --groups 16 --legendre 1 --arch Sequential, 6.548461
+kripke, borax, 1, --niter 40 --pmethod sweep --groups 16 --legendre 2 --arch Sequential, 8.840620
+kripke, borax, 1, --niter 40 --pmethod sweep --groups 16 --legendre 3 --arch Sequential, 12.146984
+kripke, borax, 1, --niter 40 --pmethod sweep --groups 16 --legendre 4 --arch Sequential, 16.274042
+kripke, borax, 1, --niter 40 --pmethod sweep --groups 32 --legendre 0 --arch Sequential, 10.226691
+kripke, borax, 1, --niter 40 --pmethod sweep --groups 32 --legendre 1 --arch Sequential, 13.806873
+kripke, borax, 1, --niter 40 --pmethod sweep --groups 32 --legendre 2 --arch Sequential, 19.769459
+kripke, borax, 1, --niter 40 --pmethod sweep --groups 32 --legendre 3 --arch Sequential, 28.193225
+kripke, borax, 1, --niter 40 --pmethod sweep --groups 32 --legendre 4 --arch Sequential, 38.928017
+kripke, borax, 1, --niter 40 --pmethod sweep --groups 8 --legendre 0 --arch Sequential, 2.231698
+kripke, borax, 1, --niter 40 --pmethod sweep --groups 8 --legendre 1 --arch Sequential, 2.712576
+kripke, borax, 1, --niter 40 --pmethod sweep --groups 8 --legendre 2 --arch Sequential, 3.491715
+kripke, borax, 1, --niter 40 --pmethod sweep --groups 8 --legendre 3 --arch Sequential, 4.397221
+kripke, borax, 1, --niter 40 --pmethod sweep --groups 8 --legendre 4 --arch Sequential, 5.777137
+kripke, borax, 1, --niter 5 --pmethod bj --groups 16 --legendre 0 --arch Sequential, 0.969836
+kripke, borax, 1, --niter 5 --pmethod bj --groups 16 --legendre 1 --arch Sequential, 1.160190
+kripke, borax, 1, --niter 5 --pmethod bj --groups 16 --legendre 2 --arch Sequential, 1.471176
+kripke, borax, 1, --niter 5 --pmethod bj --groups 16 --legendre 3 --arch Sequential, 1.893233
+kripke, borax, 1, --niter 5 --pmethod bj --groups 16 --legendre 4 --arch Sequential, 2.445541
+kripke, borax, 1, --niter 5 --pmethod bj --groups 32 --legendre 0 --arch Sequential, 1.685859
+kripke, borax, 1, --niter 5 --pmethod bj --groups 32 --legendre 1 --arch Sequential, 2.213383
+kripke, borax, 1, --niter 5 --pmethod bj --groups 32 --legendre 2 --arch Sequential, 2.958865
+kripke, borax, 1, --niter 5 --pmethod bj --groups 32 --legendre 3 --arch Sequential, 3.979287
+kripke, borax, 1, --niter 5 --pmethod bj --groups 32 --legendre 4 --arch Sequential, 5.379031
+kripke, borax, 1, --niter 5 --pmethod bj --groups 8 --legendre 0 --arch Sequential, 0.552216
+kripke, borax, 1, --niter 5 --pmethod bj --groups 8 --legendre 1 --arch Sequential, 0.614912
+kripke, borax, 1, --niter 5 --pmethod bj --groups 8 --legendre 2 --arch Sequential, 0.709193
+kripke, borax, 1, --niter 5 --pmethod bj --groups 8 --legendre 3 --arch Sequential, 0.853442
+kripke, borax, 1, --niter 5 --pmethod bj --groups 8 --legendre 4 --arch Sequential, 1.024717
+kripke, borax, 1, --niter 5 --pmethod sweep --groups 16 --legendre 0 --arch Sequential, 0.887804
+kripke, borax, 1, --niter 5 --pmethod sweep --groups 16 --legendre 1 --arch Sequential, 1.099756
+kripke, borax, 1, --niter 5 --pmethod sweep --groups 16 --legendre 2 --arch Sequential, 1.421158
+kripke, borax, 1, --niter 5 --pmethod sweep --groups 16 --legendre 3 --arch Sequential, 1.856844
+kripke, borax, 1, --niter 5 --pmethod sweep --groups 16 --legendre 4 --arch Sequential, 2.333560
+kripke, borax, 1, --niter 5 --pmethod sweep --groups 32 --legendre 0 --arch Sequential, 1.582765
+kripke, borax, 1, --niter 5 --pmethod sweep --groups 32 --legendre 1 --arch Sequential, 2.061960
+kripke, borax, 1, --niter 5 --pmethod sweep --groups 32 --legendre 2 --arch Sequential, 2.876851
+kripke, borax, 1, --niter 5 --pmethod sweep --groups 32 --legendre 3 --arch Sequential, 3.897312
+kripke, borax, 1, --niter 5 --pmethod sweep --groups 32 --legendre 4 --arch Sequential, 5.228914
+kripke, borax, 1, --niter 5 --pmethod sweep --groups 8 --legendre 0 --arch Sequential, 0.522105
+kripke, borax, 1, --niter 5 --pmethod sweep --groups 8 --legendre 1 --arch Sequential, 0.587104
+kripke, borax, 1, --niter 5 --pmethod sweep --groups 8 --legendre 2 --arch Sequential, 0.683817
+kripke, borax, 1, --niter 5 --pmethod sweep --groups 8 --legendre 3 --arch Sequential, 0.819294
+kripke, borax, 1, --niter 5 --pmethod sweep --groups 8 --legendre 4 --arch Sequential, 0.998448
+kripke, borax, 32, --niter 10 --pmethod bj --groups 16 --legendre 0 --procs 4,4,2 --arch Sequential, 1.150164
+kripke, borax, 32, --niter 10 --pmethod bj --groups 16 --legendre 1 --procs 4,4,2 --arch Sequential, 1.251819
+kripke, borax, 32, --niter 10 --pmethod bj --groups 16 --legendre 2 --procs 4,4,2 --arch Sequential, 1.399852
+kripke, borax, 32, --niter 10 --pmethod bj --groups 16 --legendre 3 --procs 4,4,2 --arch Sequential, 1.572557
+kripke, borax, 32, --niter 10 --pmethod bj --groups 16 --legendre 4 --procs 4,4,2 --arch Sequential, 1.883019
+kripke, borax, 32, --niter 10 --pmethod bj --groups 32 --legendre 0 --procs 4,4,2 --arch Sequential, 1.212649
+kripke, borax, 32, --niter 10 --pmethod bj --groups 32 --legendre 1 --procs 4,4,2 --arch Sequential, 1.279405
+kripke, borax, 32, --niter 10 --pmethod bj --groups 32 --legendre 2 --procs 4,4,2 --arch Sequential, 1.488907
+kripke, borax, 32, --niter 10 --pmethod bj --groups 32 --legendre 3 --procs 4,4,2 --arch Sequential, 1.736746
+kripke, borax, 32, --niter 10 --pmethod bj --groups 32 --legendre 4 --procs 4,4,2 --arch Sequential, 2.024518
+kripke, borax, 32, --niter 10 --pmethod bj --groups 8 --legendre 0 --procs 4,4,2 --arch Sequential, 0.993046
+kripke, borax, 32, --niter 10 --pmethod bj --groups 8 --legendre 1 --procs 4,4,2 --arch Sequential, 1.070925
+kripke, borax, 32, --niter 10 --pmethod bj --groups 8 --legendre 2 --procs 4,4,2 --arch Sequential, 1.147573
+kripke, borax, 32, --niter 10 --pmethod bj --groups 8 --legendre 3 --procs 4,4,2 --arch Sequential, 1.314172
+kripke, borax, 32, --niter 10 --pmethod bj --groups 8 --legendre 4 --procs 4,4,2 --arch Sequential, 1.429537
+kripke, borax, 32, --niter 10 --pmethod sweep --groups 16 --legendre 0 --procs 4,4,2 --arch Sequential, 0.821984
+kripke, borax, 32, --niter 10 --pmethod sweep --groups 16 --legendre 1 --procs 4,4,2 --arch Sequential, 0.808497
+kripke, borax, 32, --niter 10 --pmethod sweep --groups 16 --legendre 2 --procs 4,4,2 --arch Sequential, 0.822644
+kripke, borax, 32, --niter 10 --pmethod sweep --groups 16 --legendre 3 --procs 4,4,2 --arch Sequential, 0.852289
+kripke, borax, 32, --niter 10 --pmethod sweep --groups 16 --legendre 4 --procs 4,4,2 --arch Sequential, 0.869835
+kripke, borax, 32, --niter 10 --pmethod sweep --groups 32 --legendre 0 --procs 4,4,2 --arch Sequential, 0.840346
+kripke, borax, 32, --niter 10 --pmethod sweep --groups 32 --legendre 1 --procs 4,4,2 --arch Sequential, 0.904719
+kripke, borax, 32, --niter 10 --pmethod sweep --groups 32 --legendre 2 --procs 4,4,2 --arch Sequential, 0.940595
+kripke, borax, 32, --niter 10 --pmethod sweep --groups 32 --legendre 3 --procs 4,4,2 --arch Sequential, 1.012020
+kripke, borax, 32, --niter 10 --pmethod sweep --groups 32 --legendre 4 --procs 4,4,2 --arch Sequential, 1.096941
+kripke, borax, 32, --niter 10 --pmethod sweep --groups 8 --legendre 0 --procs 4,4,2 --arch Sequential, 0.762859
+kripke, borax, 32, --niter 10 --pmethod sweep --groups 8 --legendre 1 --procs 4,4,2 --arch Sequential, 0.790597
+kripke, borax, 32, --niter 10 --pmethod sweep --groups 8 --legendre 2 --procs 4,4,2 --arch Sequential, 0.774139
+kripke, borax, 32, --niter 10 --pmethod sweep --groups 8 --legendre 3 --procs 4,4,2 --arch Sequential, 0.799099
+kripke, borax, 32, --niter 10 --pmethod sweep --groups 8 --legendre 4 --procs 4,4,2 --arch Sequential, 0.790742
+kripke, borax, 32, --niter 15 --pmethod bj --groups 16 --legendre 0 --procs 4,4,2 --arch Sequential, 1.386830
+kripke, borax, 32, --niter 15 --pmethod bj --groups 16 --legendre 1 --procs 4,4,2 --arch Sequential, 1.570172
+kripke, borax, 32, --niter 15 --pmethod bj --groups 16 --legendre 2 --procs 4,4,2 --arch Sequential, 1.835086
+kripke, borax, 32, --niter 15 --pmethod bj --groups 16 --legendre 3 --procs 4,4,2 --arch Sequential, 2.182931
+kripke, borax, 32, --niter 15 --pmethod bj --groups 16 --legendre 4 --procs 4,4,2 --arch Sequential, 2.644671
+kripke, borax, 32, --niter 15 --pmethod bj --groups 32 --legendre 0 --procs 4,4,2 --arch Sequential, 1.515242
+kripke, borax, 32, --niter 15 --pmethod bj --groups 32 --legendre 1 --procs 4,4,2 --arch Sequential, 1.622493
+kripke, borax, 32, --niter 15 --pmethod bj --groups 32 --legendre 2 --procs 4,4,2 --arch Sequential, 1.934769
+kripke, borax, 32, --niter 15 --pmethod bj --groups 32 --legendre 3 --procs 4,4,2 --arch Sequential, 2.310840
+kripke, borax, 32, --niter 15 --pmethod bj --groups 32 --legendre 4 --procs 4,4,2 --arch Sequential, 2.928724
+kripke, borax, 32, --niter 15 --pmethod bj --groups 8 --legendre 0 --procs 4,4,2 --arch Sequential, 1.168621
+kripke, borax, 32, --niter 15 --pmethod bj --groups 8 --legendre 1 --procs 4,4,2 --arch Sequential, 1.267940
+kripke, borax, 32, --niter 15 --pmethod bj --groups 8 --legendre 2 --procs 4,4,2 --arch Sequential, 1.406000
+kripke, borax, 32, --niter 15 --pmethod bj --groups 8 --legendre 3 --procs 4,4,2 --arch Sequential, 1.625251
+kripke, borax, 32, --niter 15 --pmethod bj --groups 8 --legendre 4 --procs 4,4,2 --arch Sequential, 1.941100
+kripke, borax, 32, --niter 15 --pmethod sweep --groups 16 --legendre 0 --procs 4,4,2 --arch Sequential, 0.851850
+kripke, borax, 32, --niter 15 --pmethod sweep --groups 16 --legendre 1 --procs 4,4,2 --arch Sequential, 0.870065
+kripke, borax, 32, --niter 15 --pmethod sweep --groups 16 --legendre 2 --procs 4,4,2 --arch Sequential, 0.905073
+kripke, borax, 32, --niter 15 --pmethod sweep --groups 16 --legendre 3 --procs 4,4,2 --arch Sequential, 0.916456
+kripke, borax, 32, --niter 15 --pmethod sweep --groups 16 --legendre 4 --procs 4,4,2 --arch Sequential, 0.973092
+kripke, borax, 32, --niter 15 --pmethod sweep --groups 32 --legendre 0 --procs 4,4,2 --arch Sequential, 0.971878
+kripke, borax, 32, --niter 15 --pmethod sweep --groups 32 --legendre 1 --procs 4,4,2 --arch Sequential, 0.973997
+kripke, borax, 32, --niter 15 --pmethod sweep --groups 32 --legendre 2 --procs 4,4,2 --arch Sequential, 1.057095
+kripke, borax, 32, --niter 15 --pmethod sweep --groups 32 --legendre 3 --procs 4,4,2 --arch Sequential, 1.145854
+kripke, borax, 32, --niter 15 --pmethod sweep --groups 32 --legendre 4 --procs 4,4,2 --arch Sequential, 1.248770
+kripke, borax, 32, --niter 15 --pmethod sweep --groups 8 --legendre 0 --procs 4,4,2 --arch Sequential, 0.795834
+kripke, borax, 32, --niter 15 --pmethod sweep --groups 8 --legendre 1 --procs 4,4,2 --arch Sequential, 0.788365
+kripke, borax, 32, --niter 15 --pmethod sweep --groups 8 --legendre 2 --procs 4,4,2 --arch Sequential, 0.792001
+kripke, borax, 32, --niter 15 --pmethod sweep --groups 8 --legendre 3 --procs 4,4,2 --arch Sequential, 0.791897
+kripke, borax, 32, --niter 15 --pmethod sweep --groups 8 --legendre 4 --procs 4,4,2 --arch Sequential, 0.849021
+kripke, borax, 32, --niter 40 --pmethod sweep --groups 16 --legendre 0 --procs 4,4,2 --arch Sequential, 0.956585
+kripke, borax, 32, --niter 40 --pmethod sweep --groups 16 --legendre 1 --procs 4,4,2 --arch Sequential, 1.031380
+kripke, borax, 32, --niter 40 --pmethod sweep --groups 16 --legendre 2 --procs 4,4,2 --arch Sequential, 1.087353
+kripke, borax, 32, --niter 40 --pmethod sweep --groups 16 --legendre 3 --procs 4,4,2 --arch Sequential, 1.190191
+kripke, borax, 32, --niter 40 --pmethod sweep --groups 16 --legendre 4 --procs 4,4,2 --arch Sequential, 1.285401
+kripke, borax, 32, --niter 40 --pmethod sweep --groups 32 --legendre 0 --procs 4,4,2 --arch Sequential, 1.278849
+kripke, borax, 32, --niter 40 --pmethod sweep --groups 32 --legendre 1 --procs 4,4,2 --arch Sequential, 1.369773
+kripke, borax, 32, --niter 40 --pmethod sweep --groups 32 --legendre 2 --procs 4,4,2 --arch Sequential, 1.505278
+kripke, borax, 32, --niter 40 --pmethod sweep --groups 32 --legendre 3 --procs 4,4,2 --arch Sequential, 1.775622
+kripke, borax, 32, --niter 40 --pmethod sweep --groups 32 --legendre 4 --procs 4,4,2 --arch Sequential, 2.090256
+kripke, borax, 32, --niter 40 --pmethod sweep --groups 8 --legendre 0 --procs 4,4,2 --arch Sequential, 0.832009
+kripke, borax, 32, --niter 40 --pmethod sweep --groups 8 --legendre 1 --procs 4,4,2 --arch Sequential, 0.850589
+kripke, borax, 32, --niter 40 --pmethod sweep --groups 8 --legendre 2 --procs 4,4,2 --arch Sequential, 0.902308
+kripke, borax, 32, --niter 40 --pmethod sweep --groups 8 --legendre 3 --procs 4,4,2 --arch Sequential, 0.926739
+kripke, borax, 32, --niter 40 --pmethod sweep --groups 8 --legendre 4 --procs 4,4,2 --arch Sequential, 0.962257
+kripke, borax, 32, --niter 5 --pmethod bj --groups 16 --legendre 0 --procs 4,4,2 --arch Sequential, 0.894347
+kripke, borax, 32, --niter 5 --pmethod bj --groups 16 --legendre 1 --procs 4,4,2 --arch Sequential, 0.931559
+kripke, borax, 32, --niter 5 --pmethod bj --groups 16 --legendre 2 --procs 4,4,2 --arch Sequential, 0.996250
+kripke, borax, 32, --niter 5 --pmethod bj --groups 16 --legendre 3 --procs 4,4,2 --arch Sequential, 1.022556
+kripke, borax, 32, --niter 5 --pmethod bj --groups 16 --legendre 4 --procs 4,4,2 --arch Sequential, 1.056911
+kripke, borax, 32, --niter 5 --pmethod bj --groups 32 --legendre 0 --procs 4,4,2 --arch Sequential, 0.925853
+kripke, borax, 32, --niter 5 --pmethod bj --groups 32 --legendre 1 --procs 4,4,2 --arch Sequential, 0.958367
+kripke, borax, 32, --niter 5 --pmethod bj --groups 32 --legendre 2 --procs 4,4,2 --arch Sequential, 1.003797
+kripke, borax, 32, --niter 5 --pmethod bj --groups 32 --legendre 3 --procs 4,4,2 --arch Sequential, 1.127209
+kripke, borax, 32, --niter 5 --pmethod bj --groups 32 --legendre 4 --procs 4,4,2 --arch Sequential, 1.203609
+kripke, borax, 32, --niter 5 --pmethod bj --groups 8 --legendre 0 --procs 4,4,2 --arch Sequential, 0.830815
+kripke, borax, 32, --niter 5 --pmethod bj --groups 8 --legendre 1 --procs 4,4,2 --arch Sequential, 0.873265
+kripke, borax, 32, --niter 5 --pmethod bj --groups 8 --legendre 2 --procs 4,4,2 --arch Sequential, 0.861331
+kripke, borax, 32, --niter 5 --pmethod bj --groups 8 --legendre 3 --procs 4,4,2 --arch Sequential, 0.944420
+kripke, borax, 32, --niter 5 --pmethod bj --groups 8 --legendre 4 --procs 4,4,2 --arch Sequential, 1.002543
+kripke, borax, 32, --niter 5 --pmethod sweep --groups 16 --legendre 0 --procs 4,4,2 --arch Sequential, 0.771637
+kripke, borax, 32, --niter 5 --pmethod sweep --groups 16 --legendre 1 --procs 4,4,2 --arch Sequential, 0.762125
+kripke, borax, 32, --niter 5 --pmethod sweep --groups 16 --legendre 2 --procs 4,4,2 --arch Sequential, 0.769097
+kripke, borax, 32, --niter 5 --pmethod sweep --groups 16 --legendre 3 --procs 4,4,2 --arch Sequential, 0.812980
+kripke, borax, 32, --niter 5 --pmethod sweep --groups 16 --legendre 4 --procs 4,4,2 --arch Sequential, 0.827201
+kripke, borax, 32, --niter 5 --pmethod sweep --groups 32 --legendre 0 --procs 4,4,2 --arch Sequential, 0.854029
+kripke, borax, 32, --niter 5 --pmethod sweep --groups 32 --legendre 1 --procs 4,4,2 --arch Sequential, 0.848307
+kripke, borax, 32, --niter 5 --pmethod sweep --groups 32 --legendre 2 --procs 4,4,2 --arch Sequential, 0.848831
+kripke, borax, 32, --niter 5 --pmethod sweep --groups 32 --legendre 3 --procs 4,4,2 --arch Sequential, 0.862835
+kripke, borax, 32, --niter 5 --pmethod sweep --groups 32 --legendre 4 --procs 4,4,2 --arch Sequential, 0.906252
+kripke, borax, 32, --niter 5 --pmethod sweep --groups 8 --legendre 0 --procs 4,4,2 --arch Sequential, 0.760972
+kripke, borax, 32, --niter 5 --pmethod sweep --groups 8 --legendre 1 --procs 4,4,2 --arch Sequential, 0.775310
+kripke, borax, 32, --niter 5 --pmethod sweep --groups 8 --legendre 2 --procs 4,4,2 --arch Sequential, 0.747040
+kripke, borax, 32, --niter 5 --pmethod sweep --groups 8 --legendre 3 --procs 4,4,2 --arch Sequential, 0.763535
+kripke, borax, 32, --niter 5 --pmethod sweep --groups 8 --legendre 4 --procs 4,4,2 --arch Sequential, 0.781129
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 3, 9.866139
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 3 -pa, 9.946714
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 3.1, 10.289612
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 3.1 -pa, 10.185872
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 3.2, 10.371103
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 3.2 -pa, 10.399593
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 3.3, 10.756475
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 3.3 -pa, 10.738690
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 3.4, 10.999601
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 3.4 -pa, 10.940252
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 3.5, 11.189483
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 3.5 -pa, 11.363498
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 3.6, 11.494786
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 3.6 -pa, 11.620334
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 3.7, 11.735814
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 3.7 -pa, 11.789488
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 3.8, 12.035536
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 3.8 -pa, 12.186941
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 3.9, 12.251579
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 3.9 -pa, 12.249622
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 4, 12.616056
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 4 -pa, 12.491487
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 4.1, 12.805391
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 4.1 -pa, 12.859021
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 4.2, 13.292489
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 4.2 -pa, 13.423791
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 4.3, 13.762198
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 4.3 -pa, 13.782805
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 4.4, 14.089175
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 4.4 -pa, 14.142924
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 4.5, 14.608653
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 4.5 -pa, 14.738120
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 4.6, 15.149196
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 4.6 -pa, 14.925399
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 4.7, 15.305457
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 4.7 -pa, 15.199903
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 4.8, 15.432723
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 4.8 -pa, 15.505746
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 4.9, 15.955910
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 4.9 -pa, 15.701259
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 5, 16.019837
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 5 -pa, 16.075666
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 5.5, 16.998025
+laghos, borax, 1, -p 1 -dim 2 -rs 2 -tf 5.5 -pa, 17.243921
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 3, 64.146299
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 3 -pa, 64.006504
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 3.1, 65.579414
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 3.1 -pa, 65.775105
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 3.2, 67.053219
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 3.2 -pa, 67.108876
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 3.3, 68.683442
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 3.3 -pa, 69.090709
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 3.4, 70.356459
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 3.4 -pa, 70.488004
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 3.5, 71.630960
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 3.5 -pa, 71.530623
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 3.6, 72.794991
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 3.6 -pa, 73.217111
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 3.7, 73.865405
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 3.7 -pa, 74.428500
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 3.8, 75.671890
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 3.8 -pa, 75.918740
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 3.9, 77.158427
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 3.9 -pa, 77.106316
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 4, 79.724676
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 4 -pa, 80.090123
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 4.1, 84.061237
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 4.1 -pa, 83.762103
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 4.2, 89.063030
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 4.2 -pa, 89.113844
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 4.3, 94.958866
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 4.3 -pa, 95.131247
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 4.4, 100.656496
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 4.4 -pa, 100.733585
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 4.5, 105.098373
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 4.5 -pa, 104.506958
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 4.6, 108.211943
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 4.6 -pa, 107.648355
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 4.7, 109.787190
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 4.7 -pa, 109.953876
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 4.8, 112.960587
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 4.8 -pa, 113.005974
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 4.9, 116.920718
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 4.9 -pa, 117.331102
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 5, 121.068451
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 5 -pa, 120.812037
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 5.5, 135.804673
+laghos, borax, 1, -p 1 -dim 2 -rs 3 -tf 5.5 -pa, 135.326301
+laghos, borax, 1, -p 1 -dim 3 -rs 1 -tf 3, 36.791650
+laghos, borax, 1, -p 1 -dim 3 -rs 1 -tf 3 -pa, 36.810271
+laghos, borax, 1, -p 1 -dim 3 -rs 1 -tf 3.5, 45.841780
+laghos, borax, 1, -p 1 -dim 3 -rs 1 -tf 3.5 -pa, 45.809697
+laghos, borax, 1, -p 1 -dim 3 -rs 1 -tf 4, 56.376412
+laghos, borax, 1, -p 1 -dim 3 -rs 1 -tf 4 -pa, 56.440782
+laghos, borax, 1, -p 1 -dim 3 -rs 1 -tf 4.5, 65.384803
+laghos, borax, 1, -p 1 -dim 3 -rs 1 -tf 4.5 -pa, 65.375330
+laghos, borax, 1, -p 1 -dim 3 -rs 1 -tf 5, 73.056881
+laghos, borax, 1, -p 1 -dim 3 -rs 1 -tf 5 -pa, 73.048025
+laghos, borax, 1, -p 1 -dim 3 -rs 1 -tf 5.5, 79.478396
+laghos, borax, 1, -p 1 -dim 3 -rs 1 -tf 5.5 -pa, 79.441176
+laghos, borax, 1, -p 1 -dim 3 -rs 2 -tf 3, 690.731772
+laghos, borax, 1, -p 1 -dim 3 -rs 2 -tf 3 -pa, 690.127482
+laghos, borax, 1, -p 1 -dim 3 -rs 2 -tf 3.5, 921.544358
+laghos, borax, 1, -p 1 -dim 3 -rs 2 -tf 3.5 -pa, 919.065384
+laghos, borax, 1, -p 1 -dim 3 -rs 2 -tf 4, 1144.688768
+laghos, borax, 1, -p 1 -dim 3 -rs 2 -tf 4 -pa, 1141.373312
+laghos, borax, 1, -p 1 -dim 3 -rs 2 -tf 4.5, 1235.315379
+laghos, borax, 1, -p 1 -dim 3 -rs 2 -tf 4.5 -pa, 1236.001854
+laghos, borax, 1, -p 1 -dim 3 -rs 2 -tf 5, 1353.254258
+laghos, borax, 1, -p 1 -dim 3 -rs 2 -tf 5 -pa, 1350.270693
+laghos, borax, 1, -p 1 -dim 3 -rs 2 -tf 5.5, 1574.916452
+laghos, borax, 1, -p 1 -dim 3 -rs 2 -tf 5.5 -pa, 1575.393222
+laghos, borax, 1, -p 2 -dim 2 -rs 2 -tf 3, 10.062175
+laghos, borax, 1, -p 2 -dim 2 -rs 2 -tf 3 -pa, 10.082934
+laghos, borax, 1, -p 2 -dim 2 -rs 2 -tf 3.5, 11.429589
+laghos, borax, 1, -p 2 -dim 2 -rs 2 -tf 3.5 -pa, 11.466262
+laghos, borax, 1, -p 2 -dim 2 -rs 2 -tf 4, 12.266267
+laghos, borax, 1, -p 2 -dim 2 -rs 2 -tf 4 -pa, 12.115250
+laghos, borax, 1, -p 2 -dim 2 -rs 2 -tf 4.5, 13.159690
+laghos, borax, 1, -p 2 -dim 2 -rs 2 -tf 4.5 -pa, 13.322944
+laghos, borax, 1, -p 2 -dim 2 -rs 2 -tf 5, 14.943209
+laghos, borax, 1, -p 2 -dim 2 -rs 2 -tf 5 -pa, 15.087963
+laghos, borax, 1, -p 2 -dim 2 -rs 2 -tf 5.5, 16.177383
+laghos, borax, 1, -p 2 -dim 2 -rs 2 -tf 5.5 -pa, 16.224484
+laghos, borax, 1, -p 2 -dim 3 -rs 1 -tf 3, 33.781481
+laghos, borax, 1, -p 2 -dim 3 -rs 1 -tf 3 -pa, 33.686690
+laghos, borax, 1, -p 2 -dim 3 -rs 1 -tf 3.5, 39.097614
+laghos, borax, 1, -p 2 -dim 3 -rs 1 -tf 3.5 -pa, 39.109342
+laghos, borax, 1, -p 2 -dim 3 -rs 1 -tf 4, 42.056306
+laghos, borax, 1, -p 2 -dim 3 -rs 1 -tf 4 -pa, 42.234687
+laghos, borax, 1, -p 2 -dim 3 -rs 1 -tf 4.5, 45.570824
+laghos, borax, 1, -p 2 -dim 3 -rs 1 -tf 4.5 -pa, 45.595280
+laghos, borax, 1, -p 2 -dim 3 -rs 1 -tf 5, 51.039711
+laghos, borax, 1, -p 2 -dim 3 -rs 1 -tf 5 -pa, 51.020161
+laghos, borax, 1, -p 2 -dim 3 -rs 1 -tf 5.5, 55.657701
+laghos, borax, 1, -p 2 -dim 3 -rs 1 -tf 5.5 -pa, 55.576647
+laghos, borax, 1, -p 2 -dim 3 -rs 2 -tf 3, 614.694609
+laghos, borax, 1, -p 2 -dim 3 -rs 2 -tf 3 -pa, 614.625340
+laghos, borax, 1, -p 3 -dim 2 -rs 1 -tf 3, 0.494556
+laghos, borax, 1, -p 3 -dim 2 -rs 1 -tf 3 -pa, 0.490084
+laghos, borax, 1, -p 3 -dim 2 -rs 1 -tf 3.5, 0.529856
+laghos, borax, 1, -p 3 -dim 2 -rs 1 -tf 3.5 -pa, 0.535665
+laghos, borax, 1, -p 3 -dim 2 -rs 1 -tf 4, 0.575420
+laghos, borax, 1, -p 3 -dim 2 -rs 1 -tf 4 -pa, 0.572237
+laghos, borax, 1, -p 3 -dim 2 -rs 1 -tf 4.5, 0.606941
+laghos, borax, 1, -p 3 -dim 2 -rs 1 -tf 4.5 -pa, 0.614858
+laghos, borax, 1, -p 3 -dim 2 -rs 1 -tf 5, 0.654809
+laghos, borax, 1, -p 3 -dim 2 -rs 1 -tf 5 -pa, 0.653543
+laghos, borax, 1, -p 3 -dim 2 -rs 1 -tf 5.5, 0.688676
+laghos, borax, 1, -p 3 -dim 2 -rs 1 -tf 5.5 -pa, 0.693454
+laghos, borax, 1, -p 3 -dim 2 -rs 2 -tf 3, 1.451263
+laghos, borax, 1, -p 3 -dim 2 -rs 2 -tf 3 -pa, 1.461345
+laghos, borax, 1, -p 3 -dim 2 -rs 2 -tf 3.5, 1.657028
+laghos, borax, 1, -p 3 -dim 2 -rs 2 -tf 3.5 -pa, 1.652393
+laghos, borax, 1, -p 3 -dim 2 -rs 2 -tf 4, 1.860104
+laghos, borax, 1, -p 3 -dim 2 -rs 2 -tf 4 -pa, 1.869502
+laghos, borax, 1, -p 3 -dim 2 -rs 2 -tf 4.5, 2.054856
+laghos, borax, 1, -p 3 -dim 2 -rs 2 -tf 4.5 -pa, 2.043249
+laghos, borax, 1, -p 3 -dim 2 -rs 2 -tf 5, 2.254857
+laghos, borax, 1, -p 3 -dim 2 -rs 2 -tf 5 -pa, 2.254305
+laghos, borax, 1, -p 3 -dim 2 -rs 2 -tf 5.5, 2.453202
+laghos, borax, 1, -p 3 -dim 2 -rs 2 -tf 5.5 -pa, 2.467585
+laghos, borax, 1, -p 3 -dim 3 -rs 1 -tf 3, 4.564087
+laghos, borax, 1, -p 3 -dim 3 -rs 1 -tf 3 -pa, 4.566045
+laghos, borax, 1, -p 3 -dim 3 -rs 1 -tf 3.5, 5.295489
+laghos, borax, 1, -p 3 -dim 3 -rs 1 -tf 3.5 -pa, 5.270382
+laghos, borax, 1, -p 3 -dim 3 -rs 1 -tf 4, 5.977306
+laghos, borax, 1, -p 3 -dim 3 -rs 1 -tf 4 -pa, 5.980677
+laghos, borax, 1, -p 3 -dim 3 -rs 1 -tf 4.5, 6.692975
+laghos, borax, 1, -p 3 -dim 3 -rs 1 -tf 4.5 -pa, 6.680258
+laghos, borax, 1, -p 3 -dim 3 -rs 1 -tf 5, 7.392242
+laghos, borax, 1, -p 3 -dim 3 -rs 1 -tf 5 -pa, 7.390932
+laghos, borax, 1, -p 3 -dim 3 -rs 1 -tf 5.5, 8.091284
+laghos, borax, 1, -p 3 -dim 3 -rs 1 -tf 5.5 -pa, 8.132658
+laghos, borax, 1, -p 3 -dim 3 -rs 2 -tf 3, 69.098641
+laghos, borax, 1, -p 3 -dim 3 -rs 2 -tf 3 -pa, 68.967242
+laghos, borax, 1, -p 3 -dim 3 -rs 2 -tf 3.5, 80.444761
+laghos, borax, 1, -p 3 -dim 3 -rs 2 -tf 3.5 -pa, 80.463422
+laghos, borax, 1, -p 3 -dim 3 -rs 2 -tf 4, 91.602791
+laghos, borax, 1, -p 3 -dim 3 -rs 2 -tf 4 -pa, 91.497224
+laghos, borax, 1, -p 3 -dim 3 -rs 2 -tf 4.5, 103.090711
+laghos, borax, 1, -p 3 -dim 3 -rs 2 -tf 4.5 -pa, 102.881082
+laghos, borax, 1, -p 3 -dim 3 -rs 2 -tf 5, 114.357020
+laghos, borax, 1, -p 3 -dim 3 -rs 2 -tf 5 -pa, 114.274234
+laghos, borax, 1, -p 3 -dim 3 -rs 2 -tf 5.5, 125.530299
+laghos, borax, 1, -p 3 -dim 3 -rs 2 -tf 5.5 -pa, 125.506011
+miniFE, borax, 1, -nx 100 -ny 100 -nz 100, 10.243382
+miniFE, borax, 1, -nx 100 -ny 100 -nz 50, 5.335658
+miniFE, borax, 1, -nx 100 -ny 50 -nz 50, 2.720945
+miniFE, borax, 1, -nx 100 -ny 75 -nz 50, 3.966283
+miniFE, borax, 1, -nx 100 -ny 75 -nz 75, 6.183125
+miniFE, borax, 1, -nx 125 -ny 100 -nz 100, 12.808154
+miniFE, borax, 1, -nx 125 -ny 100 -nz 50, 6.480881
+miniFE, borax, 1, -nx 125 -ny 125 -nz 125, 20.139963
+miniFE, borax, 1, -nx 125 -ny 125 -nz 50, 8.214315
+miniFE, borax, 1, -nx 125 -ny 50 -nz 50, 3.434064
+miniFE, borax, 1, -nx 125 -ny 75 -nz 50, 5.057230
+miniFE, borax, 1, -nx 125 -ny 75 -nz 75, 7.367472
+miniFE, borax, 1, -nx 150 -ny 100 -nz 100, 15.254221
+miniFE, borax, 1, -nx 150 -ny 100 -nz 50, 7.794083
+miniFE, borax, 1, -nx 150 -ny 125 -nz 125, 24.116693
+miniFE, borax, 1, -nx 150 -ny 125 -nz 50, 9.662787
+miniFE, borax, 1, -nx 150 -ny 150 -nz 150, 35.324697
+miniFE, borax, 1, -nx 150 -ny 150 -nz 50, 11.624998
+miniFE, borax, 1, -nx 150 -ny 50 -nz 50, 4.070179
+miniFE, borax, 1, -nx 150 -ny 75 -nz 50, 5.959016
+miniFE, borax, 1, -nx 150 -ny 75 -nz 75, 8.663449
+miniFE, borax, 1, -nx 175 -ny 100 -nz 100, 17.853146
+miniFE, borax, 1, -nx 175 -ny 100 -nz 50, 9.148881
+miniFE, borax, 1, -nx 175 -ny 125 -nz 125, 28.304163
+miniFE, borax, 1, -nx 175 -ny 125 -nz 50, 11.127666
+miniFE, borax, 1, -nx 175 -ny 150 -nz 150, 41.208299
+miniFE, borax, 1, -nx 175 -ny 150 -nz 50, 13.512465
+miniFE, borax, 1, -nx 175 -ny 175 -nz 175, 56.746735
+miniFE, borax, 1, -nx 175 -ny 175 -nz 50, 16.244144
+miniFE, borax, 1, -nx 175 -ny 50 -nz 50, 4.713917
+miniFE, borax, 1, -nx 175 -ny 75 -nz 50, 6.818085
+miniFE, borax, 1, -nx 175 -ny 75 -nz 75, 10.118958
+miniFE, borax, 1, -nx 200 -ny 100 -nz 100, 20.434212
+miniFE, borax, 1, -nx 200 -ny 100 -nz 50, 10.280051
+miniFE, borax, 1, -nx 200 -ny 125 -nz 125, 32.476566
+miniFE, borax, 1, -nx 200 -ny 125 -nz 50, 12.920713
+miniFE, borax, 1, -nx 200 -ny 150 -nz 150, 47.026756
+miniFE, borax, 1, -nx 200 -ny 150 -nz 50, 15.520645
+miniFE, borax, 1, -nx 200 -ny 175 -nz 175, 65.245688
+miniFE, borax, 1, -nx 200 -ny 175 -nz 50, 18.046209
+miniFE, borax, 1, -nx 200 -ny 200 -nz 200, 85.232188
+miniFE, borax, 1, -nx 200 -ny 200 -nz 50, 20.753410
+miniFE, borax, 1, -nx 200 -ny 50 -nz 50, 5.346708
+miniFE, borax, 1, -nx 200 -ny 75 -nz 50, 7.828049
+miniFE, borax, 1, -nx 200 -ny 75 -nz 75, 11.477866
+miniFE, borax, 1, -nx 50 -ny 50 -nz 50, 1.311987
+miniFE, borax, 1, -nx 75 -ny 75 -nz 75, 4.512297
+miniFE, borax, 1, -nx 75 -ny 50 -nz 50, 2.066849
+miniFE, borax, 1, -nx 75 -ny 75 -nz 50, 3.066017
+miniFE, borax, 32, -nx 50 -ny 50 -nz 50, 0.823751
+miniFE, borax, 32, -nx 75 -ny 50 -nz 50, 0.830033
+miniVite, borax, 1, -l -p 1 -n 128, 0.239338
+miniVite, borax, 1, -l -p 1 -n 256, 0.242478
+miniVite, borax, 1, -l -p 1 -n 32, 0.238305
+miniVite, borax, 1, -l -p 1 -n 512, 0.242222
+miniVite, borax, 1, -l -p 1 -n 64, 0.238198
+miniVite, borax, 1, -l -p 2 -n 128, 0.240497
+miniVite, borax, 1, -l -p 2 -n 256, 0.241246
+miniVite, borax, 1, -l -p 2 -n 32, 0.240526
+miniVite, borax, 1, -l -p 2 -n 512, 0.243117
+miniVite, borax, 1, -l -p 2 -n 64, 0.241749
+miniVite, borax, 1, -l -p 3 -n 128, 0.238326
+miniVite, borax, 1, -l -p 3 -n 256, 0.238698
+miniVite, borax, 1, -l -p 3 -n 32, 0.237852
+miniVite, borax, 1, -l -p 3 -n 512, 0.240511
+miniVite, borax, 1, -l -p 3 -n 64, 0.242094
+miniVite, borax, 1, -l -p 4 -n 128, 0.240025
+miniVite, borax, 1, -l -p 4 -n 256, 0.241301
+miniVite, borax, 1, -l -p 4 -n 32, 0.238797
+miniVite, borax, 1, -l -p 4 -n 512, 0.241033
+miniVite, borax, 1, -l -p 4 -n 64, 0.238354
+miniVite, borax, 1, -l -p 5 -n 128, 0.240732
+miniVite, borax, 1, -l -p 5 -n 256, 0.241688
+miniVite, borax, 1, -l -p 5 -n 32, 0.238210
+miniVite, borax, 1, -l -p 5 -n 512, 0.243122
+miniVite, borax, 1, -l -p 5 -n 64, 0.238845
+miniVite, borax, 1, -l -p 6 -n 128, 0.239602
+miniVite, borax, 1, -l -p 6 -n 256, 0.239016
+miniVite, borax, 1, -l -p 6 -n 32, 0.238171
+miniVite, borax, 1, -l -p 6 -n 512, 0.244702
+miniVite, borax, 1, -l -p 6 -n 64, 0.239245
+miniVite, borax, 1, -l -p 7 -n 128, 0.241883
+miniVite, borax, 1, -l -p 7 -n 256, 0.239978
+miniVite, borax, 1, -l -p 7 -n 32, 0.240677
+miniVite, borax, 1, -l -p 7 -n 512, 0.244188
+miniVite, borax, 1, -l -p 7 -n 64, 0.238799
+miniVite, borax, 1, -l -p 8 -n 128, 0.241874
+miniVite, borax, 1, -l -p 8 -n 256, 0.239838
+miniVite, borax, 1, -l -p 8 -n 32, 0.240303
+miniVite, borax, 1, -l -p 8 -n 512, 0.246467
+miniVite, borax, 1, -l -p 8 -n 64, 0.240077
+miniVite, borax, 1, -l -p 9 -n 128, 0.237786
+miniVite, borax, 1, -l -p 9 -n 256, 0.239623
+miniVite, borax, 1, -l -p 9 -n 32, 0.240404
+miniVite, borax, 1, -l -p 9 -n 512, 0.243360
+miniVite, borax, 1, -l -p 9 -n 64, 0.240186
+miniVite, borax, 1, -p 1 -n 128, 0.238946
+miniVite, borax, 1, -p 1 -n 256, 0.241860
+miniVite, borax, 1, -p 1 -n 32, 0.239443
+miniVite, borax, 1, -p 1 -n 512, 0.240129
+miniVite, borax, 1, -p 1 -n 64, 0.239201
+miniVite, borax, 1, -p 2 -n 128, 0.239870
+miniVite, borax, 1, -p 2 -n 256, 0.243094
+miniVite, borax, 1, -p 2 -n 32, 0.237271
+miniVite, borax, 1, -p 2 -n 512, 0.240951
+miniVite, borax, 1, -p 2 -n 64, 0.239532
+miniVite, borax, 1, -p 3 -n 128, 0.241127
+miniVite, borax, 1, -p 3 -n 256, 0.239802
+miniVite, borax, 1, -p 3 -n 32, 0.239205
+miniVite, borax, 1, -p 3 -n 512, 0.243250
+miniVite, borax, 1, -p 3 -n 64, 0.238443
+miniVite, borax, 1, -p 4 -n 128, 0.238973
+miniVite, borax, 1, -p 4 -n 256, 0.242309
+miniVite, borax, 1, -p 4 -n 32, 0.239251
+miniVite, borax, 1, -p 4 -n 512, 0.241555
+miniVite, borax, 1, -p 4 -n 64, 0.242944
+miniVite, borax, 1, -p 5 -n 128, 0.239079
+miniVite, borax, 1, -p 5 -n 256, 0.240197
+miniVite, borax, 1, -p 5 -n 32, 0.238802
+miniVite, borax, 1, -p 5 -n 512, 0.242401
+miniVite, borax, 1, -p 5 -n 64, 0.238736
+miniVite, borax, 1, -p 6 -n 128, 0.239187
+miniVite, borax, 1, -p 6 -n 256, 0.240343
+miniVite, borax, 1, -p 6 -n 32, 0.238854
+miniVite, borax, 1, -p 6 -n 512, 0.242348
+miniVite, borax, 1, -p 6 -n 64, 0.328408
+miniVite, borax, 1, -p 7 -n 128, 0.238662
+miniVite, borax, 1, -p 7 -n 256, 0.240494
+miniVite, borax, 1, -p 7 -n 32, 0.240621
+miniVite, borax, 1, -p 7 -n 512, 0.243550
+miniVite, borax, 1, -p 7 -n 64, 0.237748
+miniVite, borax, 1, -p 8 -n 128, 0.241212
+miniVite, borax, 1, -p 8 -n 256, 0.242154
+miniVite, borax, 1, -p 8 -n 32, 0.238920
+miniVite, borax, 1, -p 8 -n 512, 0.241498
+miniVite, borax, 1, -p 8 -n 64, 0.241694
+miniVite, borax, 1, -p 9 -n 128, 0.311208
+miniVite, borax, 1, -p 9 -n 256, 0.280595
+miniVite, borax, 1, -p 9 -n 32, 0.238948
+miniVite, borax, 1, -p 9 -n 512, 0.244366
+miniVite, borax, 1, -p 9 -n 64, 0.240547
+miniVite, borax, 1, -w -l -p 1 -n 128, 0.238659
+miniVite, borax, 1, -w -l -p 1 -n 256, 0.241041
+miniVite, borax, 1, -w -l -p 1 -n 32, 0.239201
+miniVite, borax, 1, -w -l -p 1 -n 512, 0.242959
+miniVite, borax, 1, -w -l -p 1 -n 64, 0.239093
+miniVite, borax, 1, -w -l -p 2 -n 128, 0.240051
+miniVite, borax, 1, -w -l -p 2 -n 256, 0.238337
+miniVite, borax, 1, -w -l -p 2 -n 32, 0.239176
+miniVite, borax, 1, -w -l -p 2 -n 512, 0.265565
+miniVite, borax, 1, -w -l -p 2 -n 64, 0.240081
+miniVite, borax, 1, -w -l -p 3 -n 128, 0.242704
+miniVite, borax, 1, -w -l -p 3 -n 256, 0.243368
+miniVite, borax, 1, -w -l -p 3 -n 32, 0.238000
+miniVite, borax, 1, -w -l -p 3 -n 512, 0.241043
+miniVite, borax, 1, -w -l -p 3 -n 64, 0.238354
+miniVite, borax, 1, -w -l -p 4 -n 128, 0.239285
+miniVite, borax, 1, -w -l -p 4 -n 256, 0.240872
+miniVite, borax, 1, -w -l -p 4 -n 32, 0.239491
+miniVite, borax, 1, -w -l -p 4 -n 512, 0.242014
+miniVite, borax, 1, -w -l -p 4 -n 64, 0.238215
+miniVite, borax, 1, -w -l -p 5 -n 128, 0.238868
+miniVite, borax, 1, -w -l -p 5 -n 256, 0.241809
+miniVite, borax, 1, -w -l -p 5 -n 32, 0.240278
+miniVite, borax, 1, -w -l -p 5 -n 512, 0.244501
+miniVite, borax, 1, -w -l -p 5 -n 64, 0.237880
+miniVite, borax, 1, -w -l -p 6 -n 128, 0.241026
+miniVite, borax, 1, -w -l -p 6 -n 256, 0.241311
+miniVite, borax, 1, -w -l -p 6 -n 32, 0.237656
+miniVite, borax, 1, -w -l -p 6 -n 512, 0.243993
+miniVite, borax, 1, -w -l -p 6 -n 64, 0.239178
+miniVite, borax, 1, -w -l -p 7 -n 128, 0.239878
+miniVite, borax, 1, -w -l -p 7 -n 256, 0.239439
+miniVite, borax, 1, -w -l -p 7 -n 32, 0.239455
+miniVite, borax, 1, -w -l -p 7 -n 512, 0.242359
+miniVite, borax, 1, -w -l -p 7 -n 64, 0.240090
+miniVite, borax, 1, -w -l -p 8 -n 128, 0.241496
+miniVite, borax, 1, -w -l -p 8 -n 256, 0.244617
+miniVite, borax, 1, -w -l -p 8 -n 32, 0.239776
+miniVite, borax, 1, -w -l -p 8 -n 512, 0.242011
+miniVite, borax, 1, -w -l -p 8 -n 64, 0.238716
+miniVite, borax, 1, -w -l -p 9 -n 128, 0.239056
+miniVite, borax, 1, -w -l -p 9 -n 256, 0.239802
+miniVite, borax, 1, -w -l -p 9 -n 32, 0.238416
+miniVite, borax, 1, -w -l -p 9 -n 512, 0.244912
+miniVite, borax, 1, -w -l -p 9 -n 64, 0.240952
+miniVite, borax, 1, -w -p 1 -n 128, 0.237744
+miniVite, borax, 1, -w -p 1 -n 256, 0.237876
+miniVite, borax, 1, -w -p 1 -n 32, 0.240001
+miniVite, borax, 1, -w -p 1 -n 512, 0.241143
+miniVite, borax, 1, -w -p 1 -n 64, 0.237944
+miniVite, borax, 1, -w -p 2 -n 128, 0.252420
+miniVite, borax, 1, -w -p 2 -n 256, 0.242354
+miniVite, borax, 1, -w -p 2 -n 32, 0.238351
+miniVite, borax, 1, -w -p 2 -n 512, 0.240309
+miniVite, borax, 1, -w -p 2 -n 64, 0.238552
+miniVite, borax, 1, -w -p 3 -n 128, 0.237599
+miniVite, borax, 1, -w -p 3 -n 256, 0.239525
+miniVite, borax, 1, -w -p 3 -n 32, 0.239692
+miniVite, borax, 1, -w -p 3 -n 512, 0.243006
+miniVite, borax, 1, -w -p 3 -n 64, 0.240471
+miniVite, borax, 1, -w -p 4 -n 128, 0.238423
+miniVite, borax, 1, -w -p 4 -n 256, 0.241900
+miniVite, borax, 1, -w -p 4 -n 32, 0.239377
+miniVite, borax, 1, -w -p 4 -n 512, 0.239771
+miniVite, borax, 1, -w -p 4 -n 64, 0.238835
+miniVite, borax, 1, -w -p 5 -n 128, 0.241094
+miniVite, borax, 1, -w -p 5 -n 256, 0.240882
+miniVite, borax, 1, -w -p 5 -n 32, 0.239039
+miniVite, borax, 1, -w -p 5 -n 512, 0.242540
+miniVite, borax, 1, -w -p 5 -n 64, 0.238932
+miniVite, borax, 1, -w -p 6 -n 128, 0.239251
+miniVite, borax, 1, -w -p 6 -n 256, 0.240364
+miniVite, borax, 1, -w -p 6 -n 32, 0.237056
+miniVite, borax, 1, -w -p 6 -n 512, 0.241646
+miniVite, borax, 1, -w -p 6 -n 64, 0.238056
+miniVite, borax, 1, -w -p 7 -n 128, 0.238753
+miniVite, borax, 1, -w -p 7 -n 256, 0.238206
+miniVite, borax, 1, -w -p 7 -n 32, 0.239730
+miniVite, borax, 1, -w -p 7 -n 512, 0.244268
+miniVite, borax, 1, -w -p 7 -n 64, 0.253884
+miniVite, borax, 1, -w -p 8 -n 128, 0.241267
+miniVite, borax, 1, -w -p 8 -n 256, 0.239720
+miniVite, borax, 1, -w -p 8 -n 32, 0.252156
+miniVite, borax, 1, -w -p 8 -n 512, 0.242290
+miniVite, borax, 1, -w -p 8 -n 64, 0.241047
+miniVite, borax, 1, -w -p 9 -n 128, 0.239870
+miniVite, borax, 1, -w -p 9 -n 256, 0.240880
+miniVite, borax, 1, -w -p 9 -n 32, 0.238419
+miniVite, borax, 1, -w -p 9 -n 512, 0.240568
+miniVite, borax, 1, -w -p 9 -n 64, 0.238051
+miniVite, borax, 32, -l -p 1 -n 16384, 0.762721
+miniVite, borax, 32, -l -p 1 -n 4096, 0.764581
+miniVite, borax, 32, -l -p 1 -n 8192, 0.754460
+miniVite, borax, 32, -l -p 2 -n 16384, 0.779348
+miniVite, borax, 32, -l -p 2 -n 4096, 0.760984
+miniVite, borax, 32, -l -p 2 -n 8192, 0.733343
+miniVite, borax, 32, -l -p 3 -n 16384, 0.779215
+miniVite, borax, 32, -l -p 3 -n 4096, 0.766388
+miniVite, borax, 32, -l -p 3 -n 8192, 0.770080
+miniVite, borax, 32, -l -p 4 -n 16384, 0.787878
+miniVite, borax, 32, -l -p 4 -n 4096, 0.732964
+miniVite, borax, 32, -l -p 4 -n 8192, 0.775551
+miniVite, borax, 32, -l -p 5 -n 16384, 0.770383
+miniVite, borax, 32, -l -p 5 -n 4096, 0.783273
+miniVite, borax, 32, -l -p 5 -n 8192, 0.771295
+miniVite, borax, 32, -l -p 6 -n 16384, 0.773667
+miniVite, borax, 32, -l -p 6 -n 4096, 0.851286
+miniVite, borax, 32, -l -p 6 -n 8192, 0.735797
+miniVite, borax, 32, -l -p 7 -n 16384, 0.780675
+miniVite, borax, 32, -l -p 7 -n 4096, 0.776083
+miniVite, borax, 32, -l -p 7 -n 8192, 0.771806
+miniVite, borax, 32, -l -p 8 -n 16384, 0.768590
+miniVite, borax, 32, -l -p 8 -n 4096, 0.793303
+miniVite, borax, 32, -l -p 8 -n 8192, 0.819371
+miniVite, borax, 32, -l -p 9 -n 16384, 0.789158
+miniVite, borax, 32, -l -p 9 -n 4096, 0.780476
+miniVite, borax, 32, -l -p 9 -n 8192, 0.776017
+miniVite, borax, 32, -p 1 -n 16384, 0.772386
+miniVite, borax, 32, -p 1 -n 4096, 0.735654
+miniVite, borax, 32, -p 1 -n 8192, 0.752652
+miniVite, borax, 32, -p 2 -n 16384, 0.728033
+miniVite, borax, 32, -p 2 -n 4096, 0.766702
+miniVite, borax, 32, -p 2 -n 8192, 0.755294
+miniVite, borax, 32, -p 3 -n 16384, 0.760194
+miniVite, borax, 32, -p 3 -n 4096, 0.767896
+miniVite, borax, 32, -p 3 -n 8192, 0.741102
+miniVite, borax, 32, -p 4 -n 16384, 0.773646
+miniVite, borax, 32, -p 4 -n 4096, 0.739229
+miniVite, borax, 32, -p 4 -n 8192, 0.765260
+miniVite, borax, 32, -p 5 -n 16384, 0.760249
+miniVite, borax, 32, -p 5 -n 4096, 0.731839
+miniVite, borax, 32, -p 5 -n 8192, 0.781427
+miniVite, borax, 32, -p 6 -n 16384, 0.775285
+miniVite, borax, 32, -p 6 -n 4096, 0.784699
+miniVite, borax, 32, -p 6 -n 8192, 0.758087
+miniVite, borax, 32, -p 7 -n 16384, 0.788966
+miniVite, borax, 32, -p 7 -n 4096, 0.731557
+miniVite, borax, 32, -p 7 -n 8192, 0.775214
+miniVite, borax, 32, -p 8 -n 16384, 0.756509
+miniVite, borax, 32, -p 8 -n 4096, 0.760842
+miniVite, borax, 32, -p 8 -n 8192, 0.759333
+miniVite, borax, 32, -p 9 -n 16384, 0.779383
+miniVite, borax, 32, -p 9 -n 4096, 0.763782
+miniVite, borax, 32, -p 9 -n 8192, 0.745071
+miniVite, borax, 32, -w -l -p 1 -n 16384, 0.762871
+miniVite, borax, 32, -w -l -p 1 -n 4096, 0.742986
+miniVite, borax, 32, -w -l -p 1 -n 8192, 0.758806
+miniVite, borax, 32, -w -l -p 2 -n 16384, 0.746686
+miniVite, borax, 32, -w -l -p 2 -n 4096, 0.741951
+miniVite, borax, 32, -w -l -p 2 -n 8192, 0.771289
+miniVite, borax, 32, -w -l -p 3 -n 16384, 0.788156
+miniVite, borax, 32, -w -l -p 3 -n 4096, 0.761410
+miniVite, borax, 32, -w -l -p 3 -n 8192, 0.743781
+miniVite, borax, 32, -w -l -p 4 -n 16384, 0.751772
+miniVite, borax, 32, -w -l -p 4 -n 4096, 0.741456
+miniVite, borax, 32, -w -l -p 4 -n 8192, 0.746124
+miniVite, borax, 32, -w -l -p 5 -n 16384, 0.742761
+miniVite, borax, 32, -w -l -p 5 -n 4096, 0.777421
+miniVite, borax, 32, -w -l -p 5 -n 8192, 0.756718
+miniVite, borax, 32, -w -l -p 6 -n 16384, 0.742652
+miniVite, borax, 32, -w -l -p 6 -n 4096, 0.749167
+miniVite, borax, 32, -w -l -p 6 -n 8192, 0.780299
+miniVite, borax, 32, -w -l -p 7 -n 16384, 0.777961
+miniVite, borax, 32, -w -l -p 7 -n 4096, 0.731839
+miniVite, borax, 32, -w -l -p 7 -n 8192, 0.765396
+miniVite, borax, 32, -w -l -p 8 -n 16384, 0.770074
+miniVite, borax, 32, -w -l -p 8 -n 4096, 0.755788
+miniVite, borax, 32, -w -l -p 8 -n 8192, 0.734661
+miniVite, borax, 32, -w -l -p 9 -n 16384, 0.786219
+miniVite, borax, 32, -w -l -p 9 -n 4096, 0.730203
+miniVite, borax, 32, -w -l -p 9 -n 8192, 0.736628
+miniVite, borax, 32, -w -p 1 -n 16384, 0.777620
+miniVite, borax, 32, -w -p 1 -n 4096, 0.740564
+miniVite, borax, 32, -w -p 1 -n 8192, 0.756564
+miniVite, borax, 32, -w -p 2 -n 16384, 0.744861
+miniVite, borax, 32, -w -p 2 -n 4096, 0.736318
+miniVite, borax, 32, -w -p 2 -n 8192, 0.752354
+miniVite, borax, 32, -w -p 3 -n 16384, 0.789518
+miniVite, borax, 32, -w -p 3 -n 4096, 0.750166
+miniVite, borax, 32, -w -p 3 -n 8192, 0.748049
+miniVite, borax, 32, -w -p 4 -n 16384, 0.779750
+miniVite, borax, 32, -w -p 4 -n 4096, 0.762584
+miniVite, borax, 32, -w -p 4 -n 8192, 0.747856
+miniVite, borax, 32, -w -p 5 -n 16384, 0.792602
+miniVite, borax, 32, -w -p 5 -n 4096, 0.765698
+miniVite, borax, 32, -w -p 5 -n 8192, 0.775660
+miniVite, borax, 32, -w -p 6 -n 16384, 0.775922
+miniVite, borax, 32, -w -p 6 -n 4096, 0.736916
+miniVite, borax, 32, -w -p 6 -n 8192, 0.756739
+miniVite, borax, 32, -w -p 7 -n 16384, 0.768593
+miniVite, borax, 32, -w -p 7 -n 4096, 0.764606
+miniVite, borax, 32, -w -p 7 -n 8192, 0.735264
+miniVite, borax, 32, -w -p 8 -n 16384, 0.747934
+miniVite, borax, 32, -w -p 8 -n 4096, 0.778726
+miniVite, borax, 32, -w -p 8 -n 8192, 0.772514
+miniVite, borax, 32, -w -p 9 -n 16384, 0.749320
+miniVite, borax, 32, -w -p 9 -n 4096, 0.758046
+miniVite, borax, 32, -w -p 9 -n 8192, 0.776277
+SWFFT, borax, 1, 10 120, 2.814449
+SWFFT, borax, 1, 10 128, 3.807953
+SWFFT, borax, 1, 10 160, 6.456989
+SWFFT, borax, 1, 10 200, 12.416519
+SWFFT, borax, 1, 10 240, 21.624669
+SWFFT, borax, 1, 10 256, 34.609031
+SWFFT, borax, 1, 10 32, 0.300519
+SWFFT, borax, 1, 10 64, 0.570295
+SWFFT, borax, 1, 12 128, 4.335828
+SWFFT, borax, 1, 12 256, 41.901074
+SWFFT, borax, 1, 12 32, 0.356842
+SWFFT, borax, 1, 12 64, 0.612321
+SWFFT, borax, 1, 14 128, 5.133082
+SWFFT, borax, 1, 14 256, 48.715937
+SWFFT, borax, 1, 14 32, 0.312229
+SWFFT, borax, 1, 14 64, 0.660856
+SWFFT, borax, 1, 15 120, 3.717273
+SWFFT, borax, 1, 15 160, 9.268722
+SWFFT, borax, 1, 15 200, 18.179014
+SWFFT, borax, 1, 15 240, 31.876454
+SWFFT, borax, 1, 16 128, 5.696415
+SWFFT, borax, 1, 16 256, 54.967014
+SWFFT, borax, 1, 16 32, 0.318915
+SWFFT, borax, 1, 16 64, 0.694798
+SWFFT, borax, 1, 18 128, 6.294531
+SWFFT, borax, 1, 18 256, 62.413058
+SWFFT, borax, 1, 18 32, 0.323671
+SWFFT, borax, 1, 18 64, 0.746602
+SWFFT, borax, 1, 20 120, 4.934113
+SWFFT, borax, 1, 20 128, 6.755511
+SWFFT, borax, 1, 20 160, 12.195358
+SWFFT, borax, 1, 20 200, 23.480638
+SWFFT, borax, 1, 20 240, 41.858566
+SWFFT, borax, 1, 20 256, 68.019563
+SWFFT, borax, 1, 20 32, 0.330714
+SWFFT, borax, 1, 20 64, 0.776855
+SWFFT, borax, 32, 10 120, 1.047345
+SWFFT, borax, 32, 10 128, 1.010203
+SWFFT, borax, 32, 10 160, 1.436393
+SWFFT, borax, 32, 10 200, 2.115021
+SWFFT, borax, 32, 10 240, 3.376167
+SWFFT, borax, 32, 10 256, 3.831856
+SWFFT, borax, 32, 10 32, 0.770160
+SWFFT, borax, 32, 10 64, 0.907436
+SWFFT, borax, 32, 12 128, 1.052873
+SWFFT, borax, 32, 12 256, 4.407481
+SWFFT, borax, 32, 12 32, 0.769715
+SWFFT, borax, 32, 12 64, 0.819463
+SWFFT, borax, 32, 14 128, 1.082798
+SWFFT, borax, 32, 14 256, 5.065297
+SWFFT, borax, 32, 14 32, 0.793064
+SWFFT, borax, 32, 14 64, 0.826233
+SWFFT, borax, 32, 15 120, 1.088458
+SWFFT, borax, 32, 15 160, 1.679400
+SWFFT, borax, 32, 15 200, 2.666771
+SWFFT, borax, 32, 15 240, 4.656784
+SWFFT, borax, 32, 16 128, 1.077819
+SWFFT, borax, 32, 16 256, 5.605633
+SWFFT, borax, 32, 16 32, 0.781586
+SWFFT, borax, 32, 16 64, 0.834318
+SWFFT, borax, 32, 18 128, 1.164668
+SWFFT, borax, 32, 18 256, 6.221695
+SWFFT, borax, 32, 18 32, 0.775162
+SWFFT, borax, 32, 18 64, 0.831315
+SWFFT, borax, 32, 20 120, 1.148865
+SWFFT, borax, 32, 20 128, 1.206731
+SWFFT, borax, 32, 20 160, 1.939986
+SWFFT, borax, 32, 20 200, 3.297735
+SWFFT, borax, 32, 20 240, 5.755686
+SWFFT, borax, 32, 20 256, 6.790066
+SWFFT, borax, 32, 20 32, 0.786008
+SWFFT, borax, 32, 20 64, 0.851728
+XSBench, borax, 1, -m event -s XL -G hash -t 1, 153.936012
+XSBench, borax, 1, -m event -s XL -G nuclide -t 1, 428.177493
+XSBench, borax, 1, -m event -s XL -G unionized -t 1, 196.150900
+XSBench, borax, 1, -m event -s XXL -G hash -t 1, 206.330879
+XSBench, borax, 1, -m event -s XXL -G nuclide -t 1, 523.053707
+XSBench, borax, 1, -m event -s large -G hash -t 1, 59.539767
+XSBench, borax, 1, -m event -s large -G nuclide -t 1, 197.279685
+XSBench, borax, 1, -m event -s large -G unionized -t 1, 56.956789
+XSBench, borax, 1, -m event -s small -G hash -t 1, 11.590090
+XSBench, borax, 1, -m event -s small -G nuclide -t 1, 45.635133
+XSBench, borax, 1, -m event -s small -G unionized -t 1, 15.002488
+XSBench, borax, 1, -m history -s XL -G hash -t 1, 152.887304
+XSBench, borax, 1, -m history -s XL -G nuclide -t 1, 432.373469
+XSBench, borax, 1, -m history -s XL -G unionized -t 1, 195.607862
+XSBench, borax, 1, -m history -s XXL -G hash -t 1, 207.779694
+XSBench, borax, 1, -m history -s XXL -G nuclide -t 1, 524.620853
+XSBench, borax, 1, -m history -s large -G hash -t 1, 58.869292
+XSBench, borax, 1, -m history -s large -G nuclide -t 1, 196.351746
+XSBench, borax, 1, -m history -s large -G unionized -t 1, 56.292407
+XSBench, borax, 1, -m history -s small -G hash -t 1, 10.902390
+XSBench, borax, 1, -m history -s small -G nuclide -t 1, 45.057405
+XSBench, borax, 1, -m history -s small -G unionized -t 1, 14.155928

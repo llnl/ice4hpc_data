@@ -1,0 +1,740 @@
+amg, tioga-cpu, 1, -problem 2 -P 1 1 1 -n 128 128 128, 112.898041
+amg, tioga-cpu, 1, -problem 2 -P 1 1 1 -n 16 16 16, 0.399248
+amg, tioga-cpu, 1, -problem 2 -P 1 1 1 -n 256 256 256, 970.255195
+amg, tioga-cpu, 1, -problem 2 -P 1 1 1 -n 32 32 32, 1.601466
+amg, tioga-cpu, 1, -problem 2 -P 1 1 1 -n 64 64 64, 13.697945
+amg, tioga-cpu, 1, -problem 2 -P 1 1 1 -n 8 8 8, 0.256612
+amg, tioga-cpu, 32, -problem 1 -P 4 4 2 -n 128 128 64, 21.798060
+amg, tioga-cpu, 32, -problem 1 -P 4 4 2 -n 16 16 8, 0.855944
+amg, tioga-cpu, 32, -problem 1 -P 4 4 2 -n 32 32 16, 0.824602
+amg, tioga-cpu, 32, -problem 1 -P 4 4 2 -n 64 64 32, 2.808293
+amg, tioga-cpu, 32, -problem 1 -P 4 4 2 -n 8 8 4, 0.671358
+amg, tioga-cpu, 32, -problem 2 -P 4 4 2 -n 128 128 64, 202.336822
+amg, tioga-cpu, 32, -problem 2 -P 4 4 2 -n 16 16 8, 1.121489
+amg, tioga-cpu, 32, -problem 2 -P 4 4 2 -n 32 32 16, 1.931280
+amg, tioga-cpu, 32, -problem 2 -P 4 4 2 -n 64 64 32, 23.291685
+amg, tioga-cpu, 32, -problem 2 -P 4 4 2 -n 8 8 4, 0.770812
+kripke, tioga-cpu, 1, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 0, 1.760011
+kripke, tioga-cpu, 1, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 1, 1.920642
+kripke, tioga-cpu, 1, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 2, 2.237214
+kripke, tioga-cpu, 1, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 3, 2.617472
+kripke, tioga-cpu, 1, --niter 10 --pmethod bj --groups 16 --arch sequential --legendre 4, 3.139943
+kripke, tioga-cpu, 1, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 0, 3.122992
+kripke, tioga-cpu, 1, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 1, 3.600605
+kripke, tioga-cpu, 1, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 2, 4.353349
+kripke, tioga-cpu, 1, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 3, 5.437832
+kripke, tioga-cpu, 1, --niter 10 --pmethod bj --groups 32 --arch sequential --legendre 4, 6.851803
+kripke, tioga-cpu, 1, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 0, 1.107826
+kripke, tioga-cpu, 1, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 1, 1.177878
+kripke, tioga-cpu, 1, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 2, 1.285733
+kripke, tioga-cpu, 1, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 3, 1.440676
+kripke, tioga-cpu, 1, --niter 10 --pmethod bj --groups 8 --arch sequential --legendre 4, 1.642641
+kripke, tioga-cpu, 1, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 0, 1.683544
+kripke, tioga-cpu, 1, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 1, 1.857390
+kripke, tioga-cpu, 1, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 2, 2.158052
+kripke, tioga-cpu, 1, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 3, 2.546439
+kripke, tioga-cpu, 1, --niter 10 --pmethod sweep --groups 16 --arch sequential --legendre 4, 3.063529
+kripke, tioga-cpu, 1, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 0, 3.176397
+kripke, tioga-cpu, 1, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 1, 3.469401
+kripke, tioga-cpu, 1, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 2, 4.215376
+kripke, tioga-cpu, 1, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 3, 5.306934
+kripke, tioga-cpu, 1, --niter 10 --pmethod sweep --groups 32 --arch sequential --legendre 4, 6.709596
+kripke, tioga-cpu, 1, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 0, 1.074112
+kripke, tioga-cpu, 1, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 1, 1.146549
+kripke, tioga-cpu, 1, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 2, 1.264491
+kripke, tioga-cpu, 1, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 3, 1.413657
+kripke, tioga-cpu, 1, --niter 10 --pmethod sweep --groups 8 --arch sequential --legendre 4, 1.639282
+kripke, tioga-cpu, 1, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 0, 2.366339
+kripke, tioga-cpu, 1, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 1, 2.611460
+kripke, tioga-cpu, 1, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 2, 3.026447
+kripke, tioga-cpu, 1, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 3, 3.638136
+kripke, tioga-cpu, 1, --niter 15 --pmethod bj --groups 16 --arch sequential --legendre 4, 4.413684
+kripke, tioga-cpu, 1, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 0, 4.373393
+kripke, tioga-cpu, 1, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 1, 5.110962
+kripke, tioga-cpu, 1, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 2, 6.461362
+kripke, tioga-cpu, 1, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 3, 8.144573
+kripke, tioga-cpu, 1, --niter 15 --pmethod bj --groups 32 --arch sequential --legendre 4, 9.938173
+kripke, tioga-cpu, 1, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 0, 1.404657
+kripke, tioga-cpu, 1, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 1, 1.543331
+kripke, tioga-cpu, 1, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 2, 1.685423
+kripke, tioga-cpu, 1, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 3, 1.900040
+kripke, tioga-cpu, 1, --niter 15 --pmethod bj --groups 8 --arch sequential --legendre 4, 2.202537
+kripke, tioga-cpu, 1, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 0, 2.269326
+kripke, tioga-cpu, 1, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 1, 2.520532
+kripke, tioga-cpu, 1, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 2, 2.958489
+kripke, tioga-cpu, 1, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 3, 3.544116
+kripke, tioga-cpu, 1, --niter 15 --pmethod sweep --groups 16 --arch sequential --legendre 4, 4.311375
+kripke, tioga-cpu, 1, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 0, 4.143341
+kripke, tioga-cpu, 1, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 1, 4.880590
+kripke, tioga-cpu, 1, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 2, 6.029100
+kripke, tioga-cpu, 1, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 3, 7.686505
+kripke, tioga-cpu, 1, --niter 15 --pmethod sweep --groups 32 --arch sequential --legendre 4, 9.805328
+kripke, tioga-cpu, 1, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 0, 1.363095
+kripke, tioga-cpu, 1, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 1, 1.467422
+kripke, tioga-cpu, 1, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 2, 1.633731
+kripke, tioga-cpu, 1, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 3, 1.886397
+kripke, tioga-cpu, 1, --niter 15 --pmethod sweep --groups 8 --arch sequential --legendre 4, 2.191216
+kripke, tioga-cpu, 1, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 0, 5.109507
+kripke, tioga-cpu, 1, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 1, 5.841102
+kripke, tioga-cpu, 1, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 2, 6.963935
+kripke, tioga-cpu, 1, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 3, 8.564390
+kripke, tioga-cpu, 1, --niter 40 --pmethod sweep --groups 16 --arch sequential --legendre 4, 10.620078
+kripke, tioga-cpu, 1, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 0, 10.130821
+kripke, tioga-cpu, 1, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 1, 12.067889
+kripke, tioga-cpu, 1, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 2, 15.100916
+kripke, tioga-cpu, 1, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 3, 19.440554
+kripke, tioga-cpu, 1, --niter 40 --pmethod sweep --groups 32 --arch sequential --legendre 4, 25.050766
+kripke, tioga-cpu, 1, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 0, 2.753232
+kripke, tioga-cpu, 1, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 1, 3.065240
+kripke, tioga-cpu, 1, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 2, 3.515201
+kripke, tioga-cpu, 1, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 3, 4.145918
+kripke, tioga-cpu, 1, --niter 40 --pmethod sweep --groups 8 --arch sequential --legendre 4, 4.895804
+kripke, tioga-cpu, 1, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 0, 1.138070
+kripke, tioga-cpu, 1, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 1, 1.224833
+kripke, tioga-cpu, 1, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 2, 1.387548
+kripke, tioga-cpu, 1, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 3, 1.594518
+kripke, tioga-cpu, 1, --niter 5 --pmethod bj --groups 16 --arch sequential --legendre 4, 1.832791
+kripke, tioga-cpu, 1, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 0, 1.856444
+kripke, tioga-cpu, 1, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 1, 2.091512
+kripke, tioga-cpu, 1, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 2, 2.471435
+kripke, tioga-cpu, 1, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 3, 3.026875
+kripke, tioga-cpu, 1, --niter 5 --pmethod bj --groups 32 --arch sequential --legendre 4, 3.717981
+kripke, tioga-cpu, 1, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 0, 0.817355
+kripke, tioga-cpu, 1, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 1, 0.853431
+kripke, tioga-cpu, 1, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 2, 0.900881
+kripke, tioga-cpu, 1, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 3, 0.979693
+kripke, tioga-cpu, 1, --niter 5 --pmethod bj --groups 8 --arch sequential --legendre 4, 1.077144
+kripke, tioga-cpu, 1, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 0, 1.107260
+kripke, tioga-cpu, 1, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 1, 1.423224
+kripke, tioga-cpu, 1, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 2, 1.357297
+kripke, tioga-cpu, 1, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 3, 1.549337
+kripke, tioga-cpu, 1, --niter 5 --pmethod sweep --groups 16 --arch sequential --legendre 4, 1.795376
+kripke, tioga-cpu, 1, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 0, 1.791737
+kripke, tioga-cpu, 1, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 1, 2.017073
+kripke, tioga-cpu, 1, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 2, 2.400833
+kripke, tioga-cpu, 1, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 3, 2.953435
+kripke, tioga-cpu, 1, --niter 5 --pmethod sweep --groups 32 --arch sequential --legendre 4, 3.635747
+kripke, tioga-cpu, 1, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 0, 0.786709
+kripke, tioga-cpu, 1, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 1, 0.823027
+kripke, tioga-cpu, 1, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 2, 0.900802
+kripke, tioga-cpu, 1, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 3, 0.957773
+kripke, tioga-cpu, 1, --niter 5 --pmethod sweep --groups 8 --arch sequential --legendre 4, 1.063701
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3, 16.085137
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3 -pa, 16.141292
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.1, 16.905086
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.1 -pa, 16.318581
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.2, 16.493559
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.2 -pa, 16.520739
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.3, 16.771752
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.3 -pa, 16.778440
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.4, 16.970038
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.4 -pa, 16.896048
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.5, 17.209503
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.5 -pa, 17.171343
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.6, 17.379026
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.6 -pa, 17.334550
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.7, 17.693111
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.7 -pa, 17.603860
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.8, 17.786514
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.8 -pa, 17.738787
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.9, 18.102092
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 3.9 -pa, 18.057151
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4, 18.198922
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4 -pa, 18.229653
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.1, 18.501777
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.1 -pa, 18.628920
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.2, 18.874469
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.2 -pa, 18.881500
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.3, 19.246038
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.3 -pa, 19.182038
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.4, 19.506070
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.4 -pa, 19.531198
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.5, 19.909799
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.5 -pa, 20.178064
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.6, 20.126755
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.6 -pa, 20.180066
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.7, 20.303742
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.7 -pa, 20.400778
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.8, 20.594211
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.8 -pa, 20.658337
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.9, 20.803380
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 4.9 -pa, 20.779272
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 5, 20.987787
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 5 -pa, 21.007434
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 5.5, 22.031058
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 2 -tf 5.5 -pa, 21.823478
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3, 65.614396
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3 -pa, 65.561205
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.1, 67.086000
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.1 -pa, 67.134917
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.2, 68.691555
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.2 -pa, 68.491387
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.3, 69.992434
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.3 -pa, 70.864809
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.4, 71.096039
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.4 -pa, 71.010870
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.5, 72.214307
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.5 -pa, 72.484544
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.6, 73.388691
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.6 -pa, 73.458793
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.7, 74.653721
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.7 -pa, 74.778220
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.8, 75.898952
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.8 -pa, 76.007987
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.9, 77.038400
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 3.9 -pa, 77.851148
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4, 79.699948
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4 -pa, 79.687373
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.1, 83.648461
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.1 -pa, 84.625619
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.2, 88.024406
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.2 -pa, 88.194328
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.3, 93.202818
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.3 -pa, 93.044983
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.4, 98.108475
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.4 -pa, 97.897247
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.5, 102.046128
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.5 -pa, 103.732729
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.6, 104.287078
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.6 -pa, 104.714610
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.7, 106.602199
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.7 -pa, 108.669517
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.8, 109.813191
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.8 -pa, 109.273174
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.9, 112.936953
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 4.9 -pa, 112.915401
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 5, 116.344024
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 5 -pa, 117.921457
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 5.5, 129.925143
+laghos, tioga-cpu, 1, -p 1 -dim 2 -rs 3 -tf 5.5 -pa, 129.521544
+laghos, tioga-cpu, 1, -p 1 -dim 3 -rs 1 -tf 3, 42.671932
+laghos, tioga-cpu, 1, -p 1 -dim 3 -rs 1 -tf 3 -pa, 42.901622
+laghos, tioga-cpu, 1, -p 1 -dim 3 -rs 1 -tf 3.5, 51.129797
+laghos, tioga-cpu, 1, -p 1 -dim 3 -rs 1 -tf 3.5 -pa, 51.363737
+laghos, tioga-cpu, 1, -p 1 -dim 3 -rs 1 -tf 4, 61.123907
+laghos, tioga-cpu, 1, -p 1 -dim 3 -rs 1 -tf 4 -pa, 61.176710
+laghos, tioga-cpu, 1, -p 1 -dim 3 -rs 1 -tf 4.5, 69.749324
+laghos, tioga-cpu, 1, -p 1 -dim 3 -rs 1 -tf 4.5 -pa, 70.153778
+laghos, tioga-cpu, 1, -p 1 -dim 3 -rs 1 -tf 5, 77.053471
+laghos, tioga-cpu, 1, -p 1 -dim 3 -rs 1 -tf 5 -pa, 77.237233
+laghos, tioga-cpu, 1, -p 1 -dim 3 -rs 1 -tf 5.5, 82.721964
+laghos, tioga-cpu, 1, -p 1 -dim 3 -rs 1 -tf 5.5 -pa, 83.116771
+laghos, tioga-cpu, 1, -p 1 -dim 3 -rs 2 -tf 3, 701.067428
+laghos, tioga-cpu, 1, -p 1 -dim 3 -rs 2 -tf 3 -pa, 705.526621
+laghos, tioga-cpu, 1, -p 1 -dim 3 -rs 2 -tf 3.5, 933.020966
+laghos, tioga-cpu, 1, -p 1 -dim 3 -rs 2 -tf 3.5 -pa, 935.830592
+laghos, tioga-cpu, 1, -p 1 -dim 3 -rs 2 -tf 4, 1155.804742
+laghos, tioga-cpu, 1, -p 1 -dim 3 -rs 2 -tf 4 -pa, 1155.232542
+laghos, tioga-cpu, 1, -p 1 -dim 3 -rs 2 -tf 4.5, 1246.637873
+laghos, tioga-cpu, 1, -p 1 -dim 3 -rs 2 -tf 4.5 -pa, 1248.191458
+laghos, tioga-cpu, 1, -p 1 -dim 3 -rs 2 -tf 5, 1363.457831
+laghos, tioga-cpu, 1, -p 1 -dim 3 -rs 2 -tf 5 -pa, 1369.674823
+laghos, tioga-cpu, 1, -p 1 -dim 3 -rs 2 -tf 5.5, 1587.811204
+laghos, tioga-cpu, 1, -p 1 -dim 3 -rs 2 -tf 5.5 -pa, 1590.424062
+laghos, tioga-cpu, 1, -p 2 -dim 2 -rs 2 -tf 3, 16.358972
+laghos, tioga-cpu, 1, -p 2 -dim 2 -rs 2 -tf 3 -pa, 16.486722
+laghos, tioga-cpu, 1, -p 2 -dim 2 -rs 2 -tf 3.5, 17.433961
+laghos, tioga-cpu, 1, -p 2 -dim 2 -rs 2 -tf 3.5 -pa, 17.425135
+laghos, tioga-cpu, 1, -p 2 -dim 2 -rs 2 -tf 4, 18.066868
+laghos, tioga-cpu, 1, -p 2 -dim 2 -rs 2 -tf 4 -pa, 18.016451
+laghos, tioga-cpu, 1, -p 2 -dim 2 -rs 2 -tf 4.5, 18.948290
+laghos, tioga-cpu, 1, -p 2 -dim 2 -rs 2 -tf 4.5 -pa, 18.860043
+laghos, tioga-cpu, 1, -p 2 -dim 2 -rs 2 -tf 5, 20.214864
+laghos, tioga-cpu, 1, -p 2 -dim 2 -rs 2 -tf 5 -pa, 20.272404
+laghos, tioga-cpu, 1, -p 2 -dim 2 -rs 2 -tf 5.5, 21.256398
+laghos, tioga-cpu, 1, -p 2 -dim 2 -rs 2 -tf 5.5 -pa, 21.118223
+laghos, tioga-cpu, 1, -p 2 -dim 3 -rs 1 -tf 3, 40.953034
+laghos, tioga-cpu, 1, -p 2 -dim 3 -rs 1 -tf 3 -pa, 41.106045
+laghos, tioga-cpu, 1, -p 2 -dim 3 -rs 1 -tf 3.5, 46.433220
+laghos, tioga-cpu, 1, -p 2 -dim 3 -rs 1 -tf 3.5 -pa, 46.456457
+laghos, tioga-cpu, 1, -p 2 -dim 3 -rs 1 -tf 4, 49.305352
+laghos, tioga-cpu, 1, -p 2 -dim 3 -rs 1 -tf 4 -pa, 49.477158
+laghos, tioga-cpu, 1, -p 2 -dim 3 -rs 1 -tf 4.5, 53.107868
+laghos, tioga-cpu, 1, -p 2 -dim 3 -rs 1 -tf 4.5 -pa, 52.942443
+laghos, tioga-cpu, 1, -p 2 -dim 3 -rs 1 -tf 5, 58.065467
+laghos, tioga-cpu, 1, -p 2 -dim 3 -rs 1 -tf 5 -pa, 58.149684
+laghos, tioga-cpu, 1, -p 2 -dim 3 -rs 1 -tf 5.5, 62.479330
+laghos, tioga-cpu, 1, -p 2 -dim 3 -rs 1 -tf 5.5 -pa, 62.659535
+laghos, tioga-cpu, 1, -p 2 -dim 3 -rs 2 -tf 3, 640.776408
+laghos, tioga-cpu, 1, -p 2 -dim 3 -rs 2 -tf 3 -pa, 642.978772
+laghos, tioga-cpu, 1, -p 3 -dim 2 -rs 1 -tf 3, 8.624613
+laghos, tioga-cpu, 1, -p 3 -dim 2 -rs 1 -tf 3 -pa, 8.600754
+laghos, tioga-cpu, 1, -p 3 -dim 2 -rs 1 -tf 3.5, 8.634403
+laghos, tioga-cpu, 1, -p 3 -dim 2 -rs 1 -tf 3.5 -pa, 8.609340
+laghos, tioga-cpu, 1, -p 3 -dim 2 -rs 1 -tf 4, 8.713578
+laghos, tioga-cpu, 1, -p 3 -dim 2 -rs 1 -tf 4 -pa, 8.684302
+laghos, tioga-cpu, 1, -p 3 -dim 2 -rs 1 -tf 4.5, 8.589886
+laghos, tioga-cpu, 1, -p 3 -dim 2 -rs 1 -tf 4.5 -pa, 8.688317
+laghos, tioga-cpu, 1, -p 3 -dim 2 -rs 1 -tf 5, 8.647078
+laghos, tioga-cpu, 1, -p 3 -dim 2 -rs 1 -tf 5 -pa, 8.640656
+laghos, tioga-cpu, 1, -p 3 -dim 2 -rs 1 -tf 5.5, 8.728928
+laghos, tioga-cpu, 1, -p 3 -dim 2 -rs 1 -tf 5.5 -pa, 8.688566
+laghos, tioga-cpu, 1, -p 3 -dim 2 -rs 2 -tf 3, 9.407955
+laghos, tioga-cpu, 1, -p 3 -dim 2 -rs 2 -tf 3 -pa, 9.394702
+laghos, tioga-cpu, 1, -p 3 -dim 2 -rs 2 -tf 3.5, 9.761473
+laghos, tioga-cpu, 1, -p 3 -dim 2 -rs 2 -tf 3.5 -pa, 9.506656
+laghos, tioga-cpu, 1, -p 3 -dim 2 -rs 2 -tf 4, 9.691139
+laghos, tioga-cpu, 1, -p 3 -dim 2 -rs 2 -tf 4 -pa, 9.726784
+laghos, tioga-cpu, 1, -p 3 -dim 2 -rs 2 -tf 4.5, 9.859843
+laghos, tioga-cpu, 1, -p 3 -dim 2 -rs 2 -tf 4.5 -pa, 10.012898
+laghos, tioga-cpu, 1, -p 3 -dim 2 -rs 2 -tf 5, 10.063704
+laghos, tioga-cpu, 1, -p 3 -dim 2 -rs 2 -tf 5 -pa, 10.041693
+laghos, tioga-cpu, 1, -p 3 -dim 2 -rs 2 -tf 5.5, 10.175324
+laghos, tioga-cpu, 1, -p 3 -dim 2 -rs 2 -tf 5.5 -pa, 10.226492
+laghos, tioga-cpu, 1, -p 3 -dim 3 -rs 1 -tf 3, 12.850235
+laghos, tioga-cpu, 1, -p 3 -dim 3 -rs 1 -tf 3 -pa, 12.469502
+laghos, tioga-cpu, 1, -p 3 -dim 3 -rs 1 -tf 3.5, 13.199086
+laghos, tioga-cpu, 1, -p 3 -dim 3 -rs 1 -tf 3.5 -pa, 13.091345
+laghos, tioga-cpu, 1, -p 3 -dim 3 -rs 1 -tf 4, 13.793685
+laghos, tioga-cpu, 1, -p 3 -dim 3 -rs 1 -tf 4 -pa, 13.958655
+laghos, tioga-cpu, 1, -p 3 -dim 3 -rs 1 -tf 4.5, 14.454865
+laghos, tioga-cpu, 1, -p 3 -dim 3 -rs 1 -tf 4.5 -pa, 14.489647
+laghos, tioga-cpu, 1, -p 3 -dim 3 -rs 1 -tf 5, 15.123859
+laghos, tioga-cpu, 1, -p 3 -dim 3 -rs 1 -tf 5 -pa, 15.158868
+laghos, tioga-cpu, 1, -p 3 -dim 3 -rs 1 -tf 5.5, 15.787358
+laghos, tioga-cpu, 1, -p 3 -dim 3 -rs 1 -tf 5.5 -pa, 15.811230
+laghos, tioga-cpu, 1, -p 3 -dim 3 -rs 2 -tf 3, 77.767870
+laghos, tioga-cpu, 1, -p 3 -dim 3 -rs 2 -tf 3 -pa, 78.023364
+laghos, tioga-cpu, 1, -p 3 -dim 3 -rs 2 -tf 3.5, 89.422755
+laghos, tioga-cpu, 1, -p 3 -dim 3 -rs 2 -tf 3.5 -pa, 89.381779
+laghos, tioga-cpu, 1, -p 3 -dim 3 -rs 2 -tf 4, 100.699044
+laghos, tioga-cpu, 1, -p 3 -dim 3 -rs 2 -tf 4 -pa, 100.586853
+laghos, tioga-cpu, 1, -p 3 -dim 3 -rs 2 -tf 4.5, 112.004780
+laghos, tioga-cpu, 1, -p 3 -dim 3 -rs 2 -tf 4.5 -pa, 111.859875
+laghos, tioga-cpu, 1, -p 3 -dim 3 -rs 2 -tf 5, 123.019673
+laghos, tioga-cpu, 1, -p 3 -dim 3 -rs 2 -tf 5 -pa, 123.290400
+laghos, tioga-cpu, 1, -p 3 -dim 3 -rs 2 -tf 5.5, 134.826029
+laghos, tioga-cpu, 1, -p 3 -dim 3 -rs 2 -tf 5.5 -pa, 135.035635
+miniFE, tioga-cpu, 1, -nx 100 -ny 100 -nz 100, 7.768602
+miniFE, tioga-cpu, 1, -nx 100 -ny 100 -nz 50, 3.968858
+miniFE, tioga-cpu, 1, -nx 100 -ny 50 -nz 50, 2.073618
+miniFE, tioga-cpu, 1, -nx 100 -ny 75 -nz 50, 3.028566
+miniFE, tioga-cpu, 1, -nx 100 -ny 75 -nz 75, 4.473759
+miniFE, tioga-cpu, 1, -nx 125 -ny 100 -nz 100, 9.753581
+miniFE, tioga-cpu, 1, -nx 125 -ny 100 -nz 50, 5.044395
+miniFE, tioga-cpu, 1, -nx 125 -ny 125 -nz 125, 15.616815
+miniFE, tioga-cpu, 1, -nx 125 -ny 125 -nz 50, 6.218278
+miniFE, tioga-cpu, 1, -nx 125 -ny 50 -nz 50, 2.522106
+miniFE, tioga-cpu, 1, -nx 125 -ny 75 -nz 50, 3.747862
+miniFE, tioga-cpu, 1, -nx 125 -ny 75 -nz 75, 5.499094
+miniFE, tioga-cpu, 1, -nx 150 -ny 100 -nz 100, 11.740795
+miniFE, tioga-cpu, 1, -nx 150 -ny 100 -nz 50, 5.843830
+miniFE, tioga-cpu, 1, -nx 150 -ny 125 -nz 125, 18.700445
+miniFE, tioga-cpu, 1, -nx 150 -ny 125 -nz 50, 7.387515
+miniFE, tioga-cpu, 1, -nx 150 -ny 150 -nz 150, 26.887214
+miniFE, tioga-cpu, 1, -nx 150 -ny 150 -nz 50, 8.998139
+miniFE, tioga-cpu, 1, -nx 150 -ny 50 -nz 50, 3.040853
+miniFE, tioga-cpu, 1, -nx 150 -ny 75 -nz 50, 4.483351
+miniFE, tioga-cpu, 1, -nx 150 -ny 75 -nz 75, 6.637776
+miniFE, tioga-cpu, 1, -nx 175 -ny 100 -nz 100, 13.769282
+miniFE, tioga-cpu, 1, -nx 175 -ny 100 -nz 50, 6.896764
+miniFE, tioga-cpu, 1, -nx 175 -ny 125 -nz 125, 21.521848
+miniFE, tioga-cpu, 1, -nx 175 -ny 125 -nz 50, 8.575722
+miniFE, tioga-cpu, 1, -nx 175 -ny 150 -nz 150, 31.670460
+miniFE, tioga-cpu, 1, -nx 175 -ny 150 -nz 50, 10.423031
+miniFE, tioga-cpu, 1, -nx 175 -ny 175 -nz 175, 43.221558
+miniFE, tioga-cpu, 1, -nx 175 -ny 175 -nz 50, 12.199483
+miniFE, tioga-cpu, 1, -nx 175 -ny 50 -nz 50, 3.519443
+miniFE, tioga-cpu, 1, -nx 175 -ny 75 -nz 50, 5.232313
+miniFE, tioga-cpu, 1, -nx 175 -ny 75 -nz 75, 7.720206
+miniFE, tioga-cpu, 1, -nx 200 -ny 100 -nz 100, 15.745599
+miniFE, tioga-cpu, 1, -nx 200 -ny 100 -nz 50, 7.950054
+miniFE, tioga-cpu, 1, -nx 200 -ny 125 -nz 125, 24.698322
+miniFE, tioga-cpu, 1, -nx 200 -ny 125 -nz 50, 10.003651
+miniFE, tioga-cpu, 1, -nx 200 -ny 150 -nz 150, 35.911220
+miniFE, tioga-cpu, 1, -nx 200 -ny 150 -nz 50, 12.036589
+miniFE, tioga-cpu, 1, -nx 200 -ny 175 -nz 175, 49.886718
+miniFE, tioga-cpu, 1, -nx 200 -ny 175 -nz 50, 13.969537
+miniFE, tioga-cpu, 1, -nx 200 -ny 200 -nz 200, 65.399559
+miniFE, tioga-cpu, 1, -nx 200 -ny 200 -nz 50, 16.032608
+miniFE, tioga-cpu, 1, -nx 200 -ny 50 -nz 50, 3.979622
+miniFE, tioga-cpu, 1, -nx 200 -ny 75 -nz 50, 6.018953
+miniFE, tioga-cpu, 1, -nx 200 -ny 75 -nz 75, 8.764950
+miniFE, tioga-cpu, 1, -nx 50 -ny 50 -nz 50, 1.075412
+miniFE, tioga-cpu, 1, -nx 75 -ny 75 -nz 75, 3.362488
+miniFE, tioga-cpu, 1, -nx 75 -ny 50 -nz 50, 1.612157
+miniFE, tioga-cpu, 1, -nx 75 -ny 75 -nz 50, 2.344183
+miniVite, tioga-cpu, 1, -l -p 1 -n 128, 0.240539
+miniVite, tioga-cpu, 1, -l -p 1 -n 256, 0.240923
+miniVite, tioga-cpu, 1, -l -p 1 -n 32, 0.239797
+miniVite, tioga-cpu, 1, -l -p 1 -n 512, 0.242476
+miniVite, tioga-cpu, 1, -l -p 1 -n 64, 0.241435
+miniVite, tioga-cpu, 1, -l -p 2 -n 128, 0.241587
+miniVite, tioga-cpu, 1, -l -p 2 -n 256, 0.242521
+miniVite, tioga-cpu, 1, -l -p 2 -n 32, 0.239928
+miniVite, tioga-cpu, 1, -l -p 2 -n 512, 0.243102
+miniVite, tioga-cpu, 1, -l -p 2 -n 64, 0.240775
+miniVite, tioga-cpu, 1, -l -p 3 -n 128, 0.240969
+miniVite, tioga-cpu, 1, -l -p 3 -n 256, 0.241531
+miniVite, tioga-cpu, 1, -l -p 3 -n 32, 0.248160
+miniVite, tioga-cpu, 1, -l -p 3 -n 512, 0.243741
+miniVite, tioga-cpu, 1, -l -p 3 -n 64, 0.240093
+miniVite, tioga-cpu, 1, -l -p 4 -n 128, 0.242656
+miniVite, tioga-cpu, 1, -l -p 4 -n 256, 0.241185
+miniVite, tioga-cpu, 1, -l -p 4 -n 32, 0.239345
+miniVite, tioga-cpu, 1, -l -p 4 -n 512, 0.243062
+miniVite, tioga-cpu, 1, -l -p 4 -n 64, 0.240889
+miniVite, tioga-cpu, 1, -l -p 5 -n 128, 0.240996
+miniVite, tioga-cpu, 1, -l -p 5 -n 256, 0.242701
+miniVite, tioga-cpu, 1, -l -p 5 -n 32, 0.240626
+miniVite, tioga-cpu, 1, -l -p 5 -n 512, 0.244630
+miniVite, tioga-cpu, 1, -l -p 5 -n 64, 0.241238
+miniVite, tioga-cpu, 1, -l -p 6 -n 128, 0.240027
+miniVite, tioga-cpu, 1, -l -p 6 -n 256, 0.241451
+miniVite, tioga-cpu, 1, -l -p 6 -n 32, 0.240895
+miniVite, tioga-cpu, 1, -l -p 6 -n 512, 0.242649
+miniVite, tioga-cpu, 1, -l -p 6 -n 64, 0.240311
+miniVite, tioga-cpu, 1, -l -p 7 -n 128, 0.240406
+miniVite, tioga-cpu, 1, -l -p 7 -n 256, 0.241905
+miniVite, tioga-cpu, 1, -l -p 7 -n 32, 0.240390
+miniVite, tioga-cpu, 1, -l -p 7 -n 512, 0.242747
+miniVite, tioga-cpu, 1, -l -p 7 -n 64, 0.240693
+miniVite, tioga-cpu, 1, -l -p 8 -n 128, 0.240920
+miniVite, tioga-cpu, 1, -l -p 8 -n 256, 0.241956
+miniVite, tioga-cpu, 1, -l -p 8 -n 32, 0.240322
+miniVite, tioga-cpu, 1, -l -p 8 -n 512, 0.243747
+miniVite, tioga-cpu, 1, -l -p 8 -n 64, 0.240437
+miniVite, tioga-cpu, 1, -l -p 9 -n 128, 0.241465
+miniVite, tioga-cpu, 1, -l -p 9 -n 256, 0.241982
+miniVite, tioga-cpu, 1, -l -p 9 -n 32, 0.240922
+miniVite, tioga-cpu, 1, -l -p 9 -n 512, 0.243091
+miniVite, tioga-cpu, 1, -l -p 9 -n 64, 0.242222
+miniVite, tioga-cpu, 1, -p 1 -n 128, 0.241081
+miniVite, tioga-cpu, 1, -p 1 -n 256, 0.240783
+miniVite, tioga-cpu, 1, -p 1 -n 32, 0.240788
+miniVite, tioga-cpu, 1, -p 1 -n 512, 0.241822
+miniVite, tioga-cpu, 1, -p 1 -n 64, 0.240812
+miniVite, tioga-cpu, 1, -p 2 -n 128, 0.241272
+miniVite, tioga-cpu, 1, -p 2 -n 256, 0.241369
+miniVite, tioga-cpu, 1, -p 2 -n 32, 0.241054
+miniVite, tioga-cpu, 1, -p 2 -n 512, 0.243799
+miniVite, tioga-cpu, 1, -p 2 -n 64, 0.240483
+miniVite, tioga-cpu, 1, -p 3 -n 128, 0.240646
+miniVite, tioga-cpu, 1, -p 3 -n 256, 0.242290
+miniVite, tioga-cpu, 1, -p 3 -n 32, 0.240553
+miniVite, tioga-cpu, 1, -p 3 -n 512, 0.242803
+miniVite, tioga-cpu, 1, -p 3 -n 64, 0.240248
+miniVite, tioga-cpu, 1, -p 4 -n 128, 0.240149
+miniVite, tioga-cpu, 1, -p 4 -n 256, 0.240394
+miniVite, tioga-cpu, 1, -p 4 -n 32, 0.239747
+miniVite, tioga-cpu, 1, -p 4 -n 512, 0.243030
+miniVite, tioga-cpu, 1, -p 4 -n 64, 0.239880
+miniVite, tioga-cpu, 1, -p 5 -n 128, 0.240999
+miniVite, tioga-cpu, 1, -p 5 -n 256, 0.241313
+miniVite, tioga-cpu, 1, -p 5 -n 32, 0.241705
+miniVite, tioga-cpu, 1, -p 5 -n 512, 0.242375
+miniVite, tioga-cpu, 1, -p 5 -n 64, 0.241157
+miniVite, tioga-cpu, 1, -p 6 -n 128, 0.241628
+miniVite, tioga-cpu, 1, -p 6 -n 256, 0.398627
+miniVite, tioga-cpu, 1, -p 6 -n 32, 0.239371
+miniVite, tioga-cpu, 1, -p 6 -n 512, 0.243469
+miniVite, tioga-cpu, 1, -p 6 -n 64, 0.240888
+miniVite, tioga-cpu, 1, -p 7 -n 128, 0.422636
+miniVite, tioga-cpu, 1, -p 7 -n 256, 0.241335
+miniVite, tioga-cpu, 1, -p 7 -n 32, 0.240018
+miniVite, tioga-cpu, 1, -p 7 -n 512, 0.242471
+miniVite, tioga-cpu, 1, -p 7 -n 64, 0.240100
+miniVite, tioga-cpu, 1, -p 8 -n 128, 0.240340
+miniVite, tioga-cpu, 1, -p 8 -n 256, 0.241035
+miniVite, tioga-cpu, 1, -p 8 -n 32, 0.239614
+miniVite, tioga-cpu, 1, -p 8 -n 512, 0.242641
+miniVite, tioga-cpu, 1, -p 8 -n 64, 0.400345
+miniVite, tioga-cpu, 1, -p 9 -n 128, 0.242986
+miniVite, tioga-cpu, 1, -p 9 -n 256, 0.241053
+miniVite, tioga-cpu, 1, -p 9 -n 32, 0.239489
+miniVite, tioga-cpu, 1, -p 9 -n 512, 0.241936
+miniVite, tioga-cpu, 1, -p 9 -n 64, 0.239870
+miniVite, tioga-cpu, 1, -w -l -p 1 -n 128, 0.238883
+miniVite, tioga-cpu, 1, -w -l -p 1 -n 256, 0.240302
+miniVite, tioga-cpu, 1, -w -l -p 1 -n 32, 0.240916
+miniVite, tioga-cpu, 1, -w -l -p 1 -n 512, 0.242610
+miniVite, tioga-cpu, 1, -w -l -p 1 -n 64, 0.238630
+miniVite, tioga-cpu, 1, -w -l -p 2 -n 128, 0.238955
+miniVite, tioga-cpu, 1, -w -l -p 2 -n 256, 0.241493
+miniVite, tioga-cpu, 1, -w -l -p 2 -n 32, 0.239741
+miniVite, tioga-cpu, 1, -w -l -p 2 -n 512, 0.242655
+miniVite, tioga-cpu, 1, -w -l -p 2 -n 64, 0.238838
+miniVite, tioga-cpu, 1, -w -l -p 3 -n 128, 0.239328
+miniVite, tioga-cpu, 1, -w -l -p 3 -n 256, 0.241444
+miniVite, tioga-cpu, 1, -w -l -p 3 -n 32, 0.239753
+miniVite, tioga-cpu, 1, -w -l -p 3 -n 512, 0.243701
+miniVite, tioga-cpu, 1, -w -l -p 3 -n 64, 0.238677
+miniVite, tioga-cpu, 1, -w -l -p 4 -n 128, 0.240554
+miniVite, tioga-cpu, 1, -w -l -p 4 -n 256, 0.240676
+miniVite, tioga-cpu, 1, -w -l -p 4 -n 32, 0.240509
+miniVite, tioga-cpu, 1, -w -l -p 4 -n 512, 0.252941
+miniVite, tioga-cpu, 1, -w -l -p 4 -n 64, 0.239863
+miniVite, tioga-cpu, 1, -w -l -p 5 -n 128, 0.239468
+miniVite, tioga-cpu, 1, -w -l -p 5 -n 256, 0.240921
+miniVite, tioga-cpu, 1, -w -l -p 5 -n 32, 0.238929
+miniVite, tioga-cpu, 1, -w -l -p 5 -n 512, 0.241672
+miniVite, tioga-cpu, 1, -w -l -p 5 -n 64, 0.240993
+miniVite, tioga-cpu, 1, -w -l -p 6 -n 128, 0.239347
+miniVite, tioga-cpu, 1, -w -l -p 6 -n 256, 0.241059
+miniVite, tioga-cpu, 1, -w -l -p 6 -n 32, 0.238594
+miniVite, tioga-cpu, 1, -w -l -p 6 -n 512, 0.243947
+miniVite, tioga-cpu, 1, -w -l -p 6 -n 64, 0.238730
+miniVite, tioga-cpu, 1, -w -l -p 7 -n 128, 0.241483
+miniVite, tioga-cpu, 1, -w -l -p 7 -n 256, 0.240542
+miniVite, tioga-cpu, 1, -w -l -p 7 -n 32, 0.239004
+miniVite, tioga-cpu, 1, -w -l -p 7 -n 512, 0.242420
+miniVite, tioga-cpu, 1, -w -l -p 7 -n 64, 0.239298
+miniVite, tioga-cpu, 1, -w -l -p 8 -n 128, 0.241819
+miniVite, tioga-cpu, 1, -w -l -p 8 -n 256, 0.240999
+miniVite, tioga-cpu, 1, -w -l -p 8 -n 32, 0.239165
+miniVite, tioga-cpu, 1, -w -l -p 8 -n 512, 0.243714
+miniVite, tioga-cpu, 1, -w -l -p 8 -n 64, 0.239059
+miniVite, tioga-cpu, 1, -w -l -p 9 -n 128, 0.240384
+miniVite, tioga-cpu, 1, -w -l -p 9 -n 256, 0.242587
+miniVite, tioga-cpu, 1, -w -l -p 9 -n 32, 0.240873
+miniVite, tioga-cpu, 1, -w -l -p 9 -n 512, 0.242742
+miniVite, tioga-cpu, 1, -w -l -p 9 -n 64, 0.239655
+miniVite, tioga-cpu, 1, -w -p 1 -n 128, 0.239438
+miniVite, tioga-cpu, 1, -w -p 1 -n 256, 0.240972
+miniVite, tioga-cpu, 1, -w -p 1 -n 32, 0.238749
+miniVite, tioga-cpu, 1, -w -p 1 -n 512, 0.242283
+miniVite, tioga-cpu, 1, -w -p 1 -n 64, 0.239936
+miniVite, tioga-cpu, 1, -w -p 2 -n 128, 0.240457
+miniVite, tioga-cpu, 1, -w -p 2 -n 256, 0.241703
+miniVite, tioga-cpu, 1, -w -p 2 -n 32, 0.239384
+miniVite, tioga-cpu, 1, -w -p 2 -n 512, 0.242506
+miniVite, tioga-cpu, 1, -w -p 2 -n 64, 0.238370
+miniVite, tioga-cpu, 1, -w -p 3 -n 128, 0.239778
+miniVite, tioga-cpu, 1, -w -p 3 -n 256, 0.240486
+miniVite, tioga-cpu, 1, -w -p 3 -n 32, 0.240374
+miniVite, tioga-cpu, 1, -w -p 3 -n 512, 0.244527
+miniVite, tioga-cpu, 1, -w -p 3 -n 64, 0.386380
+miniVite, tioga-cpu, 1, -w -p 4 -n 128, 0.240026
+miniVite, tioga-cpu, 1, -w -p 4 -n 256, 0.240194
+miniVite, tioga-cpu, 1, -w -p 4 -n 32, 0.238186
+miniVite, tioga-cpu, 1, -w -p 4 -n 512, 0.241571
+miniVite, tioga-cpu, 1, -w -p 4 -n 64, 0.240870
+miniVite, tioga-cpu, 1, -w -p 5 -n 128, 0.240465
+miniVite, tioga-cpu, 1, -w -p 5 -n 256, 0.241137
+miniVite, tioga-cpu, 1, -w -p 5 -n 32, 0.239555
+miniVite, tioga-cpu, 1, -w -p 5 -n 512, 0.243048
+miniVite, tioga-cpu, 1, -w -p 5 -n 64, 0.239856
+miniVite, tioga-cpu, 1, -w -p 6 -n 128, 0.239217
+miniVite, tioga-cpu, 1, -w -p 6 -n 256, 0.240553
+miniVite, tioga-cpu, 1, -w -p 6 -n 32, 0.238861
+miniVite, tioga-cpu, 1, -w -p 6 -n 512, 0.242058
+miniVite, tioga-cpu, 1, -w -p 6 -n 64, 0.239034
+miniVite, tioga-cpu, 1, -w -p 7 -n 128, 0.239949
+miniVite, tioga-cpu, 1, -w -p 7 -n 256, 0.241311
+miniVite, tioga-cpu, 1, -w -p 7 -n 32, 0.239365
+miniVite, tioga-cpu, 1, -w -p 7 -n 512, 0.241938
+miniVite, tioga-cpu, 1, -w -p 7 -n 64, 0.238639
+miniVite, tioga-cpu, 1, -w -p 8 -n 128, 0.239014
+miniVite, tioga-cpu, 1, -w -p 8 -n 256, 0.240129
+miniVite, tioga-cpu, 1, -w -p 8 -n 32, 0.239772
+miniVite, tioga-cpu, 1, -w -p 8 -n 512, 0.243322
+miniVite, tioga-cpu, 1, -w -p 8 -n 64, 0.239079
+miniVite, tioga-cpu, 1, -w -p 9 -n 128, 0.240098
+miniVite, tioga-cpu, 1, -w -p 9 -n 256, 0.240709
+miniVite, tioga-cpu, 1, -w -p 9 -n 32, 0.239368
+miniVite, tioga-cpu, 1, -w -p 9 -n 512, 0.243544
+miniVite, tioga-cpu, 1, -w -p 9 -n 64, 0.239011
+miniVite, tioga-cpu, 32, -l -p 1 -n 16384, 0.668192
+miniVite, tioga-cpu, 32, -l -p 1 -n 4096, 0.666610
+miniVite, tioga-cpu, 32, -l -p 1 -n 8192, 0.866349
+miniVite, tioga-cpu, 32, -l -p 2 -n 16384, 0.673603
+miniVite, tioga-cpu, 32, -l -p 2 -n 4096, 0.666745
+miniVite, tioga-cpu, 32, -l -p 2 -n 8192, 0.666670
+miniVite, tioga-cpu, 32, -l -p 3 -n 16384, 0.673897
+miniVite, tioga-cpu, 32, -l -p 3 -n 4096, 0.664441
+miniVite, tioga-cpu, 32, -l -p 3 -n 8192, 0.670789
+miniVite, tioga-cpu, 32, -l -p 4 -n 16384, 0.669657
+miniVite, tioga-cpu, 32, -l -p 4 -n 4096, 0.673627
+miniVite, tioga-cpu, 32, -l -p 4 -n 8192, 0.666984
+miniVite, tioga-cpu, 32, -l -p 5 -n 16384, 0.674167
+miniVite, tioga-cpu, 32, -l -p 5 -n 4096, 0.663228
+miniVite, tioga-cpu, 32, -l -p 5 -n 8192, 0.666318
+miniVite, tioga-cpu, 32, -l -p 6 -n 16384, 0.680099
+miniVite, tioga-cpu, 32, -l -p 6 -n 4096, 0.666009
+miniVite, tioga-cpu, 32, -l -p 6 -n 8192, 0.874359
+miniVite, tioga-cpu, 32, -l -p 7 -n 16384, 0.674973
+miniVite, tioga-cpu, 32, -l -p 7 -n 4096, 0.663686
+miniVite, tioga-cpu, 32, -l -p 7 -n 8192, 0.663485
+miniVite, tioga-cpu, 32, -l -p 8 -n 16384, 0.676056
+miniVite, tioga-cpu, 32, -l -p 8 -n 4096, 0.664557
+miniVite, tioga-cpu, 32, -l -p 8 -n 8192, 0.673580
+miniVite, tioga-cpu, 32, -l -p 9 -n 16384, 0.675120
+miniVite, tioga-cpu, 32, -l -p 9 -n 4096, 0.664802
+miniVite, tioga-cpu, 32, -l -p 9 -n 8192, 0.666556
+miniVite, tioga-cpu, 32, -p 1 -n 16384, 0.671663
+miniVite, tioga-cpu, 32, -p 1 -n 4096, 0.662245
+miniVite, tioga-cpu, 32, -p 1 -n 8192, 0.661508
+miniVite, tioga-cpu, 32, -p 2 -n 16384, 0.671359
+miniVite, tioga-cpu, 32, -p 2 -n 4096, 0.665248
+miniVite, tioga-cpu, 32, -p 2 -n 8192, 0.666852
+miniVite, tioga-cpu, 32, -p 3 -n 16384, 0.670136
+miniVite, tioga-cpu, 32, -p 3 -n 4096, 0.660700
+miniVite, tioga-cpu, 32, -p 3 -n 8192, 0.669341
+miniVite, tioga-cpu, 32, -p 4 -n 16384, 0.670284
+miniVite, tioga-cpu, 32, -p 4 -n 4096, 0.661834
+miniVite, tioga-cpu, 32, -p 4 -n 8192, 0.667109
+miniVite, tioga-cpu, 32, -p 5 -n 16384, 0.674823
+miniVite, tioga-cpu, 32, -p 5 -n 4096, 0.668066
+miniVite, tioga-cpu, 32, -p 5 -n 8192, 0.668953
+miniVite, tioga-cpu, 32, -p 6 -n 16384, 0.676961
+miniVite, tioga-cpu, 32, -p 6 -n 4096, 0.770405
+miniVite, tioga-cpu, 32, -p 6 -n 8192, 0.670733
+miniVite, tioga-cpu, 32, -p 7 -n 16384, 0.893996
+miniVite, tioga-cpu, 32, -p 7 -n 4096, 0.663598
+miniVite, tioga-cpu, 32, -p 7 -n 8192, 0.692491
+miniVite, tioga-cpu, 32, -p 8 -n 16384, 0.674696
+miniVite, tioga-cpu, 32, -p 8 -n 4096, 0.855424
+miniVite, tioga-cpu, 32, -p 8 -n 8192, 0.893750
+miniVite, tioga-cpu, 32, -p 9 -n 16384, 0.681296
+miniVite, tioga-cpu, 32, -p 9 -n 4096, 0.666762
+miniVite, tioga-cpu, 32, -p 9 -n 8192, 0.669169
+miniVite, tioga-cpu, 32, -w -l -p 1 -n 16384, 0.673316
+miniVite, tioga-cpu, 32, -w -l -p 1 -n 4096, 0.661186
+miniVite, tioga-cpu, 32, -w -l -p 1 -n 8192, 0.796444
+miniVite, tioga-cpu, 32, -w -l -p 2 -n 16384, 0.705768
+miniVite, tioga-cpu, 32, -w -l -p 2 -n 4096, 0.867156
+miniVite, tioga-cpu, 32, -w -l -p 2 -n 8192, 0.669896
+miniVite, tioga-cpu, 32, -w -l -p 3 -n 16384, 0.678777
+miniVite, tioga-cpu, 32, -w -l -p 3 -n 4096, 0.923064
+miniVite, tioga-cpu, 32, -w -l -p 3 -n 8192, 0.669240
+miniVite, tioga-cpu, 32, -w -l -p 4 -n 16384, 0.674471
+miniVite, tioga-cpu, 32, -w -l -p 4 -n 4096, 0.663329
+miniVite, tioga-cpu, 32, -w -l -p 4 -n 8192, 0.668497
+miniVite, tioga-cpu, 32, -w -l -p 5 -n 16384, 0.668576
+miniVite, tioga-cpu, 32, -w -l -p 5 -n 4096, 0.663125
+miniVite, tioga-cpu, 32, -w -l -p 5 -n 8192, 0.771835
+miniVite, tioga-cpu, 32, -w -l -p 6 -n 16384, 0.674815
+miniVite, tioga-cpu, 32, -w -l -p 6 -n 4096, 0.667306
+miniVite, tioga-cpu, 32, -w -l -p 6 -n 8192, 0.667600
+miniVite, tioga-cpu, 32, -w -l -p 7 -n 16384, 0.962715
+miniVite, tioga-cpu, 32, -w -l -p 7 -n 4096, 0.669956
+miniVite, tioga-cpu, 32, -w -l -p 7 -n 8192, 0.785533
+miniVite, tioga-cpu, 32, -w -l -p 8 -n 16384, 0.674145
+miniVite, tioga-cpu, 32, -w -l -p 8 -n 4096, 0.669786
+miniVite, tioga-cpu, 32, -w -l -p 8 -n 8192, 0.723250
+miniVite, tioga-cpu, 32, -w -l -p 9 -n 16384, 0.677623
+miniVite, tioga-cpu, 32, -w -l -p 9 -n 4096, 0.666968
+miniVite, tioga-cpu, 32, -w -l -p 9 -n 8192, 0.690146
+miniVite, tioga-cpu, 32, -w -p 1 -n 16384, 0.742290
+miniVite, tioga-cpu, 32, -w -p 1 -n 4096, 0.666706
+miniVite, tioga-cpu, 32, -w -p 1 -n 8192, 0.667668
+miniVite, tioga-cpu, 32, -w -p 2 -n 16384, 0.671012
+miniVite, tioga-cpu, 32, -w -p 2 -n 4096, 0.664963
+miniVite, tioga-cpu, 32, -w -p 2 -n 8192, 0.667173
+miniVite, tioga-cpu, 32, -w -p 3 -n 16384, 0.672628
+miniVite, tioga-cpu, 32, -w -p 3 -n 4096, 0.665716
+miniVite, tioga-cpu, 32, -w -p 3 -n 8192, 0.665928
+miniVite, tioga-cpu, 32, -w -p 4 -n 16384, 0.673656
+miniVite, tioga-cpu, 32, -w -p 4 -n 4096, 0.661260
+miniVite, tioga-cpu, 32, -w -p 4 -n 8192, 0.667491
+miniVite, tioga-cpu, 32, -w -p 5 -n 16384, 0.669119
+miniVite, tioga-cpu, 32, -w -p 5 -n 4096, 0.664353
+miniVite, tioga-cpu, 32, -w -p 5 -n 8192, 0.664308
+miniVite, tioga-cpu, 32, -w -p 6 -n 16384, 0.670504
+miniVite, tioga-cpu, 32, -w -p 6 -n 4096, 0.664955
+miniVite, tioga-cpu, 32, -w -p 6 -n 8192, 0.668052
+miniVite, tioga-cpu, 32, -w -p 7 -n 16384, 0.671451
+miniVite, tioga-cpu, 32, -w -p 7 -n 4096, 0.659863
+miniVite, tioga-cpu, 32, -w -p 7 -n 8192, 0.664427
+miniVite, tioga-cpu, 32, -w -p 8 -n 16384, 0.674411
+miniVite, tioga-cpu, 32, -w -p 8 -n 4096, 0.667272
+miniVite, tioga-cpu, 32, -w -p 8 -n 8192, 0.667663
+miniVite, tioga-cpu, 32, -w -p 9 -n 16384, 0.673362
+miniVite, tioga-cpu, 32, -w -p 9 -n 4096, 0.665890
+miniVite, tioga-cpu, 32, -w -p 9 -n 8192, 0.666011
+SWFFT, tioga-cpu, 1, 10 120, 1.782330
+SWFFT, tioga-cpu, 1, 10 128, 2.805954
+SWFFT, tioga-cpu, 1, 10 160, 4.196607
+SWFFT, tioga-cpu, 1, 10 200, 7.151035
+SWFFT, tioga-cpu, 1, 10 240, 14.031164
+SWFFT, tioga-cpu, 1, 10 256, 18.733022
+SWFFT, tioga-cpu, 1, 10 32, 0.308793
+SWFFT, tioga-cpu, 1, 10 64, 0.537552
+SWFFT, tioga-cpu, 1, 12 128, 3.167083
+SWFFT, tioga-cpu, 1, 12 256, 22.069196
+SWFFT, tioga-cpu, 1, 12 32, 0.313283
+SWFFT, tioga-cpu, 1, 12 64, 0.568198
+SWFFT, tioga-cpu, 1, 14 128, 3.543245
+SWFFT, tioga-cpu, 1, 14 256, 26.028473
+SWFFT, tioga-cpu, 1, 14 32, 0.318421
+SWFFT, tioga-cpu, 1, 14 64, 0.603376
+SWFFT, tioga-cpu, 1, 15 120, 2.394260
+SWFFT, tioga-cpu, 1, 15 160, 6.011219
+SWFFT, tioga-cpu, 1, 15 200, 10.376876
+SWFFT, tioga-cpu, 1, 15 240, 20.226740
+SWFFT, tioga-cpu, 1, 16 128, 3.920710
+SWFFT, tioga-cpu, 1, 16 256, 29.328785
+SWFFT, tioga-cpu, 1, 16 32, 0.321345
+SWFFT, tioga-cpu, 1, 16 64, 0.625777
+SWFFT, tioga-cpu, 1, 18 128, 4.261509
+SWFFT, tioga-cpu, 1, 18 256, 33.266046
+SWFFT, tioga-cpu, 1, 18 32, 0.323566
+SWFFT, tioga-cpu, 1, 18 64, 0.657602
+SWFFT, tioga-cpu, 1, 20 120, 2.989670
+SWFFT, tioga-cpu, 1, 20 128, 4.654794
+SWFFT, tioga-cpu, 1, 20 160, 7.802604
+SWFFT, tioga-cpu, 1, 20 200, 13.560563
+SWFFT, tioga-cpu, 1, 20 240, 26.586917
+SWFFT, tioga-cpu, 1, 20 256, 36.660061
+SWFFT, tioga-cpu, 1, 20 32, 0.327419
+SWFFT, tioga-cpu, 1, 20 64, 0.715231
+SWFFT, tioga-cpu, 32, 10 120, 1.081956
+SWFFT, tioga-cpu, 32, 10 128, 0.964461
+SWFFT, tioga-cpu, 32, 10 160, 1.182588
+SWFFT, tioga-cpu, 32, 10 200, 1.622255
+SWFFT, tioga-cpu, 32, 10 240, 2.755017
+SWFFT, tioga-cpu, 32, 10 256, 3.196415
+SWFFT, tioga-cpu, 32, 10 32, 0.718201
+SWFFT, tioga-cpu, 32, 10 64, 0.769320
+SWFFT, tioga-cpu, 32, 12 128, 0.986939
+SWFFT, tioga-cpu, 32, 12 256, 3.621565
+SWFFT, tioga-cpu, 32, 12 32, 0.723469
+SWFFT, tioga-cpu, 32, 12 64, 0.780120
+SWFFT, tioga-cpu, 32, 14 128, 1.024848
+SWFFT, tioga-cpu, 32, 14 256, 4.176313
+SWFFT, tioga-cpu, 32, 14 32, 0.900743
+SWFFT, tioga-cpu, 32, 14 64, 0.806368
+SWFFT, tioga-cpu, 32, 15 120, 1.145596
+SWFFT, tioga-cpu, 32, 15 160, 1.315661
+SWFFT, tioga-cpu, 32, 15 200, 1.931911
+SWFFT, tioga-cpu, 32, 15 240, 3.774011
+SWFFT, tioga-cpu, 32, 16 128, 1.042905
+SWFFT, tioga-cpu, 32, 16 256, 4.717073
+SWFFT, tioga-cpu, 32, 16 32, 0.731417
+SWFFT, tioga-cpu, 32, 16 64, 0.808030
+SWFFT, tioga-cpu, 32, 18 128, 1.091626
+SWFFT, tioga-cpu, 32, 18 256, 4.880195
+SWFFT, tioga-cpu, 32, 18 32, 0.743387
+SWFFT, tioga-cpu, 32, 18 64, 0.966265
+SWFFT, tioga-cpu, 32, 20 120, 1.197620
+SWFFT, tioga-cpu, 32, 20 128, 1.118293
+SWFFT, tioga-cpu, 32, 20 160, 1.448210
+SWFFT, tioga-cpu, 32, 20 200, 2.333371
+SWFFT, tioga-cpu, 32, 20 240, 4.457103
+SWFFT, tioga-cpu, 32, 20 256, 5.296410
+SWFFT, tioga-cpu, 32, 20 32, 0.748372
+SWFFT, tioga-cpu, 32, 20 64, 0.814481
+XSBench, tioga-cpu, 1, -m event -s XL -G hash -t 1, 122.539001
+XSBench, tioga-cpu, 1, -m event -s XL -G nuclide -t 1, 399.541625
+XSBench, tioga-cpu, 1, -m event -s XL -G unionized -t 1, 151.941282
+XSBench, tioga-cpu, 1, -m event -s XXL -G hash -t 1, 183.933745
+XSBench, tioga-cpu, 1, -m event -s XXL -G nuclide -t 1, 474.798640
+XSBench, tioga-cpu, 1, -m event -s XXL -G unionized -t 1, 271.770657
+XSBench, tioga-cpu, 1, -m event -s large -G hash -t 1, 51.328235
+XSBench, tioga-cpu, 1, -m event -s large -G nuclide -t 1, 216.274970
+XSBench, tioga-cpu, 1, -m event -s large -G unionized -t 1, 46.829815
+XSBench, tioga-cpu, 1, -m event -s small -G hash -t 1, 10.408360
+XSBench, tioga-cpu, 1, -m event -s small -G nuclide -t 1, 47.554577
+XSBench, tioga-cpu, 1, -m event -s small -G unionized -t 1, 13.979754
+XSBench, tioga-cpu, 1, -m history -s XL -G hash -t 1, 120.154887
+XSBench, tioga-cpu, 1, -m history -s XL -G nuclide -t 1, 381.514632
+XSBench, tioga-cpu, 1, -m history -s XL -G unionized -t 1, 152.371417
+XSBench, tioga-cpu, 1, -m history -s XXL -G hash -t 1, 180.584210
+XSBench, tioga-cpu, 1, -m history -s XXL -G nuclide -t 1, 450.219625
+XSBench, tioga-cpu, 1, -m history -s XXL -G unionized -t 1, 270.721803
+XSBench, tioga-cpu, 1, -m history -s large -G hash -t 1, 50.371439
+XSBench, tioga-cpu, 1, -m history -s large -G nuclide -t 1, 206.327774
+XSBench, tioga-cpu, 1, -m history -s large -G unionized -t 1, 45.698817
+XSBench, tioga-cpu, 1, -m history -s small -G hash -t 1, 9.633662
+XSBench, tioga-cpu, 1, -m history -s small -G nuclide -t 1, 44.831445
+XSBench, tioga-cpu, 1, -m history -s small -G unionized -t 1, 12.696307

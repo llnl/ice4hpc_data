@@ -1,0 +1,10 @@
+amg -problem 1 -P 4 4 2 -n 128 128 64
+amg -problem 1 -P 4 4 2 -n 16 16 8
+amg -problem 1 -P 4 4 2 -n 32 32 16
+amg -problem 1 -P 4 4 2 -n 64 64 32
+amg -problem 1 -P 4 4 2 -n 8 8 4
+amg -problem 2 -P 4 4 2 -n 128 128 64
+amg -problem 2 -P 4 4 2 -n 16 16 8
+amg -problem 2 -P 4 4 2 -n 32 32 16
+amg -problem 2 -P 4 4 2 -n 64 64 32
+amg -problem 2 -P 4 4 2 -n 8 8 4
