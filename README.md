@@ -74,7 +74,7 @@ This repository maintains artifacts related to the collection of HPC application
   - Launch the jobs
     - `sbatch job.sh` on *borax*, *dane*, *mammoth* and *matrix*, or `flux batch job.sh` on *corona*, *tioga* and *tuolumne*
     - For bulk submission, you can try something like 'for i in \`seq 1 186\`; do pushd arg_$i; sbatch job.sh ; popd; done' under <exp_base>/<machine>/<app>/nr<num_rank>
-  - Check the completion of jobs: run [check_completion.sh](scripts/check_completion.sh) under `<exp_base>/<machine>/<app>/nr<num_rank>`
+  - Check the completion of jobs: run [scripts/check_completion.sh](scripts/check_completion.sh) under `<exp_base>/<machine>/<app>/nr<num_rank>`
   - Gather performance numbers: Copy [scripts/get_all_data.sh](scripts/get_all_data.sh) to where create_merged_job.sh was run, and run it.
   - For *RAJAPerf* runs, copy the whole [scripts/rajaperf](scripts/rajaperf) folder to where you want to run jobs, and follow the instruction in [scripts/rajaperf/README.md](scripts/rajaperf/README.md)
 
@@ -102,7 +102,7 @@ This repository maintains artifacts related to the collection of HPC application
     - `bins_per_machine/<machine>.tar` is tracked by `git lfs`. So, obtain it using `git lfs fetch; git lft checkout`, or `git lfs pull`.
   - Scripts to setup experiments, check job completion and gather data
     samples.
-    - [scripts/create_merged_job.sh](scripts/create_merged_job.sh) and [create_job.sh](create_job.sh)
+    - [scripts/create_merged_job.sh](scripts/create_merged_job.sh) and [scripts/create_job.sh](scripts/create_job.sh)
       - [scripts/maps.sh](scripts/maps.sh): defines relevant mappings for handling specifics with certain combinations of application and platforms
     - [scripts/check_completion.sh](scripts/check_completion.sh) : check if the jobs have completed
       successfully based on application-specific outputs.
