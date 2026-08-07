@@ -99,7 +99,7 @@ This repository maintains artifacts related to the collection of HPC application
     - The information from `lscpu` and `proc/cpuinfo`, `rocminfo`, `nvidia-smi`, and `/sys/devices/system/cpu/smt/active`
     - Available under `scripts/rajaperf/<machine>`
   - Executables: under `bins_per_machine/<machine>/<app>`
-    - `bins_per_machine/<machine>.tar` is tracked by `git lfs`. So, obtain it using `git lfs checkout`, `git lfs fetch` or `git lfs pull`.
+    - `bins_per_machine/<machine>.tar` is tracked by `git lfs`. So, obtain it using `git lfs fetch; git lft checkout`, or `git lfs pull`.
   - Scripts to setup experiments, check job completion and gather data
     samples.
     - [scripts/create_merged_job.sh](scripts/create_merged_job.sh) and [create_job.sh](create_job.sh)
