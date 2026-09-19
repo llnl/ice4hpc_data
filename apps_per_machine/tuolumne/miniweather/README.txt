@@ -12,3 +12,26 @@ Build (YAKL HIP backend, executable: parallelfor):
 Run:
   module load PrgEnv-amd cray-parallel-netcdf craype-accel-amd-gfx942 rocm/6.4.0
   flux run -n 1 -N 1 --gpus-per-task=1 --exclusive ./parallelfor
+
+----------------
+ CPU only build
+---------------
+
+ Choose the compiler modules
+-----------------------------
+
+For tioga-cpu and tuolumne-cpu:
+module load rocm/6.4.2 rocmcc/6.4.2-cce-20.0.0-magic cray-mpich/9.0.1 cray-parallel-netcdf/1.12.3.19
+
+
+ Download source and build
+--------------------------
+
+edit cmake_tuolumne-cpu.sh to enable/disable(comment out) ARC='-DYAKL_ARCH=OPENMP'
+
+cp cmake_tuolumne-cpu.sh miniWeather/cpp/build
+cp SetupPnetCDF.cmake miniWeather/cpp
+
+cd miniWeather/cpp/build
+source cmake_tuolumne-cpu.sh
+make -j
