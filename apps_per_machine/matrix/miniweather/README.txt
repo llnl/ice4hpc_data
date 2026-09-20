@@ -21,7 +21,7 @@ Run:
  Choose the compiler modules
 -----------------------------
 
-For dane, mammoth, matrix-cpu:
+For corona-cpu, dane, mammoth, matrix-cpu:
 module load gcc/13.3.1-magic mvapich2/2.3.7 parallel-netcdf/1.12.3 cmake/3.30.5
 
 Current parallel-netcdf installation depends on mvapich

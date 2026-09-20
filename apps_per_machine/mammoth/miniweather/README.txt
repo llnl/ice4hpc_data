@@ -9,15 +9,16 @@ Current parallel-netcdf installation depends on mvapich
  Download source and build
 --------------------------
 https://github.com/mrnorman/miniWeather
+commit: b001069e1f7654914744641013e2bd408a9206fb
 
-edit cmake_mammoth.sh to enable/disable(comment out) ARC='-DYAKL_ARCH=OPENMP'
+edit cmake_dane.sh to enable/disable(comment out) ARC='-DYAKL_ARCH=OPENMP'
 
-cp cmake_mammoth.sh miniWeather/cpp/build
+cp cmake_dane.sh miniWeather/cpp/build
 cp SetupPnetCDF.cmake miniWeather/cpp
 
 cd miniWeather
 git submodule update --init --recursive
 cd cpp/build
-source cmake_mammoth.sh
+source cmake_dane.sh
 make -j
 
